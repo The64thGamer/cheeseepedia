@@ -1,34 +1,36 @@
 {
-    "title": "Warwick, RI (1960 Post Rd)",
-    "storeNumber": "",
-    "startDate": "1984-06-00",
-    "endDate": "1990-00-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1984-06-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Family Album",
-            "s": "1984-06-00",
-            "e": "1990-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.72656062",
-        "-71.43889513"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Warwick, RI (1960 Post Rd)",
+  "storeNumber": "",
+  "startDate": "1984-06-00",
+  "endDate": "1990-09-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1984-06-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Family Album",
+      "s": "1984-06-00",
+      "e": "1990-09-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.72656062",
+    "-71.43889513"
+  ],
+  "citations": [],
+  "contributors": [
+    "Getretrofit"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "bwxmxfzk0c7pipke",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ]
 }
