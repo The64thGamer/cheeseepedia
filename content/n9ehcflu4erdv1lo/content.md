@@ -31,23 +31,22 @@ The Portrait / Shelf Stage, similar to the Kooser show, would be placed alongsid
 | Location | Opening / Installation Date | Removal Date |
 | -------- | --------------------------- | ------------ |
 | [Concord, CA (1975 Diamond Blvd)](2) | May-June 1979 | Unknown |
-| [Sacramento, CA (7020 Stockton Blvd)](3) | August 14, 1979 | late 1985 |
+| [Sacramento, CA (7020 Stockton Blvd)](3) | August 14, 1979 | December 1985 |
 | [Huntington Beach, CA (15511 Edwards St)](4) | October 6, 1979 | 1989/1990 |
 | [Stockton, CA (4555 N Pershing Ave)] | October 1979 | 1981/1982 |
-| [Sparks, NV (530 Greenbrae Dr)] | December 20, 1979 | Unknown |
+| [Sparks, NV (530 Greenbrae Dr)] | December 20, 1979 | May 1982 |
 | [Citrus Heights, CA (7614 Greenback Lane)](5) | December 26, 1979 | January 1985 |
-| [Fullerton, CA (1841 W Orangethorpe Ave)] | March 1980 | 1985 |
+| [Fullerton, CA (1841 W Orangethorpe Ave)] | April 1980 | 1985 |
 | [La Habra, CA (901 Harbor Blvd)] | May 1980 | December 11th, 1984 |
-| [Ogden, UT (3155 Harrison Blvd)](6) | May 17, 1980 | 1991 |
-| [Sunnyvale, CA (1247 W El Camino Real)] | summer 1980 | 1984 |
-| [Sun Valley, CA (8357 Laurel Canyon Blvd)] | July 1980 | 1981/1982 |
-| [Fresno, CA (5384 N Blackstone Ave)] | July/August 1980 | May 1985 |
-| [Tucson, AZ (5534 E 22nd St)] | July 15, 1980 | 1987 |
-| [Covina, CA (601 Azusa Ave)] | August 1980 | 1981/1982 |
+| [Ogden, UT (3155 Harrison Blvd)](6) | May 17, 1980 | October 1991 |
+| [Sun Valley, CA (8357 Laurel Canyon Blvd)] | July 15th, 1980 | 1981/1982 |
+| [Fresno, CA (5384 N Blackstone Ave)] | August 1980 | May 1985 |
+| [Tucson, AZ (5534 E 22nd St)] | August 1980 | June 1987 |
 | [San Ramon, CA (1901 San Ramon Valley Blvd)] | October 1980 | 1984 |
 | [Simi Valley, CA (71 Tierra Rejada Rd)] | October 20th, 1980 | possibly 1990 |
-| [Raleigh, NC (4339 Falls of the Neuse Rd)] | November 1980 | October 1984 |
-| [Maple Heights, OH (5376 Northfield Rd)] | November 1980 | June 1985 |
-| [Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)] | March 1981 | 1982 |
+| [Maple Heights, OH (5376 Northfield Rd)] | October 28th, 1980 | June 1985 |
+| [Long Beach, CA (4706 E. Los Coyotes Diagonal] | December 1980 | 1981/1982 |
+| [Sunnyvale, CA (1247 W El Camino Real)] | December 1980 | 1984 |
+| [Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)] | March 20th, 1981 | 1982 |
 | [Hayward, CA (24253 Hesperian Blvd)] | April 1981 | Unknown |
-| [Lake Forest, CA (24416 Muirlands Blvd)] | June 1981 | fall 2001 |
+| [Lake Forest, CA (24416 Muirlands Blvd)] | June 1981 | September 2001 |

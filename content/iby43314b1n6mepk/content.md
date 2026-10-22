@@ -4,33 +4,33 @@ This was created to play from January to March 2009.
 ## Show List:
 
 1. **Segment 1**
-   1. ['Everybody Wants To Rule The World'](https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World)
-   2. ['Shout'](https://en.wikipedia.org/wiki/Shout_(Tears_for_Fears_song))
+    1. ['Everybody Wants To Rule The World'](https://en.wikipedia.org/wiki/Everybody_Wants_to_Rule_the_World)
+    2. ['Shout'](https://en.wikipedia.org/wiki/Shout_(Tears_for_Fears_song))
 2. **Intermission 1**
-   1. CEC TV ID - 'Fireworks'
-   2. Madagascar 2 DVD Promo
-   3. Bike Riding
+    1. CEC TV ID - 'Fireworks'
+    2. Madagascar 2 DVD Promo
+    3. Bike Riding
 3. **Segment 2**
-   1. ['Working In The Coal Mine'](https://en.wikipedia.org/wiki/Working_in_the_Coal_Mine)
-   2. ['Overkill'](https://en.wikipedia.org/wiki/Overkill_(Men_at_Work_song))
+    1. ['Working In The Coal Mine'](https://en.wikipedia.org/wiki/Working_in_the_Coal_Mine)
+    2. ['Overkill'](https://en.wikipedia.org/wiki/Overkill_(Men_at_Work_song))
 4. **Intermission 2**
-   1. CEC TV ID - 'Astronauts'
-   2. Exercise TV Spot
-   3. 3-2-1 Penguins Promo
+    1. CEC TV ID - 'Astronauts'
+    2. Exercise TV Spot
+    3. 3-2-1 Penguins Promo
 5. **Segment 3**
-   1. ['Tarzan Boy'](https://en.wikipedia.org/wiki/Tarzan_Boy)
-   2. ['Goodbye To You'](https://en.wikipedia.org/wiki/Goodbye_to_You_(Scandal_song))
+    1. ['Tarzan Boy'](https://en.wikipedia.org/wiki/Tarzan_Boy)
+    2. ['Goodbye To You'](https://en.wikipedia.org/wiki/Goodbye_to_You_(Scandal_song))
 6. **Intermission 3**
-   1. CEC TV ID - 'Space Kids'
-   2. CEC TV Artist Spotlight: Laurie Berkner Band - 'Mouse In My Toolbox'
-   3. CEC Promo
+    1. CEC TV ID - 'Space Kids'
+    2. CEC TV Artist Spotlight: Laurie Berkner Band - 'Mouse In My Toolbox'
+    3. CEC Promo
 7. **Segment 4**
-   1. ['I Think We're Alone Now'](https://en.wikipedia.org/wiki/I_Think_We%27re_Alone_Now)
-   2. 'Little Bit of 80s'
+    1. ['I Think We're Alone Now'](https://en.wikipedia.org/wiki/I_Think_We%27re_Alone_Now)
+    2. 'Little Bit of 80s'
 8. **Intermission 4**
-   1. CEC TV ID - 'Digestion'
-   2. Exercise TV Spot
-   3. It's Time For The Bluescreen: Break Out The Longboards!!! (Studio C)
+    1. CEC TV ID - 'Digestion'
+    2. Exercise TV Spot
+    3. It's Time For The Bluescreen: Break Out The Longboards!!! (Studio C)
 
 ## Studio C DVD #3
 
@@ -92,7 +92,14 @@ Studio C DVD 3: 12/17/08 9:39am - 9:42am
 
 CEC Stage DVD: 12/10/08 1:40pm - 1:44pm
 
+### Studio C Floppy:
+
+When inserting the upgrade floppy, a message would appear on the screen saying
+"JANUARY 2009 SHOW UPDATE FINISHED.
+QUESTIONS? CALL AT 972-258-5613.
+REMOVE FLOPPY DISK AND RESET (REBOOT) THE COMPUTER."
+
 ## Trivia
 
-* The Studio C Floppy has various .CEC files that go unused in the show. These are 3BDAY07.CEC, BDAYP.CEC, BDAYT.CEC, DURBY.CEC, and TOKEN.CEC. 
+* The Studio C Floppy has various .CEC files that go unused in the show. These are 3BDAY07.CEC, BDAYP.CEC, BDAYT.CEC, DURBY.CEC, and TOKEN.CEC.
 * Showbiz Pizza Place is referenced in Segment 1.

@@ -1,0 +1,49 @@
+{0:02} Okay, NOW I HEAR THAT SOMEBODY'S
+
+{0:02} BIRTHDAY OUT THERE AND I WANT TO KNOW IF
+
+{0:04} IT'S TRUE.
+
+{0:13} YEAH, who's having a birthday?
+
+{0:13} IT'S NOT MY BIRTHDAY.
+
+{0:20} HAPPY BIRTHDAY.
+
+{0:23} I SAID HAPPY BIRTHDAY TO YOU.
+
+{0:31} I DON'T KNOW WHOSE BIRTHDAY IT IS OUT
+
+{0:31} THERE, BUT YOU BETTER BE HAVING A GOOD
+
+{0:34} TIME because it ain't MY BIRTHDAY AND
+
+{0:37} I'M MAD.
+
+{0:38} Happy birthday.
+
+{0:41} HAPPY BIRTHDAY. HAPPY BIRTHDAY. HAPPY
+
+{0:45} BIRTHDAY TO YOU.
+
+{0:47} HAPPY BIRTHDAY.
+
+{0:50} I said HAPPY BIRTHDAY.
+
+{0:53} I HOPE YOU'RE HAPPY.
+
+{0:55} It's your birthday and it's not mine.
+
+{0:58} That makes ME SO MAD.
+
+{1:01} YOU KNOW WHAT I'M GOING TO DO?
+
+{1:03} You know what I'M GOING TO DO?
+
+{1:05} I'M GOING TO GIVE THE ROCK A FIRE
+
+{1:07} EXPLOSION TO PLAY you a brand new show
+
+{1:12} for your birthday.
+
+{1:14} AND I HOPE YOU DON'T LIKE IT.
