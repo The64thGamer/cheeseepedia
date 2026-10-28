@@ -1,0 +1,1 @@
+The Fairy Godmother, Cinderella, Prince Charming, and the Three Caballeros during the finale of the [Mickey Mouse Revue] at Walt Disney World.

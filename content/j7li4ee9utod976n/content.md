@@ -1,0 +1,1 @@
+Exterior of Target Drive during the Super Chuck Summer event.

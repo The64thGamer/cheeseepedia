@@ -6,7 +6,7 @@
   "remodels": [
     {
       "n": "PTT Standard Layout",
-      "s": "1980-07-07"
+      "s": "1980-07-15"
     },
     {
       "n": "PTT Standard Layout",
@@ -16,7 +16,7 @@
   "stages": [
     {
       "n": "Portrait Stage",
-      "s": "1980-07-07",
+      "s": "1980-07-15",
       "e": "1981-00-00"
     },
     {
@@ -33,8 +33,8 @@
   "franchisees": [
     {
       "n": "Family Entertainment Centers, Inc.",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1980-07-15",
+      "e": "1983-06-00"
     }
   ],
   "attractions": [],

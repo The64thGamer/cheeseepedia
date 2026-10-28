@@ -1,15 +1,25 @@
 {
   "title": "The Rock-afire Simulator",
-  "startDate": "2026-00-00",
+  "startDate": "2027-09-00",
   "pageThumbnailFile": "simulator-mony-mony.avif",
   "contributors": [
     "BattleXGamer3"
   ],
   "citations": [
-    "Official Statement from @BattleXGamer32"
+    "Official Statement from @BattleXGamer2"
   ],
   "type": "Simulators",
   "tags": [
     "Creative Engineering"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "credits": [
+    {
+      "role": "Lead Developer for The Rock-afire Simulator",
+      "n": "BattleXGamer2"
+    }
   ]
 }

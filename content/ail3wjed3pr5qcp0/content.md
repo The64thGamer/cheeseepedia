@@ -1,0 +1,1 @@
+Exterior of Target Drive after their entrance doors were replaced.

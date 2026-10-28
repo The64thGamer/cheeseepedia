@@ -3,15 +3,27 @@
   "storeNumber": "",
   "startDate": "1980-11-00",
   "endDate": "1984-10-00",
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "Food Systems, Inc.",
+      "s": "1980-11-00",
+      "e": "1982-00-00"
+    },
+    {
+      "n": "Pizza Entertainment Centers, Inc.",
+      "s": "1982-00-00",
+      "e": "1983-02-00"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "citations": [],
   "contributors": [
-    "PizzaEntertainment"
+    "PizzaEntertainment",
+    "Getretrofit"
   ],
   "downloadLinks": [],
-  "pageThumbnailFile": "mdyxlCnOcWsBWk976yue.avif",
+  "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
