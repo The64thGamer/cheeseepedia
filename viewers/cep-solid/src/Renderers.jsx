@@ -3,7 +3,6 @@ import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchT
 import { marked } from 'marked';
 import { loadFolderIDToTitleMap,loadTypeToIDList, loadViewsMap, loadDiscourseNews,loadDiscourseRecent, loadRecentFanVideos,loadRecentOfficialVideos }  from './GlobalJsonCache'
 import { fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll} from './GlobalFunctions';
-import { Search } from './Search';
 
 const EXCLUDE = new Set(['photos','videos','reviews','user','steam comments','theories','meta','transcriptions']);
 const TABS = {
@@ -279,6 +278,7 @@ export function renderHome() {
 
   return (
     <>
+      <br/>
       <div class="Homepage">
         <center>
           Welcome to Cheese-E-Pedia! This unofficial wiki is the archive for all things animatronics!
@@ -310,7 +310,7 @@ export function renderHome() {
               ),
             },
             {
-              name: 'Official Videos',
+              name: 'Social Media',
               content: () => (
                 <div class="Carousel">
                   <For each={officialVideos() || []}>{(card) => card}</For>
@@ -324,9 +324,109 @@ export function renderHome() {
         <Tabs
           tabs={[
             {
+              name: 'Navigation',
+              content: () => (
+                <nav class="Nav">
+                  <details>
+                    <summary><a href="/1">Animatronics</a></summary>
+                    <div>
+                      <a href="/1/a">Animatronic Shows</a>
+                      <a href="/1/b">Stage Variations</a>
+                      <a href="/1/b">Animatronics</a>
+                      <a href="/1/b">Animatronic Partss</a>
+                      <a href="/1/b">Animatronic Preservation</a>
+                      <a href="/1/b">Retrofits</a>
+                    </div>
+                  </details>
+                  <details>
+                    <summary><a href="/2">Showtapes</a></summary>
+                    <div>
+                      <a href="/1/a">Showtapes</a>
+                      <a href="/1/b">Live Shows</a>
+                      <a href="/1/b">ShowBiz Pizza Programs</a>
+                      <a href="/1/b">Showtape Formats</a>
+                      <a href="/1/b">Family Vision</a>
+                    </div>
+                  </details>
+                  <details>
+                    <summary><a href="/3">Locations</a></summary>
+                    <div>
+                      <a href="/1/a">Locations</a>
+                      <a href="/1/b">Cancelled Locations</a>
+                      <a href="/1/b">Remodels and Initiatives</a>
+                      <a href="/1/b">Arcades and Attractions</a>
+                      <a href="/1/b">Store Fixtures</a>
+                      <a href="/1/b">Menu Items</a>
+                      <a href="/1/b">Tickets</a>
+                      <a href="/1/b">Tokens</a>
+                      <a href="/1/b">Walkarounds</a>
+                      <a href="/1/b">Employee Wear</a>
+                    </div>
+                  </details>
+                  <details>
+                    <summary><a href="/4">Merchandise</a></summary>
+                    <div>
+                      <a href="/1/b">In-Store Merchandise</a>
+                      <a href="/1/b">Movies</a>
+                      <a href="/1/b">Video Games</a>
+                      <a href="/1/b">Products</a>
+                      <a href="/1/b">Simulators</a>
+                    </div>
+                  </details>
+                  <details>
+                    <summary><a href="/5">Corporate</a></summary>
+                    <div>
+                      <a href="/1/a">Animatronic Control Systems</a>
+                      <a href="/1/b">Programming Systems</a>
+                      <a href="/1/b">Other Systems</a>
+                      <a href="/1/b">Company Media</a>
+                      <a href="/1/b">Puppets</a>
+                      <a href="/1/b">Corporate Documents</a>
+                      <a href="/1/b">Documents</a>
+                    </div>
+                  </details>
+                  <details>
+                    <summary><a href="/6">Advertising</a></summary>
+                    <div>
+                      <a href="/1/a">Social Media and Websites</a>
+                      <a href="/1/b">Promotional Material</a>
+                      <a href="/1/b">Ad Vehicles</a>
+                      <a href="/1/b">Events</a>
+                      <a href="/1/b">Commercials</a>
+                    </div>
+                  </details>
+                  <details>
+                    <summary><a href="/7">History</a></summary>
+                    <div>
+                      <a href="/1/a">History</a>
+                      <a href="/1/a">Characters</a>
+                      <a href="/1/b">News Footage</a>
+                    </div>
+                  </details>
+                  <details>
+                    <summary><a href="/8">Companies</a></summary>
+                    <div>
+                      <a href="/1/a">Companies/Brands</a>
+                      <a href="/1/b">Pizza Time Theatre</a>
+                      <a href="/1/b">ShowBiz Pizza Place</a>
+                      <a href="/1/b">Chuck E. Cheese's</a>
+                      <a href="/1/b">Creative Engineering</a>
+                      <a href="/1/b">Peter Piper Pizza</a>
+                      <a href="/1/b">Discovery Zone</a>
+                      <a href="/1/b">Zapp's Bar & Grill</a>
+                      <a href="/1/b">Monterey's</a>
+                      <a href="/1/b">Sally Corporation</a>
+                      <a href="/1/b">Jim Henson's Creature Shop</a>
+                      <a href="/1/b">Walt Disney Imagineering</a>
+                    </div>
+                  </details>
+                </nav>
+              ),
+            },
+            {
               name: 'Map',
               content: () => <Show when={!map.loading && map()}>{map()}</Show>,
-            },
+            }
           ]}
         />
 
@@ -397,7 +497,6 @@ export function renderHeader() {
           <br />
           Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
         </div>
-        <div class="Search"><Search /></div>
       </div>
     </>
   );

@@ -1,6 +1,6 @@
 {
   "title": "Havin' A Party",
-  "startDate": "1992-09-00",
+  "startDate": "1992-05-00",
   "endDate": "2001-12-00",
   "pageThumbnailFile": "havinaparty92.avif",
   "contributors": [
@@ -23,5 +23,9 @@
   "type": "Live Shows",
   "tags": [
     "Chuck E. Cheese's"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }
