@@ -1,0 +1,48 @@
+{
+  "title": "Santiago, CL (Mallplaza Los Dominicos) (Padre Hurtado Sur 875)",
+  "type": "Locations",
+  "pageThumbnailFile": "",
+  "pageThumbnailVideo": "",
+  "downloadLinks": [],
+  "citations": [
+    "https://www.instagram.com/chuckecheesecl/",
+    "https://youtu.be/-M2nslYZwzs?t=1793",
+    "https://forum.cheeseepedia.org/t/chuck-e-cheese-pizza-new-fast-food-mall-chain-spotted-in-chile/551",
+    "Employee Correspondance"
+  ],
+  "tags": [
+    "Chuck E. Cheese Pizza"
+  ],
+  "startDate": "2026-10-31",
+  "endDate": "",
+  "recommend": false,
+  "latitudeLongitude": [
+    "-33.41497039794922",
+    "-70.53961944580078"
+  ],
+  "credits": [],
+  "stages": [],
+  "remodels": [],
+  "franchisees": [
+    {
+      "n": "Unknown Franchisee",
+      "s": "2026-10-31",
+      "e": ""
+    }
+  ],
+  "animatronics": [],
+  "fixtures": [
+    {
+      "n": "Chuck E. Cheese Pizza Food Court Sign",
+      "desc": "",
+      "s": "2026-10-31",
+      "e": ""
+    }
+  ],
+  "walkarounds": [],
+  "attractions": [],
+  "showtapeFormats": [],
+  "contributors": [
+    "sudo-trans-pony"
+  ]
+}

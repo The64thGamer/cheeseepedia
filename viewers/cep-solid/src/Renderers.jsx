@@ -328,12 +328,28 @@ export function renderHome() {
               content: () => (
                 <nav class="Nav">
                   <details>
+                    <summary><a href="/8">Companies</a></summary>
+                    <div>
+                      <a href="/1/b">Pizza Time Theatre</a>
+                      <a href="/1/b">ShowBiz Pizza Place</a>
+                      <a href="/1/b">Chuck E. Cheese's</a>
+                      <a href="/1/b">Creative Engineering</a>
+                      <a href="/1/b">Peter Piper Pizza</a>
+                      <a href="/1/b">Discovery Zone</a>
+                      <a href="/1/b">Zapp's Bar & Grill</a>
+                      <a href="/1/b">Monterey's</a>
+                      <a href="/1/b">Sally Corporation</a>
+                      <a href="/1/b">Jim Henson's Creature Shop</a>
+                      <a href="/1/b">Walt Disney Imagineering</a>
+                    </div>
+                  </details>
+                  <details>
                     <summary><a href="/1">Animatronics</a></summary>
                     <div>
                       <a href="/1/a">Animatronic Shows</a>
                       <a href="/1/b">Stage Variations</a>
                       <a href="/1/b">Animatronics</a>
-                      <a href="/1/b">Animatronic Partss</a>
+                      <a href="/1/b">Animatronic Parts</a>
                       <a href="/1/b">Animatronic Preservation</a>
                       <a href="/1/b">Retrofits</a>
                     </div>
@@ -398,26 +414,10 @@ export function renderHome() {
                   <details>
                     <summary><a href="/7">History</a></summary>
                     <div>
+                      <a href="/1/a">Companies/Brands</a>
                       <a href="/1/a">History</a>
                       <a href="/1/a">Characters</a>
                       <a href="/1/b">News Footage</a>
-                    </div>
-                  </details>
-                  <details>
-                    <summary><a href="/8">Companies</a></summary>
-                    <div>
-                      <a href="/1/a">Companies/Brands</a>
-                      <a href="/1/b">Pizza Time Theatre</a>
-                      <a href="/1/b">ShowBiz Pizza Place</a>
-                      <a href="/1/b">Chuck E. Cheese's</a>
-                      <a href="/1/b">Creative Engineering</a>
-                      <a href="/1/b">Peter Piper Pizza</a>
-                      <a href="/1/b">Discovery Zone</a>
-                      <a href="/1/b">Zapp's Bar & Grill</a>
-                      <a href="/1/b">Monterey's</a>
-                      <a href="/1/b">Sally Corporation</a>
-                      <a href="/1/b">Jim Henson's Creature Shop</a>
-                      <a href="/1/b">Walt Disney Imagineering</a>
                     </div>
                   </details>
                 </nav>

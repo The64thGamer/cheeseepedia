@@ -1,0 +1,1 @@
+***Santiago, CL (Mallplaza Los Dominicos) (Padre Hurtado Sur 875)*** is the first [Chuck E. Cheese Pizza] which opened on October 31st, 2026 by an unknown Chilean franchisee.[1][2][3][4]

@@ -83,13 +83,19 @@ OUT_TITLE_TO_ID = os.path.join(os.path.dirname(__file__), "..", "compiled-json/t
 OUT_ID_TO_TITLE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/folderIDToTitleMap.json")
 OUT_MAP_PINS    = os.path.join(os.path.dirname(__file__), "..", "compiled-json/map_pins.json")
 OUT_TYPE_TO_IDS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/typeToIDList.json")
+OUT_TAGS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/tags.json")
+BODY_FILES = ("content.md", "old.md")
+DICT_TAG_FIELDS = ("remodels", "stages", "animatronics", "franchisees", "attractions", "credits")
+STRING_TAG_FIELDS = ("tags", "pages", "page")
+NO_TITLE_TAG_TYPES = {"videos", "photos", "reviews", "theories", "steam comments"}
+BRACKET_TAG_RE = re.compile(r"\[([^\[\]]+)\](?!\()")
 OUT_RECENT_FAN_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentfanvideos.json")
 OUT_RECENT_OFFICIAL_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentofficialvideos.json")
 RECENT_VIDEOS_COUNT = 15
 THUMB_FIELD = "pageThumbnailVideo"
 THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
 PHOTO_SIM_BITS = 16
-PHOTO_HASH_CACHE = os.path.join(os.path.dirname(__file__), ".photo_hashes.json")
+PHOTO_HASH_CACHE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/photo_hashes.json")
 OUT_REJECTED = os.path.join(os.path.dirname(__file__), "..", "compiled-json/rejected_videos.json")
 MEDIA_TYPES = {"Photos", "Videos"}
 ID_ALPHABET = string.ascii_lowercase + string.digits
@@ -158,6 +164,8 @@ def main():
     id_to_title = build_id_to_title_map(title_to_id)
     type_to_ids = build_type_to_ids()
     
+    tags = build_tags()
+    write_json(tags, OUT_TAGS)
     write_json(type_to_ids, OUT_TYPE_TO_IDS)
     write_json(title_to_id, OUT_TITLE_TO_ID)
     write_json(id_to_title, OUT_ID_TO_TITLE)
@@ -169,6 +177,7 @@ def main():
     print(green(f'Wrote {len(title_to_id)} titles -> {OUT_TITLE_TO_ID}'))
     print(green(f'Wrote {len(id_to_title)} ids -> {OUT_ID_TO_TITLE}'))
     print(green(f'Wrote {len(type_to_ids)} types -> {OUT_TYPE_TO_IDS}'))
+    print(green(f'Wrote {len(tags)} tags -> {OUT_TAGS}'))
     print(green(f'Wrote {len(recent_fan)} recent fan videos -> {OUT_RECENT_FAN_VIDEOS}'))
     print(green(f'Wrote {len(recent_official)} recent official videos -> {OUT_RECENT_OFFICIAL_VIDEOS}'))
 
@@ -242,6 +251,76 @@ def build_type_to_ids():
     for ids in by_type.values():
         ids.sort()
     return dict(sorted(by_type.items()))
+
+def tag_name(val):
+    if isinstance(val, dict):
+        return str(val.get('n', '')).strip()
+    return str(val).split('|', 1)[0].strip()
+
+
+def read_body(folder):
+    for name in BODY_FILES:
+        p = folder / name
+        if p.exists():
+            text = p.read_text(encoding='utf-8')
+            if text.strip():
+                return text
+    return ''
+
+
+def extract_meta_tags(fm):
+    tags, seen = [], set()
+
+    def push(v):
+        v = str(v).strip()
+        if v and v.lower() not in seen:
+            seen.add(v.lower())
+            tags.append(v)
+
+    for field in DICT_TAG_FIELDS:
+        for item in (fm.get(field) or []):
+            push(tag_name(item))
+    for field in STRING_TAG_FIELDS:
+        val = fm.get(field)
+        if not val:
+            continue
+        for item in (val if isinstance(val, list) else [val]):
+            push(tag_name(item))
+    push(fm.get('type', ''))
+    if (fm.get('type', '') or '').strip().lower() not in NO_TITLE_TAG_TYPES:
+        push(fm.get('title', ''))
+    date = fm.get('startDate', '') or ''
+    year = date.split('-')[0] if date != '0000-00-00' else ''
+    push(year if year and year != '0000' else 'Unknown Year')
+    return tags
+
+
+def extract_body_tags(body):
+    out = []
+    for m in BRACKET_TAG_RE.finditer(body):
+        val = m.group(1).strip()
+        if val and not val.isdigit():
+            out.append(val)
+    return out
+
+
+def build_tags():
+    tag_idx, canon = {}, {}
+    for folder in sorted(Path(CONTENT_DIR).iterdir()):
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        if not meta:
+            continue
+        seen = set()
+        for tag in extract_meta_tags(meta) + extract_body_tags(read_body(folder)):
+            key = tag.lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            tag_idx.setdefault(canon.setdefault(key, tag), []).append(folder.name)
+    return tag_idx
+
 
 def is_official(meta):
     handle = urllib.parse.unquote(meta.get('videoChannelHandle') or '').strip().lower()
