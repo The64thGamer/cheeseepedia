@@ -1,0 +1,16 @@
+{
+  "title": "Test",
+  "type": "Videos",
+  "pageThumbnailVideo": "https://www.youtube.com/watch?v=X4cprFtOv_A",
+  "citations": [
+    "https://www.youtube.com/watch?v=X4cprFtOv_A"
+  ],
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "startDate": "2019-04-21",
+  "contributors": [
+    "sudo-trans-pony"
+  ],
+  "videoChannelHandle": "@PasqAnimatronics"
+}

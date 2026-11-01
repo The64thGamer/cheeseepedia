@@ -66,7 +66,6 @@ FAN_CHANNELS = [
     "@BullFrogsBanjo",
     "@funtownfollies6313",
     "@ItzaRob",
-    "@NathanSpies",
     "@WatootsiJenkins",
     "@GallaRM",
     "@animatronicswarehouse",
