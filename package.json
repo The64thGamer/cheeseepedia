@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/The64thGamer/cheeseepedia#readme",
   "dependencies": {
-    "marked": "^18.0.12"
+    "marked": "^18.0.12",
+    "sql.js-httpvfs": "^0.8.12"
   }
 }

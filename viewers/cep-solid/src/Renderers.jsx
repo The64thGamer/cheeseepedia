@@ -1,6 +1,7 @@
 import { createResource, createSignal, createEffect, untrack, Show, For,Switch, Match } from 'solid-js';
 import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks } from './GlobalFunctions';
 import { marked } from 'marked';
+import { searchPath } from './SearchPage';
 import { loadFolderIDToTitleMap,loadTypeToIDList, loadViewsMap, loadDiscourseNews,loadDiscourseRecent, loadRecentFanVideos,loadRecentOfficialVideos }  from './GlobalJsonCache'
 import { fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll} from './GlobalFunctions';
 
@@ -11,6 +12,16 @@ const TABS = {
   Videos:   (t) => t === 'videos',
   Reviews:  (t) => t === 'reviews',
 };
+const NAV_GROUPS = [
+  { name: 'Companies', tags: ['Pizza Time Theatre', 'ShowBiz Pizza Place', "Chuck E. Cheese's", 'Creative Engineering', 'Peter Piper Pizza', 'Discovery Zone', "Zapp's Bar & Grill", "Monterey's", 'Sally Corporation', "Jim Henson's Creature Shop", 'Walt Disney Imagineering'] },
+  { name: 'Animatronics', tags: ['Animatronic Shows', 'Stage Variations', 'Animatronics', 'Animatronic Parts', 'Animatronic Preservation', 'Retrofits'] },
+  { name: 'Showtapes', tags: ['Showtapes', 'Live Shows', 'ShowBiz Pizza Programs', 'Showtape Formats', 'Family Vision'] },
+  { name: 'Locations', tags: ['Locations', 'Cancelled Locations', 'Remodels and Initiatives', 'Arcades and Attractions', 'Store Fixtures', 'Menu Items', 'Tickets', 'Tokens', 'Walkarounds', 'Employee Wear'] },
+  { name: 'Merchandise', tags: ['In-Store Merchandise', 'Movies', 'Video Games', 'Products', 'Simulators'] },
+  { name: 'Corporate', tags: ['Animatronic Control Systems', 'Programming Systems', 'Other Systems', 'Company Media', 'Puppets', 'Corporate Documents', 'Documents'] },
+  { name: 'Advertising', tags: ['Social Media and Websites', 'Promotional Material', 'Ad Vehicles', 'Events', 'Commercials'] },
+  { name: 'History', tags: ['Companies/Brands', 'History', 'Characters', 'News Footage'] },
+];
 const MAX_RANDOM_CARDS = 15;
 const LOGOS = {
     standard: 'CEPLogo.avif', dark: 'LogoDark.avif', light: 'LogoLight.avif',
@@ -157,16 +168,10 @@ export async function renderStandardCard(meta) {
   );
 }
 
-export async function renderStandardCompact(meta) {
+async function loadCardData(meta) {
   const link = await fetchFolderIDFromTitle(meta.title);
   const type = (meta.type || '').toLowerCase();
-  const typeClass = type.replace(/s$/, '').replace(/[^a-z0-9]+/g, '-'); 
-
-  let pageThumbnail = await fetchThumbnailWLinkToArticle(meta);
-  if (!pageThumbnail) {
-    pageThumbnail = await fetchCardExcerpt(meta);
-  }
-
+  const typeClass = type.replace(/s$/, '').replace(/[^a-z0-9]+/g, '-');
   const viewsMap = await loadViewsMap();
 
   let label = meta.title;
@@ -181,24 +186,26 @@ export async function renderStandardCompact(meta) {
     } catch {}
   }
 
-  const t = typeClass ? ` type-${typeClass}` : '';
+  const dates = EXCLUDE.has(type)
+    ? convertStartDate(meta.startDate)
+    : `${convertStartDate(meta.startDate)} \u2013 ${convertEndDate(meta.endDate)}`;
+
+  return { link, label, dates, views: viewsMap[link], t: typeClass ? ` type-${typeClass}` : '' };
+}
+
+export async function renderStandardCompact(meta) {
+  const { link, label, dates, views, t } = await loadCardData(meta);
+  const pageThumbnail = await fetchThumbnailWLinkToArticle(meta);
 
   return (
-    <div class={`Card fade-in${t}`}>
-      <div class={`CardImage${t}`}>{pageThumbnail}</div>
-      <div class={`CardTextArea${t}`}>
-        <div class={`CardLink${t}`}>
-          <span>
-            <a href={getFolderPath(link)}>{label}</a>
-          </span>
+    <div class={`Compact fade-in${t}`}>
+      <div class={`CompactImage${t}`}>{pageThumbnail}</div>
+      <div class={`CompactText${t}`}>
+        <div class={`CompactTitle${t}`}>
+          <a href={getFolderPath(link)}>{label}</a>
         </div>
-        <div class={`CardText${t}`}>
-          <strong>
-            {EXCLUDE.has(type)
-              ? convertStartDate(meta.startDate)
-              : <>{convertStartDate(meta.startDate)} – {convertEndDate(meta.endDate)}</>}
-          </strong>
-          {" "}👁{viewsMap[link]}
+        <div class={`CompactMeta${t}`}>
+          <strong>{dates}</strong> 👁{views}
         </div>
       </div>
     </div>
@@ -206,49 +213,14 @@ export async function renderStandardCompact(meta) {
 }
 
 export async function renderStandardList(meta) {
-  const link = await fetchFolderIDFromTitle(meta.title);
-  const type = (meta.type || '').toLowerCase();
-  const typeClass = type.replace(/s$/, '').replace(/[^a-z0-9]+/g, '-'); 
-
-  let pageThumbnail = await fetchThumbnailWLinkToArticle(meta);
-  if (!pageThumbnail) {
-    pageThumbnail = await fetchCardExcerpt(meta);
-  }
-
-  const viewsMap = await loadViewsMap();
-
-  let label = meta.title;
-  if (type === 'photos') {
-    try {
-      const res = await fetch(`/content/${link}/content.md`);
-      const isHtml = (res.headers.get('content-type') || '').includes('text/html');
-      if (res.ok && !isHtml) {
-        const text = (await res.text()).trim();
-        if (text) label = text;
-      }
-    } catch {}
-  }
-
-  const t = typeClass ? ` type-${typeClass}` : '';
+  const { link, label, dates, views, t } = await loadCardData(meta);
 
   return (
-    <div class={`Card fade-in${t}`}>
-      <div class={`CardImage${t}`}>{pageThumbnail}</div>
-      <div class={`CardTextArea${t}`}>
-        <div class={`CardLink${t}`}>
-          <span>
-            <a href={getFolderPath(link)}>{label}</a>
-          </span>
-        </div>
-        <div class={`CardText${t}`}>
-          <strong>
-            {EXCLUDE.has(type)
-              ? convertStartDate(meta.startDate)
-              : <>{convertStartDate(meta.startDate)} – {convertEndDate(meta.endDate)}</>}
-          </strong>
-          {" "}👁{viewsMap[link]}
-        </div>
-      </div>
+    <div class={`ListRow fade-in${t}`}>
+      <a href={getFolderPath(link)}>{label}</a>
+      <span class="ListMeta">
+        <strong>{dates}</strong> 👁{views}
+      </span>
     </div>
   );
 }
@@ -327,99 +299,18 @@ export function renderHome() {
               name: 'Navigation',
               content: () => (
                 <nav class="Nav">
-                  <details>
-                    <summary><a href="/8">Companies</a></summary>
-                    <div>
-                      <a href="/1/b">Pizza Time Theatre</a>
-                      <a href="/1/b">ShowBiz Pizza Place</a>
-                      <a href="/1/b">Chuck E. Cheese's</a>
-                      <a href="/1/b">Creative Engineering</a>
-                      <a href="/1/b">Peter Piper Pizza</a>
-                      <a href="/1/b">Discovery Zone</a>
-                      <a href="/1/b">Zapp's Bar & Grill</a>
-                      <a href="/1/b">Monterey's</a>
-                      <a href="/1/b">Sally Corporation</a>
-                      <a href="/1/b">Jim Henson's Creature Shop</a>
-                      <a href="/1/b">Walt Disney Imagineering</a>
-                    </div>
-                  </details>
-                  <details>
-                    <summary><a href="/1">Animatronics</a></summary>
-                    <div>
-                      <a href="/1/a">Animatronic Shows</a>
-                      <a href="/1/b">Stage Variations</a>
-                      <a href="/1/b">Animatronics</a>
-                      <a href="/1/b">Animatronic Parts</a>
-                      <a href="/1/b">Animatronic Preservation</a>
-                      <a href="/1/b">Retrofits</a>
-                    </div>
-                  </details>
-                  <details>
-                    <summary><a href="/2">Showtapes</a></summary>
-                    <div>
-                      <a href="/1/a">Showtapes</a>
-                      <a href="/1/b">Live Shows</a>
-                      <a href="/1/b">ShowBiz Pizza Programs</a>
-                      <a href="/1/b">Showtape Formats</a>
-                      <a href="/1/b">Family Vision</a>
-                    </div>
-                  </details>
-                  <details>
-                    <summary><a href="/3">Locations</a></summary>
-                    <div>
-                      <a href="/1/a">Locations</a>
-                      <a href="/1/b">Cancelled Locations</a>
-                      <a href="/1/b">Remodels and Initiatives</a>
-                      <a href="/1/b">Arcades and Attractions</a>
-                      <a href="/1/b">Store Fixtures</a>
-                      <a href="/1/b">Menu Items</a>
-                      <a href="/1/b">Tickets</a>
-                      <a href="/1/b">Tokens</a>
-                      <a href="/1/b">Walkarounds</a>
-                      <a href="/1/b">Employee Wear</a>
-                    </div>
-                  </details>
-                  <details>
-                    <summary><a href="/4">Merchandise</a></summary>
-                    <div>
-                      <a href="/1/b">In-Store Merchandise</a>
-                      <a href="/1/b">Movies</a>
-                      <a href="/1/b">Video Games</a>
-                      <a href="/1/b">Products</a>
-                      <a href="/1/b">Simulators</a>
-                    </div>
-                  </details>
-                  <details>
-                    <summary><a href="/5">Corporate</a></summary>
-                    <div>
-                      <a href="/1/a">Animatronic Control Systems</a>
-                      <a href="/1/b">Programming Systems</a>
-                      <a href="/1/b">Other Systems</a>
-                      <a href="/1/b">Company Media</a>
-                      <a href="/1/b">Puppets</a>
-                      <a href="/1/b">Corporate Documents</a>
-                      <a href="/1/b">Documents</a>
-                    </div>
-                  </details>
-                  <details>
-                    <summary><a href="/6">Advertising</a></summary>
-                    <div>
-                      <a href="/1/a">Social Media and Websites</a>
-                      <a href="/1/b">Promotional Material</a>
-                      <a href="/1/b">Ad Vehicles</a>
-                      <a href="/1/b">Events</a>
-                      <a href="/1/b">Commercials</a>
-                    </div>
-                  </details>
-                  <details>
-                    <summary><a href="/7">History</a></summary>
-                    <div>
-                      <a href="/1/a">Companies/Brands</a>
-                      <a href="/1/a">History</a>
-                      <a href="/1/a">Characters</a>
-                      <a href="/1/b">News Footage</a>
-                    </div>
-                  </details>
+                  <For each={NAV_GROUPS}>
+                    {(group) => (
+                      <details>
+                        <summary><a href={searchPath(group.tags)}>{group.name}</a></summary>
+                        <div>
+                          <For each={group.tags}>
+                            {(tag) => <a href={searchPath([tag])}>{tag}</a>}
+                          </For>
+                        </div>
+                      </details>
+                    )}
+                  </For>
                 </nav>
               ),
             },

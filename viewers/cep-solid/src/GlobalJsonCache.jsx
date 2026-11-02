@@ -6,6 +6,15 @@ let DiscourseNews = null;
 let DiscourseRecent = null;
 let RecentFanVideos = null;
 let RecentOfficialVideos = null;
+let SortKeys = null;
+
+export async function loadSortKeys() {
+  if (!SortKeys) {
+    const res = await fetch('/viewers/cep-solid/compiled-json/sortKeys.json');
+    SortKeys = await res.json();
+  }
+  return SortKeys;
+}
 
 export async function loadRecentFanVideos() {
   if (!RecentFanVideos) {

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json, os, subprocess, sys, calendar, datetime
 from pathlib import Path
-import re, shutil, tempfile, html, io, heapq, secrets, string
+import re, shutil, tempfile, html, io, heapq, secrets, string, sqlite3
 import urllib.request, urllib.error, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 from itertools import zip_longest
@@ -31,6 +31,7 @@ FAN_CHANNELS = [
     "@christhrash9124",
     "@chuckaround",
     "@MattTheFranchize",
+    "@PhillipJasper1",
     "@ChuckE.CheesesIllinois",
     "@CECNewYork",
     "@RetroPizzaFan",
@@ -83,8 +84,21 @@ OUT_TITLE_TO_ID = os.path.join(os.path.dirname(__file__), "..", "compiled-json/t
 OUT_ID_TO_TITLE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/folderIDToTitleMap.json")
 OUT_MAP_PINS    = os.path.join(os.path.dirname(__file__), "..", "compiled-json/map_pins.json")
 OUT_TYPE_TO_IDS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/typeToIDList.json")
+OUT_SORT_KEYS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/sortKeys.json")
+SORT_EPOCH = 1577836800
+DATE_RE = re.compile(r"\d{4}-\d\d-\d\d")
 OUT_TAGS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/tags.json")
+OUT_ID_TO_TAGS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/folderIDToTags.json")
 BODY_FILES = ("content.md", "old.md")
+OUT_SEARCH_DB = os.path.join(os.path.dirname(__file__), "..", "compiled-json/search.sqlite")
+CHUNK_WORDS = 150
+SNIPPET_WORDS = 24
+TS_TOKEN_RE = re.compile(r"\{(\d+:\d\d(?::\d\d)?)\}$")
+MD_LINK_RE = re.compile(r"\[([^\]]*)\]\([^)]*\)")
+WIKI_SHORTCODE_RE = re.compile(r"""\{\{<?\s*wiki-link\s+(?:"([^"]+)"|'([^']+)'|([^\s}>]+))[^}]*\}\}""", re.I)
+CITE_SHORTCODE_RE = re.compile(r"\{\{<?\s*cite\s[^}]*\}\}", re.I)
+URL_RE = re.compile(r"https?://\S+")
+MD_CHARS_RE = re.compile(r"[*_`#>\[\]!|]")
 DICT_TAG_FIELDS = ("remodels", "stages", "animatronics", "franchisees", "attractions", "credits")
 STRING_TAG_FIELDS = ("tags", "pages", "page")
 NO_TITLE_TAG_TYPES = {"videos", "photos", "reviews", "theories", "steam comments"}
@@ -160,12 +174,17 @@ def main():
         dedupe_photos()
     fill_video_channel_handles()
     remove_backslashes()
+    build_search_db()
+    copy_search_worker()
     title_to_id = build_title_to_id_map()
     id_to_title = build_id_to_title_map(title_to_id)
     type_to_ids = build_type_to_ids()
     
-    tags = build_tags()
+    sort_keys = build_sort_keys()
+    write_json(sort_keys, OUT_SORT_KEYS)
+    tags, id_tags = build_tags()
     write_json(tags, OUT_TAGS)
+    write_json(id_tags, OUT_ID_TO_TAGS)
     write_json(type_to_ids, OUT_TYPE_TO_IDS)
     write_json(title_to_id, OUT_TITLE_TO_ID)
     write_json(id_to_title, OUT_ID_TO_TITLE)
@@ -177,7 +196,9 @@ def main():
     print(green(f'Wrote {len(title_to_id)} titles -> {OUT_TITLE_TO_ID}'))
     print(green(f'Wrote {len(id_to_title)} ids -> {OUT_ID_TO_TITLE}'))
     print(green(f'Wrote {len(type_to_ids)} types -> {OUT_TYPE_TO_IDS}'))
+    print(green(f'Wrote {len(sort_keys)} sort keys -> {OUT_SORT_KEYS}'))
     print(green(f'Wrote {len(tags)} tags -> {OUT_TAGS}'))
+    print(green(f'Wrote {len(id_tags)} articles with tags -> {OUT_ID_TO_TAGS}'))
     print(green(f'Wrote {len(recent_fan)} recent fan videos -> {OUT_RECENT_FAN_VIDEOS}'))
     print(green(f'Wrote {len(recent_official)} recent official videos -> {OUT_RECENT_OFFICIAL_VIDEOS}'))
 
@@ -252,6 +273,118 @@ def build_type_to_ids():
         ids.sort()
     return dict(sorted(by_type.items()))
 
+def build_sort_keys():
+    keys = {}
+    for folder in sorted(Path(CONTENT_DIR).iterdir()):
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        if not meta:
+            continue
+        date = meta.get('startDate') or ''
+        start = int(date.replace('-', '')) if DATE_RE.fullmatch(date) and not date.startswith('0000') else 0
+        stamps = [(folder / n).stat().st_mtime for n in ('meta.json',) + BODY_FILES if (folder / n).exists()]
+        updated = max(0, int((max(stamps) - SORT_EPOCH) // 3600)) if stamps else 0
+        keys[folder.name] = [start, updated]
+    return keys
+
+
+def clean_for_search(body):
+    s = body.replace("\u2019", "'").replace("\u2018", "'")
+    s = CITE_SHORTCODE_RE.sub(" ", s)
+    s = WIKI_SHORTCODE_RE.sub(lambda m: m.group(1) or m.group(2) or m.group(3) or "", s)
+    s = MD_LINK_RE.sub(r"\1", s)
+    s = URL_RE.sub(" ", s)
+    return MD_CHARS_RE.sub(" ", s)
+
+
+def chunk_body(body):
+    ts, chunk_ts, words = "", "", []
+    for tok in clean_for_search(body).split():
+        m = TS_TOKEN_RE.match(tok)
+        if m:
+            ts = m.group(1)
+            continue
+        if not words:
+            chunk_ts = ts
+        words.append(tok)
+        if len(words) >= CHUNK_WORDS:
+            yield " ".join(words), chunk_ts
+            words = []
+    if words:
+        yield " ".join(words), chunk_ts
+
+
+def build_search_db():
+    os.makedirs(os.path.dirname(OUT_SEARCH_DB), exist_ok=True)
+    if os.path.exists(OUT_SEARCH_DB):
+        os.remove(OUT_SEARCH_DB)
+    con = sqlite3.connect(OUT_SEARCH_DB)
+    con.execute("PRAGMA page_size=1024")
+    con.execute(
+        "CREATE VIRTUAL TABLE chunks USING fts5("
+        "text, folder UNINDEXED, ts UNINDEXED, "
+        "tokenize=\"unicode61 remove_diacritics 2 tokenchars ''''\", columnsize=0)"
+    )
+    articles = rows = 0
+    for folder in sorted(Path(CONTENT_DIR).iterdir()):
+        if not folder.is_dir():
+            continue
+        body = read_body(folder)
+        if not body.strip():
+            continue
+        batch = [(text, folder.name, ts) for text, ts in chunk_body(body)]
+        if batch:
+            con.executemany("INSERT INTO chunks(text, folder, ts) VALUES (?, ?, ?)", batch)
+            articles += 1
+            rows += len(batch)
+    con.execute("INSERT INTO chunks(chunks) VALUES ('optimize')")
+    con.commit()
+    con.execute("VACUUM")
+    con.close()
+    print(green(f'Wrote search db: {articles} articles, {rows} chunks -> {OUT_SEARCH_DB}'))
+
+
+def copy_search_worker():
+    here = Path(__file__).resolve().parent
+    dists = [p / "node_modules" / "sql.js-httpvfs" / "dist" for p in [here, *here.parents]]
+    dist = next((d for d in dists if d.is_dir()), None)
+    if dist is None:
+        print(red("sql.js-httpvfs not found in any node_modules above this script. Run: npm install sql.js-httpvfs"), file=sys.stderr)
+        return
+    out_dir = Path(os.path.dirname(OUT_SEARCH_DB))
+    for name in ("sqlite.worker.js", "sql-wasm.wasm"):
+        src = dist / name
+        if not src.exists():
+            print(red(f"Missing {src}"), file=sys.stderr)
+            return
+        shutil.copy(src, out_dir / name)
+    print(green(f"Copied search worker files -> {out_dir}"))
+
+
+def fts_query(text):
+    text = text.replace("\u2019", "'").replace("\u2018", "'")
+    parts = [(m.group(1) or m.group(2)).replace('"', '') for m in re.finditer(r'"([^"]*)"|(\S+)', text)]
+    return " ".join(f'"{p}"' for p in parts if p.strip())
+
+
+def search_text(query, limit=50):
+    query = fts_query(query)
+    if not query:
+        return []
+    con = sqlite3.connect(OUT_SEARCH_DB)
+    try:
+        return con.execute(
+            "SELECT folder, ts, found, score FROM ("
+            "SELECT folder, ts, found, score, ROW_NUMBER() OVER (PARTITION BY folder ORDER BY score) AS rn FROM ("
+            "SELECT folder, ts, snippet(chunks, 0, '<mark>', '</mark>', '…', ?) AS found, bm25(chunks) AS score "
+            "FROM chunks WHERE chunks MATCH ?)) WHERE rn = 1 ORDER BY score LIMIT ?",
+            (SNIPPET_WORDS, query, limit),
+        ).fetchall()
+    finally:
+        con.close()
+
+
 def tag_name(val):
     if isinstance(val, dict):
         return str(val.get('n', '')).strip()
@@ -303,9 +436,8 @@ def extract_body_tags(body):
             out.append(val)
     return out
 
-
 def build_tags():
-    tag_idx, canon = {}, {}
+    tag_idx, id_tags, canon = {}, {}, {}
     for folder in sorted(Path(CONTENT_DIR).iterdir()):
         if not folder.is_dir():
             continue
@@ -313,13 +445,18 @@ def build_tags():
         if not meta:
             continue
         seen = set()
-        for tag in extract_meta_tags(meta) + extract_body_tags(read_body(folder)):
+        article_tags = extract_meta_tags(meta)
+        if (meta.get('type') or '').strip().lower() != 'transcription':
+            article_tags += extract_body_tags(read_body(folder))
+        for tag in article_tags:
             key = tag.lower()
             if key in seen:
                 continue
             seen.add(key)
-            tag_idx.setdefault(canon.setdefault(key, tag), []).append(folder.name)
-    return tag_idx
+            name = canon.setdefault(key, tag)
+            tag_idx.setdefault(name, []).append(folder.name)
+            id_tags.setdefault(folder.name, []).append(name)
+    return tag_idx, id_tags
 
 
 def is_official(meta):
@@ -1160,8 +1297,6 @@ def add_fandom_videos():
             print(green(f"{handle}: {len(listing)} videos, {in_wiki} in wiki, {len(pending)} to review"))
             if not pending:
                 print(dim(f"{handle}: nothing new, skipping"))
-                continue
-            if ask(f"Skip {handle}"):
                 continue
             if OLDEST_FIRST:
                 pending.reverse()
