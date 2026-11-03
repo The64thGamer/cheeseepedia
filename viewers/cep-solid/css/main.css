@@ -617,19 +617,71 @@ select{
   margin: 1.25rem 0 0.5rem;
 }
 
+.SearchTypeGroup {
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
 .SearchTypeFilter {
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  margin-bottom: 0.5rem;
+  position: relative;
+}
+
+.SearchTypeButton {
+  background-color: color-mix(in srgb, var(--chip, var(--primary)) 60%, transparent);
+  color: var(--dark);
+  border: 0.2rem solid var(--dark);
+  border-radius: 999px;
+  padding: 0.1rem 0.7rem;
+  font: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: background-color 0.15s ease, transform 0.15s ease;
+}
+
+.SearchTypeButton:hover,
+.SearchTypeButton:focus-visible {
+  background-color: var(--chip, var(--primary));
+}
+
+.SearchTypeButton.active {
+  background-color: var(--chip, var(--primary));
+  box-shadow: 0 0 0 0.15rem var(--text);
 }
 
 .SearchTypePreview {
+  display: none;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  z-index: 30;
+  width: max-content;
+  pointer-events: none;
+  max-width: 16rem;
   margin: 0;
-  padding: 0 0 0 1.25rem;
+  padding: 0.5rem 0.75rem 0.5rem 1.5rem;
   font-size: 0.8rem;
-  opacity: 0.7;
   list-style: none;
+  background: var(--dark);
+  color: var(--text);
+  border: 0.15rem solid var(--chip, var(--primary));
+  border-radius: 0.6rem;
+}
+
+.SearchTypeFilter:hover > .SearchTypePreview,
+.SearchTypeFilter:has(:focus-visible) > .SearchTypePreview {
+  display: block;
+}
+
+.SearchTypeFilter.quiet > .SearchTypePreview {
+  display: none;
+}
+
+@media (hover: none) {
+  .SearchTypePreview {
+    display: none !important;
+  }
 }
 
 .SearchTypePreview li {
@@ -760,7 +812,10 @@ select{
   font-size: 0.85em;
 }
 
-.Result mark {
+.Result mark,
+.Card mark,
+.Compact mark,
+.ListRow mark {
   background: rgba(255, 200, 0, 0.45);
   color: inherit;
   border-radius: 0.2em;
@@ -843,7 +898,32 @@ select{
   }
 
   .SearchSidebar {
-    flex-basis: auto;
+    flex: none;
+    width: 100%;
+    max-width: none;
+    box-sizing: border-box;
+  }
+
+  .SearchSidebar > .SearchFilterGroup:first-child {
+    flex-direction: row;
+    gap: 0.5rem;
+  }
+
+  .SearchSidebar > .SearchFilterGroup:first-child label {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .SearchSidebar > .SearchFilterGroup:first-child select {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .SearchTypeButton {
+    padding: 0.25rem 0.9rem;
+  }
+
+  .SearchResults {
     width: 100%;
   }
 

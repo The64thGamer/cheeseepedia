@@ -223,6 +223,24 @@ export async function fetchThumbnailWLinkToArticle(meta) {
   );
 }
 
+const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+
+export function splitHighlight(text, words) {
+  const source = (text || '').replace(/[‘’]/g, "'");
+  const usable = [...new Set((words || []).filter((w) => w.length > 1))].sort((a, b) => b.length - a.length);
+  if (!usable.length || !source) return [{ text: source, hit: false }];
+  const re = new RegExp(`(${usable.map(escapeRegex).join('|')})`, 'gi');
+  return source
+    .split(re)
+    .map((part, i) => ({ text: part, hit: i % 2 === 1 }))
+    .filter((p) => p.text);
+}
+
+export function highlightText(text, words) {
+  if (!words || !words.length) return text;
+  return splitHighlight(text, words).map((part) => (part.hit ? <mark>{part.text}</mark> : part.text));
+}
+
 export function formatDiscourseDate(iso) {
   return new Date(iso).toLocaleDateString(undefined, {
     year: 'numeric',

@@ -1,6 +1,6 @@
 import { createResource, createSignal, createEffect, createMemo, untrack, onCleanup, Show, For } from 'solid-js';
 import { Dynamic } from 'solid-js/web';
-import { fetchMeta, fetchContent, fetchOld, fetchFolderIDFromTitle, getFolderPath, getCurrentView, convertStartDate, convertEndDate, loadKey, saveKey } from './GlobalFunctions';
+import { fetchMeta, fetchContent, fetchOld, fetchFolderIDFromTitle, getFolderPath, getCurrentView, convertStartDate, convertEndDate, loadKey, saveKey, highlightText } from './GlobalFunctions';
 import { loadTypeToIDList, loadViewsMap, loadFolderIDToTitleMap, loadTitleToFolderIDMap, loadSortKeys } from './GlobalJsonCache';
 import { renderStandardCard, renderStandardCompact, renderStandardList } from './Renderers';
 
@@ -25,6 +25,70 @@ const SORTS = [
   ['least-views', 'Least Views'],
 ];
 const SORT_KEYS = SORTS.map(([key]) => key);
+const DEFAULT_TYPE_COLOR = 'var(--primary)';
+const COLOR_GROUPS = {
+  '#4a7bd1': [
+    'animatronic shows',
+    'stage variations',
+    'animatronics',
+    'animatronic parts',
+    'animatronic preservation',
+    'retrofits',
+  ],
+  '#6354c7': [
+    'showtapes',
+    'live shows',
+    'showbiz pizza programs',
+    'showtape formats',
+    'family vision',
+  ],
+  '#d25931': [
+    'locations',
+    'cancelled locations',
+    'remodels and initiatives',
+    'arcades and attractions',
+    'store fixtures',
+    'menu items',
+    'tickets',
+    'tokens',
+    'walkarounds',
+    'employee wear',
+  ],
+  '#0d9488': [
+    'in-store merchandise',
+    'movies',
+    'video games',
+    'products',
+    'simulators',
+  ],
+  '#db7e2d': [
+    'animatronic control systems',
+    'programming systems',
+    'other systems',
+    'company media',
+    'puppets',
+    'corporate documents',
+    'documents',
+  ],
+  '#607f77ff': [
+    'social media and websites',
+    'promotional material',
+    'ad vehicles',
+    'events',
+    'commercials',
+  ],
+  '#2e8857ff': [
+    'companies/brands',
+    'history',
+    'characters',
+    'news footage',
+  ],
+};
+
+const TYPE_COLORS = Object.fromEntries(
+  Object.entries(COLOR_GROUPS).flatMap(([color, types]) => types.map((t) => [t, color]))
+);
+const typeColor = (type) => TYPE_COLORS[(type || '').toLowerCase()] || DEFAULT_TYPE_COLOR;
 const DATELESS = new Set(['photos', 'videos', 'reviews', 'user', 'steam comments', 'theories', 'meta', 'transcriptions']);
 
 let TagMap = null;
@@ -50,7 +114,6 @@ async function loadFolderIDToTags() {
 }
 
 const normalize = (s) => (s || '').toLowerCase().replace(/[‘’]/g, "'");
-const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 const titleCase = (s) => s.replace(/\b\w/g, (c) => c.toUpperCase());
 const sqlString = (s) => `'${s.replace(/'/g, "''")}'`;
 
@@ -103,8 +166,17 @@ function queryWords(text) {
     .filter(Boolean);
 }
 
-function ftsQuery(text, joiner = ' ') {
-  return queryWords(text).map((w) => `"${w.replace(/"/g, '')}" *`).join(joiner);
+function ftsQuery(text, mode = 'phrase') {
+  const clean = (s) => normalize(s).replace(/"/g, '').replace(/\s+/g, ' ').trim();
+  if (mode === 'phrase') {
+    if ((text || '').includes('"')) {
+      return queryWords(text).map(clean).filter(Boolean).map((p) => `"${p}" *`).join(' ');
+    }
+    const phrase = clean(text);
+    return phrase ? `"${phrase}" *` : '';
+  }
+  const words = queryWords(text).flatMap((w) => w.split(/\s+/)).map(clean).filter(Boolean);
+  return words.map((w) => `"${w}" *`).join(mode === 'or' ? ' OR ' : ' ');
 }
 
 function trigramSet(s) {
@@ -119,17 +191,6 @@ function dice(a, b) {
   let shared = 0;
   for (const t of small) if (big.has(t)) shared++;
   return (2 * shared) / (a.size + b.size);
-}
-
-function splitHighlight(text, words) {
-  const source = (text || '').replace(/[‘’]/g, "'");
-  const usable = [...new Set(words.filter((w) => w.length > 1))].sort((a, b) => b.length - a.length);
-  if (!usable.length || !source) return [{ text: source, hit: false }];
-  const re = new RegExp(`(${usable.map(escapeRegex).join('|')})`, 'gi');
-  return source
-    .split(re)
-    .map((part, i) => ({ text: part, hit: i % 2 === 1 }))
-    .filter((p) => p.text);
 }
 
 function splitMarked(text) {
@@ -242,9 +303,11 @@ async function textSearch(text) {
   const worker = await loadDb();
   if (!worker) return [];
   await debugSearchDb(worker, ftsQuery(text));
-  const hits = await queryChunks(worker, ftsQuery(text));
-  if (hits.length || words.length < 2) return hits;
-  return queryChunks(worker, ftsQuery(text, ' OR '));
+  const phraseHits = await queryChunks(worker, ftsQuery(text));
+  if (phraseHits.length || words.length < 2) return phraseHits;
+  const andHits = await queryChunks(worker, ftsQuery(text, 'and'));
+  if (andHits.length) return andHits;
+  return queryChunks(worker, ftsQuery(text, 'or'));
 }
 
 function titleSearch(text, d) {
@@ -351,9 +414,7 @@ function comparator(sort, d, pinned) {
 
 function Highlight(props) {
   return (
-    <For each={splitHighlight(props.text, props.words)}>
-      {(part) => (part.hit ? <mark>{part.text}</mark> : part.text)}
-    </For>
+    <>{highlightText(props.text, props.words)}</>
   );
 }
 
@@ -472,7 +533,7 @@ function renderedItem(render) {
     const [meta] = createResource(() => getMeta(props.entry.id));
     const [out] = createResource(
       () => (meta()?.title ? meta() : false),
-      (m) => render(m)
+      (m) => render(m, props.words)
     );
     return <Show when={out()}>{out()}</Show>;
   };
@@ -678,6 +739,7 @@ export function renderSearchPage() {
   const [sort, setSort] = createSignal(loadKey('sSort', 'relevancy', (v) => SORT_KEYS.includes(v)));
   const [view, setView] = createSignal(loadKey('sResultView', RESULT_VIEW_KEYS[0], (v) => RESULT_VIEW_KEYS.includes(v)));
   const [activeType, setActiveType] = createSignal('');
+  const [quietType, setQuietType] = createSignal(null);
   const [page, setPage] = createSignal(0);
 
   const [data] = createResource(loadSearchData);
@@ -787,16 +849,25 @@ const allList = createMemo(() => [...typeGroups()].flatMap(([, list]) => list));
               </label>
             </div>
 
-            <div class="SearchFilterGroup">
+            <div class="SearchFilterGroup SearchTypeGroup">
               <For each={filters()}>
                 {(f) => (
-                  <div class="SearchTypeFilter">
+                  <div
+                    class="SearchTypeFilter"
+                    classList={{ quiet: quietType() === f.key }}
+                    onMouseLeave={() => setQuietType(null)}
+                  >
                     <button
                       type="button"
-                      class="PinButton"
+                      class="SearchTypeButton"
                       classList={{ active: currentType() === f.key }}
+                      style={{ '--chip': typeColor(f.key) }}
                       aria-pressed={currentType() === f.key}
-                      onClick={() => setActiveType(f.key)}
+                      onClick={() => {
+                        setActiveType(f.key);
+                        setQuietType(f.key);
+                        document.activeElement?.blur();
+                      }}
                     >
                       {f.label} ({f.list.length})
                     </button>

@@ -13,17 +13,37 @@
     {
       "n": "Balcony Stage",
       "s": "1980-12-09",
-      "e": "1983-00-00"
+      "e": "1984-02-00"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "TAG Enterprises, Inc.",
+      "s": "1980-12-09",
+      "e": "1982-00-00"
+    },
+    {
+      "n": "Charter Management, Inc.",
+      "s": "1980-12-09",
+      "e": "1982-00-00"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
     "39.8258",
     "105.0532"
   ],
-  "citations": [],
+  "citations": [
+    "https://www.coloradohistoricnewspapers.org/?a=d&d=BRE19800821-01.2.24&srpos=5&e=--1980---1980--en-20--1--img-txIN%7CtxCO%7CtxTA-%22Pizza+Time+Theatre%22-------0------",
+    "https://www.coloradohistoricnewspapers.org/?a=d&d=GOT19801202-01.2.39&srpos=1&e=--1980---1980--en-20--1--img-txIN%7CtxCO%7CtxTA-%22Pizza+Time+Theatre%22-------0-----",
+    "https://www.coloradohistoricnewspapers.org/?a=d&d=WSL19801204-01.2.102&srpos=6&e=--1980---1980--en-20--1--img-txIN%7CtxCO%7CtxTA-%22Pizza+Time+Theatre%22-------0------",
+    "https://www.coloradohistoricnewspapers.org/?a=d&d=WSL19810108-01.2.77&srpos=1&e=-01-1981--02-1981--en-20--1--img-txIN%7CtxCO%7CtxTA-%22Chuck+E.+Cheese%22-------0------",
+    "https://www.coloradohistoricnewspapers.org/?a=d&d=WSL19810910-01.2.46.1&srpos=5&e=--1981---1981--en-20--1--img-txIN%7CtxCO%7CtxTA-%22Pizza+Time+Theatre%22-------0------ ",
+    "https://www.coloradohistoricnewspapers.org/?a=d&d=WSL19820520-01.2.69.1&srpos=1&e=--1982---1982--en-20--1--img-txIN%7CtxCO%7CtxTA-%22Pizza+Time+Theatre%22+%22Neiman%22-------0------",
+    "https://archive.org/details/the-pizza-times-newsletters/1983%20The%20Pizza%20Times%203-3/page/5/mode/1up?q=Westminister",
+    ""
+  ],
   "contributors": [
     "Getretrofit"
   ],

@@ -1,5 +1,5 @@
 import { createResource, createSignal, createEffect, untrack, Show, For,Switch, Match } from 'solid-js';
-import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks } from './GlobalFunctions';
+import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks, highlightText } from './GlobalFunctions';
 import { marked } from 'marked';
 import { searchPath } from './SearchPage';
 import { loadFolderIDToTitleMap,loadTypeToIDList, loadViewsMap, loadDiscourseNews,loadDiscourseRecent, loadRecentFanVideos,loadRecentOfficialVideos }  from './GlobalJsonCache'
@@ -120,7 +120,7 @@ export function renderManualCard({ link, thumbnailSrc, title, dateText, views, e
   );
 }
 
-export async function renderStandardCard(meta) {
+export async function renderStandardCard(meta, words = []) {
   const link = await fetchFolderIDFromTitle(meta.title);
   const type = (meta.type || '').toLowerCase();
   const typeClass = type.replace(/s$/, '').replace(/[^a-z0-9]+/g, '-'); 
@@ -152,7 +152,7 @@ export async function renderStandardCard(meta) {
       <div class={`CardTextArea${t}`}>
         <div class={`CardLink${t}`}>
           <span>
-            <a href={getFolderPath(link)}>{label}</a>
+            <a href={getFolderPath(link)}>{highlightText(label, words)}</a>
           </span>
         </div>
         <div class={`CardText${t}`}>
@@ -193,7 +193,7 @@ async function loadCardData(meta) {
   return { link, label, dates, views: viewsMap[link], t: typeClass ? ` type-${typeClass}` : '' };
 }
 
-export async function renderStandardCompact(meta) {
+export async function renderStandardCompact(meta, words = []) {
   const { link, label, dates, views, t } = await loadCardData(meta);
   const pageThumbnail = await fetchThumbnailWLinkToArticle(meta);
 
@@ -202,7 +202,7 @@ export async function renderStandardCompact(meta) {
       <div class={`CompactImage${t}`}>{pageThumbnail}</div>
       <div class={`CompactText${t}`}>
         <div class={`CompactTitle${t}`}>
-          <a href={getFolderPath(link)}>{label}</a>
+          <a href={getFolderPath(link)}>{highlightText(label, words)}</a>
         </div>
         <div class={`CompactMeta${t}`}>
           <strong>{dates}</strong> 👁{views}
@@ -212,12 +212,12 @@ export async function renderStandardCompact(meta) {
   );
 }
 
-export async function renderStandardList(meta) {
+export async function renderStandardList(meta, words = []) {
   const { link, label, dates, views, t } = await loadCardData(meta);
 
   return (
     <div class={`ListRow fade-in${t}`}>
-      <a href={getFolderPath(link)}>{label}</a>
+      <a href={getFolderPath(link)}>{highlightText(label, words)}</a>
       <span class="ListMeta">
         <strong>{dates}</strong> 👁{views}
       </span>
