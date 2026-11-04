@@ -1,7 +1,7 @@
 import { createResource, createSignal, createEffect, createMemo, untrack, onCleanup, Show, For } from 'solid-js';
 import { Dynamic } from 'solid-js/web';
 import { fetchMeta, fetchContent, fetchOld, fetchFolderIDFromTitle, getFolderPath, getCurrentView, convertStartDate, convertEndDate, loadKey, saveKey, highlightText } from './GlobalFunctions';
-import { loadTypeToIDList, loadViewsMap, loadFolderIDToTitleMap, loadTitleToFolderIDMap, loadSortKeys } from './GlobalJsonCache';
+import { loadTypeToIDList, loadViewsMap, loadFolderIDToTitleMap, loadTitleToFolderIDMap, loadSortKeys, loadFolderIDToTags } from './GlobalJsonCache';
 import { renderStandardCard, renderStandardCompact, renderStandardList } from './Renderers';
 
 const SEARCH_DB_URL = '/viewers/cep-solid/compiled-json/search.sqlite';
@@ -14,7 +14,7 @@ const MAX_SUGGESTIONS = 8;
 const MAX_CARD_TAGS = 5;
 const EXCERPT_LENGTH = 200;
 const TITLE_FUZZY_MIN = 0.5;
-const PAGE_SIZE = 50;
+export const PAGE_SIZE = 50;
 const SORTS = [
   ['relevancy', 'Relevancy'],
   ['oldest', 'Oldest → Newest'],
@@ -67,12 +67,10 @@ const COLOR_GROUPS = {
     'other systems',
     'company media',
     'puppets',
-    'corporate documents',
     'documents',
   ],
   '#607f77ff': [
     'social media and websites',
-    'promotional material',
     'ad vehicles',
     'events',
     'commercials',
@@ -92,7 +90,6 @@ const typeColor = (type) => TYPE_COLORS[(type || '').toLowerCase()] || DEFAULT_T
 const DATELESS = new Set(['photos', 'videos', 'reviews', 'user', 'steam comments', 'theories', 'meta', 'transcriptions']);
 
 let TagMap = null;
-let FolderIDToTags = null;
 let searchDataPromise = null;
 let dbPromise = null;
 const metaCache = new Map();
@@ -103,14 +100,6 @@ async function loadTags() {
     TagMap = await res.json();
   }
   return TagMap;
-}
-
-async function loadFolderIDToTags() {
-  if (!FolderIDToTags) {
-    const res = await fetch('/viewers/cep-solid/compiled-json/folderIDToTags.json');
-    FolderIDToTags = await res.json();
-  }
-  return FolderIDToTags;
 }
 
 const normalize = (s) => (s || '').toLowerCase().replace(/[‘’]/g, "'");
@@ -215,7 +204,7 @@ function readSearchURL() {
   };
 }
 
-function loadSearchData() {
+export function loadSearchData() {
   if (!searchDataPromise) {
     searchDataPromise = Promise.all([
       loadTags(),
@@ -449,7 +438,36 @@ function Thumb(props) {
   );
 }
 
-function ResultList(props) {
+export function TagList(props) {
+  const [showAll, setShowAll] = createSignal(false);
+  const shown = () => (showAll() ? props.tags : props.tags.slice(0, MAX_CARD_TAGS));
+  const active = () => new Set((props.active || []).map((t) => t.toLowerCase()));
+
+  return (
+    <Show when={props.tags?.length}>
+      <div class="ResultTags">
+        <For each={shown()}>
+          {(tag) => (
+            <a
+              class="ResultTag"
+              classList={{ active: active().has(tag.toLowerCase()) }}
+              href={searchPath([tag])}
+            >
+              {tag}
+            </a>
+          )}
+        </For>
+        <Show when={!showAll() && props.tags.length > MAX_CARD_TAGS}>
+          <button type="button" class="ResultTag ResultTagMore" onClick={() => setShowAll(true)}>
+            . . .
+          </button>
+        </Show>
+      </div>
+    </Show>
+  );
+}
+
+export function ResultList(props) {
   const id = props.entry.id;
   const [meta] = createResource(() => getMeta(id));
   const [thumbID] = createResource(
@@ -460,12 +478,9 @@ function ResultList(props) {
   const isPhoto = () => type() === 'photos';
   const [excerpt] = createResource(() => (props.entry.found || isPhoto() ? false : id), getExcerpt);
   const [caption] = createResource(() => (isPhoto() ? id : false), (i) => fetchContent(i).catch(() => ''));
-  const [showAll, setShowAll] = createSignal(false);
 
   const title = () => (isPhoto() && caption()?.trim()) || meta()?.title || props.data.idTitle[id] || id;
   const tags = () => props.data.idTags[id] || [];
-  const shownTags = () => (showAll() ? tags() : tags().slice(0, MAX_CARD_TAGS));
-  const activeTags = () => new Set(props.tags.map((t) => t.toLowerCase()));
 
   return (
     <div class="Result ResultList fade-in">
@@ -492,24 +507,7 @@ function ResultList(props) {
             {" "}👁{props.data.views[id] || 0}
           </Show>
         </div>
-        <div class="ResultTags">
-          <For each={shownTags()}>
-            {(tag) => (
-              <a
-                class="ResultTag"
-                classList={{ active: activeTags().has(tag.toLowerCase()) }}
-                href={searchPath([tag])}
-              >
-                {tag}
-              </a>
-            )}
-          </For>
-          <Show when={!showAll() && tags().length > MAX_CARD_TAGS}>
-            <button type="button" class="ResultTag ResultTagMore" onClick={() => setShowAll(true)}>
-              . . .
-            </button>
-          </Show>
-        </div>
+        <TagList tags={tags()} active={props.tags} />
         <Show when={!isPhoto()}>
           <div class="ResultSummary">
             <Show
@@ -525,6 +523,7 @@ function ResultList(props) {
         </Show>
       </div>
     </div>
+    
   );
 }
 
@@ -566,7 +565,7 @@ function ResultItems(props) {
   );
 }
 
-function Pager(props) {
+export function Pager(props) {
   const shown = () => {
     const out = [];
     let prev = -1;

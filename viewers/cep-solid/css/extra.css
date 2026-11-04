@@ -1070,6 +1070,16 @@ sup a:hover {
   background: var(--secondary);
 }
 
+a.PinButton {
+  background-color: var(--good-link);
+  color: var(--dark);
+}
+
+a.PinButton:hover {
+  background-color: var(--good-link);
+  color: var(--text);
+}
+
 .PinButton.active{
   background: var(--primary);
 }
@@ -1382,6 +1392,7 @@ sup a:hover {
   border-radius: 1em;
   display: flex;
   margin: auto;
+  margin-top: 1rem;
 }
 
 .ProseMirror{

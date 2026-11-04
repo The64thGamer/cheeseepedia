@@ -7,6 +7,23 @@ let DiscourseRecent = null;
 let RecentFanVideos = null;
 let RecentOfficialVideos = null;
 let SortKeys = null;
+let TaggedByIDs = null;
+let FolderIDToTags = null;
+
+export async function loadFolderIDToTags() {
+  if (!FolderIDToTags) {
+    const res = await fetch('/viewers/cep-solid/compiled-json/folderIDToTags.json');
+    FolderIDToTags = await res.json();
+  }
+  return FolderIDToTags;
+}
+export async function loadTaggedByIDs() {
+  if (!TaggedByIDs) {
+    const res = await fetch('/viewers/cep-solid/compiled-json/taggedByIDs.json');
+    TaggedByIDs = await res.json();
+  }
+  return TaggedByIDs;
+}
 
 export async function loadSortKeys() {
   if (!SortKeys) {

@@ -107,6 +107,9 @@ OUT_RECENT_FAN_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-
 OUT_RECENT_OFFICIAL_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentofficialvideos.json")
 RECENT_VIDEOS_COUNT = 15
 THUMB_FIELD = "pageThumbnailVideo"
+THUMB_FILE_FIELD = "pageThumbnailFile"
+TAGGED_BY_TYPES = {"steam comments", "reviews", "videos", "photos", "transcriptions"}
+OUT_TAGGED_BY = os.path.join(os.path.dirname(__file__), "..", "compiled-json/taggedByIDs.json")
 THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
 PHOTO_SIM_BITS = 16
 PHOTO_HASH_CACHE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/photo_hashes.json")
@@ -115,6 +118,7 @@ MEDIA_TYPES = {"Photos", "Videos"}
 ID_ALPHABET = string.ascii_lowercase + string.digits
 PREFETCH = 3
 MAX_SUGGESTIONS = 8
+NO_BODY_TAG_TYPES = {"transcriptions", "videos"}
 
 USE_COLOR = sys.stdout.isatty() and "NO_COLOR" not in os.environ
 if USE_COLOR and os.name == "nt":
@@ -180,9 +184,12 @@ def main():
     id_to_title = build_id_to_title_map(title_to_id)
     type_to_ids = build_type_to_ids()
     
+    force_image_thumbnails()
     sort_keys = build_sort_keys()
     write_json(sort_keys, OUT_SORT_KEYS)
     tags, id_tags = build_tags()
+    tagged_by = build_tagged_by(tags)
+    write_json(tagged_by, OUT_TAGGED_BY)
     write_json(tags, OUT_TAGS)
     write_json(id_tags, OUT_ID_TO_TAGS)
     write_json(type_to_ids, OUT_TYPE_TO_IDS)
@@ -197,6 +204,7 @@ def main():
     print(green(f'Wrote {len(id_to_title)} ids -> {OUT_ID_TO_TITLE}'))
     print(green(f'Wrote {len(type_to_ids)} types -> {OUT_TYPE_TO_IDS}'))
     print(green(f'Wrote {len(sort_keys)} sort keys -> {OUT_SORT_KEYS}'))
+    print(green(f'Wrote {len(tagged_by)} tagged-by lists -> {OUT_TAGGED_BY}'))
     print(green(f'Wrote {len(tags)} tags -> {OUT_TAGS}'))
     print(green(f'Wrote {len(id_tags)} articles with tags -> {OUT_ID_TO_TAGS}'))
     print(green(f'Wrote {len(recent_fan)} recent fan videos -> {OUT_RECENT_FAN_VIDEOS}'))
@@ -446,7 +454,7 @@ def build_tags():
             continue
         seen = set()
         article_tags = extract_meta_tags(meta)
-        if (meta.get('type') or '').strip().lower() != 'transcription':
+        if (meta.get('type') or '').strip().lower() not in NO_BODY_TAG_TYPES:
             article_tags += extract_body_tags(read_body(folder))
         for tag in article_tags:
             key = tag.lower()
@@ -457,6 +465,65 @@ def build_tags():
             tag_idx.setdefault(name, []).append(folder.name)
             id_tags.setdefault(folder.name, []).append(name)
     return tag_idx, id_tags
+
+
+def force_image_thumbnails():
+    first_image = {}
+    for folder in sorted(Path(CONTENT_DIR).iterdir()):
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        if (meta.get('type') or '').strip().lower() != 'photos':
+            continue
+        title = (meta.get('title') or '').strip()
+        if not title:
+            continue
+        for field in DICT_TAG_FIELDS + STRING_TAG_FIELDS:
+            val = meta.get(field)
+            if not val:
+                continue
+            for item in (val if isinstance(val, list) else [val]):
+                name = tag_name(item).lower()
+                if name:
+                    first_image.setdefault(name, title)
+
+    updated = 0
+    for folder in sorted(Path(CONTENT_DIR).iterdir()):
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        title = (meta.get('title') or '').strip()
+        if not title or meta.get(THUMB_FILE_FIELD):
+            continue
+        image = first_image.get(title.lower())
+        if not image or image == title:
+            continue
+        raw = (folder / "meta.json").read_text(encoding="utf-8-sig")
+        meta[THUMB_FILE_FIELD] = image
+        indent = 2 if "\n" in raw.strip() else None
+        (folder / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=indent), encoding="utf-8")
+        updated += 1
+    print(green(f"Set {THUMB_FILE_FIELD} on {updated} article(s)"))
+
+
+def build_tagged_by(tags):
+    lookup = {name.lower(): ids for name, ids in tags.items()}
+    types, titles = {}, {}
+    for folder in sorted(Path(CONTENT_DIR).iterdir()):
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        if not meta:
+            continue
+        types[folder.name] = (meta.get('type') or '').strip().lower()
+        titles[folder.name] = (meta.get('title') or '').strip().lower()
+    result = {}
+    for folder_id, title in titles.items():
+        ids = lookup.get(title, []) if title else []
+        matched = [i for i in ids if i != folder_id and types.get(i) in TAGGED_BY_TYPES]
+        if matched:
+            result[folder_id] = matched
+    return result
 
 
 def is_official(meta):

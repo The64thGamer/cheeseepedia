@@ -1,9 +1,10 @@
-import { createResource, createSignal, createEffect, untrack, Show, For,Switch, Match } from 'solid-js';
+import { createResource, createSignal, createEffect, createMemo, untrack, Show, For, Switch, Match } from 'solid-js';
+import { searchPath, ResultList, loadSearchData, TagList, Pager, PAGE_SIZE } from './SearchPage';
+import { loadFolderIDToTitleMap, loadTypeToIDList, loadViewsMap, loadDiscourseNews, loadDiscourseRecent, loadRecentFanVideos, loadRecentOfficialVideos, loadTaggedByIDs, loadFolderIDToTags } from './GlobalJsonCache';
 import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks, highlightText } from './GlobalFunctions';
 import { marked } from 'marked';
-import { searchPath } from './SearchPage';
-import { loadFolderIDToTitleMap,loadTypeToIDList, loadViewsMap, loadDiscourseNews,loadDiscourseRecent, loadRecentFanVideos,loadRecentOfficialVideos }  from './GlobalJsonCache'
 import { fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll} from './GlobalFunctions';
+
 
 const EXCLUDE = new Set(['photos','videos','reviews','user','steam comments','theories','meta','transcriptions']);
 const TABS = {
@@ -18,8 +19,8 @@ const NAV_GROUPS = [
   { name: 'Showtapes', tags: ['Showtapes', 'Live Shows', 'ShowBiz Pizza Programs', 'Showtape Formats', 'Family Vision'] },
   { name: 'Locations', tags: ['Locations', 'Cancelled Locations', 'Remodels and Initiatives', 'Arcades and Attractions', 'Store Fixtures', 'Menu Items', 'Tickets', 'Tokens', 'Walkarounds', 'Employee Wear'] },
   { name: 'Merchandise', tags: ['In-Store Merchandise', 'Movies', 'Video Games', 'Products', 'Simulators'] },
-  { name: 'Corporate', tags: ['Animatronic Control Systems', 'Programming Systems', 'Other Systems', 'Company Media', 'Puppets', 'Corporate Documents', 'Documents'] },
-  { name: 'Advertising', tags: ['Social Media and Websites', 'Promotional Material', 'Ad Vehicles', 'Events', 'Commercials'] },
+  { name: 'Corporate', tags: ['Animatronic Control Systems', 'Programming Systems', 'Other Systems', 'Company Media', 'Puppets', 'Documents'] },
+  { name: 'Advertising', tags: ['Social Media and Websites','Ad Vehicles', 'Events', 'Commercials'] },
   { name: 'History', tags: ['Companies/Brands', 'History', 'Characters', 'News Footage'] },
 ];
 const MAX_RANDOM_CARDS = 15;
@@ -29,6 +30,182 @@ const LOGOS = {
     fnaf: 'LogoFNaF.avif', italy: 'LogoPasqually.avif', winter: 'LogoWinter.avif',
     halloween: 'LogoHalloween.avif', pride: 'LogoPride.avif', anniversary: 'LogoAnniversary.avif',
   };
+const EDITOR_URL = 'https://cheeseepedia.org/?v=cep-editor';
+
+function renderTaggedList(type, ids, data) {
+  switch (type.toLowerCase()) {
+    default:
+      return (
+        <For each={ids}>
+          {(id) => <ResultList entry={{ id, found: null }} data={data} words={[]} tags={[]} />}
+        </For>
+      );
+  }
+}
+const FAVICON_BASE = '/viewers/cep-js/compiled-json/favicons';
+
+const stripProto = (s) => s.replace(/^https?:\/\/(www\.)?/, '');
+const faviconName = (d) => stripProto(d).replace(/[^\w\-.]/g, '_') + '.png';
+const isUrl = (s) => /^https?:\/\//i.test(s);
+const getDomain = (url) => {
+  try { return new URL(url).hostname.replace(/^www\./, ''); } catch { return null; }
+};
+const getOrigin = (url) => {
+  try { return stripProto(new URL(url).origin); } catch { return null; }
+};
+
+function Citation(props) {
+  const n = () => props.index + 1;
+  const url = () => isUrl(props.cite);
+  const domain = () => (url() ? getDomain(props.cite) : null);
+
+  return (
+    <div class="CitationItem" id={`cite-${n()}`}>
+      <div class="CitationIcon">
+        <Show when={domain()}>
+          <img
+            alt={domain()}
+            src={`${FAVICON_BASE}/${faviconName(domain())}`}
+            onError={(e) => (e.currentTarget.style.display = 'none')}
+          />
+        </Show>
+      </div>
+      <div class="CitationText">
+        <Show
+          when={url()}
+          fallback={<span class="CitationTitle">{n()}. {props.cite}</span>}
+        >
+          <a class="CitationTitle" href={props.cite} target="_blank" rel="noopener">
+            {n()}. {getOrigin(props.cite) || domain() || props.cite}
+          </a>
+          <a class="CitationUrl" href={props.cite} target="_blank" rel="noopener">
+            {stripProto(props.cite)}
+          </a>
+        </Show>
+      </div>
+    </div>
+  );
+}
+
+function Citations(props) {
+  return (
+    <Show when={props.citations?.length}>
+      <div class="Citations">
+        <h2>Citations</h2>
+        <For each={props.citations}>
+          {(cite, i) => <Citation cite={cite} index={i()} />}
+        </For>
+      </div>
+    </Show>
+  );
+}
+function ArticleTags(props) {
+  const [idTags] = createResource(loadFolderIDToTags);
+
+  return (
+    <Show when={idTags()?.[props.folderID]?.length}>
+      <h2>Tags</h2>
+      <TagList tags={idTags()[props.folderID]} />
+    </Show>
+  );
+}
+
+function EditPageButton(props) {
+  return (
+    <div class="ArticleTabs">
+      <a class="PinButton" href={`${EDITOR_URL}&=${props.folderID}`}>Edit Page</a>
+    </div>
+  );
+}
+
+function ArticleTabs(props) {
+  const folderID = () => props.meta.folderID;
+  const [active, setActive] = createSignal('Article');
+  const [page, setPage] = createSignal(0);
+
+  const selectTab = (name) => {
+    setActive(name);
+    setPage(0);
+  };
+
+  const pages = () => Math.max(1, Math.ceil((groups().get(active())?.length || 0) / PAGE_SIZE));
+  const pageIds = () => (groups().get(active()) || []).slice(page() * PAGE_SIZE, (page() + 1) * PAGE_SIZE);
+
+  const goToPage = (i) => {
+    setPage(i);
+    window.scrollTo({ top: 0 });
+  };
+  const [loaded] = createResource(() => Promise.all([loadTaggedByIDs(), loadSearchData()]));
+
+  const groups = createMemo(() => {
+    const result = new Map();
+    if (!loaded()) return result;
+    const [tagged, data] = loaded();
+    for (const id of tagged[folderID()] || []) {
+      const type = data.idType[id] || 'other';
+      if (!result.has(type)) result.set(type, []);
+      result.get(type).push(id);
+    }
+    return result;
+  });
+
+  const titleCase = (s) => s.replace(/\b\w/g, (c) => c.toUpperCase());
+
+  const editLinks = () => [
+    { name: 'Edit Page', href: `${EDITOR_URL}&=${folderID()}` },
+    { name: 'Add Review', href: `${EDITOR_URL}&type=Review&tag=${folderID()}` },
+    { name: 'Add Images', href: `${EDITOR_URL}&type=Photos&tag=${folderID()}` },
+    { name: 'Add Video', href: `${EDITOR_URL}&type=Videos&tag=${folderID()}` },
+  ];
+
+  return (
+    <>
+      <div class="ArticleTabs">
+        <For each={editLinks()}>
+          {(link) => <a class="PinButton" href={link.href}>{link.name}</a>}
+        </For>
+      </div>
+      <Show when={groups().size}>
+        <div>
+          <button
+            type="button"
+            class="PinButton"
+            classList={{ active: active() === 'Article' }}
+            aria-pressed={active() === 'Article'}
+            onClick={() => selectTab('Article')}
+          >
+            Article
+          </button>
+          <For each={[...groups()]}>
+            {([type, ids]) => (
+              <button
+                type="button"
+                class="PinButton"
+                classList={{ active: active() === type }}
+                aria-pressed={active() === type}
+                onClick={() => selectTab(type)}
+              >
+                {titleCase(type)} ({ids.length})
+              </button>
+            )}
+          </For>
+        </div>
+      </Show>
+      <div style={{ display: active() === 'Article' ? '' : 'none' }}>
+        {props.children}
+      </div>
+      <Show when={active() !== 'Article' && loaded() && groups().get(active())}>
+        <div class="TaggedList fade-in">
+          <Show when={page() > 0}>
+            <Pager page={page()} pages={pages()} onPage={goToPage} />
+          </Show>
+          {renderTaggedList(active(), pageIds(), loaded()[1])}
+          <Pager page={page()} pages={pages()} onPage={goToPage} />
+        </div>
+      </Show>
+    </>
+  );
+}
 
 export function renderArticle(meta){
 
@@ -63,8 +240,6 @@ export function renderArticle(meta){
     case "Tickets":
     case "Tokens":
     case "Documents":
-    case "Corporate Documents":
-    case "Promotional Material":
     case "Events":
     case "Remodels and Initiatives":
     case "Retrofits":
@@ -254,10 +429,10 @@ export function renderHome() {
       <div class="Homepage">
         <center>
           Welcome to Cheese-E-Pedia! This unofficial wiki is the archive for all things animatronics!
-          <br />
-          Use the search above to explore our site! Something not listed here? Help contribute or <a href="/?v=cep-editor">create a new page!</a>
           <br/>
-          IMPORTANT! You're using a test version of the site, <a href="/?v=cep-js">click here</a> to return to the default viewer!
+          Use the search above to explore our site! Something not listed here? Help contribute or <a href="/?v=cep-editor">create a new page!</a>
+          <br/><br/>
+          IMPORTANT! You are using a test version of the site, <a href="/?v=cep-js">click here</a> to return to the default viewer!
         </center>
 
         <h2>News</h2>
@@ -639,6 +814,7 @@ export function renderVideoArticle(meta) {
   return (
     <>
       <h1 class="article-title">{meta.title}</h1>
+      <EditPageButton folderID={meta.folderID} />
       <div class="ArticleBody type-video">
         <VideoEmbed url={meta.pageThumbnailVideo} />
         <div class="content fade-in type-video">
@@ -657,6 +833,8 @@ export function renderVideoArticle(meta) {
             </Show>
           </Show>
         </div>
+        <Citations citations={meta.citations} />
+        <ArticleTags folderID={meta.folderID}/>
       </div>
     </>
   );
@@ -680,6 +858,7 @@ export function renderPhotoArticle(meta) {
   return (
     <>
       <h1 class="article-title">{meta.title}</h1>
+      <EditPageButton folderID={meta.folderID} />
       <div class="ArticleBody type-photo">
         <div class="ArticlePhoto fade-in type-photo">
           <Show when={!photo.loading && photo()}>{photo()}</Show>
@@ -700,6 +879,8 @@ export function renderPhotoArticle(meta) {
             </Show>
           </Show>
         </div>
+        <Citations citations={meta.citations} />
+        <ArticleTags folderID={meta.folderID}/>
       </div>
     </>
   );
@@ -727,6 +908,7 @@ export function renderStandardArticle(meta) {
   return (
     <>
       <h1 class="article-title">{meta.title}</h1>
+      <ArticleTabs meta={meta}>
       <div class="ArticleBody">
         <div class="infobox fade-in">
           <div class="infobox-thumbnail">
@@ -800,7 +982,6 @@ export function renderStandardArticle(meta) {
             {map()}
           </Show>
         </div>
-
         <div class="content fade-in">
           <Show when={!content.loading} fallback={<div>Loading…</div>}>
             <Show
@@ -816,7 +997,10 @@ export function renderStandardArticle(meta) {
             </Show>
           </Show>
         </div>
+        <Citations citations={meta.citations} />
       </div>
+      </ArticleTabs>
+      <ArticleTags folderID={meta.folderID}/>
     </>
   );
 }

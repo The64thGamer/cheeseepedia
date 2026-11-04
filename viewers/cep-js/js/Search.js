@@ -26,7 +26,7 @@ const QUICK_TAGS_LIST = [
   "Events","Animatronic Control Systems","Other Systems","Simulators",
   "Programming Systems","Commercials","News Footage","Company Media","Movies",
   "Puppets","Live Shows","ShowBiz Pizza Programs","Showtape Formats","Family Vision",
-  "Corporate Documents","Documents","Promotional Material","Social Media and Websites",
+  "Documents","Social Media and Websites",
   "Ad Vehicles","In-Store Merchandise","Products","Menu Items","Tickets","Tokens",
   "Employee Wear","Video Games","Sally Corporation","Jim Henson's Creature Shop",
   "Walt Disney Imagineering","Five Nights at Freddy's","Transcriptions",

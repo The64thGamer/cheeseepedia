@@ -79,6 +79,7 @@ a {
   overflow: hidden;
   background: var(--primary);
   color: var(--dark);
+  margin-top:-3rem;
 }
 
 .infobox strong {
@@ -165,6 +166,16 @@ a {
 
 .ArticleBody tbody tr:hover {
   background: color-mix(in srgb, var(--primary) 15%, transparent);
+}
+
+.article-title{
+  margin:0;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.ArticleTabs{
+  margin-bottom: 0.5rem;
 }
 
 .infobox-thumbnail {
@@ -868,6 +879,7 @@ select{
     max-width: 100vw;
     display: block;
     overflow-x: auto;
+    margin-top:0;
   }
 
   .ArticleBody table {
