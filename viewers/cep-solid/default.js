@@ -3746,7 +3746,7 @@ We([
 ]);
 //#endregion
 //#region src/Renderers.jsx
-var Ma = /*#__PURE__*/ F("<div class=ResultCards>"), Na = /*#__PURE__*/ F("<div>"), Pa = /*#__PURE__*/ F("<img>"), Fa = /*#__PURE__*/ F("<a class=CitationTitle target=_blank rel=noopener>. "), Ia = /*#__PURE__*/ F("<a class=CitationUrl target=_blank rel=noopener>"), La = /*#__PURE__*/ F("<div class=CitationItem><div class=CitationIcon></div><div class=CitationText>"), Ra = /*#__PURE__*/ F("<span class=CitationTitle>. "), za = /*#__PURE__*/ F("<div class=Citations><h2>Citations"), Ba = /*#__PURE__*/ F("<h2>Tags"), Va = /*#__PURE__*/ F("<div class=ArticleTabs><a class=PinButton>Edit Page"), Ha = /*#__PURE__*/ F("<button type=button class=PinButton>Article"), Ua = /*#__PURE__*/ F("<div class=ArticleTabs><select class=PinButton value><option value disabled hidden selected>Edit"), Wa = /*#__PURE__*/ F("<div class=\"TaggedList fade-in\">"), Ga = /*#__PURE__*/ F("<option>"), Ka = /*#__PURE__*/ F("<button type=button class=PinButton> (<!>)"), qa = /*#__PURE__*/ F("<div class=\"Card fade-in\"><div class=CardImage></div><div class=CardTextArea><div class=CardLink><span><a></a></span></div><div class=CardText><strong></strong> 👁"), Ja = /*#__PURE__*/ F("<a><img loading=lazy>", !0, !1, !1), Ya = /*#__PURE__*/ F("<a class=CardImageExcerpt>"), Xa = /*#__PURE__*/ F("<span class=ReviewEmoji>"), Za = /*#__PURE__*/ F("<div class=\"ReviewCard fade-in\"><div class=ReviewTitle><a></a></div><div class=ReviewMeta></div><div class=ReviewBody>"), Qa = /*#__PURE__*/ F("<span class=PostTime>"), $a = /*#__PURE__*/ F("<span class=PostDeleted>[Deleted]"), eo = /*#__PURE__*/ F("<h3 class=PostTitle>"), to = /*#__PURE__*/ F("<div class=PostSubject>"), no = /*#__PURE__*/ F("<div class=SteamPostBox><div class=SteamAvatar></div><div class=SteamPostContent><div class=PostHeaderMeta><span class=PostAuthor>"), ro = /*#__PURE__*/ F("<span class=CommentTime>"), io = /*#__PURE__*/ F("<blockquote class=CommentQuote>"), ao = /*#__PURE__*/ F("<div class=CommentSubject>"), oo = /*#__PURE__*/ F("<div class=SteamPostBox><div class=SteamAvatar style=\"background-image:url('/viewers/cep-js/assets/Social Posts/Scott.jpg')\"></div><div class=SteamPostContent><div class=CommentHeaderMeta><span class=PostAuthor><span style=color:#aedd08>Scott</span> <span style=color:#e9d528>[developer]"), so = /*#__PURE__*/ F("<div class=\"SteamCommentBody fade-in\"><div class=SteamCommentHeader><a></a></div><div class=SteamCommentPreview>"), co = /*#__PURE__*/ F("<div><div></div><div><div><span><a></a></span></div><div><strong></strong> 👁"), lo = /*#__PURE__*/ F("<div><div></div><div><div><a></a></div><div><strong></strong> 👁"), uo = /*#__PURE__*/ F("<div><a></a><span class=ListMeta><strong></strong> 👁"), fo = /*#__PURE__*/ F("<div class=404>You've found an article that doesn't exist yet! Click the logo to head back home."), po = /*#__PURE__*/ F("<br>"), mo = /*#__PURE__*/ F("<div class=Homepage><center>Welcome to Cheese-E-Pedia! This unofficial wiki is the archive for all things animatronics!<br>Use the search above to explore our site! Something not listed here? Help contribute or <a href=\"/?v=cep-editor\">create a new page!</a><br><br><strong>IMPORTANT! You are using an in-development test version of the site, <a href=\"/?v=cep-js\">click here</a> to return to the default viewer! Otherwise thanks for testing this out, I hope this will give you a better experience searching and browsing through the pages. Leave feedback on the <a href=https://forum.cheeseepedia.org/t/cep-solid-wiki-overhaul/485/43>forum thread</a> as this will become the default by likely end of year!</strong></center><h2>News</h2><h2>Wiki</h2><h2>Community"), ho = /*#__PURE__*/ F("<div class=Carousel>"), go = /*#__PURE__*/ F("<nav class=Nav>"), _o = /*#__PURE__*/ F("<details><summary><a></a></summary><div>"), vo = /*#__PURE__*/ F("<a>"), yo = /*#__PURE__*/ F("<div class=Footer>Last build on: <span id=StatBuildDate>???</span>. Content is available under CC BY-SA 4.0. and rehostable. Cheese-E-Pedia is not associated with any person, company, or entity in its articles. <a href=https://youtu.be/Vce1hFNVI1o>All</a> rights <a href=https://vyletpony.bandcamp.com/track/falling-in-love-with-a-corporate-illustration>reserved</a> for <a href=https://youtu.be/y8LVM3rVSM4>our</a> lovely <a href=https://vyletpony.bandcamp.com/track/webpunk-ft-nekosnicker>trans</a> queers <a href=https://youtu.be/hdus_rz7O3o>forever</a>! <a href=https://www.tumblr.com/ytpforyouandme/728755424298401793>Corporations</a> should rot in <a href=https://stomachbook.bandcamp.com/track/my-diorama>hell</a>, keep things <a href=https://youtu.be/tkUgOT22F5s>independent</a> and <a href=https://crimethinc.com/>community</a> focused, and no <a href=https://consumerrights.wiki/w/Main_Page>gatekeepers!</a><br><br><a href=\"/?v=cep-solid&amp;=75z6oyfn7xf7t4ol\">About</a> • <a href=\"/?v=cep-solid&amp;=434ngf34ngjktegrgt\">Privacy Policy</a> • <a href=\"/?v=cep-solid&amp;=o2eldeduwff18fw2\">Rules</a> • <a href=\"/?v=cep-solid&amp;=v144sposbsi3z29v\">FAQ</a> • <a href=\"/?v=cep-solid&amp;page=stats\">Nerd Stuff</a> • <a href=\"/?v=cep-solid&amp;=434ngf34ngjktegrfh\">Manual</a> • <a href=\"/?v=cep-solid&amp;page=settings\">Settings"), bo = /*#__PURE__*/ F("<div class=SplashText>"), xo = /*#__PURE__*/ F("<div class=Header><a href=\"/?v=cep-solid\"class=Logo><img alt=Cheesepedia></a><div class=FlavorText>Now at <strong><span id=StatArticles>????</span></strong> articles contributed by <strong><span id=StatContributors>???</span></strong> users.<br>Discussions available on the <strong><a href=https://forum.cheeseepedia.org/>Forums!"), So = /*#__PURE__*/ F("<button type=button class=PinButton>"), Co = /*#__PURE__*/ F("<div class=TabPanel>"), wo = /*#__PURE__*/ F("<h2>Cheese-E-Shuffle"), To = /*#__PURE__*/ F("<div>Loading…"), Eo = /*#__PURE__*/ F("<div>Nothing found."), Do = /*#__PURE__*/ F("<div id=RandomCards class=Carousel>"), Oo = /*#__PURE__*/ F("<div class=infobox-list><strong>:</strong><ul>"), ko = /*#__PURE__*/ F("<iframe title=Video loading=lazy allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen\"allowfullscreen referrerpolicy=strict-origin-when-cross-origin>", !0, !1, !1), Ao = /*#__PURE__*/ F("<video controls preload=metadata>"), jo = /*#__PURE__*/ F("<a class=VideoLink target=_blank rel=\"noopener noreferrer\">"), Mo = /*#__PURE__*/ F("<div class=\"VideoEmbed fade-in\">"), No = /*#__PURE__*/ F("<h1 class=article-title>"), Po = /*#__PURE__*/ F("<div class=OldWarning>The following article content is unsourced, in an old formatting, and needs to be rewritten. Any new text added to the page will hide this previous content."), Fo = /*#__PURE__*/ F("<div class=fade-in>"), Io = /*#__PURE__*/ F("<div class=\"ArticleBody type-video\"><div class=\"content fade-in type-video\"><h2>Video Transcription"), Lo = /*#__PURE__*/ F("<div class=\"NoContent fade-in\">No transcription provided by source."), Ro = /*#__PURE__*/ F("<div class=\"PhotoCompact fade-in\"><a class=PhotoCompactImage><img loading=lazy></a><div class=PhotoCompactDate><strong></strong> 👁 ", !0, !1, !1), zo = /*#__PURE__*/ F("<div class=\"PhotoListItem fade-in\"><a><img loading=lazy class=PhotoListImg>", !0, !1, !1), Bo = /*#__PURE__*/ F("<div class=\"ArticleBody type-photo\"><div class=\"ArticlePhoto fade-in type-photo\"></div><div class=\"content fade-in type-photo\"><h2>Image Description"), Vo = /*#__PURE__*/ F("<div class=\"NoContent fade-in\">No description provided. Help write one for accessibility."), Ho = /*#__PURE__*/ F("<tr><td><strong>Floorspace</strong></td><td>ft<sup>2</sup><div class=emoji>📐"), Uo = /*#__PURE__*/ F("<div class=infobox-list><strong>Credits:</strong><ul>"), Wo = /*#__PURE__*/ F("<div class=ArticleBody><div class=\"infobox fade-in\"><div class=infobox-thumbnail></div><table><tbody><tr><td><strong>Operated</strong></td><td><div class=emoji>🚧</div><br><div class=emoji>☠️</div></td></tr></tbody></table></div><div class=\"content fade-in\">"), Go = /*#__PURE__*/ F("<li><strong></strong> (<!>)"), Ko = /*#__PURE__*/ F("<div class=infobox-desc>"), qo = /*#__PURE__*/ F("<li><strong></strong> (<!> – <!>)"), Jo = /*#__PURE__*/ F("<li><a target=_blank rel=\"noopener noreferrer\">"), Yo = /*#__PURE__*/ F("<li>"), Xo = /*#__PURE__*/ F("<li><strong>:</strong> "), Zo = /*#__PURE__*/ F("<div class=\"NoContent fade-in\">No article content. Come write some!"), Qo = /* @__PURE__ */ new Set([
+var Ma = /*#__PURE__*/ F("<div class=ResultCards>"), Na = /*#__PURE__*/ F("<div>"), Pa = /*#__PURE__*/ F("<img>"), Fa = /*#__PURE__*/ F("<a class=CitationTitle target=_blank rel=noopener>. "), Ia = /*#__PURE__*/ F("<a class=CitationUrl target=_blank rel=noopener>"), La = /*#__PURE__*/ F("<div class=CitationItem><div class=CitationIcon></div><div class=CitationText>"), Ra = /*#__PURE__*/ F("<span class=CitationTitle>. "), za = /*#__PURE__*/ F("<div class=Citations><h2>Citations"), Ba = /*#__PURE__*/ F("<h2>Tags"), Va = /*#__PURE__*/ F("<div class=ArticleTabs><a class=PinButton>Edit Page"), Ha = /*#__PURE__*/ F("<button type=button class=PinButton>Article"), Ua = /*#__PURE__*/ F("<div class=ArticleTabs><select class=PinButton value><option value disabled hidden selected>Edit"), Wa = /*#__PURE__*/ F("<div class=\"TaggedList fade-in\">"), Ga = /*#__PURE__*/ F("<option>"), Ka = /*#__PURE__*/ F("<button type=button class=PinButton> (<!>)"), qa = /*#__PURE__*/ F("<div class=\"Card fade-in\"><div class=CardImage></div><div class=CardTextArea><div class=CardLink><span><a></a></span></div><div class=CardText><strong></strong> 👁"), Ja = /*#__PURE__*/ F("<a><img loading=lazy>", !0, !1, !1), Ya = /*#__PURE__*/ F("<a class=CardImageExcerpt>"), Xa = /*#__PURE__*/ F("<span class=ReviewEmoji>"), Za = /*#__PURE__*/ F("<div class=\"ReviewCard fade-in\"><div class=ReviewTitle><a></a></div><div class=ReviewMeta></div><div class=ReviewBody>"), Qa = /*#__PURE__*/ F("<span class=PostTime>"), $a = /*#__PURE__*/ F("<span class=PostDeleted>[Deleted]"), eo = /*#__PURE__*/ F("<h3 class=PostTitle>"), to = /*#__PURE__*/ F("<div class=PostSubject>"), no = /*#__PURE__*/ F("<div class=SteamPostBox><div class=SteamAvatar></div><div class=SteamPostContent><div class=PostHeaderMeta><span class=PostAuthor>"), ro = /*#__PURE__*/ F("<span class=CommentTime>"), io = /*#__PURE__*/ F("<blockquote class=CommentQuote>"), ao = /*#__PURE__*/ F("<div class=CommentSubject>"), oo = /*#__PURE__*/ F("<div class=SteamPostBox><div class=SteamAvatar style=\"background-image:url('/viewers/cep-js/assets/Social Posts/Scott.jpg')\"></div><div class=SteamPostContent><div class=CommentHeaderMeta><span class=PostAuthor><span style=color:#aedd08>Scott</span> <span style=color:#e9d528>[developer]"), so = /*#__PURE__*/ F("<div class=\"SteamCommentBody fade-in\"><div class=SteamCommentHeader><a></a></div><div class=SteamCommentPreview>"), co = /*#__PURE__*/ F("<div><div></div><div><div><span><a></a></span></div><div><strong></strong> 👁"), lo = /*#__PURE__*/ F("<div><div></div><div><div><a></a></div><div><strong></strong> 👁"), uo = /*#__PURE__*/ F("<div><a></a><span class=ListMeta><strong></strong> 👁"), fo = /*#__PURE__*/ F("<div class=404>You've found an article that doesn't exist yet! Click the logo to head back home."), po = /*#__PURE__*/ F("<br>"), mo = /*#__PURE__*/ F("<div class=Homepage><center>Welcome to Cheese-E-Pedia! This unofficial wiki is the archive for all things animatronics!<br>Use the search above to explore our site! Something not listed here? Help contribute or <a href=\"/?v=cep-editor\">create a new page!</a><br><br><strong>IMPORTANT! You are using an in-development test version of the site, <a href=\"/?v=cep-js\">click here</a> to return to the default viewer! Otherwise thanks for testing this out, I hope this will give you a better experience searching and browsing through the pages. Leave feedback on the <a href=https://forum.cheeseepedia.org/t/cep-solid-wiki-overhaul/485/43>forum thread</a> as this will become the default by likely end of year!</strong></center><h2>News</h2><h2>Wiki</h2><h2>Community"), ho = /*#__PURE__*/ F("<div class=Carousel>"), go = /*#__PURE__*/ F("<nav class=Nav>"), _o = /*#__PURE__*/ F("<details><summary></summary><div>"), vo = /*#__PURE__*/ F("<a>"), yo = /*#__PURE__*/ F("<div class=Footer>Last build on: <span id=StatBuildDate>???</span>. Content is available under CC BY-SA 4.0. and rehostable. Cheese-E-Pedia is not associated with any person, company, or entity in its articles. <a href=https://youtu.be/Vce1hFNVI1o>All</a> rights <a href=https://vyletpony.bandcamp.com/track/falling-in-love-with-a-corporate-illustration>reserved</a> for <a href=https://youtu.be/y8LVM3rVSM4>our</a> lovely <a href=https://vyletpony.bandcamp.com/track/webpunk-ft-nekosnicker>trans</a> queers <a href=https://youtu.be/hdus_rz7O3o>forever</a>! <a href=https://www.tumblr.com/ytpforyouandme/728755424298401793>Corporations</a> should rot in <a href=https://stomachbook.bandcamp.com/track/my-diorama>hell</a>, keep things <a href=https://youtu.be/tkUgOT22F5s>independent</a> and <a href=https://crimethinc.com/>community</a> focused, and no <a href=https://consumerrights.wiki/w/Main_Page>gatekeepers!</a><br><br><a href=\"/?v=cep-solid&amp;=75z6oyfn7xf7t4ol\">About</a> • <a href=\"/?v=cep-solid&amp;=434ngf34ngjktegrgt\">Privacy Policy</a> • <a href=\"/?v=cep-solid&amp;=o2eldeduwff18fw2\">Rules</a> • <a href=\"/?v=cep-solid&amp;=v144sposbsi3z29v\">FAQ</a> • <a href=\"/?v=cep-solid&amp;page=stats\">Nerd Stuff</a> • <a href=\"/?v=cep-solid&amp;=434ngf34ngjktegrfh\">Manual</a> • <a href=\"/?v=cep-solid&amp;page=settings\">Settings"), bo = /*#__PURE__*/ F("<div class=SplashText>"), xo = /*#__PURE__*/ F("<div class=Header><a href=\"/?v=cep-solid\"class=Logo><img alt=Cheesepedia></a><div class=FlavorText>Now at <strong><span id=StatArticles>????</span></strong> articles contributed by <strong><span id=StatContributors>???</span></strong> users.<br>Discussions available on the <strong><a href=https://forum.cheeseepedia.org/>Forums!"), So = /*#__PURE__*/ F("<button type=button class=PinButton>"), Co = /*#__PURE__*/ F("<div class=TabPanel>"), wo = /*#__PURE__*/ F("<h2>Cheese-E-Shuffle"), To = /*#__PURE__*/ F("<div>Loading…"), Eo = /*#__PURE__*/ F("<div>Nothing found."), Do = /*#__PURE__*/ F("<div id=RandomCards class=Carousel>"), Oo = /*#__PURE__*/ F("<div class=infobox-list><strong>:</strong><ul>"), ko = /*#__PURE__*/ F("<iframe title=Video loading=lazy allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; fullscreen\"allowfullscreen referrerpolicy=strict-origin-when-cross-origin>", !0, !1, !1), Ao = /*#__PURE__*/ F("<video controls preload=metadata>"), jo = /*#__PURE__*/ F("<a class=VideoLink target=_blank rel=\"noopener noreferrer\">"), Mo = /*#__PURE__*/ F("<div class=\"VideoEmbed fade-in\">"), No = /*#__PURE__*/ F("<h1 class=article-title>"), Po = /*#__PURE__*/ F("<div class=OldWarning>The following article content is unsourced, in an old formatting, and needs to be rewritten. Any new text added to the page will hide this previous content."), Fo = /*#__PURE__*/ F("<div class=fade-in>"), Io = /*#__PURE__*/ F("<div class=\"ArticleBody type-video\"><div class=\"content fade-in type-video\"><h2>Video Transcription"), Lo = /*#__PURE__*/ F("<div class=\"NoContent fade-in\">No transcription provided by source."), Ro = /*#__PURE__*/ F("<div class=\"PhotoCompact fade-in\"><a class=PhotoCompactImage><img loading=lazy></a><div class=PhotoCompactDate><strong></strong> 👁 ", !0, !1, !1), zo = /*#__PURE__*/ F("<div class=\"PhotoListItem fade-in\"><a><img loading=lazy class=PhotoListImg>", !0, !1, !1), Bo = /*#__PURE__*/ F("<div class=\"ArticleBody type-photo\"><div class=\"ArticlePhoto fade-in type-photo\"></div><div class=\"content fade-in type-photo\"><h2>Image Description"), Vo = /*#__PURE__*/ F("<div class=\"NoContent fade-in\">No description provided. Help write one for accessibility."), Ho = /*#__PURE__*/ F("<tr><td><strong>Floorspace</strong></td><td>ft<sup>2</sup><div class=emoji>📐"), Uo = /*#__PURE__*/ F("<div class=infobox-list><strong>Credits:</strong><ul>"), Wo = /*#__PURE__*/ F("<div class=ArticleBody><div class=\"infobox fade-in\"><div class=infobox-thumbnail></div><table><tbody><tr><td><strong>Operated</strong></td><td><div class=emoji>🚧</div><br><div class=emoji>☠️</div></td></tr></tbody></table></div><div class=\"content fade-in\">"), Go = /*#__PURE__*/ F("<li><strong></strong> (<!>)"), Ko = /*#__PURE__*/ F("<div class=infobox-desc>"), qo = /*#__PURE__*/ F("<li><strong></strong> (<!> – <!>)"), Jo = /*#__PURE__*/ F("<li><a target=_blank rel=\"noopener noreferrer\">"), Yo = /*#__PURE__*/ F("<li>"), Xo = /*#__PURE__*/ F("<li><strong>:</strong> "), Zo = /*#__PURE__*/ F("<div class=\"NoContent fade-in\">No article content. Come write some!"), Qo = /* @__PURE__ */ new Set([
 	"photos",
 	"videos",
 	"reviews",
@@ -3762,94 +3762,63 @@ var Ma = /*#__PURE__*/ F("<div class=ResultCards>"), Na = /*#__PURE__*/ F("<div>
 	Reviews: (e) => e === "reviews"
 }, es = [
 	{
-		name: "Companies",
+		name: "Chuck E. Cheese FEC's",
+		tags: [
+			"Chuck E. Cheese's",
+			"Chuck's Arcade",
+			"Chuck E. Cheese Adventure World",
+			"Discovery Zone",
+			"Peter Piper Pizza",
+			"TJ Hartford's Sports Grille",
+			"Monterey's"
+		]
+	},
+	{
+		name: "Pizza Time Theatre FEC's",
 		tags: [
 			"Pizza Time Theatre",
-			"ShowBiz Pizza Place",
-			"Chuck E. Cheese's",
-			"Creative Engineering",
-			"Peter Piper Pizza",
-			"Discovery Zone",
+			"Charlie Cheese's Pizza Playhouse",
 			"Zapp's Bar & Grill",
-			"Monterey's",
+			"Atari Family Game Center",
+			"Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園)",
+			"Pizza Show Biz"
+		]
+	},
+	{
+		name: "ShowBiz Pizza Place / Creative Engineering FEC's",
+		tags: /* @__PURE__ */ "ShowBiz Pizza Place.Billy Bob's Wonderland.Volo Auto Museum.Looney Bird's.X-Site.Hannah Banana.Circus Pizza.Pistol Pete's Pizza.Chimpy's Pizza Safari.Billy Bob's Pizza Circus & Skating Center.Billy Bob's Pizza Theatre.Gulliver's.Adventure Landing.Animal House Pizza.Odyssey Fun World.Magic City.Rock-afire Arcade Bar.Billy Bob's Pizzatron.Tweetsie Railroad.Strike & Spare.Coolwalla Carnival.Rock-afire Pizza.Okefenokee Swamp Park.Circus.Fun Time Pizza.Fun Station USA.FunTime Pizza Circus.Party on! Pizza.Flamingo Land.Pleasure Island.Tuns-A-Fun Pizza.Billie Joe's Ice Cream Parlor & Restaurant.Mega Maze.KizBiz Pizza & Showplace.Stageshow Pizza.Zones.Sports Plus.Playrobics.Playkids Korea.Tokyo Summerland.Club Hotel Eliat.Funderland.Showtime Pizza.Scandia Golf & Games.Benson's Wild Animal Farm".split(".")
+	},
+	{
+		name: "Other Family Entertainment Centers",
+		tags: [
+			"Celebration Station",
+			"Sgt. Singer's Pizza Circus",
+			"Captain Andy's Rivertowne",
+			"Captain Carnival",
+			"Paul E. Parrott",
+			"Major Magic's All Star Pizza Revue",
+			"Jungle Jim's International Market"
+		]
+	},
+	{
+		name: "Animatronic Manufacturers",
+		tags: [
+			"Fantasy Forest",
+			"Cyan Engineering",
+			"AVG Technologies",
+			"Creative Presentations",
+			"Animation World",
+			"Life Formations",
+			"Creative Engineering",
 			"Sally Corporation",
 			"Jim Henson's Creature Shop",
-			"Walt Disney Imagineering"
-		]
-	},
-	{
-		name: "Animatronics",
-		tags: [
-			"Animatronic Shows",
-			"Stage Variations",
-			"Animatronics",
-			"Animatronic Parts",
-			"Animatronic Preservation",
-			"Retrofits"
-		]
-	},
-	{
-		name: "Showtapes",
-		tags: [
-			"Showtapes",
-			"Live Shows",
-			"ShowBiz Pizza Programs",
-			"Showtape Formats",
-			"Family Vision"
-		]
-	},
-	{
-		name: "Locations",
-		tags: [
-			"Locations",
-			"Cancelled Locations",
-			"Remodels and Initiatives",
-			"Arcades and Attractions",
-			"Store Fixtures",
-			"Menu Items",
-			"Tickets",
-			"Tokens",
-			"Walkarounds",
-			"Employee Wear"
-		]
-	},
-	{
-		name: "Merchandise",
-		tags: [
-			"In-Store Merchandise",
-			"Movies",
-			"Video Games",
-			"Products",
-			"Simulators"
-		]
-	},
-	{
-		name: "Corporate",
-		tags: [
-			"Animatronic Control Systems",
-			"Programming Systems",
-			"Other Systems",
-			"Company Media",
-			"Puppets",
-			"Documents"
-		]
-	},
-	{
-		name: "Advertising",
-		tags: [
-			"Social Media and Websites",
-			"Ad Vehicles",
-			"Events",
-			"Commercials"
-		]
-	},
-	{
-		name: "History",
-		tags: [
-			"Companies/Brands",
-			"History",
-			"Characters",
-			"News Footage"
+			"Walt Disney Imagineering",
+			"Setmakers",
+			"AnimatedFX",
+			"Kinetix Group",
+			"Advanced Animations",
+			"VP Animations",
+			"Hofmann Figuren"
 		]
 	}
 ], ts = 15, ns = {
@@ -4411,8 +4380,8 @@ function ks() {
 				return z(e, j(M, {
 					each: es,
 					children: (e) => (() => {
-						var t = _o(), n = t.firstChild, r = n.firstChild, i = n.nextSibling;
-						return z(r, () => e.name), z(i, j(M, {
+						var t = _o(), n = t.firstChild, r = n.nextSibling;
+						return z(n, () => e.name), z(r, j(M, {
 							get each() {
 								return e.tags;
 							},
@@ -4420,7 +4389,7 @@ function ks() {
 								var t = vo();
 								return z(t, e), C(() => I(t, "href", la([e]))), t;
 							})()
-						})), C(() => I(r, "href", la(e.tags))), t;
+						})), t;
 					})()
 				})), e;
 			})()

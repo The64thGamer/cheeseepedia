@@ -14,14 +14,11 @@ const TABS = {
   Reviews:  (t) => t === 'reviews',
 };
 const NAV_GROUPS = [
-  { name: 'Companies', tags: ['Pizza Time Theatre', 'ShowBiz Pizza Place', "Chuck E. Cheese's", 'Creative Engineering', 'Peter Piper Pizza', 'Discovery Zone', "Zapp's Bar & Grill", "Monterey's", 'Sally Corporation', "Jim Henson's Creature Shop", 'Walt Disney Imagineering'] },
-  { name: 'Animatronics', tags: ['Animatronic Shows', 'Stage Variations', 'Animatronics', 'Animatronic Parts', 'Animatronic Preservation', 'Retrofits'] },
-  { name: 'Showtapes', tags: ['Showtapes', 'Live Shows', 'ShowBiz Pizza Programs', 'Showtape Formats', 'Family Vision'] },
-  { name: 'Locations', tags: ['Locations', 'Cancelled Locations', 'Remodels and Initiatives', 'Arcades and Attractions', 'Store Fixtures', 'Menu Items', 'Tickets', 'Tokens', 'Walkarounds', 'Employee Wear'] },
-  { name: 'Merchandise', tags: ['In-Store Merchandise', 'Movies', 'Video Games', 'Products', 'Simulators'] },
-  { name: 'Corporate', tags: ['Animatronic Control Systems', 'Programming Systems', 'Other Systems', 'Company Media', 'Puppets', 'Documents'] },
-  { name: 'Advertising', tags: ['Social Media and Websites','Ad Vehicles', 'Events', 'Commercials'] },
-  { name: 'History', tags: ['Companies/Brands', 'History', 'Characters', 'News Footage'] },
+  { name: "Chuck E. Cheese FEC's", tags: ["Chuck E. Cheese's","Chuck's Arcade","Chuck E. Cheese Adventure World",'Discovery Zone', 'Peter Piper Pizza', "TJ Hartford's Sports Grille","Monterey's"] },
+  { name: "Pizza Time Theatre FEC's", tags: ['Pizza Time Theatre',"Charlie Cheese's Pizza Playhouse", "Zapp's Bar & Grill", "Atari Family Game Center", "Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園)","Pizza Show Biz"] },
+  { name: "ShowBiz Pizza Place / Creative Engineering FEC's", tags: ['ShowBiz Pizza Place',"Billy Bob's Wonderland", "Volo Auto Museum","Looney Bird's","X-Site","Hannah Banana","Circus Pizza","Pistol Pete's Pizza","Chimpy's Pizza Safari","Billy Bob's Pizza Circus & Skating Center","Billy Bob's Pizza Theatre","Gulliver's","Adventure Landing","Animal House Pizza","Odyssey Fun World","Magic City","Rock-afire Arcade Bar","Billy Bob's Pizzatron","Tweetsie Railroad","Strike & Spare","Coolwalla Carnival","Rock-afire Pizza","Okefenokee Swamp Park","Circus","Fun Time Pizza","Fun Station USA","FunTime Pizza Circus","Party on! Pizza","Flamingo Land","Pleasure Island","Tuns-A-Fun Pizza","Billie Joe's Ice Cream Parlor & Restaurant","Mega Maze","KizBiz Pizza & Showplace","Stageshow Pizza","Zones","Sports Plus","Playrobics","Playkids Korea","Tokyo Summerland","Club Hotel Eliat","Funderland","Showtime Pizza","Scandia Golf & Games","Benson's Wild Animal Farm"] },
+  { name: 'Other Family Entertainment Centers', tags: ["Celebration Station","Sgt. Singer's Pizza Circus","Captain Andy's Rivertowne","Captain Carnival","Paul E. Parrott","Major Magic's All Star Pizza Revue","Jungle Jim's International Market"] },
+  { name: 'Animatronic Manufacturers', tags: ['Fantasy Forest','Cyan Engineering','AVG Technologies','Creative Presentations', 'Animation World','Life Formations', 'Creative Engineering', 'Sally Corporation', "Jim Henson's Creature Shop", 'Walt Disney Imagineering', 'Setmakers',"AnimatedFX","Kinetix Group",'Advanced Animations', 'VP Animations', 'Hofmann Figuren'] },
 ];
 const MAX_RANDOM_CARDS = 15;
 const LOGOS = {
@@ -634,7 +631,7 @@ export function renderHome() {
                   <For each={NAV_GROUPS}>
                     {(group) => (
                       <details>
-                        <summary><a href={searchPath(group.tags)}>{group.name}</a></summary>
+                        <summary>{group.name}</summary>
                         <div>
                           <For each={group.tags}>
                             {(tag) => <a href={searchPath([tag])}>{tag}</a>}

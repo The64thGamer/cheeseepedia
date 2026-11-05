@@ -1,4 +1,4 @@
-The **Pizza Time Clock** is a prop created by Animation World, Inc. for Chuck E. Cheese's locations, used from 1997-2005. The Pizza Time Clock is used on the [Studio C Alpha], Studio C Alpha Beta Mix|Studio C Alpha / Beta Mix, [Studio C Beta], and [CU Beta 16M]. The design is different on the Beta stages.
+The **Pizza Time Clock** is a prop created by [Animation World], Inc. for Chuck E. Cheese's locations, used from 1997-2005. The Pizza Time Clock is used on the [Studio C Alpha], Studio C Alpha Beta Mix|Studio C Alpha / Beta Mix, [Studio C Beta], and [CU Beta 16M]. The design is different on the Beta stages.
 
 ## History
 

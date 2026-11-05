@@ -1,5 +1,5 @@
 The ***Pizza Time Theatre Winchester Control System* was the system used to control the animatronics exclusively at the [San Jose, CA (370 S Winchester Blvd)] from May 1977 to sometime between 1980 and 1981.
-The system was developed by the Cyan Engineering subdivision of Atari (also known as the *Grass Valley Team*), headed by Larry Emmons and Gary Waters[1]**
+The system was developed by the [Cyan Engineering] subdivision of Atari (also known as the *Grass Valley Team*), headed by Larry Emmons and Gary Waters[1]**
 
 ## Hardware
 

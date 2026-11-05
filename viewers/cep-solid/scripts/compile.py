@@ -70,6 +70,7 @@ FAN_CHANNELS = [
     "@WatootsiJenkins",
     "@GallaRM",
     "@animatronicswarehouse",
+    "@cecadventures"
     "@Dawko",
     "@JonnyBlox"
 ]
