@@ -589,7 +589,7 @@ export function renderHome() {
           <br/>
           Use the search above to explore our site! Something not listed here? Help contribute or <a href="/?v=cep-editor">create a new page!</a>
           <br/><br/>
-          IMPORTANT! You are using a test version of the site, <a href="/?v=cep-js">click here</a> to return to the default viewer!
+          <strong>IMPORTANT! You are using an in-development test version of the site, <a href="/?v=cep-js">click here</a> to return to the default viewer! Otherwise thanks for testing this out, I hope this will give you a better experience searching and browsing through the pages. Leave feedback on the <a href="https://forum.cheeseepedia.org/t/cep-solid-wiki-overhaul/485/43">forum thread</a> as this will become the default by likely end of year!</strong>
         </center>
 
         <h2>News</h2>
