@@ -1,14 +1,15 @@
 {
   "title": "Santiago, CL (Mallplaza Los Dominicos) (Padre Hurtado Sur 875)",
   "type": "Locations",
-  "pageThumbnailFile": "",
+  "pageThumbnailFile": "ze8wrrd44gv9q8s2",
   "pageThumbnailVideo": "",
   "downloadLinks": [],
   "citations": [
     "https://www.instagram.com/chuckecheesecl/",
     "https://youtu.be/-M2nslYZwzs?t=1793",
     "https://forum.cheeseepedia.org/t/chuck-e-cheese-pizza-new-fast-food-mall-chain-spotted-in-chile/551",
-    "Employee Correspondance"
+    "Employee Correspondance",
+    "https://www.instagram.com/p/DfX5ERTmM0C"
   ],
   "tags": [
     "Chuck E. Cheese Pizza"
@@ -37,10 +38,35 @@
       "desc": "",
       "s": "2026-10-31",
       "e": ""
+    },
+    {
+      "n": "Chuck E. Cheese Pizza + Logo Food Court Sign",
+      "desc": "",
+      "s": "2026-10-31",
+      "e": "0000-00-00"
     }
   ],
   "walkarounds": [],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Sega Racing Classic",
+      "desc": "",
+      "s": "2026-10-31",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Sega Racing Classic",
+      "desc": "",
+      "s": "2026-10-31",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Let's Go Island! Lost on the Island of Tropics",
+      "desc": "",
+      "s": "2026-10-31",
+      "e": "0000-00-00"
+    }
+  ],
   "showtapeFormats": [],
   "contributors": [
     "sudo-trans-pony"
