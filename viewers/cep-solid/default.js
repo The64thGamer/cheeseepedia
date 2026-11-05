@@ -3797,7 +3797,13 @@ var Ma = /*#__PURE__*/ F("<div class=ResultCards>"), Na = /*#__PURE__*/ F("<div>
 			"Captain Carnival",
 			"Paul E. Parrott",
 			"Major Magic's All Star Pizza Revue",
-			"Jungle Jim's International Market"
+			"Jungle Jim's International Market",
+			"Gigglebee's",
+			"Gadgets",
+			"Marc's Funtime Pizza Palace",
+			"Bugaboo Creek Steakhouse",
+			"Rainforest Cafe",
+			"Great Wolf Lodge"
 		]
 	},
 	{
@@ -3818,7 +3824,8 @@ var Ma = /*#__PURE__*/ F("<div class=ResultCards>"), Na = /*#__PURE__*/ F("<div>
 			"Kinetix Group",
 			"Advanced Animations",
 			"VP Animations",
-			"Hofmann Figuren"
+			"Hofmann Figuren",
+			"KX International"
 		]
 	}
 ], ts = 15, ns = {

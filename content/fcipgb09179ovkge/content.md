@@ -1,4 +1,4 @@
-***Rosedale, MD (6400 Rossville Blvd)*** (also known as ***Towson*** or ***Baltimore***) was a Gadgets located at that the Towsontown Centre Mall (later Golden Ring Mall and now Centre at Golden Ring) that opened on January 25, 1983, with The Looney Tunes Revue and closed in 1985. This location should not be confused with [Towson, MD (809 Goucher Blvd)], which was a Chuck E. Cheese's that opened in August 1993 and closed in 2007.
+***Rosedale, MD (6400 Rossville Blvd)*** (also known as ***Towson*** or ***Baltimore***) was a [Gadgets] located at that the Towsontown Centre Mall (later Golden Ring Mall and now Centre at Golden Ring) that opened on January 25, 1983, with The [Looney Tunes Revue] and closed in 1985. This location should not be confused with [Towson, MD (809 Goucher Blvd)], which was a Chuck E. Cheese's that opened in August 1993 and closed in 2007.
 
 ## History
 
