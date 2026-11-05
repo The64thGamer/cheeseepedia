@@ -24,15 +24,3 @@ Originally, Fresno featured a Rock-Afire Explosion, as all other ShowBiz locatio
 
 ## Galley
 
-## Videos
-
-| Link                                                | Description                                                                                                                        | Date Filmed     | Date Published    |
-|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-----------------|-------------------|
-| [Link](https://www.youtube.com/watch?v=nq2W5o3jdtc) | A video showcasing the Store, Games, &amp; 3-Stage in 1997.                                                                        | August 20, 1997 | November 29, 2008 |
-| [Link](https://www.youtube.com/watch?v=aHSOIoZfPXQ) | Family vlog in which they visit Fresno on West Shaw.                                                                               | August 2018     | August 7, 2018    |
-| [Link](https://www.youtube.com/watch?v=b6CLrwKefaI) | Family vlog in which they visit Fresno on West Shaw.                                                                               | January 2019    | January 10, 2019  |
-| [Link](https://www.youtube.com/watch?v=OUmcUk7Bkzk) | 'Play All You Can Play' from [Chuck E Cheese's Show 3 2019] being performed on Fresno on West Shaw's Alpha | March 2022      | March 7, 2022     |
-| [Link](https://www.youtube.com/watch?v=zGlHz3_lQ48) | 'Chuck E's Middle Name' from [Chuck E Cheese's Show 2 2021] being performed on Fresno on West Shaw's Alpha | March 2022      | March 8, 2022     |
-| [Link](https://www.youtube.com/watch?v=7UwegI67L70) | 'Crochet All Day' from [Chuck E Cheese's Show 2 2021] being performed on Fresno on West Shaw's Alpha.      | March 2022      | March 18, 2022    |
-| [Link](https://www.youtube.com/watch?v=u_8BYW98mhQ) | Store Tour during 'Summer of Fun 2022'.                                                                                            | June 2022       | June 25, 2022     |
-| [Link](https://www.youtube.com/watch?v=HYDeKQA_7NM) | 'Out of this World' from [Chuck E Cheese's Show 5 2016] being performed on Fresno on West Shaw's Alpha.    | June 2022       | June 26, 2022     |

@@ -22,10 +22,3 @@ Around May 2022, Humble would start its 2.0 remodel, and their Studio C Alpha wa
 
 The most notable incident at this store happened on December 31st, 2021, when a 24-year-old Corpus Christi native, Calogero Duenes was shot outside of this location while bringing his daughter's birthday cake to the inside of this store. The shooter, Antoine Daniel Badon was in his car when he shot the father and took off. The shooter was eventually caught and arrested.
 
-## Videos
-
-| Link                                | Description                                                                                                           | Filming Date        |
-|-------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|
-| https://youtu.be/P79PeSuRlOM        | Birthday party. Showcases a quick exterior shot and the arcade.                                                       | June 10th, 2000     |
-| https://youtu.be/oO-1fomU\_Ro?t=611 | Birthday; showcases the stage and Chuck E. LIVE! of *Chuck E Swing 1999*.                                             | September 1st, 2000 |
-| https://youtu.be/AU6EVxtHqkM        | The store mid-renovations of its [CEC 2000's Remodel Program]; showcases arcade and showroom. | November 15th, 2007 |

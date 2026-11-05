@@ -77,12 +77,3 @@ Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby o
 
 (W.I.P)
 
-| Link                                                   | Description                                                                                                                                             | Filming Date     | Publish Date     |
-|--------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------------|------------------|
-| [YouTube](https://www.youtube.com/watch?v=YdhZ6DfWz-M) | A video showcasing the store, games, &amp; Road Stage in December 2001                                                                                  | December 4, 2001 | February 7, 2023 |
-| [YouTube](https://www.youtube.com/watch?v=3p4lDqv9TRo) | 'Loppinsboopinfakindoopinfloopenloopenfunnin's Day' from [Chuck E Cheese's Show 1 2018] being performed on Corona's Road Stage. | June 2020        | October 21, 2020 |
-| [YouTube](https://www.youtube.com/watch?v=ojQbbMdYxmA) | Store Tour 2020                                                                                                                                         | July 2020        | July 4, 2020     |
-| [YouTube](https://www.youtube.com/watch?v=zupbeIl4kCE) | Family vlog in which they visit Corona after closing for the 2nd time during the COVID-19 Pandemic.                                                     | April 2022       | April 11, 2022   |
-| [YouTube](https://www.youtube.com/watch?v=TucZ8US7tyo) | Family vlog in which they visit Corona after closing for the 2nd time during the COVID-19 Pandemic.                                                     | April/May 2022   | May 1, 2022      |
-| [YouTube](https://www.youtube.com/watch?v=TNmKGMxseFo) | 'Let's Be Friends' from [Chuck E Cheese's Show 3 2021] being performed on Corona's Road Stage.                                  | August 2022      | Aug 15, 2022     |
-| [YouTube](https://www.youtube.com/watch?v=ouB60iqWMuU) | Arcade Tour Chuck e Cheeses Corona CA                                                                                                                   | 22 july 2024     | 22 july 2024     |

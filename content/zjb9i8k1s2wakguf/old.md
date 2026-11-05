@@ -28,8 +28,4 @@ Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatre
 
 | Link                                                                                                          | Description                                                                                | Filming Date |
 |---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------|
-| https://www.youtube.com/watch?v=EP0QSdgJJm4&amp;ab\_channel=VCRCommercial%E5%BB%A3%E5%91%8A%E9%A0%BB%E9%81%93 | Commercial shot for the Hong Kong PTTs. Shows Kowloon's exterior                           | 1986         |
 | Unknown.                                                                                                      | Video shot by a local Hong Kong news station. Shows exterior and shots of the theatre.     | Unknown      |
-| https://www.youtube.com/watch?v=4kLx\_J1ufag&amp;ab\_channel=%E4%BD%95%E9%B4%BB%E5%BE%B7                      | Commerical shot to promote Hong Kong PTTs.                                                 | 1986         |
-| https://www.youtube.com/watch?v=B5BWdjrgyRo&amp;ab\_channel=jcyl141104                                        | Commerical shot to promote Hong Kong PTTs.                                                 | 1986         |
-| https://www.youtube.com/watch?v=seqqb7r5PlM&amp;ab\_channel=CECUNKNOWN2                                       | Footage of ether Aberdeen or Kowloon's balcony stage in an arcade following their closure. | 1989         |

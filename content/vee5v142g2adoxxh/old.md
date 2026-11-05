@@ -44,8 +44,6 @@ W.I.P
 
 | Link                                                | Description                                                                                                 | Publish Date |
 |-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------|--------------|
-| [Link](https://www.youtube.com/watch?v=J_4dDxN-Y-c) | 'Deck the Halls' from [December 2012 Show] being performed on Hialeah's Road Stage. | 12-29-2014   |
-| [Link](https://www.youtube.com/watch?v=Kg16-10wH50) | Footage of a girl playing Ken Chuck E Derby while the store being Phase 3                                   | 10-12-2008   |
 | Link                                                | Close look at the Animatronics                                                                              | 07-11-2015   |
 | Link                                                | Short Tour showcasing the store as a [CEC 2000's Remodel Program] Store             | 07-12-2015   |
 | Link                                                | Animatronics performing May 1992 Segment 3 while wearing Christmas Hats                                     | 12-22-2015   |

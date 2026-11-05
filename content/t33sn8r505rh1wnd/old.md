@@ -8,12 +8,6 @@ Sheffield opened its doors on August 1st, 1984, as the tenth and last ShowBiz Pi
 
 Originally, Sheffield featured a Rock-Afire Explosion, as all other ShowBiz locations did. Unfortunately, there are no photos or videos to exist of Sheffield with the Rock afire, or as a ShowBiz in general. they got Concept Unification sometime in 1991. In 2020, Sheffield removed the 3-Stage for the Dance Floor for their 2.0 remodel.
 
-## Videos
-
-| Link                                                                                                                                                          | Description                 | Date Filmed | Date Published |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|-------------|----------------|
-| Chuck E. Cheese’s Pizza: Best Of CEC TV 1993 (Sheffield, AL, 1993) [https://www.youtube.com/watch?v=e4bsBRF8iH8](https://www.youtube.com/watch?v=e4bsBRF8iH8) | Footage of the show in 1993 | Jul 2, 1993 | Aug 21, 2021   |
-
 ## Trivia
 
 - Sheffield was the tenth and last ShowBiz Pizza Place to open in Alabama.

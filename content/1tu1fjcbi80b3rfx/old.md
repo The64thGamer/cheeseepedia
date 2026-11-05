@@ -8,9 +8,3 @@ Spokane opened in March 2000 with a Studio C Alpha and the Phase 3 Remodel. At s
 
 The store originally opened with a [Studio C (1997)](https://cheeseepedia.org/wiki/Studio_C_%281997%29), being the second Studio C stage in the state, and is one of 3 Alphas in the state of Washington.
 
-## Videos
-
-| Link                                                | Description                                           | Published Date |
-|-----------------------------------------------------|-------------------------------------------------------|----------------|
-| [Link](https://www.youtube.com/watch?v=tzEYgn7WxN0) | Set Streets and eats visits the location              | Apr,18,2023    |
-| [Link](https://www.youtube.com/watch?v=lHq8F9OjHC4) | Credit to your\_average\_rockafire\_fan, on Instagram | Jul,1,2021     |

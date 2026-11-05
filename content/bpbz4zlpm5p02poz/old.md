@@ -8,9 +8,3 @@ This location first opened as a Chuck E. Cheese’s Pizza Time Theatre with a Ba
 
 This location opened up with Madame Oink and had the Tune Machine showtape. Like every other location, she eventually got replaced with broadway helen until its closure. They also had the king for a short time.
 
-## Videos
-
-| Link                                                     | Description                     | Filming Date |
-|----------------------------------------------------------|---------------------------------|--------------|
-| [Link](https://www.youtube.com/watch?v=NStsOIAidCc&t=6s) | Tour of this location.          | 1983         |
-| [Link](https://www.youtube.com/watch?v=WcSHExDSFT8)      | Balcony Stage in the early 80s. | 1984         |

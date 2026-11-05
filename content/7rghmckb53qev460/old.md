@@ -62,15 +62,6 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 - Spongebob Order Up!
 - Skip Time: Active Season Version
 
-## Videos
-
-| Link                         | Description                                                                                                                                       | Filming Date       |
-|------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|
-| https://youtu.be/NhdP6694624 | Footage of Chuck E. LIVE! performing Mony Mony. Oldest known footage of this store.                                                               | July 18th, 1993    |
-| https://youtu.be/FKFIatxbYjM | Footage of the stage and showroom in 1996.                                                                                                        | January 4th, 1996  |
-| https://youtu.be/A3g2Qj2eBRY | Footage of the store (mostly skytubes) and [2-Stage] months prior to being replaced with the Studio C Beta stage in 2007. | January 15th, 2007 |
-|                              |                                                                                                                                                   |                    |
-
 ## Animatronics
 
 TODO

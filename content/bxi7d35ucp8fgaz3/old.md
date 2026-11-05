@@ -34,20 +34,6 @@ As of August 2024, Jackson remains like this with the 2.0 remodel
 - Tik Tak Clock
 - [Big Win Super Spin]
 
-## Videos
-
-| Link                                         | Description                              | Filming Date       |
-|----------------------------------------------|------------------------------------------|--------------------|
-| https://www.youtube.com/watch?v=bnWT\_6L7R08 | Birthday Party                           | February 21, 2011  |
-| https://www.youtube.com/watch?v=swXlUc4aMgc  | 'Remember That Time'                     | January 7, 2017    |
-| https://www.youtube.com/watch?v=tPlPI9w218E  | 'The Bootastic Dance'                    | October 2, 2020    |
-| https://www.youtube.com/watch?v=xpY2taHjnZ8  | 'Sammy The Skate Boarding Skeleton'      | October 2, 2020    |
-| https://www.youtube.com/watch?v=G-uiQ0XrF6w  | Store Tour                               | October 2, 2020    |
-| https://www.youtube.com/shorts/5CTFxC\_FfTY  | Short Video of 'Spring Break Breakdance' | June 28, 2021      |
-| https://www.youtube.com/watch?v=8QBBjqwYTag  | 'Keep Drummin'                           | September 18, 2022 |
-| https://www.youtube.com/watch?v=KcmhaNiGYJc  | 'Jaspers Country Classic'                | September 18, 2022 |
-| https://www.youtube.com/watch?v=udy8UEasMks  | 'Barbra The Barnyard Barber'             | September 18, 2022 |
-
 ## Trivia
 
 - This locations Studio C Beta had curtains but they were never on their tracks to begin with.

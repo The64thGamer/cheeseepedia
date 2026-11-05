@@ -12,10 +12,6 @@ When Paramus (275 Route 4 West) opened, they housed a Studio C Beta, 16m (One of
 
 More will be added soon
 
-| Link                                 | Description                             | Filming Date | Published Date |
-|--------------------------------------|-----------------------------------------|--------------|----------------|
-| [Link](https://youtu.be/CueAtUMcoK4) | Family vlog in which they visit Paramus | March 2023   | March 29, 2023 |
-
 ## Trivia
 
 This store has an all red wearing 2005 Avenger Chuck sign, whether this was to blend in with the plaza the store is in is not known

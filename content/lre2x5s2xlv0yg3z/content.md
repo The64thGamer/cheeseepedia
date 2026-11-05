@@ -7,8 +7,4 @@ The tape's total length was 33 minutes and 21 seconds.
 | Title                  | Subtitle             | Length | **Link**                                                                                                         |
 |------------------------|----------------------|--------|------------------------------------------------------------------------------------------------------------------|
 | Sylvester &amp; Porky  | 'Claws for Alarm'    | 6:58   | Copyrighted                                                                                                      |
-| The Jets               | 'Private Number'     | 3:50   | https://www.youtube.com/watch?v=qtqyfOb3sSc                                                                      |
-| Tweety &amp; Sylvester | 'The Jet Cage'       | 6:37   | https://www.youtube.com/watch?v=nDurei0DdMo |
-| Pattilabelle           | 'Oh People'          | 4:26   | https://www.youtube.com/watch?v=720nx5P19Pc                                                                      |
 | Road Runner            | 'Hot Rod &amp; Reel' | 6:35   | Copyrighted                                                                                                      |
-| Van Halen              | 'Dreams'             | 4:55   | https://www.youtube.com/watch?v=h2WMwISL3Tw                                                                      |

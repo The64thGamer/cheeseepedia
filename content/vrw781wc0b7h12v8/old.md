@@ -81,12 +81,4 @@ TODO
 
 ## Videos
 
-| Link                                        | Description                                      | Filming Date      |
-|---------------------------------------------|--------------------------------------------------|-------------------|
-| https://youtu.be/e\_auIC84vLQ               | Store Tour                                       | July 2, 2020      |
-| https://youtu.be/lrlF8mepcm8                | An up close and personal with the store’s stage. | July 8, 2020      |
-| https://youtu.be/QWzynO-K9v4                | Tour of the store’s showroom.                    | April 19, 2022    |
-| https://youtu.be/gbRc3oMMTAQ                | Store Tour                                       | December 28, 2023 |
-| https://www.youtube.com/watch?v=vmHbX34PgFw | Full Store Tour                                  | August 17, 2024   |
-
 TODO

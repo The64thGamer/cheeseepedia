@@ -6,9 +6,4 @@ Warwick opened in the Bald Hill Plaza as a relocation to the [Warwick, RI (1960 
 
 ## Videos
 
-| Link                                         | Description                                                                          | Filming Date     | Published Date    |
-|----------------------------------------------|--------------------------------------------------------------------------------------|------------------|-------------------|
-| [Link](https://youtu.be/hKGM9Ry4ZnA&t=2885s) | A video showcasing the store, games, and Chuck E.'s House in 1991 (Starts at 48:05). | March/April 1991 | August 26, 2023   |
-| [Link](https://youtu.be/s5SPh1czpGw?t=429)   | A video showcasing the store, games, and Chuck E.'s House in 1994 (Starts at 7:09).  | January 9, 1994  | February 21, 2023 |
-
 TODO

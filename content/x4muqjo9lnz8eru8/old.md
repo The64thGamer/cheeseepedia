@@ -8,9 +8,3 @@ Tinley Park opened on January 31, 1989, as a merger store with one of three Rock
 
 Originally, the store opened with a Rocker Stage, which they had until the Mid 1990's until their first remodel. In 1994, it was converted into a 2-Stage which it had until it was removed on November 26, 2023, for the Dance Floor.
 
-## Videos
-
-| Link                                                | Description                                                                       | Filming Date |
-|-----------------------------------------------------|-----------------------------------------------------------------------------------|--------------|
-| [link](https://www.youtube.com/watch?v=UvpXSkOpgA0) | Originally part of January 2009 Segment 1                                         | 2009         |
-| [link](https://www.youtube.com/watch?v=IANtIqO2j94) | This is segment 4 of the April 2012 show at the 2-stage in Tinley Park, Illinois. | Jun 30, 2012 |

@@ -20,6 +20,3 @@ When the Bowling Green location opened, they had a Small-Town Studio C. in the l
 
 NOTE: TODO
 
-| Video Link                    | Video Title                                                               | Date Filmed (If Possible) | Date Published To YouTube | Original Poster |
-|-------------------------------|---------------------------------------------------------------------------|---------------------------|---------------------------|-----------------|
-| https://youtu.be/Sk3\_wpIDC4I | I Dare You Not To Laugh • Chuck E. Cheese’s Bowling Green, KY Show 3 2021 | N/A                       | August 20, 2021           | Chatty Chuck E! |

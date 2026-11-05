@@ -8,8 +8,3 @@ This place was originally Bullwinkle’s Family Food N’ Fun Restaurant that op
 
 This location opened up on August 31st, 1991, as one of two Road Stages installed in Canada (The other is [Mississauga, Ontario, Canada (4141 Dixie Rd)], which is still operating as of December 2022). This store would remain open for almost 3 years until it closed sometime in 1994. After closure, the stage would be removed and installed at the [Calgary, Alberta, Canada (2770 32nd Ave)] to replace the store's [Chuck E.'s House (Rocker Stage)] and remained there until its closure in October 2003.
 
-## Videos
-
-| Link                                                      | Title                                      | Description                                                          | Filming Date  |
-|-----------------------------------------------------------|--------------------------------------------|----------------------------------------------------------------------|---------------|
-| [Link](https://www.youtube.com/watch?v=DXZqn0aF2PY&t=64s) | Home Video #8 Chuck E. Cheese Calgary 1992 | Video showcasing some of the store &amp; Road Stage. Starts at 1:04. | July 30, 1992 |

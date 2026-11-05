@@ -10,8 +10,4 @@ Burbank opened on December 28, 1999 on top of a former Discovery Zone store. It 
 
 ## Videos
 
-| Link                         | Description                          | Filming Date |
-|------------------------------|--------------------------------------|--------------|
-| https://youtu.be/23UCJSQQi10 | The location featured on *Yes, Dear* | 2010         |
-
 TODO

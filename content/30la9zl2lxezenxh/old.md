@@ -16,8 +16,3 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 
 ### Elegance Salon de Eventos(1)
 
-## Videos
-
-| Link                                 | Description                                           | Filming Date |
-|--------------------------------------|-------------------------------------------------------|--------------|
-| [Link](https://youtu.be/ji4db2Z4Lv0) | Footage of Indianapolis' stage and game room in 1995. | 1995         |

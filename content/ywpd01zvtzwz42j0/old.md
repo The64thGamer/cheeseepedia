@@ -8,12 +8,6 @@ Monroeville opened in March 1993 as the relocation of the original Monroeville l
 
 Originally, when the store opened in March 1993, they had a 2-Stage like every other CEC location at the time. Fortunately, a couple videos do exist of Monroeville. In August 2018, Monroeville received the 2.0 remodel and removed the 2-Stage for the Dance Floor and Video Wall.
 
-## Videos
-
-| Link                                                                                                                                                 | Description         | Filming Date | Publish Date |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------|--------------|
-| [https://www.youtube.com/watch?v=t\_hAPx9FYXU](https://www.youtube.com/watch?v=t_hAPx9FYXU)Chuck E Cheese's 2-Stage(EXTINCT)Monroeville PA From 2003 | The 2 stage in 2003 | Jan 26, 2003 | Apr 30, 2023 |
-
 ## Trivia
 
 TODO

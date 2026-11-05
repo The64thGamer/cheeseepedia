@@ -8,12 +8,6 @@ When this location opened, it had a prototype [Studio C Beta](1) that had one TV
 
 Athens opened on April 10, 2000 with the major 90s remodel. It would remain like this until 2020's when this location would receive 2.0 which involved replacing older decor with newer decor, getting rid of the Studio C Beta Prototype, and upgrading the atmosphere to a more modern look. In 2020's Athens would receive the new trampoline zone concept.
 
-## Videos
-
-| Link                                                | Description | Filming / Published Date |
-|-----------------------------------------------------|-------------|--------------------------|
-| [link](https://www.youtube.com/watch?v=WV1C5SBE5Sw) | Store Tour  | 29 December 2024         |
-
 ## Games
 
 (1)

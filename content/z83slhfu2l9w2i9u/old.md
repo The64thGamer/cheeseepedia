@@ -8,11 +8,3 @@ Orlando / Winter Park, FL (1300 Lee Rd) opened on April 27, 1982 as the 63rd Sho
 
 After this location closed, their Rock-afire Explosion show and several of the stores entertainment assets were saved and stored by ShowBiz Corporate. Then, on November 5th 1984, the [Lafayette, LA (3221 Ambassador Caffery Pkwy)] store opened, and the assets were recycled from Winter Park and used in this new store, including their Rock-afire Explosion show. That store closed in January 1995 as a Chuck E Cheese's Pizza with a Munch's Make Believe Band [Concept Unification Stage (3-Stage)] and was later converted back to a RockAfire Explosion.
 
-## Videos
-
-| Link                                                  | Description               | Footage Date |
-|-------------------------------------------------------|---------------------------|--------------|
-| https://www.youtube.com/watch?v=OqjmXCfCQOU&amp;t=54s | ShowBiz/ CEI Long Promo   | 1982         |
-| https://www.youtube.com/watch?v=\_6TdnIWKOfM          | ShowBiz/ CEI Short Promo  | 1982         |
-| https://www.youtube.com/watch?v=raqVR2TYBbg           | CEI News Cast             | 1983         |
-| https://www.youtube.com/watch?v=LFFCQZUpne8           | BBC: Computers In Control | 1984         |

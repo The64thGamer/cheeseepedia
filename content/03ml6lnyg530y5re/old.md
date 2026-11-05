@@ -16,15 +16,3 @@ This location closed permanently on July 23rd, 2023, after 32 years in operation
 
 • Chuck E. Cheese's Sketch Book • Jett Rider • Whack-A-Frog + More
 
-## Videos
-
-| Link                                                   | Description                                                                             | Credit                   | Filming / Published Date |
-|--------------------------------------------------------|-----------------------------------------------------------------------------------------|--------------------------|--------------------------|
-| https://www.youtube.com/watch?v=lDgDwQKpPkg&amp;t=8s   | A performance of the Birthday Star 1992 show on Lynnwood's 3-Stage (pre-Cyberamic era). |                          | 1996                     |
-| https://www.youtube.com/watch?v=kydrU-QIdxk&amp;t=17s  | A old store tour showing the gameroom and their arcades, and the showroom.              |                          | July 10, 2013            |
-| https://www.youtube.com/watch?v=6k3txykvrJE&amp;t=25s  | A store tour of the location showing the arcade games it had and the showroom.          |                          | November 28, 2022        |
-| https://www.youtube.com/watch?v=0gWdQ0mlOjs            | One of the last store tours of the location before its closure.                         |                          | July 21, 2023            |
-| https://youtu.be/ur6xj4eVC0s                           | The location shortly after closure.                                                     |                          | July 29, 2023            |
-| https://youtu.be/65moOuaAWd8                           | Evidence of the animatronics still being inside the building.                           |                          | August 2, 2023           |
-| https://www.youtube.com/watch?v=7RzshdI-Keo&amp;t=325s | Footage of the stage being dismantled, along with photos of the stage after closure.    |                          | August 20, 2023          |
-| https://youtu.be/ahoaQSfLXp8?si=NFQLFw121OMi8WZ9       | A look on the abandoned location nine months after closure.                             | Sets, Streets &amp; Eats | Early 2024               |

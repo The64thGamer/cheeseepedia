@@ -12,8 +12,3 @@ The store opened with a Studio C Beta 16m stage in December 2011, which was late
 
 TODO
 
-## Videos
-
-| Link                                                                                                                                                                             | Description                                                                                    | Filming Date | Publish Date |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|--------------|--------------|
-| [https://www.youtube.com/watch?v=YqYEQja7T-Y](https://www.youtube.com/watch?v=YqYEQja7T-Y)Chuck E. Cheese Studio C in Indianapolis, Indiana (Washington St.) 'Out of This World' | The Studio C bot at one of the Indianapolis, Indiana locations performing 'Out of This World'. | Unknown      | Jun 15, 2022 |

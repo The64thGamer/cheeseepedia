@@ -22,14 +22,6 @@ Sometime in Early 2022, construction would start the conversion back to Chuck E.
 
 Originally when the store opened, they had a [Balcony Stage], sometime in 1989/1990, they would receive a C-Stage, they would have this for a short time, then replacing it with a 2-Stage, in the final years it was known for being very bad condition mechanically, and the store would close on January 5th, 2021. The store would be a 'Gamex Pizza &amp; Arcade' for a short while in 2021, then in July 2022, the store reopened as 'Chuck E. Cheese', having the 2.0 Remodel and a Dance Floor. As of September 2022, they still have the Dance Floor.
 
-## Videos
-
-| Links                                                                                             | Description                                                         | Filming Date | Published Date   |
-|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|--------------|------------------|
-| [Link](https://www.youtube.com/watch?v=lzX2yikYiBM&t=68s&pp=ygUYY2h1Y2sgZSBjaGVlc2UgZmFpcmZpZWxk) | Earliest known video of Fairfield during the 'Mony Mony' live show. | 1993/1994?   | August 18, 2023  |
-| [Link](https://www.youtube.com/watch?v=gpnXJztcwzM&t=7s&pp=ygUYY2h1Y2sgZSBjaGVlc2UgZmFpcmZpZWxk)  | 'YMCA' live Show                                                    | 1998         | October 30, 2021 |
-|                                                                                                   |                                                                     |              |                  |
-
 ## Trivia
 
 - Before Fairfield closed for the first time on January 5th, 2021; they had 2 prize counters. It was reduced to just 1 when they reopened as a 2.0 store.

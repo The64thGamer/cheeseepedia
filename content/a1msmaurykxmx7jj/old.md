@@ -10,9 +10,3 @@ W.I.P: Stage History
 
 W.I.P
 
-## Videos
-
-| Link                                        | Description                                                                                           | Footage Date       |
-|---------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------------|
-| https://youtu.be/XK8Az2zKNsw?t=2844         | Toledo Monroe's location installation mentioned in a CEC TV '93 ID spot. Mentioned as 'North Toledo'. | September 14, 1993 |
-| https://www.youtube.com/watch?v=Dce57JYbtIw | Shows the 1-Stage playing the Holiday 1993 Show and Shows some of the store.                          | December 24, 1993  |

@@ -8,8 +8,3 @@
 
 Originally when the store opened, they had a Rock-Afire Explosion like every other ShowBiz location. In 1990, they would become the third ever location to undergo Concept Unification, the process used to convert the RAE characters into the Chuck E. Cheese characters. This was one 17 ShowBiz Pizza stores in Texas to receive Concept Unification.
 
-## YouTube Videos
-
-| Link                                       | Description                                                     | Filming Date |
-|--------------------------------------------|-----------------------------------------------------------------|--------------|
-| [Link](https://youtu.be/ZNH9dupTBng?t=271) | Arlington Justiss featured in Segment 2 of Spring Training 1993 | 1993         |

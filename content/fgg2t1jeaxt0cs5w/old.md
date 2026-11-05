@@ -86,12 +86,3 @@ The current Pasadena location opened on October 14, 1993 with the [2-Stage] and 
 | Golden Empire                                       | 2010's                |         |             |
 | Big Bass Wheel                                      | 2010's                |         |             |
 
-## Videos
-
-| Link                                                  | Description | Filming Date      |
-|-------------------------------------------------------|-------------|-------------------|
-| https://www.youtube.com/watch?v=OcqUEJn5c8U&amp;t=23s |             | 6 April 2023      |
-| https://www.youtube.com/watch?v=cOVfQCMU5-o           |             | September 02 2023 |
-| https://www.youtube.com/watch?v=vyig4byb8JM&amp;t=85s |             | September 04 2023 |
-| https://www.youtube.com/watch?v=A4Q5IjS7SsE           |             | September 04 2023 |
-| https://www.youtube.com/watch?v=C8bHHzzvWjw           | Store Tour  | June 15 2024      |

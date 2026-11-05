@@ -14,22 +14,3 @@ In October 2019 the clothing store that originally occupied the space, Kids Town
 
 In 2022 when CEC was getting back on its feet to properly operate locations again, they finally settled for January 31, 2022, as an opening, with their grand opening being held on March 31, 2022. To accompany guests, the Chuck E. Cheese, Helen Henny, and Pasqually mascots star in the grand opening ceremony.
 
-## Videos
-
-| Link                              | Description                                        | Filming / Published Date |
-|-----------------------------------|----------------------------------------------------|--------------------------|
-| **https://youtu.be/ujHGt1TL8ls**  | **One of the first looks of the location**         | **January 2021**         |
-| **https://youtu.be/-D4ANv5ovj8**  | **The first Store Tour recorded at this location** | **January 31, 2022**     |
-| **https://youtu.be/GLbzstMQKIE**  | **'Chuck E.'s Middle Name**'                       | **January 31, 2022**     |
-| **https://youtu.be/yeBijOdnr6M**  | **'All You Can Play**'                             | **February 1, 2022**     |
-| **https://youtu.be/muzKZIiQWVU**  | **Store Tour**                                     | **Febuary 8, 2022**      |
-| **https://youtu.be/guvTV7CL-6I**  | **Grand Reopening slideshow**                      | **March 31, 2022**       |
-| **https://youtu.be/NabQxR3Lt\_8** | **Store Tour**                                     | **April 24, 2022**       |
-| **https://youtu.be/af0C4L4283Q**  | **'Billy and The Bully**'                          | **April 24, 2022**       |
-| **https://youtu.be/3YbMLOGof1M**  | **'It's The 70's**'                                | **April 24, 2022**       |
-| **https://youtu.be/ljXMqdstNpY**  | **'Down The Road**'                                | **June 11, 2022**        |
-| **https://youtu.be/RnSW3CFLw2I**  | **Store Tour**                                     | **June 14, 2022**        |
-| **https://youtu.be/ZGxY1DhAs9A**  | **Store Tour**                                     | **September 6, 2022**    |
-| **https://youtu.be/IusVdgdnLQc**  | **'If Everyday were Halloween**'                   | **September 28, 2022**   |
-| **https://youtu.be/lcT3QcBdqCg**  | **Store Tour**                                     | **November 3, 2022**     |
-| **https://youtu.be/hYoF\_lcWC20** | **'The Holiday Party**'                            | **November 27, 2022**    |

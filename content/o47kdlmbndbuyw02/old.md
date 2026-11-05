@@ -4,8 +4,3 @@
 
 Originally, the store opened with a [Studio C Beta], they were the 4th location to open with a 16m Beta. they would have this for a couple years, until around 2018 or 2019, when they would undergo the 2.0 remodel, they would remove the stage and replace with the 2017 Model of the [Chuck E. Live Stage (Dance Floor)]. As of September 2022, they still have this remodel.
 
-## Videos
-
-| Link                         | Description                      | Published/ Filming Date |
-|------------------------------|----------------------------------|-------------------------|
-| https://youtu.be/gp1slCK64k0 | Store Tour at Foothill Ranch, CA | February 13, 2022       |

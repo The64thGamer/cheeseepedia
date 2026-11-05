@@ -8,10 +8,3 @@ Mentor opened on July 20th, 1998. Mentor would be the second to last new store t
 
 Originally, when this store opened it featured Chuck in his tuxedo suit. It was later replaced with Cool Chuck, and then Avenger clothing.
 
-## Videos
-
-| Link                                                                                                                                    | Filming Date    | Publish Date |
-|-----------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------|
-| [\[1\]](https://www.youtube.com/watch?v=2_xjOHmB65A) CEC Up close and Personal with the last originally produced 1-Stage (Mentor, Ohio) | November 2022   | Nov 27, 2022 |
-| [\[2\]](https://www.youtube.com/watch?v=b76sk5FaEAs) A tour of the store.                                                               | August 30, 2022 | Sep 2, 2023  |
-| [\[3\]](https://www.youtube.com/watch?v=aceFZsp4b_A) 'Chuck E.'s Middle Name' performed on Mentors 1-Stage.                             | August 30, 2022 | Sep 20, 2023 |

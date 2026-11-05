@@ -8,10 +8,3 @@ Manchester opened in August 1982 with a [Balcony Stage], It is currently the old
 
 \- This location has the 2.0 PTT Logo, like Northridge's, its not at the front of the store though, it is the Road Sign - This location also has the 'Make Magic' Sign even after the 2.0 remodel
 
-## Videos
-
-| Link                         | Description                                                                  | Filming Date       |
-|------------------------------|------------------------------------------------------------------------------|--------------------|
-| https://youtu.be/DFe3cZGWQ7k | Brief overview of Gameroom, C-Stage, bits and pieces of September 1991 show, | Fall 1991          |
-| https://youtu.be/VPS8Fc4klHA | Studio C Beta 16M, January 2013 Show.                                        | March 2nd, 2013    |
-| https://youtu.be/4JT-e95ondo | Studio C Beta 16M in it's current state, with Orange CT's Head.              | November 2nd, 2022 |

@@ -8,11 +8,3 @@ This location originally opened up with Phase 3 and had the Cool Chuck outfit, a
 
 [2001-2002](https://www.showbizpizza.com/photos/cec/ma_everett/index.html) MassLive Promotional Photo (June 2024) (1)
 
-## Videos
-
-| Link                                                   | Description            | Date              |
-|--------------------------------------------------------|------------------------|-------------------|
-| https://youtu.be/99jtlZ49A88                           | Showroom in 2013       | May 18, 2013      |
-| https://www.youtube.com/watch?v=N202sZCT4sk&amp;t=229s | April 2013 Segment 1   | May 18, 2013      |
-| https://www.youtube.com/watch?v=VR6HQkrac7Q            | January 2012 Segment 1 | February 28, 2012 |
-|                                                        |                        |                   |

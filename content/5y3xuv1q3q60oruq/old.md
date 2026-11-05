@@ -12,16 +12,3 @@ Bell opened with the Balcony Stage in 1982. Fortunately, there are a lot of phot
 
 [2007](https://www.showbizpizza.com/photos/cec/ca_bell/index.html)
 
-## Videos
-
-| Link                                                | Description                                                                                                            | Filming Date     | Pulish Date    |
-|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|------------------|----------------|
-| [Link](https://www.youtube.com/watch?v=m0c2hEfNwyI) | Chuck E Cheese's Bell CA From 1991 Featuring the King.                                                                 | 1991             | May 29, 2022   |
-| [Link](https://youtu.be/_i0gRzT2Gbc?t=48)           | A video showcasing the store, games, and 2-Stage back in 2002                                                          | 2002             | March 9, 2022  |
-| [Link](https://youtu.be/qNP3CkRCA0s)                | A video of the store during Cheesevention III in May 2007 before the 2005 Update.                                      | May 2007         | May 23, 2021   |
-| [Link](https://youtu.be/Qmz1-wslFl4)                | A tour of the Showroom back in 2012                                                                                    | March 31, 2012   | April 1, 2012  |
-| [Link](https://youtu.be/f0cYFDLM2fw)                | 'Jack and Jill' from [January 2012 Show] being performed on Bell's 2-Stage.                    | March 31, 2012   | April 5, 2012  |
-| [Link](https://youtu.be/INt8JArHcvg)                | 'Because We're Friends' from the [Fall 2014 Show] being performed on Bell's 2-Stage.           | May 18, 2015     | May 23, 2015   |
-| [Link](https://youtu.be/7_LcGz23bs4)                | 'Keep Drummin' from [Chuck E Cheese's Show 1 2016] being performed on Bell's 2-Stage           | January 17, 2022 | April 14, 2023 |
-| [Link](https://youtu.be/nAXNtGiYA5w)                | 'Chuck E.'s Middle Name' from [Chuck E Cheese's Show 2 2021] being performed on Bell's 2-Stage | January 17, 2022 | April 15, 2023 |
-| [Link](https://youtu.be/92VOy_kPr2w)                | A store tour of Bell in 2022                                                                                           | Aug 16, 2022     | Aug 16, 2022   |

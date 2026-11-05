@@ -8,20 +8,6 @@ When this location opened, it had a prototype [Studio C Beta](1) that had one TV
 
 Katy opened on December 30, 2001 near the growing Katy Mills mall with the major 90s remodel. Somewhere between 2009-2011, Katy would receive the [CEC 2000's Remodel Program] which involved removing showroom walls, replacing older decor for newer decor, and painting specific walls purple. The store would also receive an expansion in 2009 for the back of the place. Despite this, the phase 3 exterior remained intact. However, new letters were installed. Around 2018, the skytubes would be removed. It would remain like this until March of 2020 right before the pandemic when this location would receive 2.0 which involved replacing older decor with newer decor, getting rid of the studio c beta, and upgrading the atmosphere to a more modern look. In December 2023, Katy would receive the new trampoline zone concept. As of 2024, Katy remains like this.
 
-## Videos
-
-| Link                                                                                                       | Description                                                          | Published / Filming date |
-|------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|--------------------------|
-| [Link](https://youtu.be/-A9VYX0hAdk)                                                                       | The store's showroom and arcade in 2007.                             | October 20, 2007         |
-| [Link](https://m.youtube.com/watch?v=yog2L5ODd4U&list=PLm_FzCBKsjKhWN5A7-0MdcYy7sMNaryxr&index=29&pp=iAQB) | A tour of this location in 2016.                                     | August 2016              |
-| [Link](https://www.youtube.com/watch?v=ovlQ2Ta3GPs)                                                        | A tour of this location in 2018. Source: WikkidepiggzCEC             | September 24, 2018       |
-| [Link](https://m.youtube.com/watch?v=xfQOTC9lTy8)                                                          | Footage of the bot preforming in 2019.                               | November 25, 2019        |
-| [Link](https://www.youtube.com/watch?v=1iywalAlRiM)                                                        | A tour of this location after receiving 2.0. Source: WikkideppigzCEC | July 23, 2020            |
-| [Link](https://www.youtube.com/watch?v=DUEcdaPWKmU)                                                        | Footage of the 2019 model Dance Floor                                | June 17, 2022            |
-| [Link](https://www.youtube.com/watch?v=qf2fJaV0Fdc)                                                        | Yuletide Slide preformed                                             | December 1, 2023         |
-| [Link](https://www.youtube.com/watch?v=jHTXwRlC8go)                                                        | Footage of the Dance Floor/ Video Wall                               | June 1, 2024             |
-| [Link](https://www.youtube.com/watch?v=L-PlErW3tKg)                                                        | The FINAL Footage Of Katy, TX in 2018                                | December 30, 2018        |
-
 ## Games
 
 (2)

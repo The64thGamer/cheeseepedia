@@ -18,10 +18,3 @@ TODO
 - Left leg raise
 - Right leg raise
 
-## Footage
-
-| Link                                                          | Description                                                           | Date Filmed |
-|---------------------------------------------------------------|-----------------------------------------------------------------------|-------------|
-| [Link](https://www.youtube.com/watch?v=oAWbobbXD3w)           | Friendly Freddy at CEI's plant                                        | 1977        |
-| [Link](https://www.youtube.com/watch?v=4SGuAcfVX7k)           | At Magic World after being converted for the Confederate Critter Show | 1989        |
-| [Link](https://youtu.be/FZciSWThE9c?si=ZPclF3Bu7wspCdxl&t=25) | With the Gaslight Village Show, owned by Jack Turner                  | 6/22/2020   |

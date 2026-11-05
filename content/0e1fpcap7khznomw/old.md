@@ -8,11 +8,3 @@ Citrus Heights (Sunrise) opened in August 1983 as a franchise-owned location. Ci
 
 Like all ShowBiz Pizzas at the time, the store opened with the Rock-Afire Explosion stage. 1988-1989, the stage was converted into Chuck E.'s House, which would later be replaced around 1991-1992 for a Road Stage. In 2015, the store would replace its Road Stage with a [1-Stage] On January 22nd, 2024, the store would remove its [1-Stage] in favor of its 2.0 Remodel. It was replaced with a Chuck E. Live Stage (Dance Floor) a few days later.
 
-## Videos
-
-| Link                                        | Description            | Filming Date       | Publish Date       |
-|---------------------------------------------|------------------------|--------------------|--------------------|
-| https://www.youtube.com/watch?v=ssArIXTzZOI | Citrus heights in 1995 | November 12th 1995 | February 12th 2022 |
-|                                             |                        |                    |                    |
-|                                             |                        |                    |                    |
-|                                             |                        |                    |                    |

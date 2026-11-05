@@ -27,9 +27,3 @@ After they closed in Spring 2006, they were abandoned for a little bit as they w
 In 1984, a man was accused of stealing money from numerous businesses, one of them was the ShowBiz Pizza on 2805 Target Drive, where he stole $61 dollars. The man has since been arrested.  
 In 1994, a man allegedly stole $81 dollars from the location, the man has since been arrested
 
-## Videos
-
-| Link                                 | Description                                 | Filming Date      |
-|--------------------------------------|---------------------------------------------|-------------------|
-| [Link](https://youtu.be/SeeRKV_A5RM) | A video of the inside of this store in 1991 | August 13th, 1991 |
-| [Link](https://www.youtube.com/watch?v=77v29ZpO8AU) | A video of the inside of this store at an unknown date | Unknown |

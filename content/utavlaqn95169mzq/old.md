@@ -19,14 +19,3 @@ In 2020, during the store closure, the stage would be demolished during closure,
 
 [1986](http://showbizpizza.com/photos/spp/oh_parma/index.html)
 
-## Videos
-
-| Link                                                                                       | Description                                                                                                                 | Date Filmed       | Date Published     |
-|--------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------------|--------------------|
-| [https://www.youtube.com/watch?v=4xlosPFo58E](https://www.youtube.com/watch?v=F6Y1G-8zr3Y) | A video of Macsway as a ShowBiz in 1991.                                                                                    | 1991              | March 3, 2022      |
-| https://www.youtube.com/watch?v=R3lFT-rWGV8                                                | Some footage of Macsway's 3-Stage after the aftershocks of 9/11.                                                            | October 13, 2001  | October 7, 2017    |
-| https://www.youtube.com/watch?v=rynexaXMzV4                                                | Store tour of the store back in 2011. Remastered in 2020                                                                    | April 2011        | September 21, 2020 |
-| https://www.youtube.com/watch?v=hkRuEUFgnpI                                                | [May 2011 Show] being performed without compressed air                                              | June 2011         | June 13, 2011      |
-| https://www.youtube.com/watch?v=1\_n5lancFLU                                               | 'Fun!' from [Chuck E Cheese's Show 3 2018] being performed on Macsway's 3-Stage.                    | June 15, 2019     | February 29, 2020  |
-| https://www.youtube.com/watch?v=uICQYoMwmro                                                | 'Cookies For Santa' from [Chuck E Cheese's Show 5 2019] being performed on Macsway's 3-Stage.       | December 15, 2019 | December 16, 2020  |
-| https://www.youtube.com/watch?v=n09L8exBc5s                                                | Footage of the store's interior after closure, with some games and seats left inside, and the remains of Macsway's 3-Stage. | June 2020         | June 20, 2020      |

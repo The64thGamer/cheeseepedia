@@ -21,4 +21,3 @@ Due to the Covid-19 pandemic all stores were required to only allow pick-up and 
 | link                                                                       | Description                                                  | Filming Date                 |
 |----------------------------------------------------------------------------|--------------------------------------------------------------|------------------------------|
 | https://www.youtube.com/playlist?list=PLMURmwi3AP\_E6dPg\_IU-roJUWvWGiDIyC | Videos showcasing the animatronic at various points in time. | February 2015 - January 2020 |
-| https://www.youtube.com/watch?v=AkQ\_8Vz4bIA                               | Store Tour                                                   | September 8th, 2017          |

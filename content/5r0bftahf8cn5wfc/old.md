@@ -8,12 +8,3 @@ Dublin opened on August 1st, 1994 in a freestanding building in an unnamed plaza
 
 Originally when the store opened, they had a 1-Stage, which also had a turntable, which they still have but not operational. When first installed, Chuck E had the Tuxedo &amp; Derby outfit like all other 1-Stages and a functional turntable that turned when a Live or a Birthday Show played. Between 2009-2012, Pasqually's mask would be replaced. In 2018, Chuck's mask would be replaced with [Newark, CA (39839 Mowry School Rd)]'s which got 2.0 in 2018. In March 2023, Jasper's mask would replaced with one from [Sun Valley, CA (8375 Laurel Canyon Blvd)], which possibly got a new Jasper mask or it could of been a spare one they had backstage. In January 2024, Dublin's 1-Stage was removed.
 
-## Videos
-
-| Link                                                     | Description                                         | Filming Date      | Published Date      |
-|----------------------------------------------------------|-----------------------------------------------------|-------------------|---------------------|
-| [Link](https://youtu.be/ZAEePeMi8yU?si=CLeMR-yEuYKgJh1L) | 1-Stage performance in 2015.                        | October 2015      | October 22nd, 2015  |
-| [Link](https://youtu.be/gFyrWuGe0fQ?si=54W29RtzbHejzPqq) | 1-Stage performance of 'Dream Big'                  | July 2016         | July 7th, 2016      |
-| [Link](https://youtu.be/0V6PZ8RaCjo?si=orXP2avnWyPgAV8t) | Tour of Dublin, CA in 2022.                         | August 2022       | September 1st, 2022 |
-| [Link](https://youtu.be/n8WfwKbDNTU?si=dE27ryMzSy3l8TOo) | 1-Stage performance of 'In the Future'.             | April 5th, 2023   | April 6th, 2023     |
-| [Link](https://youtu.be/ruKmgK49U-Y?si=vdCBsUD91gZEJ9PX) | Outside the store at the beginning of it's remodel. | January 9th, 2024 | January 10th, 2024  |

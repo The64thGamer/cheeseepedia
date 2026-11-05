@@ -8,12 +8,6 @@ Calgary, Alberta, Canada on 2770 32nd Ave opened on August 18th, 1988, as the re
 
 Originally, the store opened with Chuck E.'s House which was one of two installed in Canada (The other was in [Winnipeg, Manitoba, Canada (1931 Pembina Hwy)] which opened on April 30th, 1990), they would then replace it with the Road Stage from the [Calgary, Alberta, Canada (9627 Macleod Trail)] location in the Mid 1990's, which they would have until closure in October 2003.
 
-## Videos
-
-| Link                                        | Title                       | Description                                          | Filming Date    |
-|---------------------------------------------|-----------------------------|------------------------------------------------------|-----------------|
-| https://www.youtube.com/watch?v=MEvfdFIFWjg | Brandon's 2nd Birthday 2003 | Video showcasing some of the store &amp; Road Stage. | October 8, 2003 |
-
 ## Trivia
 
 - Calgary 32nd Ave was the only CEC to ever get a used Road Stage from a closed location as it was Franchised at the time, they received it and most Road Stages that were being removed were either removed altogether or converted into a [1-Stage] or a [2-Stage]. This is also the only case of this ever happening.

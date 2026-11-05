@@ -8,12 +8,6 @@ Carson's Pizza Time Theatre opened in 1983 (month and date unknown) with a [Balc
 
 Carson at first had a Balcony Stage. Not much is known about it, and it was replaced with the C-Stage in 1989/1990. The C-Stage was then replaced with the 2-Stage in 1995/1996. The 2-Stage remained up until the January 2014 closure. The new store's stage was a bot-less Circles of Light, and the stage is still operational.
 
-## Videos
-
-| Link                                                       | Description                                                                                       | Filming Date        |
-|------------------------------------------------------------|---------------------------------------------------------------------------------------------------|---------------------|
-| [Link](https://www.youtube.com/watch?v=ZEaFI0VwOj0&t=157s) | The C-Stage performing [Destination Imagination] and Havin' A Party 1992. | November 11th, 1995 |
-
 ## Animatronics
 
 The characters would be sent to [West Hills, CA (22940 Van Owen St)] following the closure where they would then be dismantled to use as parts for the [Road Stage], with two masks being sent to [Garden Grove, CA (13101 Harbor Blvd)]. Various cosmetic and mech pieces from Carson are now under private ownership.

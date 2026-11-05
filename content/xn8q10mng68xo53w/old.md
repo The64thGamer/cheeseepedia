@@ -8,10 +8,3 @@ Wichita opened its doors on December 16th, 1991, a year after the opening of [To
 
 Wichita premiered with a Road Stage, as did other CEC locations between 1990 and 1992. Initially, there were no curtains (which was common in the early years of Road Stages), though Wichita later received theirs in the late 1990's (and were removed after 2005). The Chuck E. Cheese Cyberamic first wore a tuxedo, then was given Cool Chuck clothes, and finally Avenger clothing. The Road Stage remained until Wichita's 2.0. remodel in September 2022.
 
-## Videos
-
-| Link                                              | Description                                                                                       | Published/ Filmed Date |
-|---------------------------------------------------|---------------------------------------------------------------------------------------------------|------------------------|
-| https://youtu.be/oCSD48H62oQ?si=T9fpP3UVw-vm1PHc  | A birthday party filmed at the location, featuring the gameroom and showroom with the Road Stage. | September 11, 1997     |
-| https://youtu.be/\_059jMIMJzk?si=xqRbI0gfIWea9m60 | The Road Stage performing What Do You Get a Sasquatch For Christmas?                              | December 22, 2016      |
-| https://youtu.be/JlnU\_GwO2Oo?si=HP3HPlJYmOIDgMVb | The Road Stage performing Holiday Medley 2016                                                     | December 22, 2016      |

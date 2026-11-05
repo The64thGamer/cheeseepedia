@@ -4,8 +4,3 @@
 
 W.I.P
 
-## Videos
-
-| Link                         | Description                                                          | Filming/Publish date |
-|------------------------------|----------------------------------------------------------------------|----------------------|
-| https://youtu.be/oL5AM74tBU0 | Skit showing the exterior and various shots of the gameroom in 2011. | July 21, 2011        |

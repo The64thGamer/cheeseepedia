@@ -16,12 +16,3 @@ The store is regularly featured in cast member training material and show materi
 
 In 2004 the store would receive one of the first 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative|'Cool Chuck' remodels, also being one of few locations to have gotten an early version of the 'Cool Chuck' logo that had green as opposed to red on the cap of Chuck E. The store's kiddie area would also be changed to feature unique art on the windows that depicted toddler versions of the Chuck E. Cheese mascots playing in a tree. The art would be removed during the 2015 remodel. In 2015 the location was the first to receive vibrant multi-colored walls, a remodeled exterior, and new décor to match the new look of the Chuck E. Cheese character. The remodel also removed the animatronic show, which was the first remodels to have a serious threat of shows being removed from a location. Near the showroom were short-lived massage chairs for parents but would later be removed for unknown reasons. In December 2022 the Plano, TX store remodeled for the third time during the 2017 2.0 Remodel Program|2.0 Remodel initiative and would reopen on Thursday, February 23.(4)
 
-## Videos
-
-| Link                         | Description                                                                                | Filming Date        |
-|------------------------------|--------------------------------------------------------------------------------------------|---------------------|
-| https://youtu.be/dwujrcRV7a0 | Footage of the store’s arcade, stage, and exterior in 2000.                                | January 2000        |
-| https://youtu.be/wfrzJ6jxLso | The show in disrepair while performing ‘Fun For All’ two months before the show’s removal. | March 15th, 2015    |
-| https://youtu.be/Vt2Ixu4dqcs | Head Shoulders Knees And Toes                                                              | March 30th, 2015    |
-| https://youtu.be/8md7XyHdcNY | Chuck E. Says 2014                                                                         | November 10th, 2015 |
-| https://youtu.be/WwaBXXkIaL0 | Store Tour                                                                                 | February 6th, 2016  |

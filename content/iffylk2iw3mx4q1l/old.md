@@ -18,14 +18,3 @@ TODO
 
 The store opened on April 8, 2004 with a Studio C Beta stage, which would be kept until the location received the 2.0 remodel in September 2019.
 
-## Videos
-
-| Link                                                       | Description                                 | Date Filmed                | Date Published |
-|------------------------------------------------------------|---------------------------------------------|----------------------------|----------------|
-| [Link](https://www.youtube.com/watch?v=rJqv8LTg87I&t=2s)   | Their bot performing Out of this World.     | Sept 8, 2019               | Oct 8, 2020    |
-| [Link](https://www.youtube.com/watch?v=beipwiq0Y_E&t=2s)   | Their bot performing Play All you can Play. | Sept 8, 2019               | Oct 11, 2020   |
-| [Link](https://www.youtube.com/watch?v=_vm5th91zx4)        | Their bot performing My Family.             | Sept 8, 2019               | Oct 5, 2020    |
-| [Link](https://www.youtube.com/watch?v=iM-TEcvJ6D8)        | Their bot performing Chuck E.'s Place.      | May (Unknown Day and Year) | Dec 2, 2017    |
-| [Link](https://www.youtube.com/watch?v=sD8MYg9un8E)        | A tour of the store.                        | Unknown                    | Dec 2, 2018    |
-| [Link](https://www.youtube.com/watch?v=mlx2JKLSMJ4)        | A tour of the store.                        | Unknown                    | Sept 6, 2018   |
-| [Link](https://www.youtube.com/watch?v=y4E3eyvUpeQ&t=186s) | Video of the location after closure.        | Unknown                    | Aug 9, 2020    |

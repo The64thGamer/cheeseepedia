@@ -8,13 +8,3 @@ Naperville opened its doors on April 4th, 1983, with a Rock-afire Explosion show
 
 Naperville opened with the Rock afire Explosion in April 1983. Unfortunately, there are hardly photos or videos to exist of Naperville with the Rock afire, or as a ShowBiz in general. In 1991, Naperville received [Concept Unification], converting the Rock afire into Munch’s Make-Believe Band. In 2000, Naperville removed the 3-Stage for the Studio C Alpha stage. The store relocated in March 2015.
 
-## Videos
-
-| Link                                        | Description                                                                                               | Date                |
-|---------------------------------------------|-----------------------------------------------------------------------------------------------------------|---------------------|
-| https://www.youtube.com/watch?v=B6SPIsKhNk4 | Footage showing Naperville's 3-Stage and [Phase 1 (1994)] remodel in the 90's     | Spring 1997         |
-| https://www.youtube.com/watch?v=-SeSTfgRUUg | Naperville a year before the 3-Stage was removed. This is the last video we have of Naperville's 3-Stage. | Spring 1999         |
-| https://www.youtube.com/watch?v=Ao5Nprrw7Dc | First video of Naperville's [Studio C Alpha] not long after being installed       | April 8th, 2000     |
-| https://youtu.be/9gZ7rt\_WtIk&amp;t=1s      | Local news segment announcing plans for Naperville's relocation                                           | June 2014           |
-| https://youtu.be/xA\_QyjFiqIQ               | Video showing CEC Babies performing at Naperville                                                         | 2015                |
-| https://youtu.be/aiWUkhCdNXc                | Footage of Naperville the day before they closed                                                          | February 28th, 2015 |

@@ -30,17 +30,3 @@ Silver Spring opened in March 1983 (Date Unknown) in the Briggs Chaney Market Pl
 
 On August 8, 2016, the store permanently closed. In 2018 the interior was completely gutted and rebuilt for the use of a short lived furniture store which closed after 1 years and then an antique store which closed after a few months. Silver Spring as of current is an Enterprise car rental which opened around 2020.
 
-## Videos
-
-| Link                                        | Description                                                                 | Filming/Published Date                                                      |
-|---------------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------------------------------|
-| https://youtu.be/xteSNnLqgdg                | Compilation of showroom and game room footage                               | Filmed: November 1st, 1987, September 11th, 1988, and September 10th, 1989. |
-| https://youtu.be/9n00sOhdBKk                | Birthday Party                                                              | Filmed: 1989.                                                               |
-| https://www.youtube.com/watch?v=wMJAVpilKBQ | Footage of Chuck E. March 1993, Birthday Star '92, and September 1993 Show. | Filmed: Fall 1993                                                           |
-| https://youtu.be/uT11vl\_Tnk0               | 'Somebody Like You'                                                         | June 16th, 2013                                                             |
-| https://youtu.be/\_b\_gXmRXYNQ              | Final Store Tour during operation                                           | August 9, 2016                                                              |
-| https://youtu.be/ewJhJz6tImU                | Store Tour                                                                  | August 14th, 2016                                                           |
-| https://youtu.be/RAR2hgwSfxk                | The animatronics' final performance                                         | August 22nd, 2016                                                           |
-| https://youtu.be/DAr7BTBH6ss                | Store Tour                                                                  | November 3rd, 2016                                                          |
-| https://youtu.be/n9-6kPmZM50                | Clip of the location after closure                                          | August 7th, 2017                                                            |
-| https://youtu.be/RVpRYKjrYjU                | Clip of 'Lots Furniture &amp; More' being built.                            | July 11th, 2018                                                             |

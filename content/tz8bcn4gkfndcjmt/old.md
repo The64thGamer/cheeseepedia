@@ -12,14 +12,3 @@ This location opened on June 24, 2002 as Chuck E. Cheese's Buffet, a prototype 6
 
 During the 2020 pandemic, Kade Perry, an employee at the Waco location, stood outside of the establishment looking through the windows, upset about not being able to work. This would be the second time of having local news' attention--as on September 6, 2019 Kade received a tattoo of a vintage Chuck E. Cheese's logo on his right shoulder as a birthday present.(3)
 
-## Videos
-
-| Link                              | Description             | Filming / Published Date |
-|-----------------------------------|-------------------------|--------------------------|
-| https://youtu.be/VSmlMfudHP0      | 'Merry Christmas Time'  | November 27, 2018        |
-| https://youtu.be/vTUNsrIOLtM      | 'Holiday Traditions'    | December 2, 2018         |
-| https://youtu.be/iMtcmdEsLkk      | Store Tour              | July 31, 2019            |
-| https://youtu.be/iMfDvFwJ380      | 'All You Can Play'      | July 31, 2019            |
-| https://youtu.be/F8oRbh5Xx6g      | 'Chuck E. Cha Cha'      | July 31, 2019            |
-| https://youtu.be/IDhP9R5dKuE      | 'Chuck E.'s Easy Dance' | July 31, 2019            |
-| [l](https://youtu.be/PQlvmW1QQ5k) | Store Tour              | October 9, 2021          |

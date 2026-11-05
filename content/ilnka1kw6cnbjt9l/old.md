@@ -8,13 +8,3 @@ Fairfax originally opened on December 22nd, 1983, as the 4th ShowBiz Pizza Store
 
 Originally, Fairfax featured a Rock-Afire Explosion, as were all the other ShowBiz locations. In 1991/1992, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage. In 2000, the 3-Stage was replaced with the Studio C Alpha. In October 2018, the Studio C Alpha was removed for the Dance Floor and Video Wall as apart of their 2.0 Remodel.
 
-## Videos
-
-| Link                                                                       | Description                                                                                         | Filming Date        |
-|----------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|---------------------|
-| https://youtu.be/kWOmSwSPMLU                                               | As a ShowBiz Pizza Place.                                                                           | 1987                |
-| https://www.youtube.com/watch?v=iF2O9MklUBY                                | Earliest known footage of Fairfax's CU 3-Stage in 1991.                                             | Summer 1991         |
-| [https://youtu.be/lfM-YoQusfA](https://www.youtube.com/shorts/lfM-YoQusfA) | Clip of the show performing *Nobody Knows* from [The Chuck E Cheese Show].  | February/March 2016 |
-| https://youtu.be/9CysCUh4I20                                               | Store Tour                                                                                          | Summer 2017         |
-| https://youtu.be/bTszuZFpxUo                                               | The show performing *Friendship Never Ends* from [The Chuck E Cheese Show]. | July 31st, 2017     |
-| https://youtu.be/ldyussyja4M                                               | Grand Reopening                                                                                     | January 29th, 2019  |

@@ -12,9 +12,3 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 TODO
 
-## Videos
-
-| Link                                        | Title                                                          | Description                                                                                                                | Filming Date    |
-|---------------------------------------------|----------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-----------------|
-| https://www.youtube.com/watch?v=CtzqVHnv2wM | Gabe's Bday, Emmie Walking, Gabe's Play - Spring 97'           | Video showcasing the exterior, some of the store, &amp; the store's Exterior. Chuck E. Cheese part of video ends at 11:48. | April 15, 1997. |
-| https://www.youtube.com/watch?v=Y7JT1s9NV5k | Visiting Chucky Cheese's in Johnson City, TN with my daughter. | Another video showcasing the exterior, some of the store, &amp; the store's Exterior.                                      | June 14, 1998.  |

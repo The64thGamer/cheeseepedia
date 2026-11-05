@@ -8,12 +8,6 @@ Madison opened its doors on July 7th, 1982 as the third ShowBiz Pizza Place in W
 
 Madison opened with the Rock afire Explosion in July 1982. Unfortunately, there are some photos but no videos to exist of Madison with the Rock afire, or as a ShowBiz in general. In August of 1991, Madison received [Concept Unification], converting the Rock afire into Munch’s Make Believe Band. In July 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor.
 
-## Videos
-
-| Link                                                                                                 | Description                  | Filming Date     |
-|------------------------------------------------------------------------------------------------------|------------------------------|------------------|
-| https://www.youtube.com/watch?v=4HJ4l19111c&amp;list=PLmSugGYlVkI3N43hMGdHVhONQWvJ2nZ-A&amp;index=19 | Footage of the store in 1995 | January 22, 1995 |
-
 ## Trivia
 
 - Madison was the 3rd ShowBiz to open in Wisconsin after [Milwaukee, WI (7401 Good Hope Rd)] (Opened June 17, 1981) &amp; Milwaukee, WI (4595 S 27th St) (Opened August 27, 1981)

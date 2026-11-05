@@ -32,11 +32,3 @@ West Palm Beach opened on December 18th, 1990, with one of three (Excluding Corp
 - Big Mouth (2 players) (Meltec)
 - Kiddie Pattie Cake
 
-## Videos
-
-| Link                                                                            | Description                                                                         | Filming Date        | Published Date     |
-|---------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|---------------------|--------------------|
-| [Link](https://youtu.be/VTPGaay4FRc?t=5125s)                                    | The store’s Road Stage and showroom.                                                | February 21, 1993   | September 15, 2020 |
-| [Link](https://youtu.be/KyxfE064FNI?t=63)                                       | A video showcasing the store and the Showroom which had the Road Stage.             | May 2, 1993         | June 14, 2021      |
-| [Link](https://www.youtube.com/watch?v=jV1qrS9PJPw&t=5s&ab_channel=mattstecker) | Video from the mid 90's showing the exterior, showroom, gameroom, and overall store | August 25, 1996     | December 26, 2023  |
-| [Link](https://youtu.be/-AUFdkrEEoQ)                                            | Footage of the store's gameroom; shows a bit of the showroom at the beginning       | July-September 2001 | June 30, 2021      |

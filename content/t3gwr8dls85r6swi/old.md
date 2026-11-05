@@ -12,8 +12,3 @@ This location opened with the [Galaxy Stage], which was a test stage only instal
 
 TODO
 
-## Videos
-
-| Link                         | Description                         | Published / Filming Date |
-|------------------------------|-------------------------------------|--------------------------|
-| https://youtu.be/DBcmP9AO0sE | In The Future at West Melbourne, FL | June 24, 2016            |

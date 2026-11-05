@@ -8,13 +8,6 @@ Green Bay opened on October 28th, 1982 as the fourth ShowBiz Pizza Place in Wisc
 
 Originally, Green Bay featured a Rock-afire Explosion, as all other ShowBiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-afire Explosion into the 3-Stage. Green Bay would have the 3-Stage until the Fall of 2000, when they would receive one of the first Studio C Betas (along with [Birmingham, AL (500 Old Town Rd)]). When the stage was first installed, The Bot had the late night outfit. Until the Early to Mid 2000's when they would replace it with the Cool Chuck Outfit. In the late 2000's-early 2010's, they would replace it with the Avenger outfit, until around 2014, when they would put the Rockstar Jeans on Chuck E., Green Bay was the first to have The Rockstar Jeans and they would keep the Avenger shirt until they removed the stage. In September 2021, Green Bay would replace their Beta with a Dance Floor and Video Wall, as part of their 2.0 remodel. It was the only Studio C Beta in Wisconsin. As of March 2023, Green Bay still has the 2.0 Remodel and Chuck E. Live Stage (Dance Floor).
 
-## Videos
-
-| Link                         | Description                                        | Published/ Filmed Date  |
-|------------------------------|----------------------------------------------------|-------------------------|
-| https://youtu.be/cCMNkibFGJ4 | Chuck E. Live '90 / Land of 1000 Dances Live Shows | 1991                    |
-| https://youtu.be/k5mwKYSHp4I | 1998 and 1999 footage compilation of the location. | Filmed in 1998 and 1999 |
-
 ## Trivia
 
 - Green Bay was the 4th ShowBiz to open in Wisconsin after [Milwaukee, WI (7401 Good Hope Rd)] (Opened June 17, 1981), Milwaukee, WI (4595 S 27th St) (Opened August 27, 1981), &amp; [Madison, WI (438 Grand Canyon Dr)] (Opened July 7, 1982).

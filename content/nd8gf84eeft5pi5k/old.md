@@ -12,9 +12,3 @@ Westmoreland (Redbird) opened with the Rock afire Explosion in September 1982. F
 
 [2007](http://showbizpizza.com/photos/cec/tx_dallasredbird/index.html)
 
-## Videos
-
-| Link                                        | Filming Date       | Notes                                                                                                |
-|---------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------|
-| https://www.youtube.com/watch?v=KVxiBRiYRTc | September 15, 1982 | This is the grand opening of the Dallas location.                                                    |
-| https://www.youtube.com/watch?v=HEb4YQbBnyg | 1982               | Let's take a trip back in time to the grand opening of the 100th ShowBiz Store in Dallas TX in 1982! |

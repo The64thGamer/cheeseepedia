@@ -8,11 +8,3 @@ As the location was being planned in 2011, it was originally going to house a [S
 
 The earliest documentation of this location being developed goes back to September 2011. However the construction for this location prolonged into 2014, making this the last location to open with a 'Cool Chuck' exterior and interior. Throughout 2014 they had valet parking service outside, but by 2015 it ended. In June of 2020, CEC Entertainment files for bankruptcy and they started to purge several locations that were underperforming, and this location warranted closure, closing on September 13th, 2020. As of now, the space is for lease.
 
-## Videos
-
-| Link                         | Description                  | Published Date    |
-|------------------------------|------------------------------|-------------------|
-| https://youtu.be/UDiKrtHWCNc | 'Holiday Medley'             | December 21, 2018 |
-| https://youtu.be/yYK8qi-w3-g | 'Share the Joy'              | December 2, 2018  |
-| https://youtu.be/MiAP3GFWt0c | 'Chuck E. Cha Cha' Live Show | February 8, 2020  |
-| https://youtu.be/A04Qi4FJmGo | Store Tour                   | February 15, 2020 |

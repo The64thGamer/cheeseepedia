@@ -8,8 +8,3 @@ When Redding opened, it housed a Balcony Stage. Sometime between 1989 and 1990, 
 
 Redding opened in February 8th, 1983 with a [Balcony Stage]. They then received the 1988 remodel around 1989-1990 when the stage was replaced with [Chuck E.'s House Facade (C-Stage)] and removed older PTT decor. In the Mid 90's They received the Phase 2 Remodel and removed the Chuck E.'s House Facade (C-Stage) for the 2-Stage. Strangely, this store never received curtains or new decor and they also kept the Pizza Time Theatre sign out in the front. They still had the same old stage, decor, and the old sign. They did however update the drink containers and the prizes. This location never received Skytubes. They remained this way until December 2006 when they relocated because they were in a bad spot and they were really outdated. The store was demolished in 2008 for a shopping center. Currently, as of January 2023, the shopping center is still there although it has been changed. TODO
 
-## Videos
-
-| Link                                         | Description | Filming Date |
-|----------------------------------------------|-------------|--------------|
-| https://www.youtube.com/watch?v=QmQ\_OPSQRFY |             | 1999         |

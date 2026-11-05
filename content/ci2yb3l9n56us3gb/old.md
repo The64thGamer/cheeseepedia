@@ -16,8 +16,3 @@ TODO
 
 TODO
 
-| Video Link                                  | Description                              | Filming/Publish Date | Credit To    |
-|---------------------------------------------|------------------------------------------|----------------------|--------------|
-| https://www.youtube.com/watch?v=VUlZyRhy8Y4 | A video documenting Owensboro's history. | October 30th, 2021   | Nathan Spies |
-|                                             |                                          |                      |              |
-|                                             |                                          |                      |              |

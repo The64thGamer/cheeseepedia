@@ -10,12 +10,3 @@ Originally when Grand Chute opened, they had a [Studio C Alpha] stage, they also
 
 TODO
 
-## Videos
-
-| Link                                         | Description                                                                     | Filming / Published Date |
-|----------------------------------------------|---------------------------------------------------------------------------------|--------------------------|
-| https://www.youtube.com/watch?v=CEOZr\_j3XRQ | Chuck E Cheese Grand Chute (Appleton) Store Tour                                | June 5, 2014             |
-| https://www.youtube.com/watch?v=LsFA\_8HVE5k | Chuck E Cheese Grand Chute (Appleton) April 2014 Segment 4                      | June 5, 2014             |
-| https://www.youtube.com/watch?v=QC8ykjPpR6c  | Abandoned Chuck E. Cheese Grand chute Wisconsin                                 | September 6, 2020        |
-| https://www.youtube.com/watch?v=IzJjjG-pSgQ  | Abandoned Chuck E. Cheese’s Location In Grand Chute, Wisconsin                  | September 14, 2020       |
-| https://www.youtube.com/watch?v=7qi15XVihIE  | Sapphire Moon Chocolates - Reopened store with old remains of Chuck E. Cheese 🌹 | October 1, 2022          |

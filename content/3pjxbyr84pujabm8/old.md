@@ -100,10 +100,3 @@ This location opened with a 2-Stage show. In the early 2000's, the showroom was 
 - Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
 - Bike Rally
 
-## Videos
-| Link | Description | Filming Date |
-| --- | --- | --- |
-| [↗️](https://www.youtube.com/watch?v=lSmh1V2Yevs) | Footage of the location during a birthday party. [2] | February 3, 1994 |
-| [↗️](https://www.youtube.com/watch?v=nEX2SIb4z1I) | A store tour filmed in 2015 showcasing 90's and early-2000's exterior and interior signage. [3] | January 13, 2015 |
-| [↗️](https://www.youtube.com/watch?v=bff0fPiHGng) | A store tour Filmed in 2024 showing the 2.0 Remodel prior to getting the Trampoline Zone. [4] | April 7, 2024 |
-| [↗️](https://www.youtube.com/watch?v=mVcPDdtDAlQ) | Footage of the store's Trampoline Zone. [5] | May 12, 2024 |

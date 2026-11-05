@@ -4,10 +4,3 @@
 
 Fontana opened in November 1983 with a [Balcony Stage], which was to the right of the entrance. In 1988/89, they got the [SPT 1980's Remodel Program], retrofitting the Balcony Stage to [Chuck E.'s House Facade (C-Stage)]. Later in 1994/95, they received the SPT 1992/1993 Remodel Program, and got a [2-Stage]. Then in late 2006, they received the [CEC 2000's Remodel Program], relocated the showroom, and got a [Studio C Beta]. In April 2023, they received the [CEC 2.0 Remodel Program] removing the Studio C for a [Chuck E. Live Stage (Dance Floor)] + [Video Wall]. As of October 2023, Fontana remains like this.
 
-## Videos
-
-| Link                                              | Description                                             | Filming Date |
-|---------------------------------------------------|---------------------------------------------------------|--------------|
-| https://youtu.be/uujUMXjml4A?si=mH8zvGFKDtp42R\_d | Footage Of the 2-stage in 2001.                         | 2001         |
-| https://youtu.be/oj4hG2SWg-s?si=Fjsf4ECynbqlHens  | A video showcasing the walkaround costume.              | August 1990  |
-| https://youtu.be/Bw75yiYQaRA?si=zkqIjsftMFtvbc0R  | A video showcasing the king animatronic in August 1990. | August 1990  |

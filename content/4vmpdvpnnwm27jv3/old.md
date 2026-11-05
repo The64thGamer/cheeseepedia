@@ -8,6 +8,3 @@ Columbus (Soldano) would open up on November 24, 1992 with the second 1-Stage ev
 
 WIP
 
-| Link                                                | Description | Filming Date     |
-|-----------------------------------------------------|-------------|------------------|
-| [Link](https://www.youtube.com/watch?v=mI1pNMN5VDE) | Store tour  | October 15, 2020 |

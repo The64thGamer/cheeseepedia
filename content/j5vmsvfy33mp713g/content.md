@@ -48,6 +48,4 @@ In mid July of 2026, a viral trend featuring a clip from the Holiday Special wou
 
 | Title                                                     | Type    | Release             | Platforms                                  |
 |-----------------------------------------------------------|---------|---------------------|--------------------------------------------|
-| [Pumpkins in My Pockets]                | Short   | October 3rd, 2025   | [YouTube](https://youtu.be/zLqVmQcD3zQ)    |
-| [The EASY Dance... Turned IMPOSSIBLE?!] | Short   | October 17th, 2025  | [YouTube](https://youtu.be/7m9F-lPSqjY)    |
 | [Chuck E. Cheese Holiday Special]       | Special | November 27th, 2025 | Youtube, Amazon Prime                      |

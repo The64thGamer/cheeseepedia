@@ -20,13 +20,6 @@ Going into the 1990s and 2000s, the show would mostly just sit in the CEI buildi
 
 Most recently, as preparations for the move to the [Creative Engineering Museum], the official Rock-afire Explosion YouTube channel released a video showcasing the beginning of the stage being packed up for the move. Other footage of the show to recently surface is of the original introduction show being tested after years of the show sitting in the CEI building, showing the condition of the show before it has been fully restored yet for its place in the museum. At this time the showtape would finally be digitized, and fans would learn of the other segments.
 
-## Videos
-
-| Link                                                | Description                                                                                                         | Filming Date |
-|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|--------------|
-| [Link](https://youtu.be/5bXxbHiRX4o?t=94)           | 1992 Demo of CEI Animatronics - Footage from 1992 featuring various animatronics, with Moonrocker footage among it. | 1992         |
-| [Link](https://www.youtube.com/watch?v=kAOFs_PN9Kk) | Disassembly of the Moonrockers for preparation for the museum                                                       | 2022         |
-
 ## Trivia
 
 - Princess Haley has a shiny moon, and star on her face. This was presumed to light up in the spotlight.

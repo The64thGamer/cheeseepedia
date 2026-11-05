@@ -10,8 +10,3 @@ Brockton opened in Spring 1993 (Date Unknown) in the Westgate Mall (Brockton) wi
 
 After it's closure as CEC, it would then become part of a Best Buy store which opened not long after the CEC's closure. Best Buy would remain open until February 27th, 2021 when it would be permanently closed. in Mid May 2021, the store would be reopened as Best Buy outlet. As of March 2023, the space is still Best Buy Outlet.
 
-## Videos
-
-| Link                                 | Description                                                             | Filming Date      |
-|--------------------------------------|-------------------------------------------------------------------------|-------------------|
-| [Link](https://youtu.be/_ZcAWTwkCNk) | A video showcasing the store, games, and 2-Stage back in December 2002. | December 12, 2002 |

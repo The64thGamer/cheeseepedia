@@ -20,9 +20,3 @@ In 2019 a 9-year-old girl who visited the location felt hurt about a taunting vo
 
 On June 18, 2020, this location would be permanently closed due to CEC Entertainment's bankruptcy; along with 33 other locations throughout 2020. The Circles of Light show, booths, and various arcade games would be left inside of the building. This location is still vacant as of 2024.(3)
 
-## Videos
-
-| Link                                                | Description                                                   | Filming / Published Date |
-|-----------------------------------------------------|---------------------------------------------------------------|--------------------------|
-| [link](https://www.youtube.com/watch?v=Hr8T5Wd6vlk) | Chuck E. Cheese Walk-Around featured through out the location | May 10, 2011             |
-| [link](https://www.youtube.com/watch?v=dSSeDCBrX5Y) | Showcase of the now vacant Chuck E. Cheese building           | Jul 12, 2020             |

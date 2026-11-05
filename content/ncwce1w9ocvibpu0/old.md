@@ -8,15 +8,3 @@ On May 26th, 2024, Mays Landing began their [CEC 2.0 Remodel Program] renovation
 
 TODO
 
-## Videos
-
-| Link                                                                  | Description                                                                           | Filming Date      |
-|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------|-------------------|
-| https://youtu.be/YfNCW-3SrGo?si=5AxUoIFAEMiRN4XL                      | Footage of Mays Landing in 2005                                                       | April 24, 2005    |
-| https://youtu.be/hCNgCxTahFU?si=0O0lgc0KnzjNRm5X                      | Footage of Mays Landing during a "Chanukah" Event in 2008                             | December 2008     |
-| https://youtu.be/s0\_haU7KSCE?si=P6QRvlKOQqoSkknY                     | Cupid Shuffle Live Show in Mays Landing in 2013                                       | June 18, 2013     |
-| https://youtu.be/d2V7pOWUQu4?si=6LGh2Zk7q7LKmY8l                      | Mays Landing’s Studio C playing the April 2014 Show, Segment 1.                       | Spring 2014       |
-| https://youtu.be/MwQoGw8DQp8?si=TK0ghnKydquMRTut                      | Mays Landing’s Studio C playing "My Family".                                          | July 3, 2019      |
-| https://youtu.be/vBr27AE3VVw?si=fllpDFX1l\_Fqgwz_                     | Store Tour of Mays Landing in December 2020                                           | December 26, 2020 |
-| https://youtu.be/M5mHyNRsvZA?list=PLq54ycCiI9ZIQX9kAJbFpmrL\_FzYQv2vX | Chuck E Bop Live Show in Mays Landing's Grand Reopening Event with Balloon Drop fail. | July 2024         |
-|                                                                       |                                                                                       |                   |

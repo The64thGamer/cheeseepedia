@@ -14,28 +14,3 @@ The store would open March 6, 2000 debuting with a [Studio C Alpha]. The Late Ni
 |-----------------------------------------------------|------------------------------------------|-------------|-------------|
 | [Chuck 2014 (Costume Head)] | Chuck Rockstar Attire 1 (Costume Outfit) | None        | In Use      |
 
-## Videos
-
-| Link                                                | Description                                                                                         | Filming Date      |
-|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------|-------------------|
-| [Link](https://youtu.be/PgnmW_xqMBE)                | [September 2010 Show] Segment 1 being performed on Warwick's Studio C Alpha | November 6, 2010  |
-| [Link](https://youtu.be/zVif7nuCRrM)                | [September 2010 Show] Segment 2 being performed on Warwick's Studio C Alpha | November 6, 2010  |
-| [Link](https://youtu.be/bgOfoS7oKRI)                | [September 2010 Show] Segment 3 being performed on Warwick's Studio C Alpha | November 6, 2010  |
-| [Link](https://youtu.be/-g0NN2SXpu0)                | [September 2010 Show] Segment 4 being performed on Warwick's Studio C Alpha | November 6, 2010  |
-| [Link](https://youtu.be/yEhWPOhMsd0)                | [September 2010 Show] Segment 5 being performed on Warwick's Studio C Alpha | November 6, 2010  |
-| [Link](https://youtu.be/oSw4RJbGJ-c)                | [September 2010 Show] Segment 6 being performed on Warwick's Studio C Alpha | November 6, 2010  |
-| [Link](https://youtu.be/PdeBIeCXBA0)                | [September 2010 Show] Segment 7 being performed on Warwick's Studio C Alpha | November 6, 2010  |
-| [Link](https://youtu.be/dgLN-pz0jpc)                | [September 2010 Show] Segment 8 being performed on Warwick's Studio C Alpha | November 6, 2010  |
-| [Link](https://youtu.be/zbWowcqjFko)                | 'Birthday Star 2009' being performed on Warwick's Studio C Alpha                                    | November 6, 2011  |
-| [Link](https://youtu.be/mwbFsrAZg-4)                | A kid riding a bike ride at the store.                                                              | March 25, 2011    |
-| [Link](https://youtu.be/oJ7cssSvuKM)                | [September 2011 Show] Segment 1 being performed on Warwick's Studio C Alpha | November 21, 2011 |
-| [Link](https://youtu.be/ELuC1VIXwmw)                | [September 2011 Show] Segment 2 being performed on Warwick's Studio C Alpha | November 23, 2011 |
-| [Link](https://youtu.be/FXYX8SeBloI)                | [September 2011 Show] Segment 3 being performed on Warwick's Studio C Alpha | November 21, 2011 |
-| [Link](https://youtu.be/8xGhPfWidIE)                | [September 2011 Show] Segment 4 being performed on Warwick's Studio C Alpha | November 21, 2011 |
-| [Link](https://youtu.be/MGJCUxvTNew)                | [January 2012 Show] Segment 1 being performed on Warwick's Studio C Alpha   | January 2012      |
-| [Link](https://youtu.be/cx7snUEmids)                | [January 2012 Show] Segment 2 being performed on Warwick's Studio C Alpha   | January 2012      |
-| [Link](https://youtu.be/tpDl5BA66N8)                | Family vlog where they go to Warwick.                                                               | January 11, 2012  |
-| [Link](https://youtu.be/bZOWW6fod4o)                | A birthday party taking place at the store.                                                         | February 19, 2012 |
-| [Link](https://youtu.be/B2VOrAtTuSE)                | A kid celebrating his 4th birthday at the location.                                                 | August 2012       |
-| [Link](https://youtu.be/wWd6Yj3YvJQ)                | A video of Warwick after being remodeled for the first time.                                        | November 23, 2012 |
-| [Link](https://www.youtube.com/watch?v=3gnHV6I7wrc) | Warwick getting ready to install their trampoline.                                                  | April 26, 2024    |

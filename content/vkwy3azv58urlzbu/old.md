@@ -8,14 +8,6 @@ Spokane opened on April 14th, 1983, as part of the center it was in and was fran
 
 TODO
 
-## Videos
-
-| Link                                        | Description                                                                                                                                  | Published Date    |
-|---------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| https://www.youtube.com/watch?v=DqyH5-69L4s | footage of the stores 2 stage in 1996 playing the august 1996 show, chuck e shuffle 1994, birthday star 1992 and some of chuck e march 1993. | November 5th 2023 |
-|                                             |                                                                                                                                              |                   |
-|                                             |                                                                                                                                              |                   |
-
 ## Trivia
 
 The location is now a Walmart(1)

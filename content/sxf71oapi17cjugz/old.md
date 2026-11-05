@@ -18,11 +18,3 @@ In mid-2011, the location went through a [CEC 2000's Remodel Program], which inc
 
 Currently, as of August 2024, the location still has the 2.0 Remodel and the Dance Floor. The grand reopening event of this location happened on August 6, 2024.(11)
 
-## Videos
-
-| Link                                                | Description                                                                             | Date Filmed  | Date Published |
-|-----------------------------------------------------|-----------------------------------------------------------------------------------------|--------------|----------------|
-| [Link](https://www.youtube.com/watch?v=4qsB_Ck7bPg) | A video titled 'A visit to Chuck E. Cheese's in Altoona, PA'                            | 2009         | Mar 26, 2009   |
-| [Link](https://www.youtube.com/watch?v=mUVJAHJuaJQ) | A video titled 'Chuck E Cheese Band - Golgotha (the characters shown with latex masks)' | 2011         | Aug 16, 2012   |
-| [Link](https://www.youtube.com/watch?v=thG1UCs1zNc) | A tour of the store a month prior to remodeling.                                        | April 2024   | Apr 28, 2024   |
-| [Link](https://www.youtube.com/watch?v=BB75k44saaU) | Final Performance of the 3-Stage before removal                                         | May 12, 2024 | May 13, 2024   |

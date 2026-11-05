@@ -12,14 +12,6 @@ Besides the opening of the location, very little is known about this location as
 
 Identified Machines [Chuck E Cheese's Super Shot] Chuck E. Cheese's Photo Ride (1997) [Chuck E's Choo Choo] Tower of Power [Air Hockey] Skee Ball [California Speed](https://www.arcade-museum.com/game_detail.php?game_id=7260) Cyclone Spider Stompin' Buzzy Buzzy Bee Ticket Troopers
 
-## Videos
-
-| Link                                                | Description    | Filming Date      |
-|-----------------------------------------------------|----------------|-------------------|
-| [Link](https://www.youtube.com/watch?v=YUD3Z8ZG0mI) | Birthday Party | March 9, 1999     |
-| [Link](https://www.youtube.com/watch?v=uNjkjhiv4wY) | Birthday Party | November 13, 1999 |
-| [Link](https://www.youtube.com/watch?v=AGmBmf9j7Hw) | Birthday Party | November 2000     |
-
 ## Walkarounds
 
 | Head                                                | Outfits &amp; Suits                                                                             | Accessories                                                                                 | Whereabouts                                                               |

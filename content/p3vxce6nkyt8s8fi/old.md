@@ -58,10 +58,3 @@ Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iow
 - Smokin Token Extreme
 - Pharaoh's Treasure
 
-## Videos
-
-| Link                                 | Description                                                 | Footage Date        | Upload Date          |
-|--------------------------------------|-------------------------------------------------------------|---------------------|----------------------|
-| [Link](https://youtu.be/YF1GSPhhG64) | Footage of the stage in 1992.                               | May 7th, 1992       | September 20th, 2020 |
-| [Link](https://youtu.be/l3hV_0uszMI) | Footage of the stage in 1995                                | March 1995          | September 15th, 2019 |
-| [Link](https://youtu.be/fsb9Uu3ivFc) | A store tour of this location on its last day of operation. | November 18th, 2013 | April 30th, 2015     |

@@ -24,16 +24,6 @@ On July 22, a fire allegedly started in the building.(3)
 - On May 19, 2011, a Geocache named 'Chuck E Cheese Geo to JAPAN' is created with the intent of sending a Chuck E. Cheese plushie location to Japan. On June 7, 2011, the Plush toy was last seen in a photo with the Chuck E. Cheese walkaround at the Mobile, AL Chuck E. Cheese's.(6)
 - Sometime around June 2023, the store's street sign was removed.
 
-## Videos
-
-| Link                                                | Description               | Filming Date |
-|-----------------------------------------------------|---------------------------|--------------|
-| [link](https://www.youtube.com/watch?v=ZhkhqtKBkKM) | Vegas Set                 | 1995         |
-| [link](https://www.youtube.com/watch?v=-PPfXZrbgHg) | Vegas Set #2              | 1995         |
-| [link](https://www.youtube.com/watch?v=AV9DN9tLWzM) | Winter Stage              | 1995         |
-| [link](https://www.youtube.com/watch?v=ho-zMfBCH0k) | Playroom Set              | 1996         |
-| [link](https://www.youtube.com/watch?v=_m44Y44S2lk) | Together We Got It (2017) | 2017         |
-
 ## Walkarounds
 
 | Head                                                | Outfits &amp; Suits                                       | Accessories                                                                                      | Whereabouts |

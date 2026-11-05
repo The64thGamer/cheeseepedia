@@ -13,20 +13,3 @@ Their Chuck E.'s House lasted up to early 1994, when it would be replaced for th
 | Link                                                                                                        | Description                        | Published / Filmed |
 |-------------------------------------------------------------------------------------------------------------|------------------------------------|--------------------|
 | https://dwyadenfamilyarchives.smugmug.com/Dan-and-Julie/Jake-Yaden/Jake-Yaden-Video-1990-Original/i-x6z3RjX | Family visits store                | 1990               |
-| https://youtu.be/ma7Y3xUDSes                                                                                | Birthday                           | January 11, 1991   |
-| https://youtu.be/gL6ytQ0eHnc                                                                                | Birthday                           | October 23, 1991   |
-| https://youtu.be/XrvfuMAnb0U                                                                                | Birthday                           | April 21, 1993     |
-| https://youtu.be/XvMtk5yaqDc                                                                                | Summertime 2006 Show Segment 2     | Oct 17, 2006       |
-| https://youtu.be/1cie6V50ZHc                                                                                | 'Ain't Nothing Wrong With That'    | 2010               |
-| https://youtu.be/bFkSeo7eNbY                                                                                | 'Rockin' Robot'                    | June, 27 2014      |
-| https://youtu.be/zHxbUnhawkM                                                                                | 'Nobody Knows'                     | June, 27 2014      |
-| https://youtu.be/NXE2FUYe7aY                                                                                | 'Head, Shoulders, Knees, and Toes' | June, 27 2014      |
-| https://youtu.be/ibS\_eHBM42U                                                                               | Animatronics                       | June 2, 2015       |
-| https://youtu.be/IyI7wMAY3bE                                                                                | Store Tour                         | July 26, 2016      |
-| https://youtu.be/DJYbANMPTpI                                                                                | 'In The Future'                    | September 30, 2016 |
-| https://youtu.be/ZGci7j35pyI                                                                                | 'Trick Or Treat'                   | October 27, 2016   |
-| https://youtu.be/IqB1aZsRyyQ                                                                                | Store Tour                         | January 4, 2017    |
-| https://youtu.be/d7DcVAPU05I                                                                                | Store Tour                         | April 8, 2017      |
-| https://youtu.be/xL6UE3P6jiU                                                                                | 'Keep Drummin''                    | April 15, 2017     |
-| https://youtu.be/rd68JNmW-vs                                                                                | Live Stream                        | July 25, 2019      |
-| https://youtu.be/XV1wKIt\_yOY                                                                               | Store Tour                         | September 17, 2021 |

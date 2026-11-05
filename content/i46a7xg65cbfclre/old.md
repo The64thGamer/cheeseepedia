@@ -96,15 +96,3 @@ Around July 2019, the store would start their 2.0 remodel, removing the animatro
 - Pirate's Hook
 - Hit Music
 
-## Videos
-
-| Link                                                | Description                                                                                           | Filming Date     |
-|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------|
-| [Link](https://youtu.be/hsAoAHuaB3A)                | Prize counter                                                                                         | February 2007    |
-| [Link](https://www.youtube.com/watch?v=HWuCZCc87Pw) | The store's show performing *Friendship Never Ends* from the [July 2014 Show] | July 27th, 2015  |
-| [Link](https://youtu.be/JJo2XQ6JtFY)                | Footage of the store's show                                                                           | November 2015    |
-| [Link](https://youtu.be/zQTnS10UT94)                | Footage of the arcade pre-2.0                                                                         | August 1st, 2017 |
-| [Link](https://youtu.be/Ba7qkSn7IaE)                | Store tour during [CEC 2.0 Remodel Program]                                   | July 2nd, 2019   |
-| [Link](https://youtu.be/B1JR8Od149Y)                | The store's show performing *Gamin' Time* from [Chuck E Cheese's Show 3 2016] | July 2nd, 2019   |
-| [Link](https://youtu.be/L8aN7t4Xwto)                | The Easy Dance                                                                                        | July 2nd, 2019   |
-| [Link](https://youtu.be/uEUu-aVKXrI)                | 2.0 Store Tour                                                                                        | June 27th, 2020  |

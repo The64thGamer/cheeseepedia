@@ -43,19 +43,3 @@ Identified 1998 Machines
 - [Cyclone](https://www.arcade-museum.com/game_detail.php?game_id=19716)
 - [Buzzy Buzzy Bee](https://www.arcade-museum.com/game_detail.php?game_id=19671)
 
-## Videos
-
-| Link                          | Description                                  | Date             |
-|-------------------------------|----------------------------------------------|------------------|
-| https://youtu.be/-18SLJ6EXq0  | Showscan Feature on KKAS                     | February 4, 1984 |
-| https://youtu.be/n1a-okR19Fw  | Footage of the store as a ShowBiz Pizza      | February 1988    |
-| https://youtu.be/WgHL-OZ8ybY  | Concept Unification Premiere Demo            | 1990             |
-| https://youtu.be/AG\_S8DtkZug | Taking Care Of Business Demo                 | 1991             |
-| https://youtu.be/92D3qT6j8pI  | Land Of 1,000 Dances Demo                    | 1991             |
-| https://youtu.be/MLKH7vdUlns  | Walking On Sunshine Demo                     | 1991             |
-| https://youtu.be/Et7dASk23-Y  | Games 91 and CU Live 90                      | Summer 1991      |
-| https://youtu.be/92D3qT6j8pI  | Havin' A Party/Chuck E.'s Place Demo         | 1992             |
-| https://youtu.be/hrbvNxw\_xbI | Brief location footage featuring the show    | May 1995         |
-| https://youtu.be/0QseidcG-Qo  | Last known video of the 3-Stage in operation | February 1996    |
-| https://youtu.be/0zqMGkGV9xc  | AAM installation                             | August 11, 1996  |
-| https://youtu.be/Or8yZUYdvxA  | Feature in 'Tokens To Ride'                  | 1998             |

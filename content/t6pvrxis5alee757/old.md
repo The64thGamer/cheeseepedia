@@ -61,14 +61,3 @@ Sometime around 2009-2010, Chuck E. would get the Avenger hat and shirt. The hat
 - Zombie Land Battle
 - Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
 
-## Videos
-
-| Link                         | Description                                | Footage Date       |
-|------------------------------|--------------------------------------------|--------------------|
-| https://youtu.be/rHy6Ye9bpuI | Showroom and some store footage from 1998. | February 15, 1998  |
-| https://youtu.be/Koo9flL1zgg | Video slideshow                            | September 13, 2008 |
-| https://youtu.be/6cmySYN6H2A | Store tour                                 | August 22, 2017    |
-| https://youtu.be/45aGhbNzHbs | Because We're Friends                      | August 2018        |
-| https://youtu.be/yAewkEELMdU | Merry Christmastime                        | December 2020      |
-| https://youtu.be/QQZts1Xl7n8 | Dog Days of Summer                         | July 2021          |
-| https://youtu.be/9LX9ECDqtHM | Join the Party                             | August 2022        |

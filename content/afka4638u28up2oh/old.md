@@ -10,9 +10,4 @@ La Mirada opened on February 25, 1992 with a Road Stage and the [SPT 1980's Remo
 
 ## Videos
 
-| Link                                                                                      | Description            | Filming Date |
-|-------------------------------------------------------------------------------------------|------------------------|--------------|
-| https://www.youtube.com/watch?v=dmspPu\_oqCQ&amp;ab\_channel=MMBBCA                       | Store tour before 2.0. | Early 2021   |
-| https://www.youtube.com/watch?v=MurBf0Kg-kI&amp;ab\_channel=ChuckSouthernCaliforniacheese | Store tour after 2.0.  | 2023         |
-
 TODO

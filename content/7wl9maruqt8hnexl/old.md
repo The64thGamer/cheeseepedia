@@ -13,6 +13,5 @@ Originally, Southgate featured a Rock-Afire Explosion, as all other ShowBiz loca
 |                                                     |                                  |             |                |
 |-----------------------------------------------------|----------------------------------|-------------|----------------|
 | Link                                                | Description                      | Date Filmed | Date Published |
-| [Link](https://www.youtube.com/watch?v=POi9zOCGzYU) | The Rock Afire Explosion in 1989 | March 1989  | May 4, 2024    |
 
 TODO

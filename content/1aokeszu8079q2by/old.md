@@ -8,14 +8,3 @@ Columbia opened its doors on June 28th, 1983. The store was originally franchise
 
 Columbia would premiere with a Classic Rock-afire Explosion, as other ShowBiz locations did at the time. The show would remain largely unchanged until 1991, when [Concept Unification] occurred. In November 2022, Columbia removed the 3-Stage for a 2021 Model Chuck E. Live Stage (Dance Floor).
 
-## Videos
-
-| Link                                        | Description                                                                                                                   | Filming Date     | Publish Date     |
-|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------|------------------|
-| https://www.youtube.com/watch?v=zyyrlbjYOFM | Store tour of the store after reopening during the COVID-19 Pandemic.                                                         | June 8, 2020     | June 8, 2020     |
-| https://www.youtube.com/watch?v=XZo7EJ-7zYk | A look at the store's animatronics almost a year before removal                                                               | January 22, 2022 | January 22, 2022 |
-| https://www.youtube.com/watch?v=fP76kzSFocc | Store tour of the store a few months before the 2.0 Remodel                                                                   | May 2022         | May 16, 2022     |
-| https://www.youtube.com/watch?v=SmtvhaepU6c | 'Down the Road' from [Chuck E Cheese Summer of Fun 2022 Show] being performed on Columbia's 3-Stage.  | June 2022        | June 11, 2022    |
-| https://www.youtube.com/watch?v=0ttL7bpW6lQ | 'Out of This World' from [Chuck E Cheese's Show 5 2016] being performed on Columbia's 3-Stage.        | June 2022        | June 25, 2022    |
-| https://www.youtube.com/watch?v=3KSBhTb0TT8 | 'Join the Party' from [Chuck E Cheese Summer of Fun 2022 Show] being performed on Columbia's 3-Stage. | June 2022        | November 1, 2022 |
-| https://www.youtube.com/watch?v=KdKm7QAroQw | Store tour of the store after the 2.0 Remodel                                                                                 | January 7, 2023  | January 9, 2023  |

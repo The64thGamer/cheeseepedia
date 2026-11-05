@@ -74,13 +74,6 @@ Although stage documentation is obscure, it is confirmed that Sgt. Singer's used
 
 Shortly after Creative Presentations began selling off Sgt. Singer's stock, Japanese-based Okamoto Amusements purchased 3 Sgt. Striper shows (and one The Ape-Ology's|Ape-Ology's show) to be leased by Japanese theme parks. Okamoto offered the Circus Band, Beach Bums, and Barnyard Band show variants.(0) At least two of these shows had been rediscovered and were said to have been sold in 2023.(3)
 
-## Videos
-
-| Link                                        | Description                                                                                        | Filming Date  |
-|---------------------------------------------|----------------------------------------------------------------------------------------------------|---------------|
-| [Link](https://youtu.be/sGwvdZJCDvY)        | The complete, 14 minute performance of Sgt. Striper's Three Piece Touring Band at Idlewild Park.   | July 1, 1988  |
-| [Link](https://youtu.be/MFZUW8F_GHk?t=1663) | A Sgt. Singer figure performing with Purrscilla Purr and Big Bear at French theme park, Mirapolis. | July 22, 1990 |
-
 ## Trivia
 
 - The *Sgt. Singer's* store in Decatur, Georgia actually featured The Animal Crackers (with Sheriff Bob Wire &amp; the B.O.Y.S, Patty Pachyderm &amp; Mortimer D. Mouse, and the Ape-Ology's) instead of the standard show. It's unknown why this was the case, though rumors suggest it was due to the previous figures requiring off-stage maintenance.(4)

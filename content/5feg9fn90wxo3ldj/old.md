@@ -14,11 +14,4 @@ Pearl City would open in December 1994 (Date Unknown) with a 1-Stage with a turn
 
 ## Videos
 
-| Link                                              | Description                            | Filming Date |
-|---------------------------------------------------|----------------------------------------|--------------|
-| https://youtu.be/lwDfSaGghBU?si=OHJto6GdMHoGJHM-  | Footage of Munch dancing to party rock | 2010         |
-| https://youtu.be/mDSvGq0n5cc?si=Z7GVLgEYAcWZ\_lJn | Footage of the custom live show        | 2017         |
-| https://youtu.be/13wTy2s4l30?si=zWkqlXysV-s8I\_Td | Different custom live show             | 2018         |
-| https://youtu.be/VzOEHQ289K0?si=nJcEiZx-zyk-A1U8  | The standard live show                 | 2022         |
-
 W.I.P

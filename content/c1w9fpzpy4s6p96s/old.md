@@ -84,11 +84,3 @@ Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby o
 
 [2021](https://www.flickr.com/photos/ryanrules/albums/72157718998472949)
 
-## Videos
-
-| Link                                     | Description                                                                       | Filming Date    | Publish Date      |
-|------------------------------------------|-----------------------------------------------------------------------------------|-----------------|-------------------|
-| https://youtu.be/XiWg\_5kcm-c&amp;t=124s | The show performing [Summertime 2001] and arcade footage. | June 29th, 2001 | August 23rd, 2020 |
-|                                          |                                                                                   |                 |                   |
-|                                          |                                                                                   |                 |                   |
-|                                          |                                                                                   |                 |                   |

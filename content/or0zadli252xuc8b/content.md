@@ -58,12 +58,3 @@ Hugs and Tugs are baby bear twins, under the care of their beloved Grams, that a
 
 ### Dorney Park
 
-## Videos
-
-| Link                                                        | Description                                                           | Filming Date | Publish Date     |
-|-------------------------------------------------------------|-----------------------------------------------------------------------|--------------|------------------|
-| [YouTube](https://youtu.be/2J2l-W-mzp4?si=X6TvaLRlV7qCI_g2) | Dorney Park's Care-A-Lot Castle performing the 'Cloudy' Segment       | 1988-1992    | October 28, 2006 |
-| [YouTube](https://youtu.be/VYgRHafvst8?si=0hKQQTH08lIphxkS) | Dorney Park's Care-A-Lot Castle performing the 'Rainbow' Segment      | 1988-1992    | January 18, 2010 |
-| [YouTube](https://youtu.be/aW84fcYvHXA?si=X7r1J_LEljtdmeZ2) | Excerpt of the Indonesian dub, using footage of the Dorney Park show. | 1988-1992    | January 16, 2016 |
-| [YouTube](https://youtu.be/DzHz5gtRgMg?si=Qm4-NjXo_VYPkB2e) | Excerpt of the Indonesian dub, using footage of the Dorney Park show. | 1988-1992    | February 6, 2016 |
-| [YouTube](https://youtu.be/q9zqxTh2k18?si=HbqjPbr3K5-ZGzAl) | Complete English Soundtrack                                           | N/A          | June 22, 2022    |

@@ -4,8 +4,3 @@
 
 TODO
 
-## Videos
-
-| Link                          | Description                                        | Filming Date    |
-|-------------------------------|----------------------------------------------------|-----------------|
-| https://youtu.be/Y5ZuvCs\_fcQ | Footage of the store's arcade and showroom in 1994 | June 12th, 1994 |

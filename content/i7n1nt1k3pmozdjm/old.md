@@ -8,8 +8,3 @@ Lakewood opened on March 23rd, 1983, as part of an expansion of the shopping cen
 
 Originally, Lakewood had a Rock-Afire Explosion. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. In 2000, the 3-Stage was replaced by the Studio C Alpha, which would eventually be removed in Late February 2024 in response to the store receiving the 2.0 Remodel.
 
-## Videos
-
-| Link                                 | Description                                                                        | Filming Date      |
-|--------------------------------------|------------------------------------------------------------------------------------|-------------------|
-| [link](https://youtu.be/CjaoK2MI588) | Employee Christmas dance party in the showroom, ends with two walkarounds dancing. | December 25, 1990 |

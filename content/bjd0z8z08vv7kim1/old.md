@@ -8,10 +8,3 @@ Pico Rivera opened sometime in 1982. Unfortunately, there is hardly any informat
 
 Pico Rivera opened with the Balcony Stage in 1982. Unfortunately, there are hardly any photos or videos to exist of Pico Rivera.
 
-## Videos
-
-| Link                                                  | Description                                                                                         | Filming Date     | Pulish Date       |
-|-------------------------------------------------------|-----------------------------------------------------------------------------------------------------|------------------|-------------------|
-| https://youtu.be/y0v80X1D-Yw                          | Pico Rivera's 1-Stage performing Dog Days of Summer.                                                | June 10th, 2022. | June 11th, 2022.  |
-| https://www.youtube.com/watch?v=HRi-FAz6v9o&amp;t=59s | Pico Rivera's 1-Stage performing Keep Drummin', one of the stage's last performances before removal | Early 2024       | February 28, 2024 |
-| https://www.youtube.com/watch?v=wUR9wTw2h9k           | A slideshow of Pico Rivera's 2.0 remodel photos.                                                    | March 2024       | March 10, 2024    |

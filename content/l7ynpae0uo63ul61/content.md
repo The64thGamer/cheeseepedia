@@ -15,12 +15,6 @@ The costume was a generic costume sold by an unknown company, which was distribu
 
 ### Videos
 
-| Link                                       | Location                      | Description                       | Date   |
-|--------------------------------------------|-------------------------------|-----------------------------------|--------|
-| [link](https://youtu.be/gg-UHptqfss?t=226) | Busch Gardens The Old Country | Alfie &amp; Rufus performing.     | 1970's |
-| [link](https://youtu.be/wf_jT0oeCIQ?t=141) | Busch Gardens The Old Country | Rufus walking in the backtground. | 1970's |
-| [link](https://youtu.be/wf_jT0oeCIQ?t=319) | Busch Gardens The Old Country | Rufus performing.                 | 1970's |
-
 ==
 
 ## Gallery

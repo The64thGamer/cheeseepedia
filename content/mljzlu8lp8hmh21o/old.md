@@ -85,9 +85,3 @@ Originally when the store opened, they had a Circles of Light with no Chuck E. b
 
 TODO
 
-## Videos
-
-| Link                                 | Description                 | Filming Date     |
-|--------------------------------------|-----------------------------|------------------|
-| [Link](https://youtu.be/P_BnS9WcqCY) | Store Tour (2022)           | April 17th, 2022 |
-| [Link](https://youtu.be/Hx1sjVmoFz8) | Complete Arcade Tour (2023) | June 11th, 2023  |

@@ -8,16 +8,3 @@ Canton opened in an unnamed shopping center with a [Chuck E.'s House (Rocker Sta
 
 When Canton first opened, the location opened with [Chuck E.'s House (Rocker Stage)] which was the only one installed in the state which was located on the left side wall. In 1993/1994, it was converted into a [2-Stage], moving the show to the back wall. They would have the 2-Stage until August 2022 when it was removed for a 2021 Model Dance Floor &amp; Video Wall. As of April 2023, Canton still has their 2021 model Dance Floor &amp; Video Wall.
 
-## Videos
-
-| Link                                                | Description                                                                                                                        | Filming Date      | Published Date    |
-|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------|
-| [Link](https://youtu.be/z2_JQOxKMwI)                | A video showcasing the store, games, and Chuck E.'s House back in November 1991                                                    | November 7, 1991  | June 12, 2020     |
-| [Link](https://youtu.be/MwVfjH6zzAk?t=43)           | A video showcasing the store, games, and Chuck E.'s House back in 1992. Part 2                                                     | February 29, 1992 | November 17, 2019 |
-| [Link](https://youtu.be/wWPcDXbf9ZE?t=43)           | A video showcasing the store, games, and Chuck E.'s House back in 1992. Part 1                                                     | April 16, 1992    | November 1, 2019  |
-| [Link](https://youtu.be/RR5HtrQQKsk?t=467)          | A home video taken at the location back in 1994.                                                                                   | October 9, 1994   | November 27, 2016 |
-| [Link](https://youtu.be/5jkSd7jbO4w)                | Ross Federman of *Tally Hall* celebrating his birthday at this store in 2007.                                                      | January 30, 2007  | May 25, 2010      |
-| [Link](https://www.youtube.com/watch?v=ppfmOO4fK4k) | Store Tour of the store back in 2019.                                                                                              | June/July 2019    | July 19, 2019     |
-| [Link](https://www.youtube.com/watch?v=l8wVKQOz4WI) | 'Dog Days of Summer' from [Chuck E Cheese's Show 3 2021] being performed on Canton's 2-Stage               | July/August 2021  | August 4, 2021    |
-| [Link](https://youtu.be/TpyrTITzOV4)                | 'Together We've Got It 2017' from [Chuck E Cheese's Show 1 2017] being performed on Canton's 2-Stage       | April/May 2022    | June 2, 2022      |
-| [Link](https://www.youtube.com/watch?v=rseboxH34CQ) | A video after the removal of the 2-Stage, before they put up the character biography posters &amp; after the Video Wall was built. | August 2022       | August 17, 2022   |

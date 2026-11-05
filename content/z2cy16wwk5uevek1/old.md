@@ -8,8 +8,3 @@ Brookfield opened with a Studio C Alpha, the very first of its kind. In the earl
 
 Brookfield opened on December 17, 1997, with the Phase 2 remodel. This included some late '90s decor, Skytubes, and the very first Studio C Alpha. Brookfield remained like this for many years. In 2012, Brookfield received the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative|2005 remodel, which involved removing all '90s decor for newer decor, removing the showroom walls and balcony seating, changing the exterior, and removing the dim lighting for brighter lighting. They were also on a street called Cheese E. Street. A unique road sign was created with the Thumb Chuck above it and below it reading 'Cheese E. Street' on the standard green and white road sign color scheme. The street sign was removed in Spring 2022 and was saved by a private collector. The pole for the sign still remains. The 2.0 remodel for this location started on August 12th, 2024, by removing their very first Studio C Alpha stage.
 
-## Videos
-
-| Link                                                      | Description                                                                                                   | Filming Date | Published Date |
-|-----------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------|----------------|
-| [Link](https://www.youtube.com/watch?v=BfSpj-PIlZA&t=69s) | This is segment 2 of the April 2012 show at the Studio C Alpha in Brookfield, Wisconsin. Filmed on 5/25/2012. | May 25, 2012 | June 24, 2012  |

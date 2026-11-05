@@ -12,12 +12,3 @@ As this franchised store opened in 1996 in a secluded location, it has gone most
 
 By the Fall of 2014, the location closed and was turned into an expansion of the next-door All-Star Bowling franchise. All of the walls were repainted, and all CEC branding would be removed, although various games would be reused,(2) most notably the [Skytubes]. The Showroom, however, remained, along with the stage (without the bots or props) the artifact shelves, the booths, and the hanging lights.
 
-## Videos
-
-| Link                          | Description            | Filming Date   |
-|-------------------------------|------------------------|----------------|
-| https://youtu.be/9AQTyNYsy2w  | 2001 Footage           | Fall 2001      |
-| https://youtu.be/\_pRrpYCtNAo | Birthday Party         | July 2008      |
-| https://youtu.be/8L3KZ7gZf\_A | Birthday Party         | September 2012 |
-| https://youtu.be/5HSeQVUvLn4  | All Star Pizzeria Tour | November 2019  |
-| https://youtu.be/KBM4hO4yuGE  | All Star Pizzeria Tour | July 2022      |

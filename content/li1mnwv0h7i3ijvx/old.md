@@ -8,13 +8,6 @@ Greensboro opened on October 22nd, 1984 as the fifth ShowBiz Pizza Place in Nort
 
 Several photos have been posted online showing this location as a ShowBiz Pizza Place, most notably a page on ShowBizPizza.com named [SPP Charlotte](https://www.showbizpizza.com/photos/spp/nc_charlotte/index.html).
 
-## Videos
-
-| Link                                                | Description                                                                                                                                       | Filming Date |
-|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|--------------|
-| [Link](https://www.youtube.com/watch?v=PswVPD0ElRs) | Footage of the store as a ShowBiz Pizza Place                                                                                                     | 1986         |
-| [Link](https://www.youtube.com/watch?v=_2I7Zv_NibE) | Footage of the September 2005 show and the Chuck E. March live show. Note that Jasper has a latex mask and Chuck E. himself has his tuxedo still. | 2005         |
-
 ## Trivia
 
 - Greensboro was one of the few locations to add shoes onto their Chuck E. Cheese Animatronic (One of two to do so in North Carolina, The other to do so was [Gastonia, NC (416 Cox Rd)] which was a Studio C Beta, 16m. [Wilmington, NC (4389 Oleander Dr)] {Another 3-Stage store} was also supposed to do this before they closed in 2020 according to the store's management but it didn't happen due to store closure). [Visalia, CA (4345 W Noble Ave)] (3-Stage), Cordova, TN (1636 N Germantown Pkwy)|Cordova (Studio C Beta, 32m; Removed in October 2021), Whitby ([Studio C Alpha]), &amp; Corporate also put shoes on the Chuck E. Cheese Animatronics as well.

@@ -66,11 +66,3 @@ Crystal Lake opened on October 16th, 2000, with the 90s remodel and a Studio C A
 - Bike Rally
 - Jett Rider
 
-## Videos
-
-| Link                                              | Description          | Filming Date     |
-|---------------------------------------------------|----------------------|------------------|
-| https://youtu.be/bZirCdbhHGk?si=S\_X9p7tvOFjkqLJe | April 2012 Segment 1 | May 25th, 2012   |
-| https://youtu.be/VBRVg7uOGZg?si=yPhu3BXw2foc0Pdg  | Let’s Have A Party   | Early 2021       |
-| https://youtu.be/57335H6qeUQ?si=qsljla272rq4JpC4  | 2021 Store Tour      | March 27th, 2021 |
-|                                                   |                      |                  |

@@ -8,15 +8,6 @@ Beaverton opened with a [Studio C Beta], 32m stage. Around 2005, the curtains we
 
 Beaverton opened in January 2003 (day unknown) as a relocation of the *4445 SW 110th Ave* location. It originally had [Phase 3 (2000)], which included some early 2000s decor, [Skytubes], and a [Studio C Beta], 32m. In the late 2000s, they received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing most 90s decor for new decor, replaced the lighting, and added purple walls. The exterior only received minor changes. Around 2016/2017, the exterior was half-changed to the 2015 logo, but the letters stayed the same. They later received a lot of 2.0 artwork but did not receive the full remodel. On January 30, 2023, the store was bought by corporate. On July 16, 2024, the store would begin its [CEC 2.0 Remodel Program], removing its stage on the same day, which is how the store stands to this day with its refresh.
 
-## Videos
-
-| Link                                                  | Uploader          | Description                                     | Filming Date       | Publish Date       |
-|-------------------------------------------------------|-------------------|-------------------------------------------------|--------------------|--------------------|
-| https://www.youtube.com/watch?v=YKHf4xe0Oi0&amp;t=2s  | Eduardo Sandoval  | A compilation of moments from the location.     | Fall 2010          | November 9, 2010   |
-| https://www.youtube.com/watch?v=QxZyn7pLu\_c&amp;t=9s | LKD Animatronics  | The song 'My Family' being played on the stage. | September 18, 2020 | September 18, 2020 |
-| https://www.youtube.com/watch?v=U9Ctn-nGUpY           | Smile America CEC | An overview of the showroom and exterior.       | March 2021         | April 7, 2021      |
-| https://www.youtube.com/watch?v=VfbKuE7LqXs           | PTS - CEC         | A store tour of the location.                   | Summer 2022        | August 1, 2022     |
-
 ## Animatronics
 
 The Beaverton Oregon Location had two Animatronics, One being a 32 movement Chuck E. Cheese Animatronic created by Garner Holt Productions, and a Pizza Time Clock Created by Animation World, After the Stage's removal, The Chuck E Bot was likely sent to Corporate, or sent to the [ShowBiz Pizza Time Distribution Center (Topeka, KS)], The Pizza Time Clock's Wherabouts are unknown

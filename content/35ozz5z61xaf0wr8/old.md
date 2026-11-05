@@ -10,9 +10,4 @@ National City opened in May 1982 with a [Balcony Stage]. Although 1 exterior pho
 
 ## Videos
 
-| Link                                                                                                                                     | Description                  | Filming Date | Publish Date      |
-|------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|--------------|-------------------|
-| [(41) Chuck E. Cheese- National City (What An Improvement!) - YouTube](https://www.youtube.com/watch?v=h8f184b-Ung&ab_channel=CavitySam) | A comparison of their stage. | March 2009   | February 14, 2010 |
-| [(41) Chuck E. Cheese National city CA store tour - YouTube](https://www.youtube.com/watch?v=JpTqp0-0Wco&ab_channel=ChuckAround)         | Store tour.                  | Fall 2020    | October 17, 2020  |
-
 TODO

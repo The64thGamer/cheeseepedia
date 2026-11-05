@@ -4,12 +4,3 @@
 
 W.I.P
 
-## Videos
-
-| Link                         | Description                                                  | Filming/Publish date |
-|------------------------------|--------------------------------------------------------------|----------------------|
-| https://youtu.be/XfOafywsfXQ | The viral video where Chuck E's head fell off at this store. | October 17, 2011     |
-
-| Link                                              | Description                                        | Filming/Publish date |
-|---------------------------------------------------|----------------------------------------------------|----------------------|
-| https://youtu.be/Vr4tZkGoz\_c?si=xzTRZ3uML3EDq-Aq | Footage of 5455 Airport Hwy using Legacy Showtapes | May 18, 2025         |

@@ -29,16 +29,6 @@ Miamisburg opened on November 25th, 1981 as the 3rd ShowBiz Pizza store in Ohio 
 
 ### Former (Phase 5)
 
-## Videos
-
-| Link                                         | Description                                                                                                           | Date Filmed         | Date Published   |
-|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|---------------------|------------------|
-| https://www.youtube.com/watch?v=WY\_ZMwqL99c | A video showcasing the 3-Stage Animatronics in 1993.                                                                  | June 27th, 1993     | May 14th, 2017   |
-| https://www.youtube.com/watch?v=-j3jpwI0mxI  | A video showcasing the Ball Crawl and Games in 1993.                                                                  | June 27th, 1993     | May 14th, 2017   |
-| https://www.youtube.com/watch?v=iEbJ7YehCFE  | A video showcasing the store, games, and 3-Stage in 1993.                                                             | June 27th, 1993     | May 14th, 2017   |
-| https://www.youtube.com/watch?v=ASzemMt9\_6w | A video of the Chuck E. Cheese's Photo Ride (1997)\|Chuck E. Cheese Photo Ride which shows a bit of the store in 2005 | July 2005           | May 8, 2010      |
-| https://www.youtube.com/watch?v=qk-iR3GjwUw  | A store tour of the store before the store started their 2.0 remodel                                                  | September 4th, 2022 | October 22, 2022 |
-
 ## Trivia
 
 - Miamisburg was the 3rd ShowBiz Pizza location to open in Ohio after [Sharonville, OH (1429 E Kemper Rd)] (Opened October 21st, 1981) &amp; [Cincinnati, OH (8801 Colerain Ave)] (Opened November 11th 1981).

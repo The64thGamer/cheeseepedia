@@ -16,10 +16,3 @@ Originally, the store had a Rock-Afire Explosion, the location the stage came fr
 
 TODO: Gallery
 
-## Videos
-
-| Link                                        | Description                                                                                            | Published Date / Filming Date |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------------|-------------------------------|
-| https://www.youtube.com/watch?v=Bfx51RQr0GA | Video of the [3-Stage 2002 Diagnostics]                                        | 11/22/22                      |
-| https://www.youtube.com/watch?v=8i7-dxUDbZ8 | [Chuck E Cheese Winter Winner-Land 2022 Show] All I want For Christmas Is Snow | 11/22/22                      |
-| https://www.youtube.com/watch?v=9seXlMktIGc | A video of Friendship Never Ends on the                                                                | 10/3/2015                     |

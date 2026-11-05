@@ -22,5 +22,4 @@ Also in 1978, Morey's Pier commissioned a *Bear Country Jubilee* of their own fr
 
 | Link                                                                  | Description                                      | Date Filmed |
 |-----------------------------------------------------------------------|--------------------------------------------------|-------------|
-| [Link](https://youtu.be/jLrFSQqeyWc?si=e8Jli4xah_ERufvK&t=108)        | Partial view of the BCJ Center Stage.            | 1978-1980's |
 | [Link](https://archive.org/details/bear-country-jubilee-partial-show) | Snippet of the *Bear Country Jubilee* Soundtrack | 1978        |

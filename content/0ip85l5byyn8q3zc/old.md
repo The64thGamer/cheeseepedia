@@ -12,18 +12,3 @@ Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby o
 
 [2007](https://www.showbizpizza.com/photos/cec/ca_placentia/index.html)
 
-## Videos
-
-| Link                                       | Description                                                                                                                                                                        | Filming Date      | Publish Date      |
-|--------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------|
-| [Link](https://youtu.be/lOkGrhN7kF8?t=11)  | A video showcasing the store, games, and Road Stage form 1991. Oldest confirmed footage as of June 2023. As of June 2023, this is currently the oldest known footage of Placentia. | 1993              | January 14, 2023  |
-| [Link](https://youtu.be/qNP3CkRCA0s?t=586) | A video of the store during Cheesevention III in May 2007 before the 2005 Update                                                                                                   | May 2007          | May 23, 2021      |
-| [Link](https://youtu.be/VZXwmknLsgY)       | Family vlog of a birthday party at Placentia. Unfortunately, the animatronics weren't working on day this video was recorded.                                                      | March 2016        | March 20, 2016    |
-| [Link](https://youtu.be/AmXtwJEV0UI)       | 'Join the Party' from [Chuck E Cheese Summer of Fun 2022 Show] being performed on Placentia's Road Stage.                                                  | July 19, 2022     | June 2, 2023      |
-| [Link](https://youtu.be/HEBXfA-x5Cw)       | 'Disco Dancing Dinosaur Party' from [Chuck E Cheese's Show 1 2020] being performed on Placentia's Road Stage                                               | February 4, 2023  | February 5, 2023  |
-| [Link](https://youtu.be/bhk8XiCG-FQ)       | 'Ves Al Ratoncito' from [Chuck E Cheese's Show 2 2019] being performed on Placentia's Road Stage.                                                          | February 4, 2023  | March 28, 2023    |
-| [Link](https://youtu.be/cC_u7A04Gbc)       | Store Tour from February 2023, a couple of months before the store got the 2.0 Remodel.                                                                                            | February 12, 2023 | February 15, 2023 |
-| [Link](https://youtu.be/yDEqFfh8kbE)       | 'Join the Party' from [Chuck E Cheese Summer of Fun 2022 Show] being performed on                                                                          | February 12, 2023 | February 15, 2023 |
-| [Link](https://youtu.be/1FV84STAqh8)       | 'Trio' from [Chuck E Cheese's Show 3 2017] being performed on Placentia's Road Stage.                                                                      | February 12, 2023 | February 18, 2023 |
-| [Link](https://youtu.be/gQZ1wx2qwhY)       | A video of the Placentia after the Road Stage was removed with a couple of photos from before removal.                                                                             | April 2023        | April 22, 2023    |
-| [Link](https://youtu.be/2Q1ve3JqWcM)       | Store Tour during the 2.0 Remodel after stage removal.                                                                                                                             | May 2023          | May 13, 2023      |

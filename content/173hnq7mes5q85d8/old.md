@@ -8,13 +8,6 @@
 
 Fargo opened with the Rock afire Explosion in 1984. Unfortunately, there are hardly any photos or videos to exist of Fargo with the Rock afire, or as a ShowBiz in general. But there is a photo of its original exterior. In October 1991, Fargo received [Concept Unification], converting the Rock afire into Munch’s Make-Believe Band. In December 2022, Fargo started the 2.0 Remodel, removing the 3-Stage and adding a Chuck E. Live Stage (Dance Floor). On March 18th, 2024, the store would permanently close.
 
-## Videos
-
-| Link                                 | Description                                                                                      | Filming Date   |
-|--------------------------------------|--------------------------------------------------------------------------------------------------|----------------|
-| [link](https://youtu.be/w2XEjFQAeWA) | Birthday party in the showroom, with 3-Stage playing [Birthday Star '98] | March 28, 2000 |
-| [link](https://youtu.be/pV7spY2WseI) | News footage of the closure and employee testimonies.                                            | March 19, 2024 |
-
 ## Trivia
 
 - Before Corporate renumbered Franchised locations to four-digit store numbers in 2010, Fargo's current store number (***209***) was used for the [Fayetteville, NC (511 North McPherson Church Rd)] location; In 2010, it was renumbered to ***Store #3212*** which they still have to this day. It's unknown if Fargo had a three-digit store number before 2010.

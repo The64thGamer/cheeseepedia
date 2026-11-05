@@ -8,11 +8,3 @@ Fayetteville opened its doors on November 1st, 1982 as the first ShowBiz Pizza s
 
 Originally, Fayetteville featured a Rock-Afire Explosion, as all other ShowBiz locations did. Unfortunately, there are some photos but no videos to exist of Fayetteville with the Rock afire, or as a ShowBiz in general. they got Concept Unification sometime between 1991-1992. In 2010, they removed the 3-Stage for their closure.
 
-## Videos
-
-| Link                                                      | Description                                                                                        | Date Filmed     | Date Published      | Credit To    |
-|-----------------------------------------------------------|----------------------------------------------------------------------------------------------------|-----------------|---------------------|--------------|
-| [Link](https://youtu.be/1es2PGYEEns)                      | Commercial advertising this location as a ShowBiz Pizza Place.                                     | 1983            | October 1st, 2021   |              |
-| [Link](https://youtu.be/I899WiEWUEA)                      | Footage of the animatronics, birthday show, and arcade in 1991.                                    | April 3rd, 1991 | November 26th, 2017 |              |
-| [Link](https://youtu.be/zp_I97Fn0pI)                      | (Begins at 27:33) Footage showing an exterior shot, arcade footage, and a small clip of the stage. | 2009            | October 12th, 2016  |              |
-| [Link](https://www.youtube.com/watch?v=5SKPzo7ONag&t=54s) | A Video Documenting about Fayetteville's History                                                   | June 10, 2023   | June 10, 2023       | Josiah Abner |

@@ -8,14 +8,3 @@ Worcester opened on August 18th, 1992 in Southwest Commons. The location origina
 
 (WIP)
 
-## Videos
-
-| Link                                                         | Description                                                                                                  | Footage Date     |
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|------------------|
-| [YouTube](https://www.youtube.com/watch?v=ywd4nlUWKCk)       | September 2004 Segment 1 being performed on Worcester's 2-Stage.                                             | October 2, 2004  |
-| [YouTube](https://www.youtube.com/watch?v=-8piAp_PTV4)       | September 2004 Segment 2 being performed on Worcester's 2-Stage.                                             | October 2, 2004  |
-| [YouTube](https://www.youtube.com/watch?v=U_I06H-3BfE)       | September 2004 Segment 3 being performed on Worcester's 2-Stage.                                             | October 2, 2004  |
-| [YouTube](https://www.youtube.com/watch?v=PLdl9Ad2tfc)       | September 2004 Segment 4 being performed on Worcester's 2-Stage.                                             | October 2, 2004  |
-| [YouTube](https://www.youtube.com/watch?v=NaogCaGxEaw)       | Footage of the store, the arcade machines, and a small clip of the Cyberamics performing Birthday Star 2015. | February 9, 2016 |
-| [YouTube](https://www.youtube.com/watch?v=VpgdvoFbdO8)       | Store Tour of Worcester during the 2.0 Remodel.                                                              | October 20, 2021 |
-| [YouTube](https://www.youtube.com/watch?v=FhFe-KsfS3A&t=27s) | Footage of the store, the arcade machines, and Video Wall almost a year after their 2.0 Remodel.             | August 29, 2022  |

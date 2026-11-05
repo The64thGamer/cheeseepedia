@@ -12,11 +12,6 @@ This location opened on March 24th, 1982, as a ShowBiz Pizza Place with the [Cla
 
 | Link                                       | Description                                                                          | Filming Date        |
 |--------------------------------------------|--------------------------------------------------------------------------------------|---------------------|
-| [Link](https://youtu.be/4kF4RW5l3o4&t=26s) | Footage of the arcade and stage in 1996                                              | February 6th, 1996  |
 | [Link](https://vimeo.com/765145216)        | The animatronics performing in 2001 with some of the animatronics having latex masks | 2001                |
-| [Link](https://youtu.be/0W5j74F1-oU)       | A store tour of this location and it's stage.                                        | April 1st, 2008     |
-| [Link](https://youtu.be/VT0NODstZAg)       | An up close and personal with the stage in 2008.                                     | September 3rd, 2008 |
-| [Link](https://youtu.be/XY-gq584Ac4)       | The stage performing Segment 1 from the [Summer 2007 Show].  | September 3rd, 2008 |
-| [Link](https://youtu.be/EHAjiG4Khns)       | The removal of the animatronic stage after the store's closure                       | May 12th, 2013      |
 
 [2005](https://www.showbizpizza.com/photos/cec/tx_benwhite/index.html)

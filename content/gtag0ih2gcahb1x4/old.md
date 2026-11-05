@@ -26,8 +26,4 @@ On June 10th, 2024, the store would begin its [CEC 2.0 Remodel Program]. The sto
 
 | Link                                                               | Description                                                                               | Filming Date     |
 |--------------------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------|
-| [Link](https://www.youtube.com/watch?v=_1wiv1KNKjg)                | CEC Special Report in which the Hicksville location is announced (starting from 0:50).(3) | January 1994     |
-| [Link](https://www.youtube.com/watch?v=RGGl8Nvi2cI)                | Footage of the show.(4)                                                                   | March 10, 2012   |
-| [Link](https://www.youtube.com/watch?v=o-DUuaBXVwY)                | A view of the interior of the restaurant at night.(5)                                     | November 7, 2020 |
 | [Link](https://archive.org/details/cec-hicksville-ny-promo-videos) | New York Times Promotional Videos of the stage in operation.                              | 2024             |
-| [Link](https://www.youtube.com/watch?v=nTwc-C2HFs0)                | A video of the stage performing 'Song of Summer' recorded by Rockafire Moon.              | May 21, 2024     |

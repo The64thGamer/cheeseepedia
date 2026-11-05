@@ -41,7 +41,6 @@ Sioux Falls, SD (1912 W 41st St)
 
 | Link                                                                                   | Description                                                                                       | Filming Date |
 |----------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|--------------|
-| [Link](https://www.youtube.com/watch?v=ls2s7Dd9EDg)                                    | Brett Eble doing a promo video of Rockin' Rollie's for investors.                                 | Unsure       |
 | [Link](https://archive.org/details/b-03-gigglbys-and-rockin-rollies-pizza-andy-capp-1) | Radio ad of Gigglebee's and Rockin' Rollie's talking about a Christmas sale they were both doing. | ~1990        |
 
 ## Trivia

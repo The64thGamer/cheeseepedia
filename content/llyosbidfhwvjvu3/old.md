@@ -8,9 +8,3 @@ Kent has a Studio C Alpha stage, which hasn't seen major modifications since ope
 
 Kent opened in May of 1998 (day unknown) with a Studio C (1997)|Studio C Alpha stage and the [Phase 2 (1997)] remodel. Unfortunately, information on Kent in general is scarce, despite still being open. Between 2008 and 2010, Kent received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing all 90s decor for new decor, tearing down showroom walls and balcony seating, adding purple walls, and changed the exterior. Around the mid-late 2010s, the [Skytubes] were thrown out. In July 2024 The location Started its 2.0 remodel, removing the stage.
 
-## Videos
-
-| Link                         | Description                                        | Filming Date      |
-|------------------------------|----------------------------------------------------|-------------------|
-| https://youtu.be/hnCtDc9MVhM | Birthday party; The earliest known CEC video on YT | August 27th, 2005 |
-| https://youtu.be/ktLezHHnHQo | A glimpse of the store's arcade                    | May 19th, 2008    |

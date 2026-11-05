@@ -8,12 +8,3 @@ Torrance (Pacific Coast) opened on March 24th, 1983 as ShowBiz Pizza Place with 
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations had. In around 1991, Torrance (Pacific Coast) would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. In 2000, the 3-Stage was removed for the Studio C Alpha stage. In 2020, Torrance (Pacific Coast) received 2.0 removing the Alpha for the Dance Floor.
 
-## Videos
-
-| Link                                                     | Description                                                                                             | Filming Date     | Published Date    |
-|----------------------------------------------------------|---------------------------------------------------------------------------------------------------------|------------------|-------------------|
-| [Link](https://www.youtube.com/watch?v=2CP56r0YtOM&t=0s) | A video showcasing the store, games and 3-Stage in November 1993.                                       | November 1993    | August 4, 2022    |
-| [Link](https://www.youtube.com/watch?v=krVqfu3medU&t=9s) | A video showcasing the store, games and 3-Stage in Early 1994.                                          | Early 1994       | December 31, 2013 |
-| [Link](https://youtu.be/Sbz_pROkA6M)                     | A Birthday Party that took place at the store.                                                          | March 2011       | March 24, 2011    |
-| [Link](https://youtu.be/yIIAtDVLL-M)                     | [April 2013 Show] Segment 6 being performed on Torrance (Pacific Coast)'s Alpha | April 5, 2013    | April 5, 2013     |
-| [Link](https://youtu.be/0Jkn5qsENkk)                     | [Fall Show 2013] Segment 1 being performed on Torrance (Pacific Coast)'s Alpha  | October 21, 2013 | December 5, 2013  |

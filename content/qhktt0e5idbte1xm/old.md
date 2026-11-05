@@ -14,14 +14,3 @@ By the Fall of 1988, the conversion was completed, and was ready to open. The st
 
 Originally, the store opened with Chuck E.'s House, they would have the last PTT vest until 2009, when they replaced it with the Avenger outfit. Chuck E.'s House was finally removed on June 12, 2022, as a part of the 2.0 remodel. The show was dismantled and was collected by the SPT Distribution. The bots still reside there today.
 
-## Videos
-
-| Link                                                | Description                                                                                                                                                 | Filming Date    | Published Date     |
-|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|--------------------|
-| [Link](https://youtu.be/6bhd8tdPQ0M)                | A video showcasing the Store, Games, and Chuck E.'s House in August 2001.                                                                                   | August 30, 2001 | June 4, 2012       |
-| [Link](https://youtu.be/4yBeiYyu7SA)                | A quick tour of the store followed by footage of its stage performing various segments from [Chuck E's Variety Show - Best of 1999] | December 2006   | September 25, 2023 |
-| [Link](https://youtu.be/1czzwJnRxdI)                | Birthday Star Extravaganza (2008) being performed on Rockford's Chuck E.'s House.                                                                           | January 2009    | January 10, 2009   |
-| [Link](https://youtu.be/OGboRQ_Vb_Y)                | Segment 1 of the [April 2012 Show] being performed on Rockford's Chuck E.'s House.                                                  | May 24, 2012    | June 4, 2012       |
-| [Link](https://youtu.be/D080Jq3t8G8)                | 'Chuck E.'s Place 2017' from [Chuck E Cheese's Show 3 2017] being performed on Rockford's Chuck E.'s House.                         | March 13, 2020  | April 1, 2020      |
-| [Link](https://youtu.be/kCwhUhrJ0Y8)                | Last Store Tour from before the COVID-19 Pandemic.                                                                                                          | March 14, 2020  | April 4, 2020      |
-| [Link](https://www.youtube.com/watch?v=d8Ew1GV5Qck) | Tribute to Rockford in wake of the 2.0 remodel.                                                                                                             | June 12, 2022   | June 13, 2022      |

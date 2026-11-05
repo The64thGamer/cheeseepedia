@@ -8,18 +8,6 @@ Winchester opened with a Circles of Light, 16M on August 12th, 2013 in a freesta
 
 Winchester opened in August 2013. It currently has the 2013 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which included early Rockstar decor and the COL stage. In July of 2024, Winchester received the Trampoline Zone. Not much else changed to this location throughout the years, and Winchester is still in operation to this very day.
 
-## Videos
-
-| Link                                                | Description                                                                                                                                                                  | Filming Date      | Published Date  |
-|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------------|
-| [Link](https://www.youtube.com/shorts/N9Fl_cbH5YU)  | A short clip of 'Me &amp; My Friends' being performed on Winchester's Circles Of Light, 16m.                                                                                 | February 28, 2019 | August 17, 2023 |
-| [Link](https://youtu.be/DDpG732DOEg)                | 'Loopins-Boopin-Fakin-Doopin-Floppen-Loopen-Funnin's Day' from [Chuck E Cheese's Show 1 2018] being performed on Winchester's Circles Of Light, 16m. | February 28, 2019 | August 21, 2023 |
-| [Link](https://youtu.be/vgO3Jq6Ubxo)                | 'Tail of Jasper T.' from [Chuck E Cheese's Show 1 2019] being performed on Winchester's Circles Of Light, 16m.                                       | February 28, 2019 | August 21, 2023 |
-| [Link](https://youtu.be/VAlD2KsnHmM)                | 'Lend a Helping Hand' from [Chuck E Cheese's Show 5 2018] being performed on Winchester's Circles Of Light, 16m.                                     | February 28, 2019 | August 21, 2023 |
-| [Link](https://youtu.be/pJRP8MJCGSI)                | 'Nice Enough' from [Chuck E Cheese's Show 1 2019] being performed on Winchester's Circles Of Light, 16m.                                             | February 28, 2019 | August 21, 2023 |
-| [Link](https://youtu.be/4f96bUYxBjw)                | 'Me &amp; My Friends' being performed on Winchester's Circles Of Light, 16m.                                                                                                 | February 28, 2019 | August 21, 2023 |
-| [Link](https://www.youtube.com/watch?v=vH2sFF1cUHQ) | A Birthday party occurring at the location                                                                                                                                   | June 2022         | June 20, 2022   |
-
 ## Walkarounds
 
 | Heads                                               | Outfits                                       | Accessories | Whereabouts |

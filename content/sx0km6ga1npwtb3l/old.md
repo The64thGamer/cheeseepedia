@@ -42,16 +42,3 @@ For a brief time in 2020 photos of the exterior pre and post 2.0 were installed 
 
 On August 12, 2024, Sharonville would begin its 'Entertainment Upgrade' throughout the week this would involve installing [Video Wall], Upgrading the Dance Floor to the 2021 Model, replacement of old 'Character Portrait' posters with new posters to fit the new size limitations, and new games. On August 27, 2024, Sharonville would install its Trampoline Zone.
 
-## Videos
-
-| Link                                                   | Description                                                 | Footage Date          |
-|--------------------------------------------------------|-------------------------------------------------------------|-----------------------|
-| [YouTube](https://youtu.be/7ZC3teXTaxw)                | Shows the stage playing Birthday 2009                       | 2009                  |
-| [YouTube](https://www.youtube.com/watch?v=P7UI9Qe38vI) | Shows the stage in 2013 playing April 2013 Segment 6        | April 16, 2013        |
-| [YouTube](https://youtu.be/WwbqtFRVxR4)                | Shows the stage in 2016 playing 'In The Future'             | March 30, 2016        |
-| [YouTube](https://www.youtube.com/watch?v=xzi9ZbuKo-0) | Shows the stage in 2017 playing 'Chuck E.'s Place'          | May 13, 2017          |
-| [YouTube](https://www.youtube.com/watch?v=KEQlkbmODjk) | Store Tour showcasing the store less than a year before 2.0 | August 11, 2018       |
-| [YouTube](https://www.youtube.com/watch?v=pgyiSoNSVWQ) | Shows the stage in 2019 playing 'Gamin' Time'               | May 4, 2019           |
-| [YouTube](https://www.youtube.com/watch?v=eRjHjw41hfE) | Documentation of the store during the remodel               | October-December 2019 |
-| [YouTube](https://www.youtube.com/watch?v=OGzY4lbWz9M) | Footage of the grand re-opening, store tour, and live show. | December 13, 2019     |
-|                                                        |                                                             |                       |

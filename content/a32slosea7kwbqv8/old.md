@@ -8,10 +8,6 @@ New London opened on May 16th, 1994, as a Chuck E. Cheese's Pizza with a 1-Stage
 
 TODO
 
-| Link                                                                                                                                         | Description                          | Filmed Date | Published Date |
-|----------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|-------------|----------------|
-| [https://www.youtube.com/watch?v=VTzDoOVLHEQ](https://www.youtube.com/watch?v=VTzDoOVLHEQ)Chuck E. Cheese's New London, CT July 1994 Footage | Oldest known footage of the location | July 1994   | Feb 20, 2021   |
-
 ## Trivia
 
 - New London was one of two 1-Stages in New England to have the 1-Stage with a Turntable, the other was [Warwick, RI (1245 Bald Hill Rd)] which installed theirs around a similar time frame as New London (Warwick's however replaced a [Chuck E.'s House (Rocker Stage)] instead of being a new store) and closed a few months later, making that store have the shortest lasting 1-Stage and the first overall to be removed from a store (It was then auctioned off in January 1995; the show was them retrofitted into The Traveling Theme Park Band/Zachary and The Other Singing Groups and as of June 2023, the show remains thus way but it's now restored mechanically). New London however kept theirs until closure with numerous changes made to it over the years.

@@ -12,12 +12,6 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 
 TODO: Gallery
 
-## Videos
-
-| Link                                         | Description                                                                                                                              | Date Filmed     | Date Published |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|
-| https://www.youtube.com/watch?v=6hCQZRx7\_4s | A video showcasing the store, games, &amp; 3-Stage in 1996. This was from before it was bought out by Corporate on September 16th, 1996. | January 6, 1996 | July 2, 2020   |
-
 ## Trivia
 
 - This was the only ShowBiz Pizza Place location to ever open in the state of Delaware.

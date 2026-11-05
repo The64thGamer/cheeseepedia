@@ -8,9 +8,3 @@ This location opened with a [1-Stage] show, which featured a turntable for Chuck
 
 The location's first major known renovation was in 2005, when the showroom was swapped with the game room and showroom walls were removed as a result. In 2013, the restaurant was also featured in local news for a brawl that erupted in the Kid Check area.(2) Upon its closure, the location was converted into a Bar Louie. In 2019, the Bar Louie ceased operations; the location is currently a funeral home.(3)
 
-## Videos
-
-| Link                                                | Description                                                      | Filming Date      |
-|-----------------------------------------------------|------------------------------------------------------------------|-------------------|
-| [link](https://www.youtube.com/watch?v=--84IhLRuZI) | Footage of Chuck E. March (1993), featuring the 1-Stage show.(4) | November 25, 1995 |
-| [link](https://www.youtube.com/watch?v=HMs8ve9mLCY) | A video depiction of the location's closure.(5)                  | June 19, 2015     |

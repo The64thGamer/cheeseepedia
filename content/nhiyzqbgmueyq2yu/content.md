@@ -154,15 +154,3 @@ Unlike Liseberg's *Ap-O-Teket*, Edenlandia's *Variety Show* was a massive hit wi
 
 ## Animatronics
 
-## Videos
-
-| Link                                                        | Description                                                                                                          | Filming Date  | Publish Date      |
-| ----------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------- | ----------------- |
-| [YouTube](https://youtu.be/AWmH6c2uryc?si=hKh6HtSIF_34_p1P) | Die Klimbimski Show snippets at Phantasialand (audio off-sync with footage).                                         | 1977-1983     | June 11, 2016     |
-| [YouTube](https://youtu.be/wjWVhAdepwI?si=gV0vvxDxMBwTgeA4) | Die Klimbimski-Show snippets at Phantasialand, show audio replaced with stock music (3:34 - 4:18).                   | 1977-1983     | February 13, 2020 |
-| [YouTube](https://youtu.be/PEMIYH_d2oU?si=Qxp4Ju5xz-Vxo7P6) | Die Klimbimski-Show snippets at Phantasialand (3:43 - 7:08).                                                         | 1978          | December 14, 2020 |
-| [YouTube](https://youtu.be/u_AMxGP67JY?si=JBosR978mx8NcFW6) | The Edenlandia Variety Show performing 'Ciao, Ciao, Ciao' on the Italian children's television series 'Starlandia.'  | 1992          | July 27, 2023     |
-| [YouTube](https://youtu.be/6FGeEERFBUA?si=cMISO8c-KfTrGdeA) | Almost complete showing of the Hellendoorn Magical Monkey Show.                                                      | 1989-2003     | October 22, 2017  |
-| [YouTube](https://youtu.be/2TPxeujmLrg?si=xbCev12uCMKQT4cw) | Almost complete showing of the Hellendoorn Magical Monkey Show (footage in black &amp; white).                       | 1989-2003     | December 4, 2020  |
-| [YouTube](https://youtu.be/6Y9fYTcRSOk?si=CPMcLYYN5xmrRzBQ) | Almost complete showing of the Hellendoorn Magical Monkey Show (17:47 - 30:02).                                      | July 24, 1992 | May 27, 2017      |
-| [YouTube](https://youtu.be/oUAxbZRheDs?si=Tv21mSaLQk8yLY_b) | Complete showing of the Hellendoorn Magical Monkey Show (with almost-clear audio &amp; lagging side stage curtains). | 1994          | September 2, 2024 |

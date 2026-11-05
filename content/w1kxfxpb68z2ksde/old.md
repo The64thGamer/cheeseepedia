@@ -8,9 +8,3 @@ Bellevue opened with a [1-Stage],. It is rumored this stage came from the now cl
 
 Bellevue opened sometime in or around February 1996 (day unknown). with a [1-Stage] and the [Phase 1 (1994)] remodel. Unfortunately, there isn't much info on Bellevue from around this time. In 2008/2009, Bellevue received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved the removal of 90s decor, showroom walls, balcony seating, and the addition of purple walls and an exterior change. As of April 27, Bellevue has closed.
 
-## Videos
-
-| Link                                                      | Uploader                 | Description                                | Filming Date  | Publish Date     |
-|-----------------------------------------------------------|--------------------------|--------------------------------------------|---------------|------------------|
-| [Link](https://www.youtube.com/watch?v=-STSZ8Kv8v0&t=60s) | CECWestCoast             | The 1-Stage playing the Holiday 2011 show. | December 2011 | January 18, 2012 |
-| [Link](https://youtu.be/C0GpqfBZHfU?si=JK1N9wkbV9vnAM-m)  | Sets, Streets &amp; Eats | A store tour of the Bellevue store.        | Early 2024    | March 15, 2024   |

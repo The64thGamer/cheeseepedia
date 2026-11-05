@@ -8,9 +8,3 @@ Like all Road Stages at the time, Chuck wore his tuxedo &amp; derby. Lift curtai
 
 Norwalk opened on October 29th, 1991, as a corporate-owned location in the Firestone Shopping Center. Norwalk opened with the 1988 Remodel including the CU decor, and the Road Stage. Around the mid-late 1990s, they replaced the logo with Coach Chuck and removed older 90's decor for newer decor and the removal of the ball pit for SkyTubes. Norwalk remained like this until in 2006, when they received the [CEC 2000's Remodel Program], which involved the removal of the showroom walls, removing older decor for newer decor, new booths, relocating the stage, &amp; adding purple walls. Norwalk still remains like this. Around February 2024, the store would receive the [CEC 2.0 Remodel Program], removing its Road Stage for a [Chuck E. Live Stage (Dance Floor)] and [Video Wall], which is how the store currently stands.
 
-## Videos
-
-| Link                                                                                                                                               | Description                        | Filming Date  | Publish Date       |
-|----------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------|---------------|--------------------|
-| [https://www.youtube.com/watch?v=OJ0bnt6R7qU](https://www.youtube.com/watch?v=OJ0bnt6R7qU)Chuck E. Cheese Norwalk, California Store Tour - YouTube | Store tour                         | July 20, 2021 | September 10, 2021 |
-| [https://www.youtube.com/watch?v=1nL\_LGMgltc](https://www.youtube.com/watch?v=1nL_LGMgltc)Chuck E. Cheese's, Norwalk, CA: Pumpkins in My Pockets  | Bots singing pumpkins in my Pocket | unkown        | Oct 22, 2022       |

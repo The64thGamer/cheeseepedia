@@ -8,8 +8,3 @@ Garland opened its doors on November 3rd, 1982 with a Rock-afire Explosion show.
 
 Garland opened with the Rock afire Explosion in November 1982. Unfortunately, there are no photos but no videos to exist of Garland with the Rock afire, or as a ShowBiz in general. In 1991, Garland received [Concept Unification], converting the Rock afire into Munch’s Make Believe Band. In the early 2000's, Garland removed the 3-Stage for the Studio C Alpha stage. In November 2021, the location received the 2.0 remodel removing the Alpha stage for the Dance Floor.
 
-## Videos
-
-| Link                                 | Description                                                                                    | Filming Date |
-|--------------------------------------|------------------------------------------------------------------------------------------------|--------------|
-| [Link](https://youtu.be/dEZSY737gbY) | Footage of the store's [Concept Unification Stage (3-Stage)] and arcade in 1991. | June 1991    |

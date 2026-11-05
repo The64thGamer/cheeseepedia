@@ -32,20 +32,3 @@ In Winter 2014 the store would receive another Game Package replacing/removing s
 
 On March 14, 2022, Florence would begin its [CEC 2.0 Remodel Program]. This would involve removing all aspects of the [CEC 2000's Remodel Program]. During the remodel original Pizza Time Theatre bricks were briefly uncovered. On March 31, 2022 the 2-Stage would be removed and replaced with the 2021 [Chuck E. Live Stage (Dance Floor)]. The Video Wall would be installed in April 2022. The store would have its grand re-opening on May 10, 2022, with a special appearance of Boardman, OH (521 Boardman Poland Rd) 2000s Helen Henny walkaround as part of the festivities.(17) On August 29, 2024, Florence will install its Trampoline Zone receiving new games in the weeks prior.
 
-## Videos
-
-| Link                                                | Description                                                            | Filming Date       | Publish Date       |
-|-----------------------------------------------------|------------------------------------------------------------------------|--------------------|--------------------|
-| [Link](https://www.youtube.com/watch?v=sf6stbxEwjo) | Footage of Florence in 1998                                            | 1998               | October 9, 2015.   |
-| [Link](https://www.youtube.com/watch?v=dNfVgT6xrFw) | Footage of Florence in 2000                                            | 2000               | November 27, 2020. |
-| [Link](https://www.youtube.com/watch?v=ogqxTtE77Rs) | Footage of Florence during January 2005 singing 'Keep It Groovin''     | January 2005       | January 25, 2018   |
-| [Link](https://www.youtube.com/watch?v=aNtDcWlVU2o) | April 2013 Segment 2 at Florence.                                      | April 2013         | June 28, 2013      |
-| [Link](https://www.youtube.com/watch?v=vPkwuyFMLPM) | Chuck E.'s Place 2017 prior to several aesthetic changes to the stage. | 2017               | August 13, 2017    |
-| [Link](https://youtu.be/rseH4uQbrck)                | Store Tour from August 2017                                            | August 13, 2017    | August 16, 2017    |
-| [Link](https://youtu.be/ZwMKShh6bv8)                | Gamin' Time prior to several aesthetic changes to the stage.           | August 13, 2017    | April 19, 2022     |
-| [Link](https://www.youtube.com/watch?v=BtT8D8hMOik) | Store Tour right after an updated game package.                        | September 15, 2018 | October 6, 2018    |
-| [Link](https://youtu.be/kYj6Vh6z_HA)                | A video showcasing the 2-Stage with decorations form Bootacular 2021   | October 9, 2021    | October 9, 2021    |
-| [Link](https://www.youtube.com/watch?v=x2PP7N8RuPA) | Footage of the show after being removed                                | April 1, 2022      | April 1, 2022      |
-| [Link](https://www.youtube.com/watch?v=dhSpJSqxkn0) | The Remodeling Process                                                 | March-April 2022   | May 15, 2022       |
-| [Link](https://www.youtube.com/watch?v=57E6YNtFHV0) | Documentation of Florence's history.                                   | May-June 2022      | June 3, 2022       |
-|                                                     |                                                                        |                    |                    |

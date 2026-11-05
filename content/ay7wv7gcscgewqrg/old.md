@@ -8,10 +8,3 @@ San Bernardino opened its doors on June 27, 2003 with a Studio C. Beta show. Jus
 
 San Bernardino (Hospitality) opened with a Studio C Beta and has remained ever since its opening. The Studio C Beta likely had a Cool Chuck outfit on its opening, but unfortunately, no photos or videos exist of the figure in its outfit. The animatronic would receive a cosmetic upgrade, using the 2005 remodel outfit. Another cosmetic upgrade came in in 2014, phasing out the Avenger Chuck outfit with a new Rockstar Chuck outfit. The Studio C Beta was removed in January 2024 with the [Chuck E. Live Stage (Dance Floor)].
 
-## Videos
-
-| Link                                                   | Description                                                                                                                                                                                              | Footage Date   | Upload Date    |
-|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------------|
-| [Youtube](https://www.youtube.com/watch?v=l1HjO7axaLQ) | A store tour from June 2020                                                                                                                                                                              | July 2020      | July 18 2020   |
-| [Youtube](https://www.youtube.com/watch?v=GMnzwYZMYQI) | 'Be Yourself' from [Chuck E Cheese's Show 4 2021 (Existing Stages)] Show being performed on San Bernardino's deactivated Studio C Beta                                           | September 2021 | Sep 20, 2021   |
-| [Youtube](https://www.youtube.com/watch?v=ligazNc0G7I) | 'Chuck E. Cheese Is All About Fun!' from [Chuck E Cheese's Show 3 2021] being performed on San Bernardino's Studio C Beta until eventually being interrupted by a Birthday Show. | August 2021    | August 4, 2021 |

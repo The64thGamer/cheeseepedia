@@ -10,10 +10,3 @@ Fullerton, California opened its doors on December 17th, 1991, with a 3-Stage co
 
 After closure, Fullerton would remain vacant for a while until it was taken over by Five Below &amp; a Localhost Internet Cafe, keeping the exterior intact but fully gutting the store's interior. The store's Gemini light was sent to the [Orlando (East), FL (449 N Alafaya Trail)] location on their Studio C (1997)|Studio C Alpha, but it was removed in April 2023 during their 2.0 remodel. As of August 2023, Five Below &amp; a Localhost Internet Cafe is still in the building.
 
-## Videos
-
-| Link                                    | Description                                                                              | Filming Date        |
-|-----------------------------------------|------------------------------------------------------------------------------------------|---------------------|
-| https://youtu.be/wNm7JIrx46k&amp;t=569s | Birthday Party                                                                           | January 1998        |
-| https://youtu.be/1rF-lSvNtWs            | Last known footage of the store’s 3-Stage                                                | January 27th, 2007  |
-| https://youtu.be/cE1IdQYrvdc            | The store’s show performing *Let’s Play Some Games for the Holidays* from the 2012 show. | November 24th, 2017 |

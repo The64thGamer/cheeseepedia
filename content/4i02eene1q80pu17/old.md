@@ -8,15 +8,6 @@ Wilmington opened July 23rd, 1984, as the 4th ShowBiz store in North Carolina (F
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations had. Wilmington's show was manufactured in January of 1982, being batch number 1. They would have the RAE for a few years, until 1992, when they would receive Concept Unification, this was the process used to turn the RAE into the Chuck E. Cheese characters. They would have the 3-Stage until they closed. They would have the last Munch Jr. animatronic in-store. They would also be the only location so far to have the full 'Rockstar' outfit (shirt and jeans), other than Dept. 18's programming show.
 
-## YouTube Videos
-
-| Link                                                | Description                                                                                         | Filming Date    | Published Date  |
-|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------|-----------------|-----------------|
-| [Link](https://youtu.be/KtHWP_S9Y4c)                | Footage of Wilmington not long before Concept Unification.                                          | April 4, 1991   | October 5, 2021 |
-| [Link](https://youtu.be/DVMzjfxbGAo?t=168)          | Wilmington's 3-Stage featured in the CEC Live Highlight Film in 1992                                | Mid 1992        | April 13, 2007  |
-| [Link](https://www.youtube.com/watch?v=TXAOVPY8iWE) | A video showcasing the store, games, and 3-Stage in 1992.                                           | October 4, 1992 | August 29, 2022 |
-| [Link](https://www.youtube.com/watch?v=GOQvLRjFzD0) | Wilmington's 3-Stage preforming 'Going on a Picnic' from [Summertime 2006]. | August 2006     | August 23, 2006 |
-
 ## Trivia
 
 - Before Franchised CECs were renumbered to four digit numbers in 2010, Wilmington was ***Store #210*** according to the old chuckecheese.com website from 2009. It was renumbered to ***Store #2070*** when Corporate renumbered Franchised stores with four digit numbers. The store number is now the store number for the [Billings, MT (100 24th St)] location after it was bought out by Corporate.

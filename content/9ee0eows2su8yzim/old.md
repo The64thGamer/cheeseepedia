@@ -256,27 +256,7 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |-----------------------------------------------------|-------------------------------------------------|--------------------------|
 | [Link](https://www.youtube.com/@CECFlorida)         | Grant's Channel (Go &amp; Subscribe!)           | Joined December 26, 2014 |
 | [Link](https://www.youtube.com/@cectfl9347)         | CEC TFL's Channel (Go &amp; Subscribe!)         | Joined September 4, 2013 |
-| [Link](https://www.youtube.com/watch?v=O818zQaNB08) | 1992 Footage                                    | August 27, 1992          |
-| [Link](https://www.youtube.com/watch?v=PClkYnunLUc) | 1993 Footage                                    | August 1993              |
-| [Link](https://youtu.be/DazfdwgLdkA)                | 1996 Footage                                    | July 7, 1996             |
-| [Link](https://www.youtube.com/watch?v=3O7GeHt9ut0) | 1997 Showroom Footage                           | April 30, 1997           |
-| [Link](https://youtu.be/E3Eyeo-RNK0)                | 2002 Store Tour Footage                         | December 28, 2002        |
-| [Link](https://www.youtube.com/watch?v=AeAO_hJTCoI) | 2009 Footage                                    | April 21, 2009           |
-| [Link](https://www.youtube.com/watch?v=wCv6fYyxCsM) | 2012 Showroom Footage                           | April 10, 2012           |
-| [Link](https://www.youtube.com/watch?v=NZfLABi3BI4) | 2015 Store Tour Footage                         | September 5, 2015        |
-| [Link](https://www.youtube.com/watch?v=Cz_2sad-1KE) | Grant Becomes Assistant Tech                    | December 18, 2016        |
-| [Link](https://www.youtube.com/watch?v=LpBiXqFsDr8) | 2015-2017 Before &amp; After Stage Improvements | September 28, 2017       |
-| [Link](https://www.youtube.com/watch?v=Ihqm7E9Gkc4) | Holiday Stage Decorations                       | December 24, 2017        |
-| [Link](https://www.youtube.com/watch?v=HkRZciiyY8Y) | Live Show Contest [E. &amp; Helen](Chuck)       | July 16, 2018            |
-| [Link](https://www.youtube.com/watch?v=zOeU1uU_t54) | 2018 Store Tour Footage                         | October 16, 2018         |
-| [Link](https://www.youtube.com/watch?v=6jVoZNrdpfg) | Last 2-Stage Show Footage                       | July 11, 2019            |
-| [Link](https://www.youtube.com/watch?v=jjaA6kzf47o) | 2019 2.0 Remodel Process Store Tour Footage     | September 24, 2019       |
-| [Link](https://www.youtube.com/watch?v=YpWeNFj6ReU) | 2.0 Reopening Ceremony                          | October 5, 2019          |
-| [Link](https://www.youtube.com/watch?v=suFTjoZzwWM) | 2020 Store Tour Footage                         | December 8, 2020         |
-| [Link](https://www.youtube.com/watch?v=IGuGARbgLgo) | 2022 Store Tour Footage                         | May 19, 2022             |
-| [Link](https://www.youtube.com/watch?v=4EaXaRHey6Y) | 2022 After Hours Store Tour Footage             | September 19, 2022       |
 
 | Link                                                                            | Description                      |
 |---------------------------------------------------------------------------------|----------------------------------|
-| [Link](https://foursquare.com/v/chuck-e-cheese/4b23e570f964a5204b5c24e3/photos) | 2011-2013 CEC Tampa, FL Gallery  |
 | [Link](http://www.shutterblog.com/birthdayboy.html)                             | Birthday Party (August 29, 2003) |

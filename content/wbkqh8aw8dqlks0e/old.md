@@ -22,12 +22,3 @@ Roanoke featured a 3-Stage with Pizzacam (Later Retro-Cam) &amp; Building (Behin
 
 Originally, Roanoke featured a Rock-Afire Explosion, as all other ShowBiz locations did, in around 1991, they would undergo Concept Unification, turning the RAE into the 3-Stage, they would have the 3-Stage until around August 2022; In August 2022, they would replace the 3-Stage with a Dance Floor and Video Wall, as part of their 2.0 remodel, they were the 2nd to last 3-Stage in Virginia. As of February 2023, they still have this remodel.
 
-## Videos
-
-| Link                                                 | Description                                                                                                                            | Filming Date      |
-|------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-------------------|
-| [Link](https://www.youtube.com/watch?v=2rHFnKhY8kgo) | Video Shows some of the store when it was ShowBiz Pizza Place back in 1988. The first half of the video shows the RockAfire Explosion. | August 20, 1988   |
-| [Link](https://www.youtube.com/watch?v=28jvmpSAJAg)  | Seans 5th Birthday at Chuck E Cheese (2009). The Video Shows some of the store before the 2012 Expansion.                              | November 16, 2011 |
-| [Link](https://www.youtube.com/watch?v=IZEadsjQcdQ)  | Chuck E. Cheese Fun Family vlog in which they visit Roanoke                                                                            | January 23, 2019  |
-| [Link](https://www.youtube.com/watch?v=-iBs8ciP1sY)  | A Family vlog in which they visit Roanoke                                                                                              | June 11, 2022     |
-| [Link](https://www.youtube.com/watch?v=6swIlmDTC2M)  | A Family vlog in which they visit Roanoke during Bootacular 2022                                                                       | October 8, 2022   |

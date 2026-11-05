@@ -54,13 +54,6 @@ With the help of Jessi &amp; Chuck E.'s Crew (Minus Pasqually) they're able to p
 
 ## Videos
 
-| Link                                                   | Description                     | Footage Date  |
-|--------------------------------------------------------|---------------------------------|---------------|
-| [YouTube](https://www.youtube.com/watch?v=8-0--zVa7X4) | Clearwater, FL Concert footage. | June 5, 2021  |
-| [YouTube](https://www.youtube.com/watch?v=VKl_mF5TBpc) | Nashville, TN Concert footage   | June 12, 2021 |
-| [YouTube](https://www.youtube.com/watch?v=rW2GCMJWz8c) | Dallas, TX Concert footage      | July 3, 2021  |
-|                                                        |                                 |               |
-
 No footage exists of the Atlanta, GA Concert.
 
 ## Trivia:

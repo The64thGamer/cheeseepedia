@@ -10,10 +10,4 @@ Originally, Ellisville had a Rocker Stage. In 1994, they would receive the 1-Sta
 
 ## Videos
 
-| Link                                                       | Description                                                                                                                      | Filmed              |
-|------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|---------------------|
-| [Link](https://youtu.be/3d2L7UW7B5M)                       | (Begins at 5:58) Footage of Ellisville's 1-Stage in 1996.                                                                        | December 27th, 1996 |
-| [Link](https://www.youtube.com/watch?v=O0pOqGLDgk0&t=720s) | 2003 footage of Ellisville including Birthday 2002. The walkaround side of the turntable was changed to red sometime after 1996. | Fall 2003           |
-| [Link](https://www.youtube.com/watch?v=6Cnpmy85e2k)        | Ellisville today with random mode Studio C Cappa                                                                                 | May 2023            |
-
 TODO

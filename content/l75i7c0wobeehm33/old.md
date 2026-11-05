@@ -8,26 +8,6 @@ Springfield opened its doors on March 22nd, 1983 as the first and only ShowBiz P
 
 Originally when the store opened, they had a [Rock-afire Explosion], which was the only in New England that was in a ShowBiz. Around 1991, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. In October 2017, the stage was converted into a Cyberamic 3-Stage with Cyberamics from the now closed Burlington, MA location.
 
-## Videos
-
-| Link                                                                                       | Description                                                                                                                | Date Filmed       | Date Published    |
-|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------|-------------------|
-| https://www.youtube.com/watch?v=4xlosPFo58E                                                | A video of the Springfield 3-Stage a couple years after undergoing CU.                                                     | December 8, 1993  | December 4, 2020  |
-| https://www.youtube.com/watch?v=iPR\_-g-GlXY&amp;t=0s                                      | Springfield a couple months after the last footage                                                                         | February 26, 1994 | May 2, 2020       |
-| https://www.youtube.com/watch?v=WAS63Rkc2Lo                                                | Footage of Springfield in the early 2000's                                                                                 | January 18, 2003  | December 16, 2011 |
-| https://www.youtube.com/watch?v=uwr8BTnfhbQ                                                | ''Birthday Extravaganza 07' being performed on Springfield's 3-Stage.                                                      | January 2009      | June 6, 2011      |
-| https://www.youtube.com/watch?v=XzT6MTnSWxg                                                | 'Havin' A Party 01' being performed on Springfield's 3-Stage.                                                              | May 22, 2011      | November 5, 2020  |
-| https://www.youtube.com/watch?v=VGergFnE\_HQ                                               | 'Fun for All' from Chuck E. Cheese's Winter 2015 being performed on Springfield's 3-Stage                                  | February 13, 2015 | February 14, 2015 |
-| https://www.youtube.com/watch?v=MUYQoj4-z48                                                | 'Dancin' Kitten' from Chuck E. Cheese's Winter 2015 being performed on Springfield's 3-Stage                               | February 13, 2015 | February 28, 2015 |
-| https://www.youtube.com/watch?v=7q3awNIGVM8                                                | 'Chasin' Me a Truck' from Chuck E. Cheese's Winter 2015 being performed on Springfield's 3-Stage                           | February 13, 2015 | February 21, 2015 |
-| https://www.youtube.com/watch?v=oyNxFLSc4jg                                                | 'Let's Have a Party' from [Chuck E Cheese's Show 1 2016] being performed on Springfield's 3-Stage. | January 10, 2016  | January 10, 2016  |
-| https://www.youtube.com/watch?v=DESbnnf-so8                                                | 'Song Title' from [Chuck E Cheese's Show 5 2016] being performed on Springfield's 3-Stage.         | June 30, 2016     | July 1, 2016      |
-| [https://www.youtube.com/watch?v=wihG5BTS9L8](https://www.youtube.com/watch?v=-XmX_E39xKQ) | 'Out of This World' from [Chuck E Cheese's Show 5 2016] being performed on Springfield's 3-Stage.  | August 1, 2016    | August 2, 2016    |
-| https://www.youtube.com/watch?v=8ifNsEydx28                                                | 'Song Title' from [Chuck E Cheese's Show 5 2016] being performed on Springfield's 3-Stage.         | August 1, 2016    | August 3, 2016    |
-| https://www.youtube.com/watch?v=\_X1YWPkGUdA                                               | 'Dream Big' from [Chuck E Cheese's Show 5 2016] being performed on Springfield's 3-Stage.          | August 1, 2016    | August 5, 2016    |
-| https://www.youtube.com/watch?v=QWqvKlc6Dl4                                                | One of the last videos of Springfield's 3-Stage before conversion to Cyberamics.                                           | July 2, 2017      | July 2, 2017      |
-| https://www.youtube.com/watch?v=T-NtEScUUig                                                | A tribute video to Springfield after the 3-Stage was converted top Cyberamics                                              | 2003-2017         | November 25, 2017 |
-
 ## Trivia
 
 - This was the only ShowBiz Pizza Place location to open in the New England region.

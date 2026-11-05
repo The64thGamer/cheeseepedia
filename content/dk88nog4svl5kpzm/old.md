@@ -8,8 +8,3 @@ The Mall at Whitney Field originally opened in 1967 as the Searstown Mall. Not m
 
 As stated before, Leominster had the second generation Studio C Cappa. Leominster's Chuck E. bot originally featured the Cool Chuck outfit. They would later receive the Avenger outfit by 2011. Sometime between 2018-2019, the top half of the bot would be replaced with the half from Rochester, NY (Ridge). Leominster would keep the Cappa until they closed. The Cappa would be demolished during closure, with the bot's head going to the Pittsburgh, PA store.
 
-## Videos
-
-| Link                                                       | Description                                          | Filming Date |
-|------------------------------------------------------------|------------------------------------------------------|--------------|
-| [Link](https://www.youtube.com/watch?v=2vlb7_74BVk&t=101s) | YT channel Urbax Vibes visiting the abandoned store. | 2023         |

@@ -13,6 +13,3 @@ Originally when the store opened, they had a Rock-Afire Explosion, as all other 
 | Link                                                           | Description                                 | Footage Date      | Upload Date       |
 |----------------------------------------------------------------|---------------------------------------------|-------------------|-------------------|
 | https://www.instagram.com/p/BP5nPSgFehY/?igshid=MDJmNzVkMjY%3D | Birthday show.                              | 1991?             | January 30, 2017  |
-| https://youtu.be/Ei5qxue7Wrk                                   | Birthday party                              | July 21, 2002     | March 21, 2016    |
-| https://youtu.be/B-hzfF7TwSc                                   | Birthday party.                             | November 29, 2004 | September 5, 2022 |
-| https://www.youtube.com/watch?v=qMTkPYqUv7Q                    | Shaky footage of show playing January 2007. | N/A               | February 20, 2007 |

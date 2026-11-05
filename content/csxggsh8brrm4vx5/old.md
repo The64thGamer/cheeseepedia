@@ -4,8 +4,3 @@
 
 TODO
 
-## Videos
-
-| Link                                              | Description | Filming Date |
-|---------------------------------------------------|-------------|--------------|
-| [Link](https://m.youtube.com/watch?v=WuYuf7IBewQ) | C-Stage     | 1990         |

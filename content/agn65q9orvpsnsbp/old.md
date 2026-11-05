@@ -8,14 +8,3 @@ Miami (Biscayne) opened on May 27th, 1993 in the Promenade Shops with a [2-Stage
 
 TODO
 
-## Videos
-
-| Link                                                         | Description                                                                                                        | Filming Date           | Published Date    |
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|------------------------|-------------------|
-| [Link](https://youtu.be/Hp1jpf_Vhq4)                         | 'Deck the Halls' from [December 2012 Show] being performed on Miami (Biscayne)'s 2-Stage.  | December 30, 2013      | December 30, 2013 |
-| [Link](https://youtu.be/IqT90OCPW78)                         | 'Up the Housetop' from [December 2012 Show] being performed on Miami (Biscayne)'s 2-Stage. | December 30, 2013      | December 30, 2013 |
-| [Link](https://www.youtube.com/watch?v=bmYkCjdKoo8)          | 'Snowman' from the [Holiday 2014 Show] being performed on Miami (Biscayne)'s 2-Stage.      | November/December 2015 | December 28, 2015 |
-| [Link](https://youtube.com/shorts/X6QXQPhOXxE?feature=share) | A girl riding on the store's Clock Ride.                                                                           | June 2, 2021           | June 2, 2021      |
-| [Link](https://www.youtube.com/watch?v=qHsNglGzwTk)          | Store Tour of the Store in Summer 2021 before the 2.0 Remodel.                                                     | Summer 2021            | April 22, 2022    |
-| [Link](https://youtu.be/l3o6VLN5ptU)                         | Store Tour of the Store in December 2022 after the 2.0 Remodel.                                                    | December 2022          | December 26, 2022 |
-| [Link](https://youtu.be/T00U7kvwVI8)                         | Store Tour of the Store in January 2023 after the 2.0 Remodel.                                                     | January 15, 2023       | January 16, 2023  |

@@ -14,10 +14,3 @@ Between 2014 to 2015, this location would receive minor renovations, which invol
 
 March 2020 would mark the store's temporary closing due to COVID-19. On October 9, 2020, the store would re-open for "Games & Dine-In"[13]. In August 2023, the location would undergo an "Entertainment Upgrade". This would involve receiving the 2019 model [Chuck E. Live Stage (Dance Floor)], [Video Wall], New Character Portraits, and the removal of the "WHERE A KID CAN BE A K D" Poster from the entrance hallway. In 2024, the store would receive the Chuck E. Cheese Trampoline Zone and Trampoline Zone artwork of Bella B., Chuck E. Cheese, and Mr. Munch[14].. In 2025, it was announced that "...on June 10 paid $10.35 million for a more than 71,000-square foot shopping center in Portage, property records show. The selling price was nearly $3 million more than the property’s listing price four years ago… City of Portage spokesperson Mary Beth Block confirmed that while Kroger purchased the property at 6175 S. Westnedge Ave., the company has yet to submit any plans for the shopping center"[15]. The Chuck E. Cheese would end up closing on September 7, 2025, with redevelopment plans currently unclear for the property[2].
 
-## Videos
-
-
-| Link | Description | Footage Date |
-| ---- | ----------- | ------------ |
-| [YouTube](https://www.youtube.com/watch?v=ncILjQLpYC4) | 2009 Tour of the location | January 2009 |
-| [YouTube](https://www.youtube.com/watch?v=BM0mrQZ1AbM) | 2024 Tour of the location | Late 2024 |

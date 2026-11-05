@@ -14,10 +14,3 @@ Hampton opened its doors in May 1982 with a Balcony Stage. It was originally a f
 
 When Hampton opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time.(1) Sometime in 1989/1990 they converted the Balcony Stage into [Chuck E.'s House Facade (C-Stage)], otherwise known as the C-Stage. This location would get a 2-Stage installed in 1993 In May 2002, Hampton relocated to their current location and their 2-Stage was sent to Florence, KY until they got 2.0 in March 2022.
 
-## Videos
-
-| Link                                 | Description                                                                                                                                              | Filming Date                         |
-|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| [Link](https://youtu.be/Xa_wLyRZglI) | CEC Fractured Classics Segment 4, Segment 2, Dancing in the Street Birthday, Beach Boys Birthday showroom footage. Brief shots of entrance and gameroom. | Between January and March of 1989    |
-| [Link](https://youtu.be/xZiEBcgwwrw) | [Birthday Star '92] showroom footage.                                                                                            | Between April 22nd to August of 1996 |
-| [Link](https://youtu.be/DmzoR1ddYvg) | [The Chuck E. Cheese Totally Awesome Kids Show] Segment 2 showroom footage.                                                                      | Between April 22nd to August of 1996 |

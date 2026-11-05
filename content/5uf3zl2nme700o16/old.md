@@ -12,11 +12,3 @@ This location opened with a Studio C Alpha and currently has his Avenger outfit.
 
 TODO
 
-## Videos
-
-| Link                                        | Description                                                                                                                                                                                                                          | Film Date    | Upload Date     |
-|---------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|-----------------|
-| https://www.youtube.com/watch?v=zuyOU3OB0rU | Store Tour from July 2015                                                                                                                                                                                                            | July 3, 2015 | July 8, 2015    |
-| https://www.youtube.com/watch?v=fEBbYzmCyfY | A tour of the CEC in Dickson City Pennsylvania. The location opened in 1999 with a Studio C Alpha. It used it’s curtains up until 2021. It current is phase 5 which it received around 2015. Please make sure to like and subscribe! | Mar 18, 2022 | Mar 18, 2022    |
-| https://www.youtube.com/shorts/VikQUYjhjN4  | A short panroama of Dickson City's Showroom in May 2021.                                                                                                                                                                             | May 26, 2021 | August 24, 2023 |
-| https://www.youtube.com/watch?v=Yul1oK5GbwI | 'Chuck E. Cheese is all About Fun' from [Chuck E Cheese's Show 3 2018] being performed on Dickson City's Alpha                                                                                               | Aug 17, 2021 | Aug 21, 2021    |

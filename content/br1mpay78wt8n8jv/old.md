@@ -8,10 +8,3 @@ In 1999, the Discovery Zone located in Parma OH closed as part of their bankrupt
 
 On March 9th, 2015, several patrons began attacking kitchen staff over a game malfunctioning. The police were called, and charges were filed.
 
-## Videos
-
-| Link                                                 | Description                                                             | Year |
-|------------------------------------------------------|-------------------------------------------------------------------------|------|
-| https://www.youtube.com/watch?v=4Stx3Aw9lbQ&amp;t=6s | Showroom tour showing off the 1999 remodel                              | 2012 |
-| https://www.youtube.com/watch?v=xoz1bYDZq3o          | The Studio C Performing *Friendship Never Ends* before the 2015 remodel | 2017 |
-| https://www.youtube.com/watch?v=gjrBUdMDo2A          | Showroom Tour after the 2015 remodel                                    | 2020 |

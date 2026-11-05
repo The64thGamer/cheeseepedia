@@ -55,41 +55,6 @@ On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of
 
 | Link                                          | Description                                                                                                                    | Filming / Published Date |
 |-----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|--------------------------|
-| https://www.youtube.com/watch?v=1hQngtiQliI   | 'Go to Chuck E. Cheese' segment in [April 2002 Show]. The oldest currently known footage of the store. | April 2002               |
-| https://www.youtube.com/watch?v=5iiBJA7tkZw   | 'Every Boy Every Girl' segment in [September 2007 Show].                                               | 2007                     |
-| https://www.youtube.com/watch?v=HXj8srQSWqQ   | Star Stage performing Ray of Sunshine.                                                                                         | April-June 2010          |
-| https://www.youtube.com/watch?v=ygr2RQgEB6U   | Star Stage performing This is a Party.                                                                                         | April-June 2010          |
-| https://www.youtube.com/watch?v=OUfSmXRwic0   | Star Stage performing Hey Soul Sister                                                                                          | April-June 2010          |
-| https://www.youtube.com/watch?v=5kY7VqkCMz4   | Star Stage performing This is a Party.                                                                                         | April-June 2010          |
-| https://www.youtube.com/watch?v=ePH6GL0ew7M   | Star Stage exclusive skit.                                                                                                     | April-June 2010          |
-| https://www.youtube.com/watch?v=Ac--FjGY0i4   | Birthday Show 2009 Performance. Notably, the show cuts off and starts again at 0:24.                                           | February 21, 2012        |
-| https://www.youtube.com/watch?v=5mDT1pxrBks   | Star Stage performing We Got The Beat.                                                                                         | May 2011                 |
-| https://www.youtube.com/watch?v=bR9sxp9Gfds   | Circles of Light performing Barbecue. Earliest known Circles of Light footage.                                                 | August 30, 2012          |
-| https://www.youtube.com/watch?v=vgMA61M1rMc   | Circles of Light performing Summer Time Groove. Earliest known footage of full Circles of Light setup.                         | September 5, 2012        |
-| https://www.youtube.com/watch?v=cZg20k1laBs   | Them Bones Live performance                                                                                                    | October 2012             |
-| https://www.youtube.com/watch?v=DlSEsMwMQ0Y   | Cupid Shuffle Live Show performed on Circles of Light stage.                                                                   | October 3, 2012.         |
-| https://www.youtube.com/watch?v=OOQsx3u6l9E   | Follow Me to Fun fan-made music video.                                                                                         | January 8, 2013          |
-| https://www.youtube.com/watch?v=pX\_gJ1n37WY  | April 2013 Showtape segment filmed at Montfort.                                                                                | April 2013               |
-| https://www.youtube.com/watch?v=dkN3evao4p0   | That's What Makes You Beautiful live performance on the Circles of Light stage.                                                | June 4, 2013             |
-| https://www.youtube.com/watch?v=e-J2\_IwSFsg  | Some kid playing Jumpin' Jackpot                                                                                               | February 9, 2014         |
-| https://www.youtube.com/watch?v=oG0nZwxY\_wM  | Circles of Light performing Back in Time.                                                                                      | June 17, 2014            |
-| https://www.youtube.com/watch?v=sH1wBPqg53I   | Head Shoulders Knees and Toes Live Show being performed in front of the Circles of Light.                                      | June 17, 2014            |
-| https://www.youtube.com/watch?v=9h7dQJ5w7\_w  | Do The Chuck E. Live Show being performed in front of the Circles of Light.                                                    | June 17, 2014            |
-| https://www.youtube.com/watch?v=8vNIV4Aoadw   | 2017 store tour.                                                                                                               | July 15, 2017            |
-| https://www.youtube.com/watch?v=xEh1R2nd-TQ   | Circles of Light performing Chuck E's Place                                                                                    | July 18, 2017            |
-| https://www.youtube.com/watch?v=qgovgrNIEC0   | Circles of Light performing Lets Have a Party                                                                                  | July 22, 2017            |
-| https://www.youtube.com/watch?v=S2RrMwdMNnA   | Circles of Light performing Gamin' Time                                                                                        | July 22, 2017            |
-| https://www.youtube.com/watch?v=-NXCzUpSayA   | Circles of Light performing Out of This World                                                                                  | July 25, 2017            |
-| https://www.youtube.com/watch?v=T-mmYri9fJI   | Me &amp; My Friends Live Show being performed in front of the Circles of Light.                                                | July 31, 2017            |
-| https://www.youtube.com/watch?v=XKVb2lUOlsc   | Chuck E. Says Live Show being performed in front of the Circles of Light.                                                      | July 31, 2017            |
-| https://www.youtube.com/watch?v=c7VpaGifSL0   | Circles of Lights performing Friendship Never Ends                                                                             | August 3, 2017           |
-| https://www.youtube.com/watch?v=2d-zFUVAu-8   | 2018 store tour.                                                                                                               | July 21, 2018            |
-| https://www.youtube.com/watch?v=-x\_bPR8INrI  | Birthday Star 2018 performance.                                                                                                | July 21, 2018            |
-| https://www.youtube.com/watch?v=\_\_QhtovWYlE | Family goes to Montfort.                                                                                                       | February 2019            |
-| https://www.youtube.com/watch?v=nCYgrhG2E9w   | 2021 store tour.                                                                                                               | June 25, 2021            |
-| https://www.youtube.com/watch?v=HZAsa-NUx7s   | July 2021 store tour.                                                                                                          | July 5, 2021             |
-| https://www.youtube.com/watch?v=Z59-ndjA6WM   | Circles of Light performing Join the Party                                                                                     | August 2022              |
-| https://www.youtube.com/watch?v=gIgR\_3M\_WNw | Circles of Light and North Richland Hills Studio C Alpha performing Let's Be Friends                                           | July 2022                |
 | https://www.instagram.com/reel/Ct0FMtUJHQu/   | Characters leaving the showroom during the 2023 CEC Summer Concert Road Show\|Summer Concert Road Show                         | June 22, 2023            |
 | https://www.instagram.com/reel/Ct0HFYZJ4vT/   | Song of Summer being performed at the 2023 CEC Summer Concert Road Show\|Summer Concert Road Show                              | June 22, 2023            |
 

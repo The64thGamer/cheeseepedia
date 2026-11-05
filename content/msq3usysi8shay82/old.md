@@ -34,16 +34,3 @@ Chico opened July 1982 as a Pizza Time Theatre, and making it out through PTT's 
 - Dinospin
 - Goin’ Fishin’ / Fishin’ Fun
 
-## Videos
-
-| Link                         | Description                                | Filming Date         |
-|------------------------------|--------------------------------------------|----------------------|
-| https://youtu.be/mfqVbOlWI0U | Dancin’ All Night Long                     | 2009                 |
-| https://youtu.be/SBvvxhAsOJQ | Birthday Star 2001                         | December 8th, 2007   |
-| https://youtu.be/zUefRhKWpsA | Birthday Extravaganza 2008                 | 2009                 |
-| https://youtu.be/fGT8IAgCskk | Birthday Extravaganza 2008                 | November 22nd, 2008  |
-| https://youtu.be/DaCBZyrnORA | Chuck E. March 2001                        | November 22nd, 2008  |
-| https://youtu.be/1v5IvFhARBU | Birthday video                             | September 6th, 2008  |
-| https://youtu.be/W8EtubUJ76w | The Infamous No More Chuck E. Cheese video | May 2nd, 2011        |
-| https://youtu.be/S4nqebm43CI | Fun Zone's Closure                         | September 18th, 2011 |
-| https://youtu.be/JLdBhKEfmbI | The vacant building 4 years later          | 2015                 |

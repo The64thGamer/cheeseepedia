@@ -10,9 +10,4 @@ Originally when the store opened, they had a Rock-Afire Explosion like every oth
 
 ## YouTube Videos
 
-|                                                     |                                               |                  |
-|-----------------------------------------------------|-----------------------------------------------|------------------|
-|                                                     |                                               |                  |
-| [Link](https://www.youtube.com/watch?v=n6eW9wGlxbQ) | Final Store Tour of the store before closure. | November 5, 2011 |
-
 TODO

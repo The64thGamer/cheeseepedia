@@ -18,19 +18,4 @@ This store opened housing a Studio C Beta (Beta) with a 16 movement Garner Holt 
 
 ## Videos
 
-| Link                                                    | Description                                                                                                                            | Date      | Date       |
-|---------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
-| https://www.youtube.com/watch?v=Tc7rQ5DDDQU&amp;t=1684s | A video showcasing the games, store, and Studio C back in 2007.                                                                        | 2007      | 2/3/2023   |
-| https://www.youtube.com/watch?v=PA8oClTTMm8             | Segment 8 of September 2010 being performed on Nanuet's Studio C Beta, 16m.                                                            | 10/2010   | 10/31/2010 |
-| https://www.youtube.com/watch?v=kEsEELRcCBE             | Segment 1 of Holiday Party 2010 being performed on Nanuet's Studio C Beta, 16m.                                                        | 12/23/10  | 11/23/2018 |
-| https://www.youtube.com/watch?v=G8i60Jiw\_vU            | Segment 2 of Holiday Party 2010 being performed on Nanuet's Studio C Beta, 16m.                                                        | 12/23/10  | 11/30/2018 |
-| https://www.youtube.com/watch?v=bY-Aer4GCjo             | Segment 3 of Holiday Party 2010 being performed on Nanuet's Studio C Beta, 16m.                                                        | 12/23/10  | 12/9/2018  |
-| https://www.youtube.com/watch?v=rl\_UB4jMWp0            | Segment 4 of Holiday Party 2010 being performed on Nanuet's Studio C Beta, 16m.                                                        | 12/23/10  | 12//2018   |
-| https://www.youtube.com/watch?v=EMtVqJmCAAc             | Segment 8 of the January 2013 being performed on Nanuet's Studio C Beta, 16m.                                                          | 2/23/2013 | 4/1/2013   |
-| https://www.youtube.com/watch?v=XhRYmrQCtM8             | Clip of 'Good Time' from Fall 2013 Segment 2 being performed on Nanuet's Studio C Beta, 16m.                                           | 9/28/2013 | 8/18/2014  |
-| https://www.youtube.com/watch?v=tBdKUvq\_1ro&amp;t=216s | Store tour of Nanuet in 2021                                                                                                           | N/A       | 7/5/21     |
-| https://www.youtube.com/watch?v=fSWD03NiD3I             | 'Join the Party' from [Chuck E Cheese Summer of Fun 2022 Show] being performed on Nanuet's Studio C Beta, 16m. | N/A       | 7/12/2022  |
-| https://youtu.be/hXPWtNO7cik                            | Avenger Chuck performs 'Me and My Friends' Live Show at the Grand reopening event                                                      | 7/18/2024 | 7/18/2024  |
-| https://youtu.be/Vg7pR-b01dw                            | Birthday Star 01 being performed on Nanuet                                                                                             | 7/18/2024 | 7/25/2024  |
-
 https://rdmanagement.com/wp-content/uploads/2015/04/Nanuet-NY-Brochure\_1122.pdf

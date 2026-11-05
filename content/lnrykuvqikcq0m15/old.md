@@ -16,14 +16,8 @@ A photo of this location's stage that was originally taken by the Chicago Tribun
 
 | Link                                                                         | Description                                                                                                | Filming/Upload Date                   |
 |------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|---------------------------------------|
-| [link](https://youtu.be/v-s2EZZ-oxE?si=SxT_QxOZf9zs7gRl)                     | Earliest known footage of the store playing September 1994 and [Birthday Star '92] | Late 1994                             |
-| [link](https://www.youtube.com/watch?v=PnSVQHC05c4)                          | Show Footage: Birthday Star Extravaganza 2008                                                              | May 2009                              |
-| [link](https://www.youtube.com/watch?v=Ta65luXSFvE)                          | Short clip of the end of [April 2009 Show]                                         | June 18, 2009                         |
-| [link](https://www.youtube.com/watch?v=kP31Pwm9ZbY&t=0s)                     | Show Footage: Birthday Star 2009                                                                           | January 18, 2011                      |
-| [link](https://www.youtube.com/watch?v=EoOSZVkspMM)                          | Short clip of the show                                                                                     | February 2012                         |
 | [link](https://www.instagram.com/p/xvA_DAuqSC/?igshid=MzRlODBiNWFlZA%3D%3D)  | Short clip of Dancin' Kitten                                                                               | January 11, 2015                      |
 | [link](https://www.instagram.com/p/BRyJKUXDuPf/?igshid=MTc4MmM1YmI2Ng%3D%3D) | Short clip of Fun for All                                                                                  | March 18, 2017                        |
-| [link](https://www.youtube.com/watch?v=JONp3NxlZC8)                          | never before seen video of Chuck E. Cheese Chicago 1-Stage during the 2.0 remodel behind the stage         | Filmed: 8\\21\\22 uploaded:10\\26\\23 |
 
 ## **Gallery**
 

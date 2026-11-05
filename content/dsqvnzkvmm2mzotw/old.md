@@ -118,9 +118,3 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the 
 - Super Big Rig
 - Hungry Froggy
 
-## Videos
-
-| Link                                             | Description                                   | Filming Date |
-|--------------------------------------------------|-----------------------------------------------|--------------|
-| https://youtu.be/LNdIyQokeDA                     | Game On being played with a broken compressor | 2/22/23      |
-| https://youtu.be/Q6C9qCeIwlg?si=j7O0YhyyPmBGVTYl | Store tour from March 2023.                   | 3/28/23      |

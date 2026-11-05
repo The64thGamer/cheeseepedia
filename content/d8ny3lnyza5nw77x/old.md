@@ -59,9 +59,3 @@ This is a list of every game and ride at the Princeton location as of May 2023:
 - Tippin' Blocks
 - Water Park Adventure
 
-## Videos
-
-| Link                                        | Description                                               | Filming Date \|Filming Date |
-|---------------------------------------------|-----------------------------------------------------------|-----------------------------|
-| https://www.youtube.com/watch?v=CN0rSAf2gk8 | This footage was taken moments after opening that morning | Nov 25th 2001               |
-| https://www.youtube.com/watch?v=EOn1yvhvi7o | Filming of the bot performing 'Down the Road'             | June 6, 2022                |

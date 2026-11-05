@@ -10,9 +10,4 @@ This store was the first to open in the state of Alaska, opening in 1982 (month 
 
 ## Videos
 
-| Link                                 | Description                                        | Filming Date      |
-|--------------------------------------|----------------------------------------------------|-------------------|
-| [Link](https://youtu.be/UB-bLD-uq_M) | Footage of the store's 2-Stage and arcade          | August 16th, 1996 |
-| [Link](https://youtu.be/JfA2IkF4kh0) | *Photonz* performing in front of the store's stage | June 8th 2006     |
-
 TODO

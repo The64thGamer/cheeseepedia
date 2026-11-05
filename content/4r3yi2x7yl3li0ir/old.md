@@ -8,12 +8,3 @@ Newington opened in August 1983 as a franchise-owned Pizza Time Theatre location
 
 [2002](https://www.showbizpizza.com/photos/cec/nh_newington/index.html)
 
-## Videos
-
-| Link                                                  | Description                                                                                                                                                 | Filming Date | Publish Date |
-|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------|--------------|
-| https://www.youtube.com/watch?v=FG-RETRCP1c           | Newington during the Summer 2005 show. This is the oldest footage of the stage.                                                                             | 7/30/2005    | 10/17/2015   |
-| https://www.youtube.com/watch?v=K1MI6Ow0XX8&amp;t=69s | Newington during the May 2011 Show with the Cool Chuck hat.                                                                                                 | 7/29/2011    | 8/1/2011     |
-| https://www.youtube.com/shorts/fzZZhO5riBK            | A part of the Happy Dance being performed with the Munch's Make Believe Band in the background.                                                             | 5/23/2016    | 5/23/2016    |
-| https://www.youtube.com/watch?v=sBEOMiEVgKE           | 'Another Chuck E. Day' from [Chuck E Cheese's Show 5 2017] being performed on Newington's 2-Stage. Chuck E.'s eyes were screwed up. | 9/21/2017    | 9/21/2017    |
-| https://www.youtube.com/watch?v=sBEOMiEVgKE           | Munch's Make Believe Band saying their final goodbyes before the store's closure.                                                                           | March 2018   | 7/4/2018     |

@@ -26,21 +26,4 @@ Prior to the event around 3pm PST, technicians were attempting to play the Chuck
 
 | Link                                                                            | Description                                                                                   |
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
-| [Link](https://youtu.be/AyF9_FzqXdQ)                                            | The second half of Logan's stream prior to the press event. The first half is currently lost. |
-| [Link](https://youtu.be/yMlf_xlXaAk)                                            | Logan's stream of the press event.                                                            |
-| [Link](https://youtu.be/vpFtuKLtsXg)                                            | Two short videos of the press event.                                                          |
-| [Link](https://www.youtube.com/watch?v=wkjdMsnroLA)                             | A video by logan of the press event.                                                          |
 | [Link](https://www.instagram.com/reel/CzhEhlxvan6/?igshid=MzRlODBiNWFlZA%3D%3D) | News coverage during the press event.                                                         |
-| [Link](https://youtu.be/-7Y_W0jbQGU)                                            | Part 1 of CEC Reminder's coverage of the public opening.                                      |
-| [Link](https://youtu.be/1J4M_7pt9tc)                                            | Part 2 of CEC Reminder's coverage of the public opening.                                      |
-| [Link](https://youtu.be/6pL5DCHgUZQ)                                            | Part 3 of CEC Reminder's coverage of the public opening.                                      |
-| [Link](https://www.youtube.com/watch?v=hV9l5GzoLdQ)                             | A video by logan of the public opening.                                                       |
-| [Link](https://www.youtube.com/watch?v=rjmcNyjuc4U)                             | A video by logan of the public opening.                                                       |
-| [Link](https://www.youtube.com/watch?v=RF3fl08zBWU)                             | A video by logan of the public opening.                                                       |
-| [Link](https://www.youtube.com/watch?v=sWsJqP9ug6w)                             | A video by logan of the public opening.                                                       |
-| [Link](https://youtu.be/vnT51FfW1-k)                                            | A video by logan of the public opening.                                                       |
-| [Link](https://www.youtube.com/watch?v=KiyCUeAUBwc)                             | A video by logan of the public opening.                                                       |
-| [Link](https://www.youtube.com/watch?v=EJx5AKt3AYQ)                             | A video by logan of the public opening.                                                       |
-| [Link](https://www.youtube.com/watch?v=EJx5AKt3AYQ)                             | A video by logan of the public opening.                                                       |
-| [Link](https://www.youtube.com/watch?v=-9yrfdityXY)                             | A video by logan of the public opening.                                                       |
-| [Link](https://www.youtube.com/watch?v=CPoF6SAA06o)                             | A video by logan of the public opening.                                                       |

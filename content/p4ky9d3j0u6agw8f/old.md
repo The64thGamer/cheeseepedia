@@ -64,10 +64,3 @@ Springfield opened its doors on April 22nd, 1982, as the 4th ShowBiz Pizza Place
 - Barney Tractor
 - Chuck E. Cheese's Color Photo Ride (Rockstar, 2019)
 
-## Videos
-
-| Link                                                | Description                                                      | Filming Date   | Published Date |
-|-----------------------------------------------------|------------------------------------------------------------------|----------------|----------------|
-| [Link](https://www.youtube.com/watch?v=38Rr581JRHQ) | A video showcasing the store in 2022.                            | August 3, 2022 | August 5, 2022 |
-| [Link](https://www.youtube.com/watch?v=HEVJ7S8y3r8) | A video showcasing the store in 2023.                            | July 27, 2023  | Aug 2, 2023    |
-| [Link](https://www.youtube.com/watch?v=3XBkBaGCgKg) | A video showcasing the store undergoing the 2.0 remodel in 2024. | June 15, 2024  | June 17, 2024  |

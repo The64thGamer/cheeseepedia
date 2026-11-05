@@ -37,14 +37,6 @@ Not all Arcade Machines present in this store have been identified.
 - Terminator Salvation
 - Penalty Shot Chuck E. Cheese's
 
-## Videos
-
-| Link                                        | Description                          | Filming Date      |
-|---------------------------------------------|--------------------------------------|-------------------|
-| https://www.youtube.com/watch?v=VuDcLnd3ihA | Middletown in 2013                   | February 16, 2013 |
-| https://www.youtube.com/watch?v=gnESn1xQMUA | Birthday Party in Middletown in 2007 | 2007              |
-| https://www.youtube.com/watch?v=KNtRloUBtPk | Store after closure                  | December 31, 2020 |
-
 ## Animatronics
 
 TODO

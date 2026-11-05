@@ -10,8 +10,4 @@ This location would open on October 15th, 1991, after being advertised in newspa
 
 ## Videos
 
-| Link                                       | Description                                                                                           | Filming Date |
-|--------------------------------------------|-------------------------------------------------------------------------------------------------------|--------------|
-| [Link](https://youtu.be/e39a8XGrlvE?t=441) | (Begins at 7:21) Footage of the [Road Stage] and showroom in 2000. | 2000         |
-
 TODO

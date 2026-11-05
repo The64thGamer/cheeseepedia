@@ -8,10 +8,3 @@ Milwaukee opened with the Balcony Stage and featured the Cheese Crawl underneath
 
 As previously mentioned, Milwaukee was one of the first stores to receive and open Cheese E. Street in their game room. Cheese E. Street was removed by 1995. As for cabaret acts, Milwaukee is known to have had The King. There is currently no info on if Milwaukee ever had any other cabaret acts, or when the lounge itself was removed. Milwaukee later received the [SPT 1990's Remodel Program], likely around the same time as the 1-Stage. In 2015, they received the 2015 update to the [CEC 2000's Remodel Program]. The showroom walls and balcony seating would remain intact. Milwaukee started the 2.0 remodel on August 18th, 2024 which involved the removal of the 1-Stage and artwork. The showroom walls and balcony seating would remain intact again.
 
-## Videos
-
-| Link                         | Description                                                                                                     | Filming Date        |
-|------------------------------|-----------------------------------------------------------------------------------------------------------------|---------------------|
-| https://youtu.be/RG3A0jYMTWM | Video showcasing the game room.                                                                                 | January 20th, 1989  |
-| https://youtu.be/rflB41rNzSQ | More footage showcasing the game room, and also the interior of Cheese E. Street with a short clip of the show. | February 11th, 1989 |
-| https://youtu.be/T6KTRK8yD90 | Even more footage showcasing the game room, the exterior of Cheese E. Street, and the show room.                | April 7th, 1990     |

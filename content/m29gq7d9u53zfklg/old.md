@@ -20,8 +20,3 @@ On July 30th, 2022, an incident occurred where a black girl was ignored by a per
 
 [2007](https://www.showbizpizza.com/photos/cec/nj_wayne/index.html)
 
-## Videos
-
-| Videos                                                                                                                                 | Description              | Filming date | Release date |
-|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|--------------|--------------|
-| [https://www.youtube.com/watch?v=Vz4BLxkEvrU](https://www.youtube.com/watch?v=Vz4BLxkEvrU)Wayne, NJ, Chuck E Cheese The Mailman (2010) | MMBB singing the mailman | October 2010 | May 8, 2018  |

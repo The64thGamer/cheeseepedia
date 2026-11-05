@@ -18,17 +18,3 @@ Like all Rocker Stages at the time, Chuck wore his PTT outfit. The stage was rep
 
 [2021](https://www.flickr.com/photos/ryanrules/albums/72157720017092401)
 
-## Videos
-
-| Link                                                | Description                                                                                                                       | Filming Date      | Publish Date       |
-|-----------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|-------------------|--------------------|
-| [Link](https://youtu.be/BlOttblI7bw?t=139)          | A video showcasing the store, games, and 2-Stage back in 1994.                                                                    | January 5th, 1994 | February 4th, 2020 |
-| [Link](https://www.youtube.com/watch?v=VEWiilxASZM) | A video of the Glen Burnie 2-Stage before Helen's pigtails were replaced.                                                         | Mid-Late 2010     | September 14, 2011 |
-| [Link](https://www.youtube.com/watch?v=2jyL6cJG6pY) | A family vlog where they visit Glen Burnie.                                                                                       | August 2015       | August 30th, 2015  |
-| [Link](https://www.youtube.com/watch?v=S2w1LOhrvrg) | Store Tour from February 2016 (2 years before the 2.0 Remodel)                                                                    | February 2016     | February 8th, 2016 |
-| [Link](https://www.youtube.com/watch?v=P6cHnozI37o) | 'Birthdays are Special' from [Chuck E Cheese's Show 3 2016] being performed on Glen Burnie's 2-Stage      | March/April 2016  | April 5th, 2016    |
-| [Link](https://www.youtube.com/watch?v=pU3AsMTntTQ) | 'Cowboy's Life' from [Chuck E Cheese's Show 3 2016] being performed on Glen Burnie's 2-Stage              | March/April 2016  | April 7th, 2016    |
-| [Link](https://www.youtube.com/watch?v=-e7TPg8ie4M) | 'Gamin' Time' from [Chuck E Cheese's Show 3 2016] being performed on Glen Burnie's 2-Stage                | March/April 2016  | April 9th, 2016    |
-| [Link](https://www.youtube.com/watch?v=-JFLIx9PPVY) | 'Arizona' from [The Chuck E Cheese Show] being performed on Glen Burnie's 2-Stage                         | June 2016         | June 15th, 2016    |
-| [Link](https://www.youtube.com/watch?v=bh3-6kYSyCw) | 'Nobody Knows' from [The Chuck E Cheese Show] being performed on Glen Burnie's 2-Stage                    | June 2016         | June 19th, 2016    |
-| [Link](https://www.youtube.com/watch?v=gNuTKk7PfME) | 'Giant Armadillo Named Phil' from [Chuck E Cheese's Show 3 2015] being performed on Glen Burnie's 2-Stage | July 2018         | July 10th, 2018    |

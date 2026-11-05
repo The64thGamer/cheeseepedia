@@ -12,9 +12,3 @@ The store opened with a 2-Stage. They kept their 2-Stage up until March 2018 whe
 
 = Gallery =
 
-## Videos
-
-| Link                                                | Description                                                                               | Date Filmed       | Date Published    |
-|-----------------------------------------------------|-------------------------------------------------------------------------------------------|-------------------|-------------------|
-| [Link](https://www.youtube.com/watch?v=oN-pNft1Ff8) | A clip of 'Party Place' from one of the 1994 shows being performed on Dale City's 2-Stage | May-November 1994 | September 1, 2021 |
-| [Link](https://www.youtube.com/watch?v=vGF3Bx5TjE8) | A clip of 'America' from being performed on Dale City's 2-Stage                           | Summer 2000       | March 13, 2021    |

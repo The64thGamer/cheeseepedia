@@ -14,8 +14,3 @@ On September 3rd, 2022 after 5 months of construction the Chuck E. Cheese had of
 
 In leaked documents from 2021 relating to the construction of the new store it was shown that they were originally intended to get a Circle of Lights. Although those plans never came to fruition, they instead have the Video Wall and Dance Floor, but have a 2019 model with a frame.
 
-## Videos
-
-| Link                         | Description               | Published Date / Filming Date |
-|------------------------------|---------------------------|-------------------------------|
-| https://youtu.be/SfOoJpyPvz0 | Store Tour at Yonkers, NY | September 10, 2022            |

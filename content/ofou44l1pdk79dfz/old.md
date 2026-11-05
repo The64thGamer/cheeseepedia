@@ -10,14 +10,3 @@ Akron's A&amp;P would open its doors on January 23rd, 1963, and closed on Decemb
 
 Akron opened as CEC on October 25 1993 with a 1-Stage. The store kept two Pizza Time Theatre posters, **BatMunch** and **Close Encounters of the Bird Kind**, and it would become the final store with PTT posters inside. The store remained relatively unchanged until May 2022, when it would get 2.0. The stage was removed on July 27, 2022 and replaced with the Dance Floor. The store's Grand Reopening took place on October 5th, 2022.
 
-## Videos
-
-| Link                                         | Description                                                                                                            | Year               |
-|----------------------------------------------|------------------------------------------------------------------------------------------------------------------------|--------------------|
-| https://youtu.be/XK8Az2zKNsw?t=2844          | Akron's location installation mentioned in a CEC TV '93 ID spot                                                        | September 14, 1993 |
-| https://www.youtube.com/watch?v=gXQU0YjSF7o  | Footage of the 1-Stage performing [Chuck E's Variety Show - Best of 1999] &amp; Chuck E. March | 2000               |
-| https://www.youtube.com/watch?v=o3T5h6\_QS2I | The 1-Stage performing Out of This World                                                                               | 2020               |
-| https://www.youtube.com/watch?v=c7xI2GqBFbc  | Store Tour 2022, just months before 2.0                                                                                | 2022               |
-| https://www.youtube.com/watch?v=A921c52c1HU  | Store Tour during the 2.0 Remodel                                                                                      | 2022               |
-| https://www.youtube.com/watch?v=Z\_Gqkr52wig | Showroom Tour, 2022                                                                                                    | 2022               |
-| https://www.youtube.com/watch?v=SR3pyTS\_EqU | Tour of the 2.0 Remodel                                                                                                | 2022               |

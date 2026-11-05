@@ -22,9 +22,3 @@ When this store opened, they would have a [Balcony Stage], which would in turn b
 
 TODO
 
-## Video
-
-| Link                                 | Description                                                                               | Filming Date  | Published Date |
-|--------------------------------------|-------------------------------------------------------------------------------------------|---------------|----------------|
-| [Link](https://youtu.be/vPIgt7VhiDg) | A video showcasing the store, games &amp; Chuck E.'s House Facade (C-Stage) in December 1990.       | December 1990 | March 15, 2021 |
-| [Link](https://youtu.be/g8BtH8I5wc0) | Another video showcasing the store, games &amp; Chuck E.'s House Facade (C-Stage) in December 1990. | December 1990 | March 15, 2021 |

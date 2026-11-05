@@ -22,8 +22,3 @@ While most references to Chuck E. Cheese and Pizza Time Theatre were removed, as
 
 The building would remain vacant again for a few years until it became a bank. The bank stayed in operation until it would close in 2018/19. As of April 2024, the building is vacant once again. It is unknown what will happen to the empty building.
 
-## Videos
-
-| Link                                                | Description                                                                                                  | Filming Date |
-|-----------------------------------------------------|--------------------------------------------------------------------------------------------------------------|--------------|
-| [Link](https://www.youtube.com/watch?v=givBVwYi9Vk) | The only known footage of this store. Shows the game room, and the animatronics a few months before closure. | March 1987   |

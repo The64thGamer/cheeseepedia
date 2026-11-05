@@ -26,14 +26,3 @@ After the auction, nothing would happen until in December of 2001 when plans eme
 
 On June 23, 2011, the building was purchased and redevelopment plans started to become an interest, with the Lynchburg Chamber of Commerce, purchasing the property and requesting $3,000,000 for complete redevelopment. Local Virginia architects, Wiley and Wilson, gave the Commerce design plans, but eventually, all fell through. The building was sold again on June 29, 2016, to Woodspring and was demolished in April 2021 for a new hotel. (9) There was an unconfirmed rumor that an anonymous user was going to purchase the animatronics from Connor Leschinsky and Jack Turner for a new ice cream parlor idea until they canceled it for unknown reasons.
 
-## Videos
-
-| Link                                                   | Description                                    | Published Date |
-|--------------------------------------------------------|------------------------------------------------|----------------|
-| https://www.youtube.com/watch?v=0OnEzIJXjlI&amp;t=550s | Store footage from 1989 that shows off the RAE | Aug 28, 2023   |
-| https://www.youtube.com/watch?v=egE56Yqhn\_Y&amp;t=77s | Store footage from 1990 that shows the RAE     | Sep 5, 2023    |
-| https://www.youtube.com/watch?v=pfyzJNztkSY&amp;t=10s  | Store footage from 1991 that shows the RAE     | Sep 9, 2023    |
-| https://www.youtube.com/watch?v=ybDrN4zOsnk&amp;t=161s | Store footage from 1993 that shows the 3 Stage | Sep 20, 2023   |
-| https://youtu.be/P8MK1Q9mQn4?si=ciFuFUD03okUVbnx       | Store footage from 1994 that shows the 3 Stage | Sep 12, 2023   |
-| https://youtu.be/dPzJ9UM8xDI                           | RAE inside of the barn                         | Jan 18, 2020   |
-| https://youtu.be/HaMNMuw65zo                           | Exploration of the abandoned store             | Nov 23, 2021   |

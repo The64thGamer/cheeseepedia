@@ -16,36 +16,6 @@ Fayetteville NC opened in November 1998 as a Phase 3 location. This location lat
 
 1991: Concept Unification happens. it gets turned back into a [Classic Stage] sometime afterwards. 1995-1998: Store closes and the [Concept Unification Stage (3-Stage)] is removed, the stage is replaced with a [Studio C Alpha]. Blue screen camera and [Interactive Console] are removed, last known picture with them was taken in 2012. Monitor lighting effects are removed at an unknown time, last seen in 2017. Gemini is removed at an unknown time. Roboscan is unplugged, one roboscan is removed. Curtains are removed, and boom mic is removed sometime in early 2023. 2.0 starts September 16th, 2023. Bird, Pizza Phone, and Pizza Time Clock were removed from the show September 16th, 2023. The C Building was also removed from the cityscape on September 16th. Chuck was removed September 18th, 2023, along with the rest of the stage.
 
-## Videos
-
-| Link                                                                                      | Description                                                  | Filming Date       |
-|-------------------------------------------------------------------------------------------|--------------------------------------------------------------|--------------------|
-| https://www.youtube.com/watch?v=nnRyUYQjcMk                                               | CEC Chuck E. Cheese, this is the earliest                    | Aug 14, 2006       |
-| https://www.youtube.com/watch?v=H5a6K4e\_6U4                                              | Panning view of the showroom.                                | February 2017      |
-| https://www.youtube.com/watch?v=6LE459gdK3s                                               | Together We've Got It.                                       | February 2017      |
-| https://www.youtube.com/watch?v=BLaUgy0pNzE                                               | Birthdays are Special                                        | February 2017      |
-| https://www.youtube.com/watch?v=sYxIhP1\_rhg                                              | Remember That Time                                           | February 2017      |
-| https://www.youtube.com/watch?v=fjBqg3doYkA                                               | Song Title                                                   | February 2017      |
-| https://www.youtube.com/watch?v=n7FeDlYg5C0                                               | A Family vlog in which they visit Fayetteville               | February 2019      |
-| https://www.youtube.com/watch?v=TikcM5uh2uk                                               | A tour of the location.                                      | March 2021         |
-| https://www.youtube.com/watch?v=gXpbDq-hveE                                               | Song of Summer                                               | 2021               |
-| https://www.youtube.com/watch?v=9yHbcAI8NPs                                               | Out of This World                                            | 2021               |
-| https://www.youtube.com/watch?v=CjFkGUg8WJ4                                               | Dog Days of Summer                                           | 2021               |
-| https://www.youtube.com/watch?v=6YjnWus51-A                                               | CEC is All About Fun                                         | 2021               |
-| https://www.youtube.com/watch?v=bUhNlq5nHTc                                               | I Dare You Not to Laugh                                      | 2021               |
-| https://www.youtube.com/watch?v=9c-LOE67GdE                                               | Song Title                                                   | 2021               |
-| https://www.youtube.com/watch?v=dLiT7lWed58                                               | Let's Be Friends                                             | 2021               |
-| https://www.youtube.com/watch?v=ecP2qJ-i0z0                                               | Beach Party Bash                                             | 2021               |
-| https://www.youtube.com/watch?v=Yp0IYUbiNZ4                                               | My Family                                                    | November 2021      |
-| https://www.youtube.com/watch?v=HrExK64NrQU                                               | Let's Have a Party                                           | November 2021      |
-| https://www.youtube.com/watch?v=tf28EuGnwTw                                               | Lend a Helping Hand                                          | November 2021      |
-| https://www.youtube.com/watch?v=4aFTxved0Hg                                               | Together We've Got It                                        | April 2022         |
-| https://www.youtube.com/watch?v=xJBkGohllg0                                               | Out of This World. Some of the last footage before removal.  | September 16, 2023 |
-| https://www.youtube.com/watch?v=VitEe85Ew\_M                                              | Dog Days of Summer. Some of the last footage before removal. | September 16, 2023 |
-| [https://www.youtube.com/watch?v=HOnKNFQA5q](https://www.youtube.com/watch?v=HOnKNFQA5qk) | Let's Be Friends. Some of the last footage before removal.   | September 16, 2023 |
-| https://www.youtube.com/watch?v=YZYcG6k5bx0                                               | Down The Road. Some of the last footage before removal.      | September 16, 2023 |
-| https://www.youtube.com/watch?v=G0MHhE7543s                                               | First footage of the video wall added and stage removed.     | September 20, 2023 |
-
 ## Animatronics
 
 Fayetteville, NC started as a ShowBiz Pizza Place that got Concept Unification in 1991. sometime after it got turned back into the [Classic Stage] before closing in 1995. When it reopened in November 1998 the [Concept Unification Stage (3-Stage)] had been removed and replaced with a [Studio C Alpha]. The serials for the 3-Stage bots are still unknown, along with what happened to them between 1995 and 1998. The show has been removed as of September 18th 2023.

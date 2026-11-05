@@ -26,11 +26,3 @@ Construction for this location started around late 2002-early 2003, with this lo
 
 Originally when the store opened, they had the [SPT 1990's Remodel Program] until they remodeled in Spring-Summer 2012 to the 2010 Update of the CEC 2005 Remodel, which it had until on June 24, 2024, when the store received the [CEC 2.0 Remodel Program], removing the stage to replace it with a [Chuck E. Live Stage (Dance Floor)] and [Video Wall], which it still has to this day.
 
-## Videos
-
-| Link                                                | Description                                                                                                                                           | Filming Date        |
-|-----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
-| [Link](https://youtu.be/YMrIMjHsd1E)                | Children playing a basketball arcade game at this store before the store's 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative\|2010 Update. | March 9th, 2012     |
-| [Link](https://www.youtube.com/watch?v=6mvsVc1QLWM) | A video showing inside of the [Chuck E Cheese 16m (Animatronic)] bot at the location.                                         | May 12th, 2019      |
-| [Link](https://www.youtube.com/watch?v=VcWkE3Pq-og) | A showroom tour in 2019.                                                                                                                              | December 26th, 2019 |
-| [Link](https://youtu.be/gEZZkjNtOHI)                | A store tour of this store in 2021                                                                                                                    | May 17th, 2021      |

@@ -10,11 +10,4 @@ Pembroke Pines opened on September 11th, 1991, as a corporate-owned location. Pe
 
 ## Videos
 
-| Link                                                                                                                         | Description                              | Filming Date | Publish Date |
-|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------|--------------|--------------|
-| [Link](https://www.youtube.com/watch?v=MDIiJo2OdXQ&list=PLAaftWnIjwnnzcQTxq1m2HwOGa2ppeL1z&index=2064&ab_channel=Embargoman) | Birthday Party showcasing the Road Stage | 2007/2011    | Oct 19, 2011 |
-|                                                                                                                              |                                          |              |              |
-|                                                                                                                              |                                          |              |              |
-|                                                                                                                              |                                          |              |              |
-
 W.I.P

@@ -8,8 +8,3 @@ Omaha opened its doors on June 23th, 1982 as the 3rd and last ShowBiz Pizza stor
 
 Originally, Omaha featured a Rock-Afire Explosion, as all other ShowBiz locations did. Unfortunately, there are some photos but not a lot of videos to exist of Omaha with the Rock afire, or as a ShowBiz Pizza in general. There does exist one exterior photo however. Omaha got Concept Unification sometime in 1991. In April 2022, Omaha received the 2.0 Remodel, thus removing their 3-Stage for a Dance Floor and Video Wall.
 
-## Videos
-
-| Link                                                   | Description                                                                                                                      | Filming Date | Publish Date   |
-|--------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|--------------|----------------|
-| [YouTube](https://www.youtube.com/watch?v=tmS3_dRQchY) | A video showcasing the Chuck E. Cheese animatronic connected to an external controller performing a Rock-afire Explosion segment | Unknown      | April 17, 2024 |

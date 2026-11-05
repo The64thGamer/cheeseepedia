@@ -8,8 +8,3 @@ The Store opened on November 11th, 2003 with a [Studio C Beta] &amp; [CEC 2000's
 
 The Store opened with a Studio C Beta with a 16m Bot. The location would replaced the Studio C Beta with a Chuck E. Live stage in April 2024.
 
-## Videos
-
-| Link                                             | Description                                  | Recorded   |
-|--------------------------------------------------|----------------------------------------------|------------|
-| https://youtu.be/wYva2gUKM1Q?si=mYeeGZaiZJ1P-fpC | The final store tour before The 2.0 Remodel. | April 2024 |

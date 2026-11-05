@@ -16,26 +16,6 @@ This location only received only one of their two remodels in 2006, which moved 
 
 On January 14, 2021 around 4:15 PM, the San Diego PD and SWAT teams barricaded a suspect in front of the location to take a male into custody for a failed armed robbery at the next door Subway. The man had hostages but they escaped unharmed.(3)
 
-## Videos
-
-| Link                                                | Description                | Filming / Published Date |
-|-----------------------------------------------------|----------------------------|--------------------------|
-| [link](https://www.youtube.com/watch?v=Snp95yrXNYE) | Store Footage              | Fall 1994                |
-| [link](https://youtu.be/O60DfjlJkPU)                | Summer 2007 Show Segment 4 | July 2007                |
-| [link](https://www.youtube.com/watch?v=q3yC_ztWj1g) | Store Tour                 | April 25, 2010           |
-| [link](https://www.youtube.com/watch?v=otvvlRvqU9k) | Store Tour                 | May 6, 2021              |
-| [link](https://www.youtube.com/watch?v=AANt1buOboU) | 'Another Chuck E. Day'     | May 7, 2021              |
-| [link](https://www.youtube.com/watch?v=smq2FRWnI4M) | 'Ves Al Ratoncito'         | May 7, 2021              |
-| [link](https://www.youtube.com/watch?v=qID5bAZJU00) | 'Tail of Jasper T.'        | May 8, 2021              |
-| [link](https://www.youtube.com/watch?v=MBEQDQjhEVM) | 'Lend a Helping Hand'      | May 8, 2021              |
-| [link](https://www.youtube.com/watch?v=qN1-dq_pnQ4) | Store Tour                 | May 14, 2022             |
-| [link](https://www.youtube.com/watch?v=gQl8phTJBCM) | 'Song Of Summer'           | July 20, 2022            |
-| [link](https://www.youtube.com/watch?v=tuv7rTfOKhQ) | 'Join The Party'           | July 22, 2022            |
-| [link](https://www.youtube.com/watch?v=WVLiQL5PgqM) | 'Lets Be Friends'          | July 23, 2022            |
-| [link](https://www.youtube.com/watch?v=wu8YK1XLgy8) | 'Out of This World'        | July 24, 2022            |
-| [link](https://www.youtube.com/watch?v=FHYytj8v1x4) | 'El Guitariesta            | September 24, 2022       |
-| [link](https://www.youtube.com/watch?v=UP--vqhl0YQ) | Store Tour                 | February 13, 2023        |
-
 ## Games
 
 | Game                               | Installed     | Removed       | Location                           |

@@ -18,16 +18,3 @@ After the store's closure, the building that occupied the Paramus store was demo
 
 When Paramus (221 South Dr) opened, the store housed a 1-Stage (One of six installed in the state of New Jersey). Chuck E. wore his Tuxedo &amp; Derby hat like all other 1-Stages when it was first installed. Around the Early-Mid 2000's Chuck's Tuxedo &amp; Derby Outfit would be replaced by the Cool Chuck outfit. Chuck also wore the avenger cap in as early as 2006 (it is possible their cap was from a walkaround not the one for animatronics). It would remain this way until the stage's removal when the store closed permanently in November 2010.
 
-## Videos
-
-| Link                                                                         | Description                                                                                                              | Filming Date     | Published Date    |
-|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------|-------------------|
-| [Link](https://www.youtube.com/watch?v=-3jYy0doKJA)                          | Video showcasing the store, games &amp; 1-Stage in Late 1995                                                             | Late 1995        | October 5, 2020   |
-| [Link](https://youtu.be/debmdI1i1Po?t=227)                                   | Video showcasing the store, games &amp; 1-Stage in January 1998                                                          | January 31, 1998 | December 19, 2014 |
-| [Link](https://www.youtube.com/watch?v=bvh5BjhK_Cs&t=1s&ab_channel=Solana00) | Birthday Star 2001 in 2006. The Chuck cyberamic has the cool chuck attire and the avenger cap which was rare in 2006.    | Late 2006        | December 18, 2006 |
-| [Link](https://www.youtube.com/watch?v=d3jFEj-UzwE&ab_channel=JoannaGiles)   | Chuck E. March 2001 in 2008.                                                                                             | 2008             | July 15, 2008     |
-| [Link](https://www.youtube.com/watch?v=skNw5bVsVcg&ab_channel=ossodos)       | Video showing Birthday 2009 in December 2009                                                                             | December 1, 2009 | December 1, 2009  |
-| [Link](https://www.youtube.com/watch?v=FH4O68rXAWo&ab_channel=ossodos)       | Video showcasing the showroom, wall art, shelves, stage, uploaded by the same user.                                      | December 1, 2009 | December 1, 2009  |
-| [Link](https://www.youtube.com/watch?v=b7Eybpeze80&ab_channel=ossodos)       | Brief clip of 'Holly Jolly Christmas' from the same user                                                                 | December 1, 2009 | December 1, 2009  |
-| [Link](https://www.youtube.com/watch?v=iyLodGI8QaM)                          | 'Free Ride' from [January 2010 Show] being performed on Paramus's 1-Stage                        | January 30, 2010 | January 30, 2010  |
-| [Link](https://youtu.be/HO5hE4hhJ_s)                                         | A Birthday Party being held at the location. As of May 2024, this is the last known video of the 221 South Dr. location. | April 24, 2010   | April 24, 2010    |

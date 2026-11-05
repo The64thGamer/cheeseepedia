@@ -65,10 +65,3 @@ Like all Road Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. Up a
 - Angel Carousel
 - Hit Music
 
-## Videos
-
-| Link                                                                   | Description                                                                                         | Filming Date         | Publish Date        |
-|------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|----------------------|---------------------|
-| [Link](https://youtu.be/mRUkfhqceYQ)                                   | The store's stage showcased in *The Future for Chuck E. Cheese* demo performing American Pride 1991 | 1991                 | July 24th, 2021     |
-| [Link](https://youtu.be/r3pYeyTc5XI)                                   | Birthday party; showcases the show in 1999.                                                         | September 29th, 1999 | November 25th, 2018 |
-| [Link](https://www.youtube.com/watch?v=pl1DNq2jPPc&ab_channel=EdOvett) | Birthday Video; showcases the store                                                                 | August 19th, 2012    | August 29th, 2012   |

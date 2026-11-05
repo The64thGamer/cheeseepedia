@@ -12,12 +12,3 @@ In July 2007, a homeless man was arrested, due to other people feeling unsafe by
 
 South Charleston would premiere with a Classic Rock-afire Explosion, as other ShowBiz locations did at the time. The show would remain largely unchanged until 1991, when the location's show would undergo [Concept Unification]. The Munch's Make Believe Band 3-Stage would then remain in use at the store (with minor changes and updates) up until South Charleston's permanent closure on June 18, 2020.
 
-## Videos
-
-| Link                                                | Description                                                                                                                  | Filming Date        | Published Date    |
-|-----------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|---------------------|-------------------|
-| [Link](https://www.youtube.com/watch?v=SizHQBsYyM8) | A video showcasing the store's unique party room.                                                                            | December 24th, 2013 | September 7, 2014 |
-| [Link](https://www.youtube.com/watch?v=8-0NyS8bUNQ) | 'Holiday Medley' from [Chuck E Cheese's Show 9 2016] being performed on S. Charleston's 3-Stage      | December 2017       | December 22, 2017 |
-| [Link](https://www.youtube.com/watch?v=xk_OF4yiXX8) | 'Merry Christmastime' from [Chuck E Cheese's Show 9 2016] being performed on S. Charleston's 3-Stage | December 2017       | December 24, 2017 |
-| [Link](https://www.youtube.com/watch?v=21vV3-_hsVE) | A store tour from December 2017.                                                                                             | December 2017       | December 28, 2017 |
-| [Link](https://youtu.be/lNgZ6Fm7JjY)                | Store Tour from February 2020. Final footage before store closure.                                                           | February 23, 2020   | August 5th, 2023  |

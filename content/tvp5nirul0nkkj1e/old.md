@@ -8,19 +8,3 @@ This location opened up with a Road Stage and was converted to a 1-stage sometim
 
 The store received the [CEC 2000's Remodel Program] around mid-May of 2007. In May 2014, The Court at Deptford shopping center was acquired by DLC Management and planned to redevelop the entire shopping center to give it a more modernized look. These renovations started in autumn 2015 and were completed the following summer. In November 2022, Deptford started their 2.0 Remodel which will involve the removal of the store's 1-Stage which was finally removed on December 14th, 2022. Deptford's Grand Reopening was on February 22nd, 2023.
 
-## Videos
-
-| Link                                                                                        | Description                                                                                                | Footage Date      |
-|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-------------------|
-| https://www.youtube.com/watch?v=RrkXMMg4MCs                                                 | Shows the stage playing Walking on Sunshine and a few seconds of Birthday 1992 at the end                  | December 26, 1992 |
-| [&amp;ab\_channel=Thececfootageman](https://www.youtube.com/watch?v=JNyb019Qvqk)            | Shows the stage playing the ending to Strike it Up                                                         | 1996              |
-| [&amp;ab\_channel=Cuddster22](https://www.youtube.com/watch?v=7cB64X0AhLM)                  | Shows the stage playing Living in America, some of Roll the Pizza Dough, The Locomotion, and Birthday 2002 | Autumn 2002       |
-| [&amp;ab\_channel=trljacam](https://www.youtube.com/watch?v=Sun8rUm513E)                    | Shows the stage playing Birthday 2008                                                                      | Late 2008         |
-| https://www.youtube.com/watch?v=RluNLdToInM                                                 | Family vlog where they visit Deptford back in 2010.                                                        | July 2010         |
-| [&amp;ab\_channel=chuckecheeseshows](https://www.youtube.com/watch?v=fPtBw6kXTVc)           | Shows the stage playing segment 2 of the January 2012 show                                                 | January 25, 2012  |
-| [&amp;ab\_channel=BigChuck](https://www.youtube.com/watch?v=puKR5EgIE1U)                    | Shows the stage in 2017 playing Chuck E's Place 2017                                                       | August 21, 2017   |
-| [&amp;ab\_channel=ChuckE.Entertainment](https://www.youtube.com/watch?v=PWrq2Y-qLUA)        | Shows the stage in 2020 playing Holiday Medley and showcases Deptford's unique Christmas display           | December 5, 2020  |
-| [&amp;ab\_channel=ChuckE.Entertainment](https://www.youtube.com/watch?v=3wIkn3cl_s0)        | Shows the stage in 2021 playing It's Gotta Be Halloween                                                    | October 29, 2021  |
-| [&amp;ab\_channel=JuntifyProduction%E2%80%99s](https://www.youtube.com/watch?v=s6Q7LMLnDNY) | Store Tour                                                                                                 | May 2022          |
-| https://www.youtube.com/watch?v=cW47kcaNBOw                                                 | Store Tour not long before Stage Removal                                                                   | December 2022     |
-| https://www.youtube.com/watch?v=uehUMHXcmqA                                                 | Store Tour after Stage Removal                                                                             | December 18, 2022 |
