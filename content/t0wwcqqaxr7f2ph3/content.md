@@ -1,5 +1,4 @@
-The ***Cyberamics Control Center* is a computer that plays showtapes and controls animatronics for the [Kooser PTT Show] that debuted in December of 1978, and later the [Cyberamics] shows that were produced from 1979 onwards, which is still used to the current day.
-Originally running showtapes on 7' reels, it would be upgraded in 1988 to support SVHS tapes, and in 2005 to support DVDs.**
+The ***Cyberamics Control Center*** is a computer that plays showtapes and controls animatronics for the [Kooser PTT Show] that debuted in December of 1978, and later the [Cyberamics] shows that were produced from 1979 onwards, which is still used to the current day.Originally running showtapes on 7' reels, it would be upgraded in 1988 to support SVHS tapes, and in 2005 to support DVDs.
 
 ## Function
 
@@ -31,16 +30,16 @@ The system houses a modified TEAC X-7 tape deck that allows audio to be outputte
 
 The CPU Assembly Card is the main card controlling the Cyberamic Control Center. The later Triad Cyberstar version contains an EPROM for decoding the scrambled signals sent off of SVHS showtapes, which has changed in version over time:
 
-- 64Kbit EPROM v1.0
-- 64Kbit EPROM v1.6 (R12) 11/13/94
+* 64Kbit EPROM v1.0
+* 64Kbit EPROM v1.6 (R12) 11/13/94
 
 ### Random Movements Card
 
 The Random Movements Card is an attachment to the CPU Assembly card that provides random movements for characters between showtape segments. This card contains an EPROM of the raw random movement signals that has changed in version number over time:
 
-- 256Kbit VHS Random Movements EPROM v1.0
-- 256Kbit VHS Random Movements EPROM v.1.6
-- 255Kbit DVD Random Movements EPROM v1.0
+* 256Kbit VHS Random Movements EPROM v1.0
+* 256Kbit VHS Random Movements EPROM v.1.6
+* 255Kbit DVD Random Movements EPROM v1.0
 
 ### Transfer Control Card (06-0020)
 

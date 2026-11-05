@@ -19,7 +19,7 @@ _multispace  = re.compile(r'\s+')
 
 DICT_TAG_FIELDS   = ('remodels','stages','animatronics','franchisees','attractions','credits')
 STRING_TAG_FIELDS = ('tags','pages','page')
-NO_TITLE_TAG_TYPES = {'videos','photos','reviews','theories','steam comments'}
+NO_TITLE_TAG_TYPES = {'videos','photos','reviews','theories','steam comment'}
 
 def normalize(s): return _multispace.sub(' ', _nonword.sub(' ', s.lower())).strip()
 

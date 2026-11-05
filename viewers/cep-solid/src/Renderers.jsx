@@ -6,7 +6,7 @@ import { marked } from 'marked';
 import { fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll} from './GlobalFunctions';
 
 
-const EXCLUDE = new Set(['photos','videos','reviews','user','steam comments','theories','meta','transcriptions']);
+const EXCLUDE = new Set(['photos','videos','reviews','user','steam comment','theories','meta','transcriptions']);
 const TABS = {
   Articles: (t) => !EXCLUDE.has(t),
   Photos:   (t) => t === 'photos',
@@ -31,9 +31,32 @@ const LOGOS = {
     halloween: 'LogoHalloween.avif', pride: 'LogoPride.avif', anniversary: 'LogoAnniversary.avif',
   };
 const EDITOR_URL = 'https://cheeseepedia.org/?v=cep-editor';
+const SCOTT_AVATAR = '/viewers/cep-js/assets/Social Posts/Scott.jpg';
+
+function ArticleItem(props) {
+  const [meta] = createResource(() => fetchMeta(props.id));
+  return <Show when={meta()}>{renderStandardArticle(meta())}</Show>;
+}
 
 function renderTaggedList(type, ids, data) {
   switch (type.toLowerCase()) {
+    case 'photos':
+      return (
+        <div class="ResultCards">
+          <For each={ids}>
+            {(id) => <RenderedId id={id} render={renderCard} />}
+          </For>
+        </div>
+      );
+    case 'reviews':
+    case 'steam comment':
+      return (
+        <div>
+          <For each={ids}>
+            {(id) => <RenderedId id={id} render={renderCard} />}
+          </For>
+        </div>
+      );
     default:
       return (
         <For each={ids}>
@@ -138,16 +161,27 @@ function ArticleTabs(props) {
   const [loaded] = createResource(() => Promise.all([loadTaggedByIDs(), loadSearchData()]));
 
   const groups = createMemo(() => {
-    const result = new Map();
-    if (!loaded()) return result;
-    const [tagged, data] = loaded();
-    for (const id of tagged[folderID()] || []) {
-      const type = data.idType[id] || 'other';
-      if (!result.has(type)) result.set(type, []);
-      result.get(type).push(id);
-    }
-    return result;
-  });
+  const result = new Map();
+  if (!loaded()) return result;
+  const [tagged, data] = loaded();
+  for (const id of tagged[folderID()] || []) {
+    const type = data.idType[id] || 'other';
+    if (!result.has(type)) result.set(type, []);
+    result.get(type).push(id);
+  }
+  const start = (id) => data.sortKeys?.[id]?.[0] || 0;
+  for (const list of result.values()) {
+    list.sort((a, b) => {
+      const x = start(a);
+      const y = start(b);
+      if (x === y) return 0;
+      if (!x) return 1;
+      if (!y) return -1;
+      return x - y;
+    });
+  }
+  return result;
+});
 
   const titleCase = (s) => s.replace(/\b\w/g, (c) => c.toUpperCase());
 
@@ -159,52 +193,61 @@ function ArticleTabs(props) {
   ];
 
   return (
-    <>
-      <div class="ArticleTabs">
+  <>
+    <div class="ArticleTabs">
+      <select
+        class="PinButton"
+        value=""
+        onChange={(e) => {
+          const href = e.target.value;
+          e.target.value = '';
+          if (href) location.href = href;
+        }}
+      >
+        <option value="" disabled hidden selected>Edit</option>
         <For each={editLinks()}>
-          {(link) => <a class="PinButton" href={link.href}>{link.name}</a>}
+          {(link) => <option value={link.href}>{link.name}</option>}
         </For>
-      </div>
+      </select>
       <Show when={groups().size}>
-        <div>
-          <button
-            type="button"
-            class="PinButton"
-            classList={{ active: active() === 'Article' }}
-            aria-pressed={active() === 'Article'}
-            onClick={() => selectTab('Article')}
-          >
-            Article
-          </button>
-          <For each={[...groups()]}>
-            {([type, ids]) => (
-              <button
-                type="button"
-                class="PinButton"
-                classList={{ active: active() === type }}
-                aria-pressed={active() === type}
-                onClick={() => selectTab(type)}
-              >
-                {titleCase(type)} ({ids.length})
-              </button>
-            )}
-          </For>
-        </div>
+        <button
+          type="button"
+          class="PinButton"
+          classList={{ active: active() === 'Article' }}
+          aria-pressed={active() === 'Article'}
+          onClick={() => selectTab('Article')}
+        >
+          Article
+        </button>
+        <For each={[...groups()]}>
+          {([type, ids]) => (
+            <button
+              type="button"
+              class="PinButton"
+              classList={{ active: active() === type }}
+              aria-pressed={active() === type}
+              onClick={() => selectTab(type)}
+            >
+              {titleCase(type)} ({ids.length})
+            </button>
+          )}
+        </For>
       </Show>
-      <div style={{ display: active() === 'Article' ? '' : 'none' }}>
-        {props.children}
-      </div>
-      <Show when={active() !== 'Article' && loaded() && groups().get(active())}>
-        <div class="TaggedList fade-in">
-          <Show when={page() > 0}>
-            <Pager page={page()} pages={pages()} onPage={goToPage} />
-          </Show>
-          {renderTaggedList(active(), pageIds(), loaded()[1])}
+    </div>
+    <div style={{ display: active() === 'Article' ? '' : 'none' }}>
+      {props.children}
+    </div>
+    <Show when={active() !== 'Article' && loaded() && groups().get(active())}>
+      <div class="TaggedList fade-in">
+        <Show when={page() > 0}>
           <Pager page={page()} pages={pages()} onPage={goToPage} />
-        </div>
-      </Show>
-    </>
-  );
+        </Show>
+        {renderTaggedList(active(), pageIds(), loaded()[1])}
+        <Pager page={page()} pages={pages()} onPage={goToPage} />
+      </div>
+    </Show>
+  </>
+);
 }
 
 export function renderArticle(meta){
@@ -258,7 +301,7 @@ export function renderArticle(meta){
     case "Meta":
     case "Store Fixtures":
     case "Reviews":
-    case "Steam Comments":
+    case "Steam Comment":
       return renderStandardArticle(meta);
     case "Videos":
       return renderVideoArticle(meta);
@@ -293,6 +336,120 @@ export function renderManualCard({ link, thumbnailSrc, title, dateText, views, e
       </div>
     </div>
   );
+}
+
+export function RenderedId(props) {
+  const [out] = createResource(async () => props.render(await fetchMeta(props.id), props.words || []));
+  return <Show when={out()}>{out()}</Show>;
+}
+
+export async function renderReviewCard(meta) {
+  const link = meta.folderID ?? await fetchFolderIDFromTitle(meta.title);
+  const [md, old, viewsMap] = await Promise.all([
+    fetchContent(link).catch(() => ''),
+    fetchOld(link).catch(() => ''),
+    loadViewsMap(),
+  ]);
+  const body = await resolveBracketLinks(md || old);
+  const emoji = meta.recommend === true ? '👍' : meta.recommend === false ? '👎' : '';
+  const info = [
+    convertStartDate(meta.startDate),
+    meta.contributors?.join(', '),
+    `👁 ${viewsMap[link] || 0}`,
+  ].filter(Boolean).join(' · ');
+
+  return (
+    <div class="ReviewCard fade-in">
+      <div class="ReviewTitle">
+        <Show when={emoji}>
+          <span class="ReviewEmoji">{emoji}</span>
+        </Show>
+        <a href={getFolderPath(link)}>{meta.title}</a>
+      </div>
+      <div class="ReviewMeta">{info}</div>
+      <div class="ReviewBody" innerHTML={marked.parse(body)} />
+    </div>
+  );
+}
+
+function SteamCommentContent(props) {
+  const m = () => props.meta;
+  const hasPost = () => m().postTitle || m().postAuthor || m().postSubject || m().postTime || m().deleted === true;
+  const hasComment = () => m().commentQuote || m().commentSubject || m().commentTime || m().commentQuoteAuthor;
+
+  return (
+    <>
+      <Show when={hasPost()}>
+        <div class="SteamPostBox">
+          <div class="SteamAvatar"></div>
+          <div class="SteamPostContent">
+            <div class="PostHeaderMeta">
+              <span class="PostAuthor">{m().postAuthor || 'Unknown User'}</span>
+              <Show when={m().postTime}>
+                <span class="PostTime">{m().postTime}</span>
+              </Show>
+              <Show when={m().deleted === true}>
+                <span class="PostDeleted">[Deleted]</span>
+              </Show>
+            </div>
+            <Show when={m().postTitle}>
+              <h3 class="PostTitle">{m().postTitle}</h3>
+            </Show>
+            <Show when={m().postSubject}>
+              <div class="PostSubject">{m().postSubject}</div>
+            </Show>
+          </div>
+        </div>
+      </Show>
+      <Show when={hasComment()}>
+        <div class="SteamPostBox">
+          <div class="SteamAvatar" style={{ 'background-image': `url('${SCOTT_AVATAR}')` }}></div>
+          <div class="SteamPostContent">
+            <div class="CommentHeaderMeta">
+              <span class="PostAuthor">
+                <span style={{ color: '#aedd08' }}>Scott</span> <span style={{ color: '#e9d528' }}>[developer]</span>
+              </span>
+              <Show when={m().commentTime}>
+                <span class="CommentTime">{m().commentTime}</span>
+              </Show>
+            </div>
+            <Show when={m().commentQuote}>
+              <blockquote class="CommentQuote">{m().commentQuote}</blockquote>
+            </Show>
+            <Show when={m().commentSubject}>
+              <div class="CommentSubject">{m().commentSubject}</div>
+            </Show>
+          </div>
+        </div>
+      </Show>
+    </>
+  );
+}
+
+export async function renderSteamCommentCard(meta, words = []) {
+  const link = meta.folderID ?? await fetchFolderIDFromTitle(meta.title);
+
+  return (
+    <div class="SteamCommentBody fade-in">
+      <div class="SteamCommentHeader">
+        <a href={getFolderPath(link)}>{highlightText(meta.title || link, words)}</a>
+      </div>
+      <div class="SteamCommentPreview">
+        <SteamCommentContent meta={meta} />
+      </div>
+    </div>
+  );
+}
+
+export function renderCard(meta, words = []) {
+  switch ((meta.type || '').toLowerCase()) {
+    case 'reviews':
+      return renderReviewCard(meta, words);
+    case 'steam comment':
+      return renderSteamCommentCard(meta, words);
+    default:
+      return renderStandardCard(meta, words);
+  }
 }
 
 export async function renderStandardCard(meta, words = []) {
@@ -543,6 +700,237 @@ export function renderFooter(){
   )
 }
 
+const RANDOM_PHRASES = [
+  "CEC Master is watching",
+  "Set for a remodel soon!",
+  "Set to be demolished soon!",
+  "Unacceptable Crust!",
+  "Hasta la pasta!",
+  "Born on May 17th, 445 B.P. (Before Pasqually)",
+  "Sponsored by Winchester Grandma",
+  "Formerly Pizza Time Techs",
+  "Formerly Chuck-E-Pedia",
+  "DRUM SOLO",
+  "Poggers...",
+  "I was afraid to speak when I was just a lad",
+  "Turn off the fruitcake dog!",
+  "Bring back Crusty!",
+  "Bring back Rick Rat!",
+  "Sanctioned by the city of Irving!",
+  "Not to be confused with that other site",
+  "Fully open sourced!",
+  "We canonize trans Beach Bear",
+  "Conceptually Unified!",
+  "Orange-carpet free!",
+  "Sorry about your local",
+  "Forever indebted to Miraheze",
+  "The articles get a bit quirky at night",
+  "Hello? Hello hello?",
+  "Thaaaat's me!",
+  "Better than any university!",
+  "For animatronic lovers",
+  "For Uncle Klunk lovers",
+  "DONT. SMOKE. CRAYOLAS.",
+  "Found out by the dumpster!",
+  "Full of non-merch!",
+  "Not an encyclopedia of cheese",
+  "Formerly an encyclopedia of cheese",
+  "Read by Mark Kupferman!",
+  "Written by employees!",
+  "Save Your Family.",
+  "Scan or Ban",
+  "Come for the cheese, stay for the pedia!",
+  "Nolan did nothing to shape PTT! It was Gene Landrum and Bob Black!",
+  "The only (semi complete) showtape archive!",
+  "We'll finish the articles some day!",
+  "Ar ar ar ar ar",
+  "The #10th source for animatronic information",
+  "Archive everything!!!",
+  "Not to be confused for the FNaF Wiki",
+  "Formerly a MediaWiki site!",
+  "Wow thats uh, a lot of articles.",
+  "Home of your favorite rockabilly relative",
+  "Publishers of 'What is This Thing on My Head' by Dook Larue",
+  "Able to make every sound in the whole world at the same time but backwards.",
+  "The secret FNaF lore!",
+  "Just a theory!",
+  "The pizza may be recycled but not the articles!",
+  "Lovingly crafted by the community",
+  "Fixing names like 'Phase 4' and 'The Shelf' since 2022.",
+  "The cult of Pasqually",
+  "Powered by Gas-O-Hol!",
+  "Featured in the news!",
+  "The Mult-Eye-Media En-Cy-Clopedia Chuck E. Chees-Ia",
+  "Your name is 'Exit'?",
+  "Powered by the Awesome Adventure Machine",
+  "Paper or Plastic?",
+  "Our Community Garden",
+  "Santa Lucia! I'ma goin'a crazy! I quit! I go back to Italia!",
+  "Pizza, Pizza, Pizza in the Air!",
+  "Answers how many electrons can fit in a teaspoon.",
+  "Dumpster Diving Experts",
+  "Strike It Up FOUND MEDIA!! youtube.com/watch?v=dQw4w9WgXcQ",
+  "Down the Rabbit Hole, Into the Pit",
+  "I'm- the star of the show, you are -not.",
+  "Mr. Munch is ticklin' the cheese.",
+  "There's Drum, pasquallin away!",
+  "As heard on K-PIZZA and K-CEC",
+  "You gave Larry a laserbeam?!?",
+  "Pasqually has been banned from Amatuer Hour",
+  "Pasqually has canonically committed tax fraud",
+  "PROTECT TRANS KIDS!",
+  "TRANS RIGHTS!",
+  "Even we can't explain the Fun Pass",
+  "You're gonna buy the Fun Pass OR ELSE",
+  "The false prophet will come bearing the Fun Pass",
+  "YOU get a Fun Pass and YOU get a Fun Pass",
+  "Mere days from bankrupcy",
+  "oh hi mark",
+  "Secretly a dough mixer",
+  "Home of the Bankrupcy Believers",
+  "For the People of the Pizza",
+  "Home of the secret last Road Stage!",
+  "There's settings on the bottom right!",
+  "Featuring your favorite taxidermies!",
+  "Not AI slop!",
+  "Where lost media becomes found",
+  "Home of The Big Cheese",
+  "Falling in Love With a Corporate Illustration",
+  "Companies are not your friend, steal everything.",
+  "Love yourself",
+  "Chuck A.I. Cheese",
+  "CEC AI World",
+  "Let's replace Mark and David with AI",
+  "Alright, alright! Who's got my master remote?",
+  "Please DON'T call 1-800-NO-MO-ADS today!",
+  "Funner than ever!",
+  "Who writes this stuff?!",
+  "Will be finished by the summer of 2011!",
+  "Stay out of chimneys, they could be dangerous.",
+  "In Pizza We Trust",
+  "Fun Fact: Pasqually's mustache is fake!",
+  "What'yall doin'? Playin' games? Eatin' pizza?",
+  "1 Minute 'Til Next Show",
+  "That's a Deal!",
+  "BLLUUUUUUUUUEEEEEEEEEE!!!!",
+  "Yeah, we've just been takin' care of business",
+  "It's Bluescreen time! Yeah!",
+  "Sit back, relax, and soak up the best of CEC TV",
+  "Have fun! Be cool!",
+  "Don't hurry to worry!",
+  "Thank you, thank you Mr. Munch",
+  "Chuck E. chose the cheddar and he chewed the cheese he chose",
+  "There should be seatbelts in this thing!",
+  "WARNING What you are about to see may shock you.",
+  "If my lips ain't movin' it ain't working!",
+  "Welcome to Showbiz it's all happening here!",
+  "Destroy these props as they will not be used again",
+  "Peekaboo, we caught you!",
+  "If you are here for a birthday party please return to your table in the showroom",
+  "Lightly sauce the pizza dough and sprinkle the cheese. Then, choose the toppings of your choice and place evenly over the top of the pizza.",
+  "Unbolt Billy Bob and remove from the stage",
+  "randy: no fun allowed",
+  "Bankruptcy Imminent",
+  "cereal... pajamas... movie...",
+  "I stopped worrying about what my legacy with the Rock-A-Fire Explosion would be before I found out there were fans.",
+  "Majorly Magic",
+  "Where A Historian Can Be A Historian",
+  "Hater of Discord",
+  "It's called a residency.",
+  "All Pages, Zero Tokens",
+  "Let the enter-train-ment begin!",
+  "Every Guest Leaves Happy",
+  "Just another Pizza Place...",
+  "The Secrets of the Mimic",
+  "You always come back.",
+  "6AM",
+  "Unaffiliated with freddysfanzone.com",
+  "What a deceptive calling, I knew Phase 4 was a lie the moment I heard it, obviously.",
+  "Help Wanted",
+  "My name is David, Dad, I want some bankruptcy, David, that is my name.",
+  "They call me The Bomb Thief, uh",
+  "Originator of The Goongalar (really)",
+  "Honey you mean Helpules",
+  "Rule 6: Don't touch Freddy.",
+  "Please shout out the contributors if you're doing research for a video!",
+  "Toy Chica is William Afton",
+  "FNaF: Making more money than CEC since 2014.",
+  "We were here before Adventure World became the new 2.0",
+  "RIP /cep-js/"
+];
+
+const DATE_PHRASES = {
+  "01-01": "Enjoy A New Year!",
+  "01-04": "Happy Rock-afire Replay deletion Day!",
+  "01-06": "RIP Kansas City State Line, you died 3 times.",
+  "02-14": "Happy Valentines Day from Cheese-E-Pedia!",
+  "03-01": "Happy Birthday Mr. Munch!",
+  "03-02": "Today's the anniversary of the first ShowBiz location, Kansas City!",
+  "03-25": "Today's the anniversary of the CEC Future Planning Survey!",
+  "04-20": "Haha look at the date",
+  "05-17": "Today's the anniversary of the first CEC location, Winchester!",
+  "05-27": "Happy Birthday Helen Henny!",
+  "06-01": "Happy Pride Month! Trans Rights!",
+  "06-23": "Happy Birthday Billy Bob!",
+  "07-01": "Happy Wrath Month! Trans Rights!",
+  "07-14": "Today's the anniversary of Cheese-E-Pedia!",
+  "07-24": "Today's the anniversary of Reel to Real!",
+  "08-08": "Happy Anniversary FNaF!",
+  "08-25": "Happy Rock-afire Replay Anniversary!",
+  "08-26": "Happy Birthday Jasper T. Jowls!",
+  "09-26": "Happy Anniversary to CEC's 2030 Credit Extension, RIP Bankruptcy Believers.",
+  "09-27": "Happy Anniversary RAE Documentary!",
+  "10-05": "Happy Anniversary CEC In The Galaxy 5000!",
+  "10-27": "Happy Anniversary FNaF Movie!",
+  "10-31": "Happy Halloween and Chuck E. Cheese Pizza (Mall Chain) Anniversary!",
+  "11-06": "Happy Infinite Fun Pass Glitch Day!",
+  "11-07": "Happy CEC Adventure World Anniversary!",
+  "11-10": "Happy Anniversary of the first Legacy Location re-opening, Northridge!",
+  "11-13": "Look for the Gummy Bear album in stores on November 13th, with lots of music, videos and extras.",
+  "11-27": "Happy Chuck E. Cheese Christmas Anniversary!",
+  "12-02": "Today's the anniversary of the second CEC location, Kooser!",
+  "12-05": "Happy Anniversary FNaF Movie 2!",
+  "12-09": "Happy Reel to Real Cease & Desist Day!",
+  "12-12": "Happy Birthday Pasqually!",
+  "12-25": "Merry Christmas from Cheese-E-Pedia!",
+  "12-31": "Happy New Year from Cheese-E-Pedia!",
+};
+
+function pickSplash() {
+  const now = new Date();
+  const key = `${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+  const phrase = DATE_PHRASES[key] ?? RANDOM_PHRASES[Math.floor(Math.random() * RANDOM_PHRASES.length)];
+  return `"${phrase}"`;
+}
+
+function fitText(el) {
+  el.style.fontSize = '';
+  let size = parseFloat(getComputedStyle(el).fontSize);
+  while (el.scrollWidth > el.clientWidth && size > 8) {
+    size -= 1;
+    el.style.fontSize = `${size}px`;
+  }
+}
+
+export function renderSplashText() {
+  const text = pickSplash();
+  return (
+    <div
+      class="SplashText"
+      ref={(el) => {
+        const start = () => {
+          if (!el.isConnected) return requestAnimationFrame(start);
+          fitText(el);
+          new ResizeObserver(() => fitText(el)).observe(el);
+        };
+        requestAnimationFrame(start);
+      }}
+    >
+      {text}
+    </div>
+  );
+}
+
 export function renderHeader() {
   let file = LOGOS.standard;
   try {
@@ -554,7 +942,7 @@ export function renderHeader() {
   return (
     <>
       <div class="Header">
-        <div class="SplashText" id="SpashText">. . .</div>
+        {renderSplashText()}
         <a href="/?v=cep-solid" class="Logo">
           <img src={'/viewers/cep-js/assets/Logos/' + file} alt="Cheesepedia" />
         </a>
@@ -838,6 +1226,47 @@ export function renderVideoArticle(meta) {
       </div>
     </>
   );
+}
+
+export async function renderPhotoCompact(meta) {
+  const { link, dates, views } = await loadCardData(meta);
+  return (
+    <div class="PhotoCompact fade-in">
+      <a href={getFolderPath(link)} class="PhotoCompactImage">
+        <img alt={meta.title} loading="lazy" src={`/content/${link}/photo.avif`} />
+      </a>
+      <div class="PhotoCompactDate"><strong>{dates}</strong> 👁 {views || 0}</div>
+    </div>
+  );
+}
+
+export async function renderPhotoList(meta) {
+  const link = meta.folderID ?? await fetchFolderIDFromTitle(meta.title);
+  return (
+    <div class="PhotoListItem fade-in">
+      <a href={getFolderPath(link)}>
+        <img alt={meta.title} loading="lazy" class="PhotoListImg" src={`/content/${link}/photo.avif`} />
+      </a>
+    </div>
+  );
+}
+
+export function renderCompact(meta, words = []) {
+  switch ((meta.type || '').toLowerCase()) {
+    case 'photos':
+      return renderPhotoCompact(meta);
+    default:
+      return renderStandardCompact(meta, words);
+  }
+}
+
+export function renderList(meta, words = []) {
+  switch ((meta.type || '').toLowerCase()) {
+    case 'photos':
+      return renderPhotoList(meta);
+    default:
+      return renderStandardList(meta, words);
+  }
 }
 
 export function renderPhotoArticle(meta) {

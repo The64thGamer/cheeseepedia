@@ -2,7 +2,7 @@ import { createResource, createSignal, createEffect, createMemo, untrack, onClea
 import { Dynamic } from 'solid-js/web';
 import { fetchMeta, fetchContent, fetchOld, fetchFolderIDFromTitle, getFolderPath, getCurrentView, convertStartDate, convertEndDate, loadKey, saveKey, highlightText } from './GlobalFunctions';
 import { loadTypeToIDList, loadViewsMap, loadFolderIDToTitleMap, loadTitleToFolderIDMap, loadSortKeys, loadFolderIDToTags } from './GlobalJsonCache';
-import { renderStandardCard, renderStandardCompact, renderStandardList } from './Renderers';
+import { renderCard, renderCompact, renderList, RenderedId } from './Renderers';
 
 const SEARCH_DB_URL = '/viewers/cep-solid/compiled-json/search.sqlite';
 const SEARCH_WORKER_URL = '/viewers/cep-solid/compiled-json/sqlite.worker.js';
@@ -87,7 +87,7 @@ const TYPE_COLORS = Object.fromEntries(
   Object.entries(COLOR_GROUPS).flatMap(([color, types]) => types.map((t) => [t, color]))
 );
 const typeColor = (type) => TYPE_COLORS[(type || '').toLowerCase()] || DEFAULT_TYPE_COLOR;
-const DATELESS = new Set(['photos', 'videos', 'reviews', 'user', 'steam comments', 'theories', 'meta', 'transcriptions']);
+const DATELESS = new Set(['photos', 'videos', 'reviews', 'user', 'steam comment', 'theories', 'meta', 'transcriptions']);
 
 let TagMap = null;
 let searchDataPromise = null;
@@ -540,9 +540,12 @@ function renderedItem(render) {
 
 const RESULT_VIEWS = {
   'Detailed List': { item: ResultList, wrapper: '' },
-  Cards: { item: renderedItem(renderStandardCard), wrapper: 'ResultCards' },
-  Compact: { item: renderedItem(renderStandardCompact), wrapper: 'ResultCompact' },
-  List: { item: renderedItem(renderStandardList), wrapper: 'ResultPlain' },
+  Cards: {
+    item: (props) => <RenderedId id={props.entry.id} words={props.words} render={renderCard} />,
+    wrapper: 'ResultCards',
+  },
+  Compact: { item: renderedItem(renderCompact), wrapper: 'ResultCompact' },
+  List: { item: renderedItem(renderList), wrapper: 'ResultPlain' },
 };
 const RESULT_VIEW_KEYS = Object.keys(RESULT_VIEWS);
 

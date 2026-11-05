@@ -4,7 +4,7 @@
   "tags": [
     "Pizza Time Theatre"
   ],
-  "startDate": "",
+  "startDate": "1978-12-00",
   "endDate": "",
   "contributors": [
     "sudo-trans-pony",
@@ -22,5 +22,9 @@
       "label": "256Kbit VHS Random Movements EPROM v.1.6"
     }
   ],
-  "pageThumbnailFile": "Eoy0bZZfZjyorXT5rLPH.avif"
+  "pageThumbnailFile": "Eoy0bZZfZjyorXT5rLPH.avif",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

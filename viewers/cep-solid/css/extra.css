@@ -41,17 +41,6 @@
   color: var(--light-gray);
 }
 
-.SplashText {
-  position: relative;
-  color: var(--dark);
-  opacity: 50%;
-  text-align: center;
-  transform: translate(0%, -4.25rem);
-  font-family: var(--font-display);
-  letter-spacing: .1rem;
-  margin: -1rem;
-}
-
 .HorizontalButtonHolder {
   display: grid;
   grid-auto-flow: column;
@@ -1055,49 +1044,6 @@ sup a:hover {
   gap: 1rem;
   font-size: 0.8rem;
   color: color-mix(in srgb, var(--text) 30%, transparent);
-}
-
-.PinButton {
-  font-size: .9rem;
-  padding: .2rem .4rem;
-  border-radius: .5rem;
-  border: 0.25rem solid var(--dark);
-  cursor: pointer;
-  transition: background .15s;
-  background-color: var(--background);
-  flex-shrink: 0;
-  font-family: var(--font-body);
-  background: var(--secondary);
-}
-
-a.PinButton {
-  background-color: var(--good-link);
-  color: var(--dark);
-}
-
-a.PinButton:hover {
-  background-color: var(--good-link);
-  color: var(--text);
-}
-
-.PinButton.active{
-  background: var(--primary);
-}
-
-.ArticleHeaderBtns .PinButton {
-  background: var(--secondary);
-}
-
-.PinButton:hover {
-  background: var(--primary);
-}
-
-.PinButtonActive,.ArticleHeaderBtns .PinButtonActive{
-  background: var(--primary);
-}
-
-.PinButtonActive:hover {
-  background: var(--primary);
 }
 
 #PinArticle{

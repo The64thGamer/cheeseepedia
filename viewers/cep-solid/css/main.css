@@ -77,6 +77,64 @@ a {
   text-decoration: none;
 }
 
+
+.PinButton {
+  font-size: .9rem;
+  padding: .2rem .4rem;
+  border-radius: .5rem;
+  border: 0.25rem solid var(--dark);
+  cursor: pointer;
+  transition: .15s;
+  background-color: var(--background);
+  flex-shrink: 0;
+  font-family: var(--font-body);
+  background: var(--secondary);
+}
+
+select.PinButton,a.PinButton {
+  background-color: var(--good-link);
+  color: var(--dark);
+}
+
+select.PinButton:hover, a.PinButton:hover {
+  background-color: var(--text);
+  border: 0.25rem solid var(--good-link);
+}
+
+.PinButton.active{
+  background: var(--primary);
+}
+
+.ArticleHeaderBtns .PinButton {
+  background: var(--secondary);
+}
+
+.PinButton:hover {
+  background: var(--primary);
+}
+
+.PinButtonActive,.ArticleHeaderBtns .PinButtonActive{
+  background: var(--primary);
+}
+
+.PinButtonActive:hover {
+  background: var(--primary);
+}
+
+.SplashText {
+  position: relative;
+  color: var(--dark);
+  opacity: 50%;
+  text-align: center;
+  transform: translate(0%, -4.25rem);
+  font-family: var(--font-display);
+  letter-spacing: .1rem;
+  margin: -1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 100%;
+}
+
 .infobox {
   float: right;
   clear: right;
@@ -726,6 +784,19 @@ select{
   border-color: var(--dark);
   padding:0.25rem;
 }
+
+.ResultCompact,
+.ResultPlain {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .5rem;
+}
+
+.ResultCompact > .Compact,
+.ResultPlain > .ListRow {
+  flex-basis: 100%;
+}
+
 .Compact {
   min-height: 4rem;
   display: flex;
