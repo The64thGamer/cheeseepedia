@@ -4,35 +4,9 @@
 
 This location first opened as a Chuck E. Cheese’s Pizza Time Theatre with a Balcony Stage. After the Pizza Time Theatre closed, the building was turned into a Pistol Pete’s Pizza with a [Classic Stage].
 
-| Stage                                              | Installed | Removed | Notes |
-|----------------------------------------------------|-----------|---------|-------|
-| [Balcony Stage] | 1983      | 1985    |       |
-| [Classic Stage]            | 1985-7    | 2000    |       |
-
 ## Animatronics
 
 This location opened up with Madame Oink and had the Tune Machine showtape. Like every other location, she eventually got replaced with broadway helen until its closure. They also had the king for a short time.
-
-| Animatronics             | Serial code | Whereabouts |
-|--------------------------|-------------|-------------|
-| Chuck E. Cheese          | N/A         | Unknown     |
-| Guest Star / Helen Henny | N/A         | Unknown     |
-| Mr. Munch                | N/A         | Unknown     |
-| Jasper T. Jowls          | N/A         | Unknown     |
-| Pasqually                | N/A         | Unknown     |
-| Warblettes               | N/A         | Unknown     |
-| Waving Flags             | N/A         | Unknown     |
-| Applause Board           | N/A         | Unknown     |
-| Drum Board               | N/A         | Unknown     |
-| Rolfe Dewolfe            | ?-8? 1-?    | Unknown     |
-| Dook LaRue               | ?-8? 2-?    | Unknown     |
-| Fatz Geronimo            | ?-8? 3-?    | Unknown     |
-| Beach Bear               | ?-8? 4-?    | Unknown     |
-| Mitzi Mozzarella         | ?-8? 5-?    | Unknown     |
-| Billy Bob                | ?-8? 6-?    | Unknown     |
-| Looney Bird              | ?-8? 7-?    | Unknown     |
-| Sun                      | ?-8? 10-?   | Unknown     |
-| Moon                     | ?-8? 11-?   | Unknown     |
 
 ## Videos
 

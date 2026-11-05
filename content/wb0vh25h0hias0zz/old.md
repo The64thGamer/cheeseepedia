@@ -12,20 +12,6 @@ La Mesa opened on August 2, 1993, with the 1988 remodel and a [1-Stage]. They re
 
 La Mesa opened with a 1-Stage of some videos in 2022 showing the character cables for Munch, Jasper, and Pasqually being switched. The stage would be removed after closing on December 29, 2024.
 
-| Stage   | Debuted        | Removed           | Notes               |
-|---------|----------------|-------------------|---------------------|
-| 1-Stage | August 2, 1993 | December 29, 2024 | Very poor condition |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts      |
-|--------------------------------------------------------------|--------------------|------------------|
-| [Chuck E. Cheese (Cyberamic)]      | Unknown            | Currently In Use |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Currently In Use |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Currently In Use |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Currently In Use |
-| [Pasqually (Cyberamic)]              | Unknown            | Currently In Use |
-
 ## Current Games
 
 | Game                          | Installed | Location      |

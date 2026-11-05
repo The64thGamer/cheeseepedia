@@ -8,29 +8,6 @@ Davenport opened its doors in February 25th, 1981 with a Rock-afire Explosion sh
 
 Davenport opened with the Rock-afire Explosion in February 1981. Unfortunately, there are not much photos but no videos to exist of Davenport with the Rock-afire, or as a ShowBiz in general. In April 1991, Davenport received [Concept Unification], converting the Rock-afire into Munch’s Make Believe Band. In 2018, Davenport received an exterior remodel from the shopping center remodel. In September 2019, Davenport started the 2.0 Remodel, removing the 3-Stage and adding a Dance Floor. Chuck E., Helen, Munch, and Jasper were sent to Omaha, NE, and Pasqually was sent to Lincoln, NE.
 
-| Stage                                                      | Installed      | Removed        | Notes                               |
-|------------------------------------------------------------|----------------|----------------|-------------------------------------|
-| [Classic Stage]                    | February 1981  | April 1991     | Second ShowBiz Pizza Place in Iowa. |
-| [Concept Unification Stage (3-Stage)]        | April 1991     | September 2019 |                                     |
-| [Chuck E Live Stage (Dance Floor)] | September 2019 | April 2024     | 2019 Model. First 2.0 in Iowa.      |
-
-## Animatronics
-
-| Character                                                                 | Serial     | Status                                                                                                       |
-|---------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-80 1-6  | Sent to [Omaha, NE (225 N 76th St)], destroyed.                                      |
-| [Dook Larue (Animatronic)]                        | 10-80 2-6  | Sent to [Lincoln, NE (221 N 66th St)], destroyed.                                    |
-| [Fatz Geronimo (Animatronic)]                     | 10-80 3-6  | Sent to [Omaha, NE (225 N 76th St)], destroyed. Remains owned by private collectors. |
-| [Beach Bear (Animatronic)]                        | 10-80 4-6  | Sent to [Omaha, NE (225 N 76th St)], owned by a private collector.                   |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-80 5-6  | Sent to [Omaha, NE (225 N 76th St)], destroyed.                                      |
-| [Billy Bob (Animatronic)]                         | 10-80 6-6  | Unknown/Destroyed                                                                                            |
-| [Looney Bird (Animatronic)]                       | 10-80 7-6  | Unknown/Destroyed                                                                                            |
-| [Choo Choo (Animatronic)]                         | 10-80 8-6  | Unknown/Destroyed                                                                                            |
-| [Sun (Animatronic)]                               | 10-80 10-6 | Destroyed                                                                                                    |
-| [Moon (Animatronic)]                              | 10-80 11-6 | Destroyed                                                                                                    |
-| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed                                                                                            |
-| [Wink]                                            | N/A        | Destroyed                                                                                                    |
-
 ## Videos
 
 TODO

@@ -2,7 +2,7 @@
 
 ## Stages
 
-This location opened with a Studio C Beta, featuring the 32-movement Chuck E. Cheese animatronic. created by Garner Holt. The show would remain in good condition for most of its life, the character's head up movement would be stuck for its last few months of operation. It's worth noting that in 2009, the character would get the 'Avenger' shorts and shirt while keeping the hat from the 'Cool Chuck' outfit. In late 2017, Studio C would be removed and replaced with the first 2.0 version of the [Chuck E Live Stage (Dance Floor)], which would later be updated to the 2021 Model version around May of 2024, alongside an installation of a [Video Wall] around the same time.
+This location opened with a Studio C Beta, featuring the 32-movement Chuck E. Cheese animatronic. created by Garner Holt. The show would remain in good condition for most of its life, the character's head up movement would be stuck for its last few months of operation. It's worth noting that in 2009, the character would get the 'Avenger' shorts and shirt while keeping the hat from the 'Cool Chuck' outfit. In late 2017, Studio C would be removed and replaced with the first 2.0 version of the [Chuck E. Live Stage (Dance Floor)], which would later be updated to the 2021 Model version around May of 2024, alongside an installation of a [Video Wall] around the same time.
 
 ## History
 
@@ -23,10 +23,3 @@ Not much from this location's early years is known or documented. In July 2007 S
 | https://www.youtube.com/watch?v=STzIAuXfgbA  | Chuck E. Live performance of Head Shoulders Knees and Toes (2009 Road Show)           | April 6, 2010     |
 | https://www.youtube.com/watch?v=6ZgEoBm625k  | 2021 Store tour                                                                       | November 8, 2021  |
 |                                              |                                                                                       |                   |
-
-## Animatronics
-
-| Animatronic                                                | Serial  | Whereabouts                                   |
-|------------------------------------------------------------|---------|-----------------------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | Unknown | Sent to Brownsville, TX (2800 N. Expressway). |
-|                                                            |         |                                               |

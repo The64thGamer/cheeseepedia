@@ -10,21 +10,6 @@ On February 8th of 2025, it would be announced the location would become the six
 
 Originally, Mississauga (Dixie) featured a Road Stage which they still have to this day. Fortunately, there are some photos and multiple videos to exist of Mississauga (Dixie) with the Road Stage and in general back then.
 
-| Stage                                           | Installed   | Removed   | Notes                                                                                         |
-|-------------------------------------------------|-------------|-----------|-----------------------------------------------------------------------------------------------|
-| [Road Stage] | Spring 1991 | June 2025 | Poor Condition. Oldest Road Stage and last one in existence. One of two installed in Canada.. |
-
-## Animatronics
-
-| Animatronic                                | Serial Number | Whereabouts          |
-|--------------------------------------------|---------------|----------------------|
-| [Chuck E. Cheese (Cyberamic)]                | N/A           | Moved to Willowdale. |
-| Pasqually (Cyberamic)                      | N/A           | Moved to Willowdale. |
-| Mr. Munch (Cyberamic)                      | N/A           | Moved to Willowdale. |
-| Jasper T. Jowls (Cyberamic)                | N/A           | Moved to Willowdale. |
-| Helen Henny (Cyberamic)                    | N/A           | Moved to Willowdale. |
-| [Wink (Cyberamic)] | N/A           | Moved to Willowdale. |
-
 ## Trivia
 
 - Mississauga Dixie was one of two Road Stages installed in Canada, the other being [Calgary, Alberta, Canada (9627 Macleod Trail)] which was later reinstalled at the [Calgary, Alberta, Canada (2770 32nd Ave)] location replacing the store's Cyberamics Rocker Stage|Rocker Stage until it's October 2003 Closure.

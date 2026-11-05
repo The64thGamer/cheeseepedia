@@ -3,7 +3,6 @@
   "storeNumber": "3194",
   "startDate": "1994-11-00",
   "endDate": "2025-08-10",
-  
   "remodels": [
     {
       "n": "SPT 1990's Remodel Program",
@@ -112,6 +111,13 @@
       "e": "2009-00-00",
       "l": "N/A",
       "desc": "Destroyed."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1994-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
     }
   ],
   "contributors": [

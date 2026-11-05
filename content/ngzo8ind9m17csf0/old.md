@@ -8,21 +8,6 @@ Calgary, Alberta, Canada on 2770 32nd Ave opened on August 18th, 1988, as the re
 
 Originally, the store opened with Chuck E.'s House which was one of two installed in Canada (The other was in [Winnipeg, Manitoba, Canada (1931 Pembina Hwy)] which opened on April 30th, 1990), they would then replace it with the Road Stage from the [Calgary, Alberta, Canada (9627 Macleod Trail)] location in the Mid 1990's, which they would have until closure in October 2003.
 
-| Stage            | Installed   | Removed      | Notes                                                                                                                                 |
-|------------------|-------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| Chuck E.'s House | August 1988 | 1994-1995    | One of two installed in Canada. First Chuck E.'s House in Canada.                                                                     |
-| Road Stage       | 1994-1995   | October 2003 | One of two installed in Canada. Originally from the [Calgary, Alberta, Canada (9627 Macleod Trail)] location. |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts     | Notes                                                                                                                                 |
-|--------------------------------------------------------------|--------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1980s              | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1980's             | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
-| [Mr. Munch (Cyberamic)]               | 1980s              | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
-| [Jasper T. Jowls (Cyberamic)]         | 1980s              | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
-| [Pasqually (Cyberamic)]              | 1980s              | Unknown/Unknown | Original animatronic unknown, replaced with animatronic from [Calgary, Alberta, Canada (9627 Macleod Trail)]. |
-
 ## Videos
 
 | Link                                        | Title                       | Description                                          | Filming Date    |

@@ -1,44 +1,219 @@
 {
-    "title": "Independence, MO (4039 S Noland Rd)",
-    "storeNumber": "",
-    "startDate": "1980-10-14",
-    "endDate": "2012-05-00",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "0000-00-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1980-10-14"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1980-10-14",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "0000-00-00",
-            "e": "2012-05-00",
-            "desc": "One of 6 3-Stages in Missouri to undergo Concept Unification. Last 3-Stage in Missouri. Was in Good Condition. Stage lacked Munch's Make Believe Band Sign, and Jasper had Beach Bear Guitar. Location relocated in 2012 to the Independence, MO (18701 E 39th St) with a Studio C Beta, 16M."
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "39.04587662",
-        "-94.41642498"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Independence, MO (4039 S Noland Rd)",
+  "storeNumber": "",
+  "startDate": "1980-10-14",
+  "endDate": "2012-05-00",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1980-10-14"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1980-10-14",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "0000-00-00",
+      "e": "2012-05-00",
+      "desc": "One of 6 3-Stages in Missouri to undergo Concept Unification. Last 3-Stage in Missouri. Was in Good Condition. Stage lacked Munch's Make Believe Band Sign, and Jasper had Beach Bear Guitar. Location relocated in 2012 to the Independence, MO (18701 E 39th St) with a Studio C Beta, 16M."
+    },
+    {
+      "n": "Rock-Afire Explosion",
+      "s": "1980-10-00",
+      "e": "0000-00-00",
+      "desc": "Original bots replaced in 1981. 2nd ShowBiz Pizza Store in Missouri."
+    },
+    {
+      "n": "3-Stage",
+      "s": "0000-00-00",
+      "e": "2012-05-00",
+      "desc": "One of 6 ShowBiz Pizza stores in Missouri to undergo Concept Unification."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.04587662",
+    "-94.41642498"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Beta Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 1-5",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beta Dook Larue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 2-5",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beta Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 3-5",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beta Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 4-5",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beta Mitzi Mozzarella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 5-5",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beta Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 6-5",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beta Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 7-5",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beta Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 8-5",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beta Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 10-5",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beta Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 11-5",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beta Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Chuck E. Cheese / Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 1-4",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Pasqually / Dook Larue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 2-4",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Mr. Munch / Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 3-4",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Jasper T. Jowls / Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 4-4",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Helen Henny / Mitzi Mozzarella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 5-4",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 6-4",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Pizzacam / Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 7-4",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Munch Jr. / Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 8-4",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Building / Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 10-4",
+      "desc": "Unknown / In Storage"
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 11-4",
+      "desc": "Unknown / In Storage"
+    },
+    {
+      "n": "Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    }
+  ]
 }

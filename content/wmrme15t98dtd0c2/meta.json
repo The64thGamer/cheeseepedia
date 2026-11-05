@@ -1,43 +1,71 @@
 {
-    "title": "Paramus, NJ (275 Route 4 West)",
-    "storeNumber": "",
-    "startDate": "2011-12-26",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2011-12-26"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-07-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2011-12-26",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-07-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "40.91358947",
-        "-74.04836078"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "uMk6WThNj0VzjmqU18m_.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Paramus, NJ (275 Route 4 West)",
+  "storeNumber": "",
+  "startDate": "2011-12-26",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2011-12-26"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-07-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2011-12-26",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-07-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Studio C 2000|Studio C Beta, 16m",
+      "s": "0000-00-00",
+      "e": "2023-07-25",
+      "desc": "One of three 16m Betas installed in New Jersey. One of four Betas installed in New Jersey (Mays Landing is a 32m)."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.91358947",
+    "-74.04836078"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "uMk6WThNj0VzjmqU18m_.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "2011-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "2011-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    }
+  ]
 }

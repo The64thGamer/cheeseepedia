@@ -1,44 +1,124 @@
 {
-    "title": "Richland, WA (2610 N Columbia Center Blvd)",
-    "storeNumber": "",
-    "startDate": "1982-09-30",
-    "endDate": "2018-09-09",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1982-09-30"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1982-09-30",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "C Stage?",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Road Stage",
-            "s": "1991-00-00",
-            "e": "2018-09-09"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "46.23505637",
-        "-119.2233266"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "nwt4P4m3MK6FTlbA7CnY.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Richland, WA (2610 N Columbia Center Blvd)",
+  "storeNumber": "",
+  "startDate": "1982-09-30",
+  "endDate": "2018-09-09",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-09-30"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-09-30",
+      "e": "1989-00-00",
+      "desc": "One of 8 Pizza Time Theatre to open in the state."
+    },
+    {
+      "n": "C Stage?",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Road Stage",
+      "s": "1991-00-00",
+      "e": "2018-09-09",
+      "desc": "Only one installed in Washington State. Last Road Stage with Tuxedo & Derby."
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "s": "1989-00-00",
+      "e": "0000-00-00",
+      "desc": "One of three installed in Washington."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "46.23505637",
+    "-119.2233266"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "nwt4P4m3MK6FTlbA7CnY.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

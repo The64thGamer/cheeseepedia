@@ -74,12 +74,3 @@ Crystal Lake opened on October 16th, 2000, with the 90s remodel and a Studio C A
 | https://youtu.be/VBRVg7uOGZg?si=yPhu3BXw2foc0Pdg  | Let’s Have A Party   | Early 2021       |
 | https://youtu.be/57335H6qeUQ?si=qsljla272rq4JpC4  | 2021 Store Tour      | March 27th, 2021 |
 |                                                   |                      |                  |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts |
-|------------------------------------------------------------|--------|-------------|
-| [Chuck E Cheese 32m (Animatronic)] | 105    | Destroyed   |
-| [Bird (Animatronic)]               | N/A    | Destroyed   |
-| [Pizza Phone (Animatronic)]        | N/A    | Destroyed   |
-|                                                            |        |             |

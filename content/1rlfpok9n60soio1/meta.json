@@ -1,49 +1,101 @@
 {
-    "title": "Glen Burnie, MD (6637 Governor Ritchie Hwy)",
-    "storeNumber": "",
-    "startDate": "1990-11-07",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1980's Remodel Program",
-            "s": "1990-11-07"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2018-12-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Chuck E.'s House (Rocker Stage)",
-            "s": "1990-11-07",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "1993-00-00",
-            "e": "2018-08-00",
-            "desc": "Replaced by Dance Floor."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2018-12-00",
-            "desc": "2017 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "39.19281672",
-        "-76.61140118"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "2gB3YGKl_oKfHp8ATboP.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Glen Burnie, MD (6637 Governor Ritchie Hwy)",
+  "storeNumber": "",
+  "startDate": "1990-11-07",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-11-07"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2018-12-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Chuck E.'s House (Rocker Stage)",
+      "s": "1990-11-07",
+      "e": "1993-00-00",
+      "desc": "Only Chuck E.'s House installed in Maryland."
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "2018-08-00",
+      "desc": "Replaced by Dance Floor."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2018-12-00",
+      "desc": "2017 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.19281672",
+    "-76.61140118"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "2gB3YGKl_oKfHp8ATboP.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "1990-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink(Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    }
+  ]
 }

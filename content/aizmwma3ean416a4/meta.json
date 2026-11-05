@@ -1,44 +1,142 @@
 {
-    "title": "Houston, TX (5535 Weslayan St)",
-    "storeNumber": "",
-    "startDate": "1982-10-06",
-    "endDate": "2018-09-23",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "0000-00-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1982-10-06"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1982-10-06",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "0000-00-00",
-            "e": "2018-09-23",
-            "desc": "One of 17 3-Stages in Texas to receive Concept Unification. Last 3-Stage store in Houston area. Was in very good condition. Building and Moon prop characters from this stage are now on the show programming CU 1-Stage at the Chuck E. Cheese's Corporate Office."
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "29.72066572",
-        "-95.44197103"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Houston, TX (5535 Weslayan St)",
+  "storeNumber": "",
+  "startDate": "1982-10-06",
+  "endDate": "2018-09-23",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1982-10-06"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-06",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "0000-00-00",
+      "e": "2018-09-23",
+      "desc": "One of 17 3-Stages in Texas to receive Concept Unification. Last 3-Stage store in Houston area. Was in very good condition. Building and Moon prop characters from this stage are now on the show programming CU 1-Stage at the Chuck E. Cheese's Corporate Office."
+    },
+    {
+      "n": "Rock-afire Explosion",
+      "s": "1982-10-00",
+      "e": "0000-00-00",
+      "desc": "19th ShowBiz Pizza store to open in Texas."
+    },
+    {
+      "n": "3-Stage",
+      "s": "0000-00-00",
+      "e": "2018-09-00",
+      "desc": "One of 17 ShowBiz Pizza stores in Texas to receive Concept Unification. Last 3-Stage store in Houston area."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "29.72066572",
+    "-95.44197103"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 1-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 2-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 3-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 4-20",
+      "desc": "Unknown/Destroyed. Replaced with bot from Houston, TX (6760 Antoine Dr)"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 5-20",
+      "desc": "Destroyed. Mask later sent to Dallas, TX (7110 S Westmoreland Rd)."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 6-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 7-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 8-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 10-20",
+      "desc": "Sent to CEC Corporate Office, used for programming."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 11-20",
+      "desc": "Sent to CEC Corporate Office, used for programming."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    }
+  ]
 }

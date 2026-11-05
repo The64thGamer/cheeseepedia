@@ -18,21 +18,6 @@ After the store's closure, the building that occupied the Paramus store was demo
 
 When Paramus (221 South Dr) opened, the store housed a 1-Stage (One of six installed in the state of New Jersey). Chuck E. wore his Tuxedo &amp; Derby hat like all other 1-Stages when it was first installed. Around the Early-Mid 2000's Chuck's Tuxedo &amp; Derby Outfit would be replaced by the Cool Chuck outfit. Chuck also wore the avenger cap in as early as 2006 (it is possible their cap was from a walkaround not the one for animatronics). It would remain this way until the stage's removal when the store closed permanently in November 2010.
 
-| Stage                             | Installed    | Removed       | Notes                                                                 |
-|-----------------------------------|--------------|---------------|-----------------------------------------------------------------------|
-| [1-Stage] | October 1993 | November 2010 | One of six installed in New Jersey. First to be removed in the state. |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts |
-|--------------------------------------------------------------|--------------------|-------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1993               | Unknown.    |
-| [Guest Star / Helen Henny (Cyberamic)] | 1993               | Unknown.    |
-| [Mr. Munch (Cyberamic)]               | 1993               | Unknown.    |
-| [Jasper T. Jowls (Cyberamic)]         | 1993               | Unknown.    |
-| [Pasqually (Cyberamic)]              | 1993               | Unknown.    |
-| [Wink]                               | 1993               | Unknown.    |
-
 ## Videos
 
 | Link                                                                         | Description                                                                                                              | Filming Date     | Published Date    |

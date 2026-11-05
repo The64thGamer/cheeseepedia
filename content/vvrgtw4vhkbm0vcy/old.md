@@ -14,28 +14,6 @@ Memorial Drive went through [Concept Unification] in 1991. Not that much informa
 
 Originally when the store opened, they had a Rock-afire Explosion, as all other ShowBiz locations did. They would have it for a few years, until around 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. Between 1998-2006, the Pasqually animatronic would have its hands replaced with cyberamic hands. The stage would stay that way until their closure in October 2012. This was the only location that had Cyberamic Pasqually's hands.
 
-| Stage                                               | Installed   | Removed      | Notes                                                                                            |
-|-----------------------------------------------------|-------------|--------------|--------------------------------------------------------------------------------------------------|
-| [Classic Stage]             | August 1981 | Around 1991  | 4th ShowBiz Pizza Place store to open in Texas.                                                  |
-| [Concept Unification Stage (3-Stage)] | Around 1991 | October 2012 | One of 17 ShowBiz stores in Texas to undergo Concept Unification. Had Cyberamic Pasqually hands. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts |
-|---------------------------------------------------------------------------|---------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-1      | Unknown     |
-| [Dook Larue (Animatronic)]                        | 4-81 2-1      | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | 4-81 3-1      | Unknown     |
-| [Beach Bear (Animatronic)]                        | 4-81 4-1      | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-1      | Unknown     |
-| [Billy Bob (Animatronic)]                         | 4-81 6-1      | Unknown     |
-| [Looney Bird (Animatronic)]                       | 4-81 7-1      | Unknown     |
-| [Choo Choo (Animatronic)]                         | 4-81 8-1      | Unknown     |
-| [Sun (Animatronic)]                               | 4-81 10-1     | Unknown     |
-| [Moon (Animatronic)]                              | 4-81 11-1     | Unknown     |
-| [Antioch (Animatronic)]                           | N/A           | Unknown     |
-| [Wink]                                            | N/A           | Unknown     |
-
 ## Arcade Machines
 
 - Not known currently.

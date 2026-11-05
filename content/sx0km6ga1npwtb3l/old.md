@@ -12,14 +12,6 @@ The Video Ring would be installed on October 14, 2019 and the Dance Floor instal
 
 On August 12, 2024 Sharonville would install [Video Wall] and on August 13, 2024 would upgrade the Dance Floor to the 2021 Model.
 
-| Stage                                                      | Debuted           | Removed          | Notes                                                              |
-|------------------------------------------------------------|-------------------|------------------|--------------------------------------------------------------------|
-| [Classic Stage]                    | October 21, 1981  | January 1984     | Re-used at [Miami, FL (19191 S Dixie Hwy)] |
-| [2-Stage]                          | September 8, 1992 | October 30, 2019 | 24' 2-Stage                                                        |
-| [Chuck E Live Stage (Dance Floor)] | October 30, 2019  | August 12, 2024  | 2019 Model                                                         |
-| [Video Wall]                       | August 12, 2024   | Still In Use     | Eclipse Model                                                      |
-| [Chuck E Live Stage (Dance Floor)] | August 13, 2024   | Still In Use     | 2021 Model                                                         |
-
 ## History
 
 The Sharonville, OH ShowBiz Pizza Place opened up on October 21, 1981, as the 1st ShowBiz Pizza Store in Ohio. The store featured The Rock Afire Explosion, '60 New Games, Billy Bob's Oven-Fresh Pizza, Sandwiches, Salad Bar!' &amp; more. (7) In 1982 to support for the Bengals getting into Super Bowl XVI ShowBiz Pizza ran a promotion at Sharonville, OH &amp; [Cincinnati, OH (8801 Colerain Ave)].(8) The event would happen January 24th in which you'd watch the event on a 'Wide Screen TV' and also bring in cans of soup in return 'Four Free Game Tokens and the soup goes to charity'. On January 8, 1984, the ShowBiz Pizza Place would close as 'part of a series of 40 closings and sales designed to trim operations in 'over-saturated' markets.(2)
@@ -63,26 +55,3 @@ On August 12, 2024, Sharonville would begin its 'Entertainment Upgrade' througho
 | [YouTube](https://www.youtube.com/watch?v=eRjHjw41hfE) | Documentation of the store during the remodel               | October-December 2019 |
 | [YouTube](https://www.youtube.com/watch?v=OGzY4lbWz9M) | Footage of the grand re-opening, store tour, and live show. | December 13, 2019     |
 |                                                        |                                                             |                       |
-
-## Animatronics:
-
-| Character                                                                 | Serial    | Status                                 |
-|---------------------------------------------------------------------------|-----------|----------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-5  | Unknown/Destroyed                      |
-| [Dook Larue (Animatronic)]                        | 4-81 2-5  | Unknown/Destroyed                      |
-| [Fatz Geronimo (Animatronic)]                     | 4-81 3-5  | Unknown/Destroyed                      |
-| [Beach Bear (Animatronic)]                        | 4-81 4-5  | Unknown/Destroyed                      |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-5  | Unknown/Destroyed                      |
-| [Billy Bob (Animatronic)]                         | 4-81 6-5  | Unknown/Destroyed                      |
-| [Looney Bird (Animatronic)]                       | 4-81 7-5  | Unknown/Destroyed                      |
-| [Choo Choo (Animatronic)]                         | 4-81 8-5  | Unknown/Destroyed                      |
-| [Sun (Animatronic)]                               | 4-81 11-5 | Unknown/Destroyed                      |
-| [Moon (Animatronic)]                              | 4-81 11-5 | Unknown/Destroyed                      |
-| [Antioch (Animatronic)]                           | N/A       | Unknown/Destroyed                      |
-| [Uncle Klunk (Animatronic)]                       | N/A       | Unknown/Destroyed                      |
-| [Chuck E. Cheese (Cyberamic)]                   | Unknown   | Parts sent to Florence. Now destroyed. |
-| [Guest Star / Helen Henny (Cyberamic)]              | Unknown   | Parts sent to Florence. Now destroyed. |
-| [Mr. Munch (Cyberamic)]                            | Unknown   | Parts sent to Florence. Now destroyed. |
-| [Jasper T. Jowls (Cyberamic)]                      | Unknown   | Parts sent to Florence. Now destroyed. |
-| [Pasqually (Cyberamic)]                           | Unknown   | Parts sent to Florence. Now destroyed. |
-| [Wink (Cyberamic)]                                | N/A       | Unknown/Destroyed                      |

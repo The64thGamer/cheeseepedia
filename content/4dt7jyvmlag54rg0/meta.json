@@ -1,43 +1,75 @@
 {
-    "title": "Beaverton, OR (4145 SW 110th Ave)",
-    "storeNumber": "",
-    "startDate": "2003-01-00",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2003-01-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2024-07-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2003-01-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2024-07-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "45.48857237",
-        "-122.7919984"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "AVbLqQSVggtJXFvC01UD.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Beaverton, OR (4145 SW 110th Ave)",
+  "storeNumber": "",
+  "startDate": "2003-01-00",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2003-01-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-07-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2003-01-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-07-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Studio C Beta, 32m",
+      "s": "2003-01-00",
+      "e": "2024-07-16",
+      "desc": "Second-last store to open with a 32m bot before being took over by 16ms."
+    },
+    {
+      "n": "Dance Floor",
+      "s": "2024-07-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2024-07-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "45.48857237",
+    "-122.7919984"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "AVbLqQSVggtJXFvC01UD.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Either sent to Corporate, or the ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown, Likely Destroyed, Sent to Corporate, The ShowBiz Pizza Time Distribution Center (Topeka, KS), Or saved by a Private Collector"
+    }
+  ]
 }

@@ -8,12 +8,6 @@ Not to be confused with 2539 Countryside Blvd, which was a Pizza Time Theatre. C
 
 Clearwater originally had a Road Stage, but it was removed in Fall 2000 for a [Studio C Beta]. Clearwater’s Beta was one of the first, and was the first Beta with only one screen in the middle instead of the usual three. Clearwater’s Beta also featured a unique, one of a kind bluescreen, which read "CEC Studio" at the top. Next to the bluescreen was some unique art featuring Chuck E. pointing towards the bluescreen, as well as some kids and an applause sign. At some point, Chuck E.’s base and leg shells were replaced with 16M ones. The base being a 16M base meant that there was no foot tap mechanism. Clearwater received the Cool Chuck outfit sometime in the mid 2000’s, and the Avenger outfit in 2012, however, they kept the original red hat.
 
-| Stage                    | Installed   | Removed       |
-|--------------------------|-------------|---------------|
-| Road Stage               | July 1992   | Fall 2000     |
-| Studio C Beta            | Fall 2000   | June 2023     |
-| Dance Floor + Video Wall | Summer 2023 | Still in use. |
-
 ## Arcade Machines
 
 ### Skill
@@ -98,17 +92,6 @@ Clearwater originally had a Road Stage, but it was removed in Fall 2000 for a [S
 - Sky Riders
 - Pirate's Hook
 - Generic Police Car Ride
-
-## Animatronics
-
-| Animatronic                                                  | Serial  | Whereabouts                    |
-|--------------------------------------------------------------|---------|--------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown | Used for parts at Brandon, FL. |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown | Used for parts at Brandon, FL. |
-| [Mr. Munch (Cyberamic)]               | Unknown | Used for parts at Brandon, FL. |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown | Used for parts at Brandon, FL. |
-| [Pasqually (Cyberamic)]              | Unknown | Used for parts at Brandon, FL. |
-| \|[Chuck E Cheese 32m (Animatronic)] | 114     | Destroyed                      |
 
 ## Decor
 

@@ -1,45 +1,133 @@
 {
-    "title": "Newington, NH (30 Fox Run Rd)",
-    "storeNumber": "",
-    "startDate": "1983-08-00",
-    "endDate": "2018-03-31",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1983-08-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1983-08-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E.'s House Facade (C-Stage)",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "1996-00-00",
-            "e": "2018-03-31",
-            "desc": "One of two installed in New Hampshire. Last 2-Stage in the state."
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "43.09693172",
-        "-70.81009813"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "so51wxaJz75RQ4jDFX_x.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Newington, NH (30 Fox Run Rd)",
+  "storeNumber": "",
+  "startDate": "1983-08-00",
+  "endDate": "2018-03-31",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-08-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-08-00",
+      "e": "1989-00-00",
+      "desc": "One of 2 Balcony Stages in New Hampshire."
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "s": "1989-00-00",
+      "e": "1996-00-00",
+      "desc": "One of 2 C-Stages installed in New Hampshire."
+    },
+    {
+      "n": "2-Stage",
+      "s": "1996-00-00",
+      "e": "2018-03-31",
+      "desc": "One of two installed in New Hampshire. Last 2-Stage in the state."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "43.09693172",
+    "-70.81009813"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "so51wxaJz75RQ4jDFX_x.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Disassembled for parts. Mask, Cool Chuck Shirt, and Khakis sent to Danvers, MA (139 Endicott St), went unused, now destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Disassembled for parts. Mask sent to Lowell, MA (199 Plain St); now unknown."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Disassembled for parts. Mask sent to Lowell, MA (199 Plain St), now unknown. Keyboard Front sent to Lowell, MA (199 Plain St), now unknown."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Disassembled for parts. Mask sent to Attleboro, MA (287 Washington St); now unknown."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Disassembled for parts. Most of Mask sent to Natick, MA (801 Worcester St), went unused, now destroyed. Drums sent to Lowell, MA (199 Plain St), now unknown."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1996-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Clapper Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Dolli Dimples I",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "The Beagles Beach Bowzers (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Danvers, MA (139 Endicott St) in 1989, then Unknown/Destroyed"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Originally from Danvers, MA (139 Endicott St), Unknown/Destroyed."
+    }
+  ]
 }

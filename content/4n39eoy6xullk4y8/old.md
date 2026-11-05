@@ -7,26 +7,3 @@ Stockton opened its doors in October 1979 with a Portrait Stage. It was original
 ## Stages
 
 When Stockton opened, it housed a Portrait Stage like the other Pizza Time Theatres that opened at the time. Unfortunately, there are hardly any videos and no exterior photos to exist of Stockton before closure. Sometime in 1981 or 1982, the Portrait Stage was converted into the Balcony Stage. Sometime between the Late 80's, they removed the Balcony Stage and installed [Chuck E.'s House Facade (C-Stage)]. This location would get a 2-Stage installed in 1993 or 1994. In December 1998, Stockton closed and removed the 2-Stage. A new location would open nearly 7 years later.
-
-| Stage                   | Installed    | Removed       | Notes                             |
-|-------------------------|--------------|---------------|-----------------------------------|
-| Portrait Stage          | October 1979 | 1981 or 1982  | 6th Chuck E. Cheese to open ever. |
-| Balcony Stage           | 1981 or 1982 | 1989/1990     |                                   |
-| Chuck E.'s House Facade (C-Stage) | 1989/1990    | 1993/1994     |                                   |
-| 2-Stage                 | 1993/1994    | December 1998 |                                   |
-
-## Animatronics
-
-| Character                                                    | Serial Number | Status            |
-|--------------------------------------------------------------|---------------|-------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Unknown/Destroyed |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown/Destroyed |
-| [Mr. Munch (Cyberamic)]               | Unknown       | Unknown/Destroyed |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown/Destroyed |
-| [Pasqually (Cyberamic)]              | Unknown       | Unknown/Destroyed |
-| [Warblettes (Cyberamic)]             | Unknown       | Unknown/Destroyed |
-| [Flag Wavers (Cyberamic)]                                     | Unknown       | Unknown/Destroyed |
-| [Applause Board (Cyberamic)]         | Unknown       | Unknown/Destroyed |
-| [Drum Board (Cyberamic)]             | Unknown       | Unknown/Destroyed |
-| [Dolli Dimples (Cabaret)]            | Unknown       | Unknown/Destroyed |
-| [The King / King Kat (Lounge)]         | Unknown       | Unknown/Destroyed |

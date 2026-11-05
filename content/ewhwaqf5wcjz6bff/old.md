@@ -8,27 +8,6 @@ Savannah opened on October 5th, 1982 as the 8th ShowBiz Pizza store in Georgia w
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations had. In around 1991, Savannah would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. In late 2021, Savannah received 2.0 and the 3-Stage was removed for the Dance Floor.
 
-| Stage                | Installed    | Removed      | Notes                                                                  |
-|----------------------|--------------|--------------|------------------------------------------------------------------------|
-| Rock-Afire Explosion | October 1982 | 1991         | 8th ShowBiz Pizza store to open in Georgia.                            |
-| 3-Stage              | 1991         | Dec 11 2021  | One of 6 ShowBiz Pizza store in Georgia to undergo Concept Unification |
-| Dance Floor          | 2021         | Still in use | 2019 Model.                                                            |
-
 ## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                                                                                                                        |
-|---------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-22     | Destroyed, major remains such as the head were sent to Augusta, GA. Owned by a Private Collector after removal of Augusta's stage. |
-| [Dook Larue (Animatronic)]                        | 1-82 2-22     | Destroyed                                                                                                                          |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-22     | Unknown/Destroyed                                                                                                                  |
-| [Beach Bear (Animatronic)]                        | 1-82 4-22     | Destroyed                                                                                                                          |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-22     | Destroyed, cosmetics sent to Augusta, GA                                                                                           |
-| [Billy Bob (Animatronic)]                         | 1-82 6-22     | Unknown/Destroyed                                                                                                                  |
-| [Looney Bird (Animatronic)]                       | 1-82 7-22     | Unknown/Destroyed                                                                                                                  |
-| [Choo Choo (Animatronic)]                         | 1-82 8-22     | Unknown/Destroyed                                                                                                                  |
-| [Sun (Animatronic)]                               | 1-82 10-22    | Owned by a private collectorhttps://www.youtube.com/shorts/EGientJyndo                                                             |
-| [Moon (Animatronic)]                              | 1-82 11-22    | Owned by a private collector(0)                                                                                                    |
-| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed                                                                                                                  |
-| [Wink]                                            | N/A           | Destroyed.                                                                                                                         |
 
 [Photos from 2007](https://www.showbizpizza.com/photos/cec/ga_savannah/index.html)

@@ -1,58 +1,179 @@
 {
-    "title": "Lakewood, CA (5151 Lakewood Blvd)",
-    "storeNumber": "",
-    "startDate": "1983-03-23",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-00-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2024-02-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1983-03-23"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1983-03-23",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-00-00",
-            "e": "2000-00-00",
-            "desc": "One of 10 3-Stages in California to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
-        },
-        {
-            "n": "Studio C Alpha",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2024-02-00",
-            "desc": "2019 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "33.85048587",
-        "-118.1447836"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "pS9fWZkF5YlYrxYYoTQl.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Lakewood, CA (5151 Lakewood Blvd)",
+  "storeNumber": "",
+  "startDate": "1983-03-23",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-02-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1983-03-23"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-03-23",
+      "e": "0000-00-00",
+      "desc": "7th ShowBiz store to open in California."
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-00-00",
+      "e": "2000-00-00",
+      "desc": "One of 10 3-Stages in California to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "1998-12-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-02-00",
+      "desc": "2019 Model"
+    },
+    {
+      "n": "Video Wall",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.85048587",
+    "-118.1447836"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "pS9fWZkF5YlYrxYYoTQl.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 1-??",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 2-??",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 3-??",
+      "desc": "Unknwon"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 4-??",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 5-??",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 6-??",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 7-??",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 8-??",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 10-??",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 11-??",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Eyes and eyelids owned by a private collector."
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

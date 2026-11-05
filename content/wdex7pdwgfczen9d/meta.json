@@ -1,43 +1,71 @@
 {
-    "title": "Katy, TX (2002 Gulfmont Dr)",
-    "storeNumber": "",
-    "startDate": "2001-12-30",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2001-12-30"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2020-03-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2001-12-30",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2020-03-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "29.7488304",
-        "-95.9185696"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "3tBNWB509kMfXvzxYe75.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Katy, TX (2002 Gulfmont Dr)",
+  "storeNumber": "",
+  "startDate": "2001-12-30",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2001-12-30"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2020-03-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2001-12-30",
+      "e": "2020-03-00",
+      "desc": "Had one TV"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2020-03-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Dance Floor",
+      "s": "2020-03-00",
+      "e": "0000-00-00",
+      "desc": "One of 7 locations to get 2.0 in 2020"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2023-02-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "29.7488304",
+    "-95.9185696"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "3tBNWB509kMfXvzxYe75.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

@@ -43,5 +43,77 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1980-11-00",
+      "e": "1985-06-00",
+      "l": "Unknown",
+      "desc": "Unknown, Sold In Auction"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1980-11-00",
+      "e": "1985-06-00",
+      "l": "Unknown",
+      "desc": "Unknown, Sold In Auction"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1980-11-00",
+      "e": "1985-06-00",
+      "l": "Unknown",
+      "desc": "Unknown, Sold In Auction; Used Door Opening Mechanisms."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1980-11-00",
+      "e": "1985-06-00",
+      "l": "Unknown",
+      "desc": "Unknown, Sold In Auction; Used Madame Oink Cosmetics."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1980-11-00",
+      "e": "1985-06-00",
+      "l": "Unknown",
+      "desc": "Unknown, Sold In Auction"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1980-11-00",
+      "e": "1985-06-00",
+      "l": "Unknown",
+      "desc": "Unknown, Sold In Auction"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1980-11-00",
+      "e": "1985-06-00",
+      "l": "Unknown",
+      "desc": "Unknown, Sold In Auction"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1980-11-00",
+      "e": "1985-06-00",
+      "l": "Unknown",
+      "desc": "Unknown, Sold In Auction"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1980-11-00",
+      "e": "1985-06-00",
+      "l": "Unknown",
+      "desc": "Unknown, Sold In Auction"
+    },
+    {
+      "n": "Dolli Dimples (Cabaret)",
+      "s": "1980-11-00",
+      "e": "1985-06-00",
+      "l": "Unknown",
+      "desc": "Unknown, Sold In Auction"
+    }
   ]
 }

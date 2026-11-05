@@ -13,12 +13,20 @@
     {
       "n": "Classic Stage",
       "s": "1982-12-29",
-      "e": "1985-00-00"
+      "e": "1985-00-00",
+      "desc": "22nd ShowBiz Store to open in Texas."
     },
     {
       "n": "Chuck E.'s House (Rocker Stage)",
       "s": "1987-08-06",
-      "e": "2020-06-25"
+      "e": "2020-06-25",
+      "desc": "3rd Chuck E.'s House installed."
+    },
+    {
+      "n": "2-Stage",
+      "s": "1992-02-00",
+      "e": "2020-06-00",
+      "desc": "First ever 2-Stage."
     }
   ],
   "franchisees": [],
@@ -37,5 +45,133 @@
   "type": "Locations",
   "tags": [
     "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 1-15",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 2-15",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 3-15",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 4-15",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 5-15",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 6-15",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 7-15",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 8-15",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 10-15",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 11-15",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
   ]
 }

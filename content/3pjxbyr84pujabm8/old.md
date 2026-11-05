@@ -14,28 +14,10 @@ Sometime between 2004 and 2005, the showroom was dismantled and relocated to the
 The location remained mostly untouched until the rollout of the CEC 2015 Update Program. For an extended period before the update (from at least 2012), the location did not have awnings. Additionally, an image from 2012 (before the removal) reveals that the location did have tiles across the facade. The sign on the right-hand side of the building included the word "Pizza" until the update.
 
 ### 2.0 Remodel
-On August 21, 2023 The store began its [CEC 2.0 Remodel Program] update and received the 2019 model of the [Chuck E Live Stage (Dance Floor)]. Notably, the showroom has been relocated back to where it was originally. [4] In May 2024, the store received the Trampoline Zone to replace booths and Kiddie games it was placed in the back wall of the Toddler Zone where the former [Studio C] Stage was. [5]
+On August 21, 2023 The store began its [CEC 2.0 Remodel Program] update and received the 2019 model of the [Chuck E. Live Stage (Dance Floor)]. Notably, the showroom has been relocated back to where it was originally. [4] In May 2024, the store received the Trampoline Zone to replace booths and Kiddie games it was placed in the back wall of the Toddler Zone where the former [Studio C] Stage was. [5]
 
 ## Stages
 This location opened with a 2-Stage show. In the early 2000's, the showroom was relocated from the back right-hand corner of the restaurant to the left-hand side of the restaurant which can be seen upon entry. [2] In the process, the existing stage was replaced with a Studio C Beta. In September 2023, the show was removed replaced by the 2019 Model of the Chuck E. Live Stage (Dance Floor). [4]
-
-| Stage | Installed | Removed | Notes |
-| --- | --- | --- | --- |
-| [2-Stage] | March 1993 | 2003-2004 | N/A |
-| [Studio C Beta] | 2003-2004 | September 2023 | N/A |
-| [Chuck E Live Stage (Dance Floor)] | September 2023 | Still in use. | 2019 model. |
-| [Video Wall] | September 2023 | Still in use. | 2021 model. |
-
-## Animatronics
-| Animatronic | Serial | Manufacturing Date | Whereabouts |
-| --- | --- | --- | --- |
-| [Chuck E. Cheese (Cyberamic)] | Unknown | 1992-1993 | Unknown |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown | 1992-1993 | Unknown |
-| [Mr. Munch (Cyberamic)] | Unknown | 1992-1993 | Unknown |
-| [Jasper T. Jowls (Cyberamic)] | Unknown | 1992-1993 | Unknown | 
-| [Pasqually (Cyberamic)] | Unknown | 1992-1993 | Unknown |
-| [Wink] | N/A | 1992-1993 | Unknown |
-| [Chuck E. Cheese 16m (Animatronic)] | N/A | 2002 | Destroyed |
 
 ## Arcade Machines
 ### Skill 

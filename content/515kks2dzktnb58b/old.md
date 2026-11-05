@@ -44,28 +44,6 @@ After the store closed, it would remain vacant for a short period until it was f
 - Ferrari Car
 - Feed Fido
 
-## Stages
-
-| Stage                                               | Installed | Removed      | Notes                                                                                                                                                                                                                                                          |
-|-----------------------------------------------------|-----------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Classic Stage]             | 1983      | 1991-1992    | 12th ShowBiz Pizza store to open in Florida.                                                                                                                                                                                                                   |
-| [Concept Unification Stage (3-Stage)] | 1991      | January 2005 | One of 7 ShowBiz Pizza stores in Florida to undergo Concept Unification (Tallahassee opened with [Midfield, AL (34 Phillips Dr)]'s Rock-afire Explosion and was converted at the location). Tuxedo Chuck and Latex Munch would remain. |
-
 ## Animatronics
-
-| Animatronic                                                               | Serial      | Whereabouts                                              |
-|---------------------------------------------------------------------------|-------------|----------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ??-8? 1-??  | Unknown. Kept tuxedo and latex hands/feet until closure. |
-| [Dook Larue (Animatronic)]                        | ??-8? 2-??  | Owned by a Private Collector.                            |
-| [Fatz Geronimo (Animatronic)]                     | ??-8? 3-??  | Unknown.                                                 |
-| [Beach Bear (Animatronic)]                        | ??-8? 4-??  | Owned by a Private Collector.                            |
-| [Mitzi Mozzarella (Animatronic)]                  | ??-8? 5-??  | Unknown.                                                 |
-| [Billy Bob (Animatronic)]                         | ??-8? 6-??  | Unknown / Destroyed                                      |
-| [Looney Bird (Animatronic)]                       | ??-8? 7-??  | Unknown.                                                 |
-| [Choo Choo (Animatronic)]                         | ??-8? 8-??  | Unknown.                                                 |
-| [Sun (Animatronic)]                               | ??-8? 10-?? | Unknown.                                                 |
-| [Moon (Animatronic)]                              | ??-8? 11-?? | Unknown.                                                 |
-| [Antioch (Animatronic)]                           | N/A         | Unknown / Destroyed.                                     |
-| [Wink]                                            | N/A         | Unknown.                                                 |
 
 [2004](http://showbizpizza.com/photos/cec/fl_ftwalton/index.html)

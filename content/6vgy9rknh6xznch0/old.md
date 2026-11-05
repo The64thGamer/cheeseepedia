@@ -6,14 +6,7 @@ Albuquerque (Wyoming) opened its doors in October 1981 with a Balcony Stage show
 
 ## Stages
 
-Albuquerque (Wyoming) opened with the Balcony Stage in October 1981. Unfortunately, there are hardly any photos or videos to exist of Albuquerque (Wyoming) with the Balcony Stage. There is one video of the store's Chuck E.'s House Facade (C-Stage). In 1989/1990, Albuquerque (Wyoming) received Chuck E.'s House Facade (C-Stage), removing the Balcony Stage. In 1993/1994, Albuquerque (Wyoming) received the 2-Stage, removing Chuck E.'s House Facade (C-Stage). In September 2022, Albuquerque (Wyoming) removed the 2-Stage for a 2021 Model Dance Floor + Video Wall.
-
-| Stage                                                                                             | Installed      | Removed        | Notes                             |
-|---------------------------------------------------------------------------------------------------|----------------|----------------|-----------------------------------|
-| [Balcony Stage]                                                | October 1981   | 1989/1990      | Only PTT in New Mexico.           |
-| [Chuck E.'s House Facade (C-Stage)]                                                  | 1989/1990      | 1993/1994      | Only one installed in New Mexico. |
-| [2-Stage]                                                                 | 1993/1994      | September 2022 | Only one installed in New Mexico. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | September 2022 | Still in use   | 2021 Model.                       |
+Albuquerque (Wyoming) opened with the Balcony Stage in October 1981. Unfortunately, there are hardly any photos or videos to exist of Albuquerque (Wyoming) with the Balcony Stage. There is one video of the store's Chuck E.'s House Facade (C-Stage). In 1989/1990, Albuquerque (Wyoming) received Chuck E.'s House Facade (C-Stage), removing the Balcony Stage. In 1993/1994, Albuquerque (Wyoming) received the 2-Stage, removing Chuck E.'s House Facade (C-Stage). In September 2022, Albuquerque (Wyoming) removed the 2-Stage for a 2021 Model Chuck E. Live Stage (Dance Floor).
 
 ## Arcade Machines
 
@@ -77,19 +70,5 @@ Albuquerque (Wyoming) opened with the Balcony Stage in October 1981. Unfortunate
 - Dog Pounder
 
 ## Animatronics
-
-| Character                                                    | Serial   | Status            |
-|--------------------------------------------------------------|----------|-------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown. | Destroyed         |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown. | Destroyed         |
-| [Mr. Munch (Cyberamic)]               | Unknown. | Destroyed         |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown. | Destroyed         |
-| [Pasqually (Cyberamic)]              | Unknown. | Destroyed         |
-| [Warblettes (Cyberamic)]             | Unknown. | Unknown/Destroyed |
-| [Flag Wavers (Cyberamic)]                                     | Unknown. | Unknown/Destroyed |
-| [Applause Board (Cyberamic)]         | Unknown. | Unknown/Destroyed |
-| [Drum Board (Cyberamic)]             | Unknown. | Unknown/Destroyed |
-| [Singing Flowers (Cyberamic)]        | N/A      | Unknown/Destroyed |
-| [Wink (Cyberamic)]                   | N/A      | Destroyed         |
 
 [1980s](https://www.showbizpizza.com/photos/ptt/nm_unknown/index.html)

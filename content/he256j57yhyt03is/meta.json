@@ -1,43 +1,88 @@
 {
-    "title": "Attleboro, MA (287 Washington St)",
-    "storeNumber": "",
-    "startDate": "1993-10-04",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1993-10-04"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2019-11-11"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1993-10-04",
-            "e": "2019-11-11"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2019-11-11",
-            "desc": "2019 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.91845927",
-        "-71.36170793"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "1C8_gXmCr93g87b04xbc.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Attleboro, MA (287 Washington St)",
+  "storeNumber": "",
+  "startDate": "1993-10-04",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-10-04"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2019-11-11"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-10-04",
+      "e": "2019-11-11",
+      "desc": "One of 3 1-Stages installed in Massachusetts. Showroom relocated to expansion area in Fall 2006."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-11-11",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.91845927",
+    "-71.36170793"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "1C8_gXmCr93g87b04xbc.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Mask replaced by 2009."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Mask replaced with Newington NH's in April 2018."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Mask replaced by 2009."
+    },
+    {
+      "n": "Wink",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
+  ]
 }

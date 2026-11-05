@@ -7,19 +7,3 @@ In 1983 the location would open outside of Golden Triangle Mall inside of the De
 ## Stages
 
 The location would open with a Balcony Stage. It is unknown what features this balcony may have had. The location would also contain The King. Like the Balcony Stage, it is unknown what features it may have had.
-
-| Stage         | Installed | Removed |
-|---------------|-----------|---------|
-| Balcony Stage | 1983      | 1984    |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts |
-|--------------------------------------------------------------|--------------------|-------------|
-| [Chuck E. Cheese (Cyberamic)]      | Unknown            | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown     |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown            | Unknown     |
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown     |
-| The King (Cyberamic)                                         | Unknown            | Unknown     |

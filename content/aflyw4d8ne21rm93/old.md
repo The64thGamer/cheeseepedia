@@ -8,25 +8,6 @@ Loves Park opened with Harmony Howlette and The King. Loves Park would later get
 
 Loves Park opened and closed with a Balcony Stage. When Loves Park relocated to Rockford, they received Chuck E.’s House/Rocker Stage, which was the last one to exist before being removed on June 12th, 2022 and sent to the SPT warehouse in Kansas where it currently sits in storage.
 
-| Stage                                              | Installed     | Removed      | Notes                                                                                          |
-|----------------------------------------------------|---------------|--------------|------------------------------------------------------------------------------------------------|
-| [Balcony Stage] | November 1981 | October 1988 | Animatronics taken to be used at Rockford for their [Chuck E.'s House (Rocker Stage)]. |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                                              |
-|--------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| [Mr. Munch (Cyberamic)]               | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
-| [Jasper T. Jowls (Cyberamic)]         | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
-| [Chuck E. Cheese (Cyberamic)]      | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
-| [Guest Star / Helen Henny (Cyberamic)] | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
-| [Pasqually (Cyberamic)]              | 1981               | Sent to Rockford and used until June 2022, Collected by SPT Distribution |
-| [Warblettes (Cyberamic)]             | 1981               | Unknown.                                                                 |
-| [Flag Wavers (Cyberamic)]                                     | 1981               | Unknown.                                                                 |
-| [Applause Board (Cyberamic)]         | 1981               | Unknown.                                                                 |
-| [Drum Board (Cyberamic)]             | 1981               | Unknown.                                                                 |
-| [The King / King Kat (Lounge)]         | 1981               | Unknown.                                                                 |
-
 ## Videos
 
 No Videos currently exist of the store. No Pictures currently exist of the store.

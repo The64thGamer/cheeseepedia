@@ -1,49 +1,101 @@
 {
-    "title": "Rancho Cucamonga, CA (9339 Foothill Blvd)",
-    "storeNumber": "",
-    "startDate": "1990-03-21",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1980's Remodel Program",
-            "s": "1990-03-21"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2019-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Chuck E.'s House (Rocker Stage)",
-            "s": "1990-03-21",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "0000-00-00",
-            "e": "2019-00-00",
-            "desc": "One of many installed in California. Replaced by Dance Floor."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2019-00-00",
-            "desc": "2019 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "34.10386352",
-        "-117.6024937"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "HwYJpIAhpIDnxwfONfG8.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Rancho Cucamonga, CA (9339 Foothill Blvd)",
+  "storeNumber": "",
+  "startDate": "1990-03-21",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-03-21"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2019-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Chuck E.'s House (Rocker Stage)",
+      "s": "1990-03-21",
+      "e": "0000-00-00",
+      "desc": "One of 4 Rocker Stages installed in California."
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2019-00-00",
+      "desc": "One of many installed in California. Replaced by Dance Floor."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-00-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.10386352",
+    "-117.6024937"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "HwYJpIAhpIDnxwfONfG8.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
+  ]
 }

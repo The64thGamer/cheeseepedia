@@ -3,9 +3,3 @@
 ## History
 
 TODO
-
-| Stage                                                      | Installed    | Removed      | Notes                                |
-|------------------------------------------------------------|--------------|--------------|--------------------------------------|
-| [Studio C Alpha]                   | August 2001  | October 2017 | One of many installed in Texas.      |
-| [Chuck E Live Stage (Dance Floor)] | October 2017 | Still In Use | Formerly 2017 Model, Now 2021 Model. |
-| [Video Wall]                       | June 2023    | Still In Use | 2021 Model.                          |

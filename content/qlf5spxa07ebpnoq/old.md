@@ -8,28 +8,7 @@ TODO
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations did. They would have it for a few years, until around 1991-1992, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. In the Mid 1990's Chuck's mask was replaced with a newer one. The store would remain this way until closure.
 
-| Stage                                               | Installed    | Removed   | Notes                                                                  |
-|-----------------------------------------------------|--------------|-----------|------------------------------------------------------------------------|
-| [Classic Stage]             | January 1986 | 1991-1992 | All Eight ShowBiz locations in Tennessee was converted to stage below. |
-| [Concept Unification Stage (3-Stage)] | 1991-1992    | 2001      | One of eight Tennessee locations to get Concept Unification.           |
-|                                                     |              |           |                                                                        |
-
 ## Animatronics
-
-| Animatronic                                                               | Serial     | Whereabouts |
-|---------------------------------------------------------------------------|------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ?-8? 1-??  | Unknown     |
-| [Dook Larue (Animatronic)]                        | ?-8? 2-??  | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | ?-8? 3-??  | Unknown     |
-| [Beach Bear (Animatronic)]                        | ?-8? 4-??  | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | ?-8? 5-??  | Unknown     |
-| [Billy Bob (Animatronic)]                         | ?-8? 6-??  | Unknown     |
-| [Looney Bird (Animatronic)]                       | ?-8? 7-??  | Unknown     |
-| [Choo Choo (Animatronic)]                         | ?-8? 8-??  | Unknown     |
-| [Sun (Animatronic)]                               | ?-8? 10-?? | Unknown     |
-| [Moon (Animatronic)]                              | ?-8? 11-?? | Unknown     |
-| [Antioch (Animatronic)]                           | N/A        | Unknown     |
-| [Wink]                                            | N/A        | Unknown     |
 
 TODO
 

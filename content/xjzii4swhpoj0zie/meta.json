@@ -1,44 +1,142 @@
 {
-    "title": "Panama City, FL (4432 US-98)",
-    "storeNumber": "",
-    "startDate": "1986-05-07",
-    "endDate": "2007-00-00",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-06-21"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1986-05-07"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1986-05-07",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-06-21",
-            "e": "2007-00-00",
-            "desc": "One of 7 3-Stages in Florida to undergo Concept Unification. Munch Jr. would remain until closure."
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "30.17990077",
-        "-85.71987083"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "C9hT86LnzknEpjuq_3om.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Panama City, FL (4432 US-98)",
+  "storeNumber": "",
+  "startDate": "1986-05-07",
+  "endDate": "2007-00-00",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-06-21"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1986-05-07"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1986-05-07",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-06-21",
+      "e": "2007-00-00",
+      "desc": "One of 7 3-Stages in Florida to undergo Concept Unification. Munch Jr. would remain until closure."
+    },
+    {
+      "n": "Rock-Afire Explosion",
+      "s": "1986-00-00",
+      "e": "0000-00-00",
+      "desc": "Final ShowBiz Pizza store to open in Florida."
+    },
+    {
+      "n": "3-Stage",
+      "s": "0000-00-00",
+      "e": "2007-00-00",
+      "desc": "Munch Jr. would remain until closure."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.17990077",
+    "-85.71987083"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "C9hT86LnzknEpjuq_3om.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 1-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 2-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 3-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 4-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 5-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 6-??",
+      "desc": "Owned by a private collector"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 7-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 8-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 10-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 11-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    }
+  ]
 }

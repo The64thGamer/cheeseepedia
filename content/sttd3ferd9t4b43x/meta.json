@@ -1,33 +1,120 @@
 {
-    "title": "Carson, CA (20700 S Avalon Blvd)",
-    "storeNumber": "",
-    "startDate": "2014-01-16",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2014-01-16"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Circles of Light",
-            "s": "2014-01-16"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "33.84217862",
-        "-118.2627187"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "IvEVa0G_0c3gljVOuJEd.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Carson, CA (20700 S Avalon Blvd)",
+  "storeNumber": "",
+  "startDate": "2014-01-16",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2014-01-16"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Circles of Light",
+      "s": "2014-01-16"
+    },
+    {
+      "n": "Balcony Stage",
+      "s": "1983-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2014-01-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.84217862",
+    "-118.2627187"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "IvEVa0G_0c3gljVOuJEd.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Head mech, jaw, and feet owned by a private collector."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Mask and dress owned by a private collector."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Mask and body fur owned by a private collector."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Mask sent to Garden Grove, CA (13101 Harbor Blvd), now destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Mask sent to Garden Grove, CA (13101 Harbor Blvd), now destroyed."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Clapper Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    }
+  ]
 }

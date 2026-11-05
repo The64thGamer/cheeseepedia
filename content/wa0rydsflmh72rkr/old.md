@@ -12,28 +12,6 @@ In July 2007, a homeless man was arrested, due to other people feeling unsafe by
 
 South Charleston would premiere with a Classic Rock-afire Explosion, as other ShowBiz locations did at the time. The show would remain largely unchanged until 1991, when the location's show would undergo [Concept Unification]. The Munch's Make Believe Band 3-Stage would then remain in use at the store (with minor changes and updates) up until South Charleston's permanent closure on June 18, 2020.
 
-| Stage                                               | Installed      | Removed       | Notes                                                                              |
-|-----------------------------------------------------|----------------|---------------|------------------------------------------------------------------------------------|
-| [Classic Stage]             | September 1982 | 1991          | First ShowBiz Pizza store in South Carolina (And Carolinas overall).               |
-| [Concept Unification Stage (3-Stage)] | 1991           | June 18, 2020 | One of four ShowBiz Pizza stores in South Carolina to undergo Concept Unification. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                          | Notes                                                                                                 |
-|---------------------------------------------------------------------------|---------------|--------------------------------------|-------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-10     | Sent to Columbia SC (Now Destroyed). | Bot sent to Columbia, SC after closure. Destroyed following Columbia's 2.0. Remodel in November 2022. |
-| [Dook Larue (Animatronic)]                        | 1-82 2-10     | Owned by a Private Collector         | Was not sent to Columbia, SC after closure.                                                           |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-10     | Owned by a Private Collector         | Was not sent to Columbia, SC after closure.                                                           |
-| [Beach Bear (Animatronic)]                        | 1-82 4-10     | Sent to Columbia SC (Now Destroyed). | Bot sent to Columbia, SC after closure. Destroyed following Columbia's 2.0. Remodel in November 2022. |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-10     | Sent to Columbia SC (Now Destroyed). | Bot sent to Columbia, SC after closure. Destroyed following Columbia's 2.0. Remodel in November 2022. |
-| [Billy Bob (Animatronic)]                         | 1-82 6-10     | Destroyed.                           | Destroyed during Concept Unification.                                                                 |
-| [Looney Bird (Animatronic)]                       | 1-82 7-10     | Unknown                              | Was removed between 2007-2009.                                                                        |
-| [Choo Choo (Animatronic)]                         | 1-82 8-10     | Unknown                              | Was removed between 2001-2003.                                                                        |
-| [Sun (Animatronic)]                               | 1-82 10-10    | Unknown                              | Was not sent to Columbia, SC after closure.                                                           |
-| [Moon (Animatronic)]                              | 1-82 11-10    | Owned by Private Collector           | Mouth mechanism and mask intact.                                                                      |
-| [Antioch (Animatronic)]                           | N/A           | Destroyed                            | Destroyed during Concept Unification                                                                  |
-| [Wink]                                            | N/A           | Destroyed                            | Destroyed after store closure.                                                                        |
-
 ## Videos
 
 | Link                                                | Description                                                                                                                  | Filming Date        | Published Date    |

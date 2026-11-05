@@ -13,12 +13,14 @@
     {
       "n": "Balcony Stage",
       "s": "1983-02-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "One of many installed in Illinois."
     },
     {
       "n": "Chuck E.'s House Facade (C-Stage)",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "1994-00-00",
+      "desc": "One of three installed in Illinois."
     },
     {
       "n": "2-Stage",
@@ -43,5 +45,91 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Fairview Heights. Removed in 2019, owned by a collector."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Fairview Heights. Removed in 2019, Destroyed. Cosmetics owned by a collector."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1994-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    }
   ]
 }

@@ -16,18 +16,6 @@ In August 2015, a police officer was denied service at the location for carrying
 
 When the Bowling Green location opened, they had a Small-Town Studio C. in the late 2000s or early 2010s, the Cool Chuck shirt would be replaced with the Avenger shirt. In late 2013 the hat would be removed. Around 2017 the khaki shorts would be replaced with the Rockstar jeans. In early July 2022, the Studio C Cappa would be removed and replaced with a Chuck E. Live Stage and Video Wall. As of October 2024, they still have the Chuck E. Live Stage and Video Wall.
 
-| Stage                                                                             | Installed  | Removed      | Notes                                                                                                        |
-|-----------------------------------------------------------------------------------|------------|--------------|--------------------------------------------------------------------------------------------------------------|
-| Small-Town Studio C                                                               | April 2004 | July 2022    | 18th store opened with Small-Town Studio C, Only one in Kentucky. Second last animatronic stage in Kentucky. |
-| [Chuck E. Live Stage (Dance Floor)] | July 2022  | Still in Use | 2021 Model                                                                                                   |
-| [Video Wall]                                              | July 2022  | Still in Use | Eclipse Model                                                                                                |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts |
-|------------------------------------------------------------|---------------|-------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A           | Destroyed   |
-
 ## YouTube Videos
 
 NOTE: TODO

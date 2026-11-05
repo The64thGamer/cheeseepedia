@@ -1,63 +1,184 @@
 {
-    "title": "St. Charles, MO (2669 Veterans Memorial Pkwy)",
-    "storeNumber": "",
-    "startDate": "1982-10-27",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-10-00"
-        },
-        {
-            "n": "Concept Unification",
-            "s": "0000-00-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1982-10-27"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1982-10-27",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "0000-00-00",
-            "e": "2000-00-00",
-            "desc": "One of 5 3-Stages in Missouri to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
-        },
-        {
-            "n": "Studio C Alpha",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-10-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [
-        {
-            "n": "Mega Superhero Playground",
-            "s": "2025-00-00"
-        }
-    ],
-    "sqft": "",
-    "latitudeLongitude": [
-        "38.77676452",
-        "-90.51956538"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "r4bhwhgxjbqn615k.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "St. Charles, MO (2669 Veterans Memorial Pkwy)",
+  "storeNumber": "",
+  "startDate": "1982-10-27",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-10-00"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1982-10-27"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-27",
+      "e": "0000-00-00",
+      "desc": "8th ShowBiz Pizza store to opne in Missouri."
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "0000-00-00",
+      "e": "2000-00-00",
+      "desc": "One of 5 3-Stages in Missouri to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-10-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Studio C (1997)|Studio C Alpha",
+      "s": "2000-00-00",
+      "e": "2022-10-00",
+      "desc": "Last Studio C Alpha & 32m show in Missouri."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Mega Superhero Playground",
+      "s": "2025-00-00"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.77676452",
+    "-90.51956538"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "r4bhwhgxjbqn615k.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 1-3",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 2-3",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 3-3",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 4-3",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 5-3",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 6-3",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 7-3",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 8-3",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 10-3",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 11-3",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "096",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    }
+  ]
 }

@@ -3,23 +3,3 @@
 ## History
 
 Charlotte opened with either Harmony Howlette or Madame Oink as their guest star. Charlotte would later get Helen Henny, who stayed until Charlotte permanently closed. This was one of two Pizza Time Theatres in the Carolinas, the other being in [Raleigh, NC (4339 Falls of the Neuse Rd)]. After Charlotte closed in October 1984, the store was auctioned off like most PTTs. The building it was located in was reoccupied by an unknown tenant; the building was then demolished for a highway expansion sometime in 2002. As of June 2023, the highway expansion still sits on the site of the plot of land where the PTT once sat.
-
-## Stages
-
-| Stage                                              | Installed  | Removed      | Notes                         |
-|----------------------------------------------------|------------|--------------|-------------------------------|
-| [Balcony Stage] | March 1982 | October 1984 | Animatronics sold at auction. |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                    |
-|--------------------------------------------------------------|--------------------|------------------------------------------------|
-| [Mr. Munch (Cyberamic)]               | 1981/1982          | Sold at auction, current status unknown        |
-| [Jasper T. Jowls (Cyberamic)]         | 1981/1982          | Sold at auction, Owned by a private collector. |
-| [Chuck E. Cheese (Cyberamic)]      | 1981/1982          | Sold at auction, current status unknown        |
-| [Guest Star / Helen Henny (Cyberamic)] | 1981/1982          | Sold at auction, current status unknown        |
-| [Pasqually (Cyberamic)]              | 1981/1982          | Sold at auction, current status unknown        |
-| [Warblettes (Cyberamic)]             | 1981/1982          | Sold at auction, current status unknown        |
-| [Flag Wavers (Cyberamic)]            | 1981/1982          | Sold at auction, current status unknown        |
-| [Applause Board (Cyberamic)]         | 1981/1982          | Sold at auction, current status unknown        |
-| [Drum Board (Cyberamic)]             | 1981/1982          | Sold at auction, current status unknown        |

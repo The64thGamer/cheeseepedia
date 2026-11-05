@@ -7,32 +7,3 @@ Darien opened with The Rock-afire Explosion. Their original show was made in Oct
 ## History
 
 Darien's ShowBiz Pizza Place opened on February 24, 1981, in an unnamed shopping center whose main tenant is currently a Jewel-Osco. They at first had a [Classic Stage] that was produced in October 1980. In the late '80s, they received the 1986 SPT Remodel Program|standard SPT remodel and shortly after Darien underwent a 1990s Major Remodel|Major Remodel in the mid '90s, removing older artwork for new artwork, and renovating the store majorly. Darien underwent the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative in 2008 which involved removing the showroom walls, balcony seating, replacing lighting, and replacing the artwork. Around 2014, Darien replaced their 90s exterior signage with 2013 signage. Between June 30, 2020, and July 6, 2020, they removed the 3-Stage for the CU 2000 16M|CU Beta 16m. In June 2023, the location received the Refresh package of the 2017 2.0 Remodel Program, removing the CU Beta 16m for the 2021 model Dance Floor and Video Wall. The grand re-opening occurred on August 17th, 2023.
-
-## Animatronics
-
-| Animatronic                                                               | Serial Code | Whereabouts                                                                                                    |
-|---------------------------------------------------------------------------|-------------|----------------------------------------------------------------------------------------------------------------|
-| Rolfe DeWolfe                                                             | 10-80 1-5   | Unknown / Destroyed                                                                                            |
-| Dook Larue                                                                | 10-80 2-5   | Unknown / Destroyed                                                                                            |
-| Fatz Geronimo                                                             | 10-80 3-5   | Unknown / Destroyed                                                                                            |
-| Beach Bear                                                                | 10-80 4-5   | Unknown / Destroyed                                                                                            |
-| Mitzi Mozzarella                                                          | 10-80 5-5   | Unknown / Destroyed                                                                                            |
-| Billy Bob                                                                 | 10-80 6-5   | Unknown / Destroyed                                                                                            |
-| Looney Bird                                                               | 10-80 7-5   | Unknown / Destroyed                                                                                            |
-| Choo Choo                                                                 | 10-80 8-5   | Unknown / Destroyed                                                                                            |
-| Sun                                                                       | 10-80 10-5  | Unknown / Destroyed                                                                                            |
-| Moon                                                                      | 10-80 11-5  | Unknown / Destroyed                                                                                            |
-| Antioch                                                                   | N/A         | Unknown / Destroyed                                                                                            |
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-82 1-8    | Owned by a private collector. Originally from [Benton Harbor, MI (1956 Pipestone Rd)]. |
-| [Dook Larue (Animatronic)]                        | 4-82 2-8    | Owned by ShowBiz Midwest. Originally from [Benton Harbor, MI (1956 Pipestone Rd)].     |
-| [Fatz Geronimo (Animatronic)]                     | 4-82 3-8    | Owned by a private collector. Originally from [Benton Harbor, MI (1956 Pipestone Rd)]. |
-| [Beach Bear (Animatronic)]                        | 4-82 4-8    | Owned by LKD Animatronics. Originally from [Benton Harbor, MI (1956 Pipestone Rd)].    |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-82 5-8    | Owned by a private collector. Originally from [Benton Harbor, MI (1956 Pipestone Rd)]. |
-| [Billy Bob (Animatronic)]                         | 4-82 6-8    | Unknown / Destroyed. Originally from [Benton Harbor, MI (1956 Pipestone Rd)].          |
-| [Looney Bird (Animatronic)]                       | 4-82 7-8    | Owned by Jojo King. Originally from [Benton Harbor, MI (1956 Pipestone Rd)].           |
-| [Choo Choo (Animatronic)]                         | 4-82 8-8    | Unknown / Destroyed. Originally from [Benton Harbor, MI (1956 Pipestone Rd)].          |
-| [Sun (Animatronic)]                               | 4-82 10-8   | Owned by a private collector. Originally from [Benton Harbor, MI (1956 Pipestone Rd)]. |
-| [Moon (Animatronic)]                              | 4-82 11-8   | Unknown / Destroyed. Originally from [Benton Harbor, MI (1956 Pipestone Rd)].          |
-| [Antioch (Animatronic)]                           | N/A         | Unknown / Destroyed. Originally from [Benton Harbor, MI (1956 Pipestone Rd)].          |
-| [Wink]                                            | N/A         | Owned by a private collector.                                                                                  |
-| [Chuck E Cheese 16m (Animatronic)]                | N/A         | Destroyed. Originally from [Joliet, IL (3250 Chicagoland Circle)].                     |

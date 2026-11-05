@@ -7,25 +7,3 @@ The building would be constructed by the Jarvis Construction company in 1981 at 
 ### Closing
 
 By January of 1984 the store would be reduced to 20 employees from its opening 80. Its manager was by then Steve Hilton. Steve would learn of his store's eventual closure in December of 1983, due to radio advertisements for his store set to air before New Years Eve being cancelled. On January 6, he would be officially told of his store's closure, due to poor sales, on a conference call with ShowBiz corporate. Hilton would describe the meeting as 'a tearjerker.' The store would set to close the coming Sunday on January 8th.(1)
-
-## Stage
-
-| Stage                                   | Installed      | Removed      |
-|-----------------------------------------|----------------|--------------|
-| [Classic Stage] | September 1981 | January 1984 |
-
-## Animatronics
-
-| Animatronic                                                               | Serial     | Whereabouts       |
-|---------------------------------------------------------------------------|------------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-81 1-12  | Unknown/Destroyed |
-| [Dook Larue (Animatronic)]                        | 1-81 2-12  | Unknown/Destroyed |
-| [Fatz Geronimo (Animatronic)]                     | 1-81 3-12  | Unknown/Destroyed |
-| [Beach Bear (Animatronic)]                        | 1-81 4-12  | Unknown/Destroyed |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-81 5-12  | Unknown/Destroyed |
-| [Billy Bob (Animatronic)]                         | 1-81 6-12  | Unknown/Destroyed |
-| [Looney Bird (Animatronic)]                       | 1-81 7-12  | Unknown/Destroyed |
-| [Choo Choo (Animatronic)]                         | 1-81 8-12  | Unknown/Destroyed |
-| [Sun (Animatronic)]                               | 1-81 10-12 | Unknown/Destroyed |
-| [Moon (Animatronic)]                              | 1-81 11-12 | Unknown/Destroyed |
-| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed |

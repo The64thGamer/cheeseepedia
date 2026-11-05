@@ -1,34 +1,57 @@
 {
-    "title": "Norfolk, VA (920 N Military Hwy)",
-    "storeNumber": "",
-    "startDate": "2000-06-12",
-    "endDate": "2015-05-28",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2000-06-12"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Alpha",
-            "s": "2000-06-12",
-            "e": "2015-05-28"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "36.85299297",
-        "-76.20967273"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "6ZAbNAAv2gG0UivlslTn.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Norfolk, VA (920 N Military Hwy)",
+  "storeNumber": "",
+  "startDate": "2000-06-12",
+  "endDate": "2015-05-28",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2000-06-12"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "2000-06-12",
+      "e": "2015-05-28"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "36.85299297",
+    "-76.20967273"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "6ZAbNAAv2gG0UivlslTn.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "087(R&D 4599)",
+      "desc": "Owned by Jay6"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "N/A (R&D 4599)",
+      "desc": "Owned by Jay6"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "N/A (R&D 4599)",
+      "desc": "Owned by Jay6"
+    }
+  ]
 }

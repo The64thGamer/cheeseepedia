@@ -1,54 +1,148 @@
 {
-    "title": "Bell, CA (5089 E Florence Ave)",
-    "storeNumber": "",
-    "startDate": "1982-00-00",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-10-00"
-        },
-        {
-            "n": "PTT Standard Layout",
-            "s": "1982-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1982-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E.'s House Facade (C-Stage)",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "1993-00-00",
-            "e": "2023-10-00",
-            "desc": "One of many installed in California. Replaced by Dance Floor + Video Wall in October 2023."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-10-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "33.96866107",
-        "-118.1776232"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "zDPX_KZNtIAaapON0Xd2.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Bell, CA (5089 E Florence Ave)",
+  "storeNumber": "",
+  "startDate": "1982-00-00",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-10-00"
+    },
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "desc": "One of many in Caifornia."
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "One of many in Caifornia. Looked identical to the one installed at the Torrance, CA (16920 Prairie Ave) location."
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "2023-10-00",
+      "desc": "One of many installed in California. Replaced by Chuck E. Live Stage (Dance Floor) in October 2023."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-10-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2023-10-00",
+      "e": "0000-00-00",
+      "desc": "One of many installed in California."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.96866107",
+    "-118.1776232"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "zDPX_KZNtIAaapON0Xd2.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    }
+  ]
 }

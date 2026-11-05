@@ -10,24 +10,6 @@ Akron's A&amp;P would open its doors on January 23rd, 1963, and closed on Decemb
 
 Akron opened as CEC on October 25 1993 with a 1-Stage. The store kept two Pizza Time Theatre posters, **BatMunch** and **Close Encounters of the Bird Kind**, and it would become the final store with PTT posters inside. The store remained relatively unchanged until May 2022, when it would get 2.0. The stage was removed on July 27, 2022 and replaced with the Dance Floor. The store's Grand Reopening took place on October 5th, 2022.
 
-## Stage History
-
-| Stage       | Installed    | Removed       |
-|-------------|--------------|---------------|
-| 1 Stage     | October 1993 | July 27, 2022 |
-| Dance Floor | July 2022    | In Use        |
-
-## Animatronics
-
-| Animatronic                                                  | Manufactured | Status                                                   |
-|--------------------------------------------------------------|--------------|----------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1993         | Removed July 2022, Remains owned by a private collector. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1993         | Removed July 2022, Remains owned by a private collector. |
-| [Mr. Munch (Cyberamic)]               | 1993         | Removed July 2022, Remains owned by a private collector. |
-| [Jasper T. Jowls (Cyberamic)]         | 1993         | Removed July 2022, Remains owned by a private collector. |
-| [Pasqually (Cyberamic)]              | 1993         | Removed July 2022, Remains owned by a private collector. |
-| [Wink (Cyberamic)]                   | 1993         | Removed July 2022, Unknown                               |
-
 ## Videos
 
 | Link                                         | Description                                                                                                            | Year               |

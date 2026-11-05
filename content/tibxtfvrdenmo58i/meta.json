@@ -17,5 +17,84 @@
     "<a href=\"https://www.youtube.com/watch?v=g1PMnZldBmQ\">https://www.youtube.com/watch?v=g1PMnZldBmQ</a>",
     "<a href=\"https://www.instagram.com/p/C7Xg6nGCyMA\">https://www.instagram.com/p/C7Xg6nGCyMA</a>"
   ],
-  "pageThumbnailFile": "ObbyRb8IeHIfCLESV0l9.avif"
+  "pageThumbnailFile": "ObbyRb8IeHIfCLESV0l9.avif",
+  "animatronics": [
+    {
+      "n": "Rolfe & Earl",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dook Larue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mitzi Mozzaerlla",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

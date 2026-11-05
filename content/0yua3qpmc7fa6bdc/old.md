@@ -8,29 +8,6 @@ Phoenix was the first ShowBiz Pizza Place opened in the state of Arizona, openin
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations did. They would have the RAE for a bit until November of 1990, when they would undergo Concept Unification, they were actually the 2nd ShowBiz to undergo CU, which involved turning the RAE into the Chuck E. Cheese characters. The showtape they first played, other than the CU Premiere, was the CEC September 1990 Show. As of October 2022, they still had the 3-Stage, which was the oldest 3-Stage, as all the ones before it either closed or replaced it with another stage. Their 3-Stage had many different things than all other 3-Stages, with the buildings being different, as well as the 'Pasqually's Amateur Hour' brick wall being different. The stage was in decent condition, with Chuck E. wearing the Rockstar shirt and Cool Chuck shorts, and Pasqually wearing Jasper shoes, Jasper formerly wore Pasqually's shoes, but were switched sometime in the late 2010's. Jasper also originally had Billy Bob's guitar, but switched to the Flying Cheese guitar. The Building, Moon, Munch Jr., and Pizzacam animatronics were removed between the 90's and 2000's, leaving the Wink to be the only character other than the main 5 to be left. The Wink had the 'In Pizza We Trust' phrase uncovered, which was one of the last that still had it uncovered. In December 2023, Phoenix removed their 3-Stage for a 2021 Model Dance Floor. The speakers from the 3-stage still remain to this day, despite the location being a 2.0.
 
-| Stage                                                                                             | Installed     | Removed       | Notes                                       |
-|---------------------------------------------------------------------------------------------------|---------------|---------------|---------------------------------------------|
-| [Classic Stage]                                                           | October 1983  | November 1990 | One of three ShowBiz locations in Arizona.  |
-| [Concept Unification Stage (3-Stage)]                                               | November 1990 | January 2023  | Oldest 3-Stage from 2001 until 2.0 remodel. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | January 2023  | Still In Use  | 2021 Model. First 2.0 in Arizona.           |
-
-## Animatronics
-
-| Animatronic                     | Serial Code | Whereabouts      |
-|---------------------------------|-------------|------------------|
-| Chuck E. Cheese / Rolfe DeWolfe | 10-82 1-36  | Removed, Unknown |
-| Pasqually / Dook Larue          | 10-82 2-36  | Removed, Unknown |
-| Mr. Munch / Fatz Geronimo       | 10-82 3-36  | Removed, Unknown |
-| Jasper T. Jowls / Beach Bear    | 10-82 4-36  | Removed, Unknown |
-| Helen Henny / Mitzi Mozzarella  | 10-82 5-36  | Removed, Unknown |
-| Billy Bob                       | 10-82 6-36  | Removed, Unknown |
-| Pizzacam / Looney Bird          | 10-82 7-36  | Removed, Unknown |
-| Munch Jr. / Choo Choo           | 10-82 8-36  | Removed, Unknown |
-| Building / Sun                  | 10-82 10-36 | Removed, Unknown |
-| Moon                            | 10-82 11-36 | Removed, Unknown |
-| Wink                            | N/A         | Removed, Unknown |
-| Antioch                         | N/A         | Removed, Unknown |
-
 ## Videos
 
 | Link                         | Video Title                           | Published Date / Filming Date | Credit To        |

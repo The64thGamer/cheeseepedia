@@ -4,13 +4,6 @@
 
 Originally when the store opened, they had The Rock-Afire Explosion. Kedzie’s show was reused from the Farmington Hills, MI (29955 Orchard Lake Rd)|Farmington Hills, MI location which closed the same year, until late 1991, when they would undergo the process known as Concept Unification. They would have the 3-Stage for many years, until November 2020, when they would receive the 16M Studio C Chuck E. Bot, and Studio C Beta swirl backdrop and light up mirrors from Lafayette, Indiana, which had closed at the time. The reason for the replacement was because the 3-Stage is very hard to maintain, and with parts being hard to find, they replaced the stage. On August 25th, 2024 they removed the CU Beta 16M Stage.
 
-| Stage                                                      | Installed       | Removed           | Notes                                                                                                |
-|------------------------------------------------------------|-----------------|-------------------|------------------------------------------------------------------------------------------------------|
-| Rock-Afire Explosion                                       | October 1984    | Late 1991         | Opened with Uncle Klunk.                                                                             |
-| 3-Stage                                                    | 1991/1992       | November 2020     | One of 10 ShowBiz Pizza stores in Illinois to undergo Concept Unification. Last 3-Stage in Illinois. |
-| [CU Beta 16M]                      | November 2020   | August 25th, 2024 | Last CU Beta 16m in a location.                                                                      |
-| [Chuck E Live Stage (Dance Floor)] | August 25, 2024 | N/A               |                                                                                                      |
-
 ## History
 
 Chicago (Kedzie) opened next to Kmart on November 1st, 1984 which opened nearly 2 years prior on November 18th, 1982 with the Rock-Afire Explosion band. Chicago (Kedzie) would stay the same until when they received the 1988 Remodel in 1991 removing older SPP decor for CU and other decor, added Blue and White awnings above the salad bar, added checkers around and outside the store, and still keeping the Rock-Afire Explosion band. At some point in Late 1991, Chicago (Kedzie) would undergo Concept Unification removing the Rock-Afire Explosion for the 3-Stage and changing the exterior. Sometime in 1993-1994, Chicago (Kedzie) would undergo a minor remodel removing CU decor for Record Posters. In the Late 90's, Chicago (Kedzie) would receive the Phase 2 remodel changing the exterior, removing all decor for newer decor including some Record Posters, removal of the Blue and White awnings above the salad bar which also relocated, and the removal of the ball pit for SkyTubes and Toddler Zone. Chicago (Kedzie) remained like this until around 2012 when they would receive the 2005 remodel changing the exterior and signs (logo is not on awning anymore), removing the Showroom Walls, Balcony Seating, relocating the stage, removing the Toddler Zone, and painting walls purple. The Kmart then closed down in December 2016 (day unknown). In November 2020, the show heavily malfunctioned to the point that all 3-Stage characters were destroyed and replaced by a Studio C Cappa Chuck E. bot from the now closed Lafayette, IN (100 S Creasy Lane) location making it a CU Beta 16M, a Studio C Cappa + 3-Stage mix. On August 25, 2024, Kedzie received the 2.0 remodel with the video wall and dance floor.
@@ -31,21 +24,3 @@ Chicago (Kedzie) opened next to Kmart on November 1st, 1984 which opened nearly 
 | [link](https://youtu.be/Che_CgdYT_U?si=30aN4HJ5SHNekHJ-) | The 3-Stage preforming Jasper's Country Classic                     | February 2019                              |
 | [link](https://youtu.be/3n3t5D_RI10?si=UhHWQXHOBshFMC8D) | The 3-Stage preforming Cookies for Santa                            | December 8, 2019                           |
 | [link](https://youtu.be/lWlcsAhANxw?si=SZbF-kX6_egvUbaY) | The 3-Stage preforming Out of this World                            | August 20, 2020                            |
-
-## Animatronics
-
-| Animatronic                                                               | Serial    | Whereabouts                                                                      |
-|---------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-82 1-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| [Dook Larue (Animatronic)]                        | 7-82 2-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| [Fatz Geronimo (Animatronic)]                     | 7-82 3-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| [Beach Bear (Animatronic)]                        | 7-82 4-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| [Mitzi Mozzarella (Animatronic)]                  | 7-82 5-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| [Billy Bob (Animatronic)]                         | 7-82 6-9  | Unknown/Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd). |
-| [Looney Bird (Animatronic)]                       | 7-82 7-9  | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| [Choo Choo (Animatronic)]                         | 7-82 8-9  | Unknown/Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd). |
-| [Sun (Animatronic)]                               | 7-82 10-9 | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| [Moon (Animatronic)]                              | 7-82 11-9 | Destroyed. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).         |
-| [Antioch (Animatronic)]                           | N/A       | Unknown. Originally from Farmington Hills, MI (29955 Orchard Lake Rd).           |
-| [Wink]                                            | N/A       | Destroyed.                                                                       |
-| Chuck E. Cheese 16M (Studio C)                                            | 1127      | Destroyed. Originally from Lafayette, IN (100 S Creasy Lane).                    |

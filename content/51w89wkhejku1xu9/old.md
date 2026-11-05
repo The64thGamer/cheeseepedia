@@ -2,16 +2,11 @@
 
 ## History:
 
-Grand Chute, also known as Appleton, opened on March 19th, 1998, with the 1993 Remodel, Due to this being one of the first [Studio C Alpha]s to be installed the store featured record posters instead of the normal Must C TVs. The rest of the posters were the same ones that would be seen in any store that gained the 1993 remodel and with that they also had showroom walls. By 2014, they'd receive purple walls and would remove the shelves in the showroom. Otherwise, the original exterior, most of the original décor, and even the showroom walls were left intact. The apple TV was also removed by then but replaced with a regular smaller screen. They would have this until sometime on September 23, 2019, when they would undergo the 2.0 remodel, this meant removing the animatronic stage and replacing it with a [Chuck E Live Stage (Dance Floor)], this would also mark the removal for all the 90s décor and removal of the show room walls. The store would have its Grand Re-Opening on December 3, 2019. This remodel would only last 6 months as in June 2020 the store would permanently close because of the COVID-19 pandemic, and CEC Entertainment filing for Chapter 11 Bankruptcy during that time. After closure, Grand Chute sent several games and other things to the [Green Bay, WI (1273 Lombardi Access)] location. On February 26, 2022 'Sapphire Moon Chocolates' moved in which reused the entire former CEC leaving everything that hadn't been removed prior or featured the CEC Branding on it.
+Grand Chute, also known as Appleton, opened on March 19th, 1998, with the 1993 Remodel, Due to this being one of the first [Studio C Alpha]s to be installed the store featured record posters instead of the normal Must C TVs. The rest of the posters were the same ones that would be seen in any store that gained the 1993 remodel and with that they also had showroom walls. By 2014, they'd receive purple walls and would remove the shelves in the showroom. Otherwise, the original exterior, most of the original décor, and even the showroom walls were left intact. The apple TV was also removed by then but replaced with a regular smaller screen. They would have this until sometime on September 23, 2019, when they would undergo the 2.0 remodel, this meant removing the animatronic stage and replacing it with a [Chuck E. Live Stage (Dance Floor)], this would also mark the removal for all the 90s décor and removal of the show room walls. The store would have its Grand Re-Opening on December 3, 2019. This remodel would only last 6 months as in June 2020 the store would permanently close because of the COVID-19 pandemic, and CEC Entertainment filing for Chapter 11 Bankruptcy during that time. After closure, Grand Chute sent several games and other things to the [Green Bay, WI (1273 Lombardi Access)] location. On February 26, 2022 'Sapphire Moon Chocolates' moved in which reused the entire former CEC leaving everything that hadn't been removed prior or featured the CEC Branding on it.
 
 ## Stage:
 
-Originally when Grand Chute opened, they had a [Studio C Alpha] stage, they also had an interactive console which featured a [Chinese copy of Flint Stones Memory Match](https://archive.org/details/arcade_fredmem) (1) This would be removed between 2014 - June 2016. In October 2019 the [Studio C Alpha] would be removed and replaced with a [Chuck E Live Stage (Dance Floor)]. They would only have this until June of 2020, when they closed. They were either the second to last or third last Alpha in Wisconsin, as Racine received 2.0 in 2019 as well, leaving [Brookfield, WI (19125 W Blue Mound Rd)], the very first Studio C Alpha, to be the last in the state of Wisconsin.
-
-| Stage                                                      | Installed    | Removed      |
-|------------------------------------------------------------|--------------|--------------|
-| [Studio C Alpha]                   | March 1998   | October 2019 |
-| [Chuck E Live Stage (Dance Floor)] | October 2019 | June 2020    |
+Originally when Grand Chute opened, they had a [Studio C Alpha] stage, they also had an interactive console which featured a [Chinese copy of Flint Stones Memory Match](https://archive.org/details/arcade_fredmem) (1) This would be removed between 2014 - June 2016. In October 2019 the [Studio C Alpha] would be removed and replaced with a [Chuck E. Live Stage (Dance Floor)]. They would only have this until June of 2020, when they closed. They were either the second to last or third last Alpha in Wisconsin, as Racine received 2.0 in 2019 as well, leaving [Brookfield, WI (19125 W Blue Mound Rd)], the very first Studio C Alpha, to be the last in the state of Wisconsin.
 
 TODO
 
@@ -24,10 +19,3 @@ TODO
 | https://www.youtube.com/watch?v=QC8ykjPpR6c  | Abandoned Chuck E. Cheese Grand chute Wisconsin                                 | September 6, 2020        |
 | https://www.youtube.com/watch?v=IzJjjG-pSgQ  | Abandoned Chuck E. Cheese’s Location In Grand Chute, Wisconsin                  | September 14, 2020       |
 | https://www.youtube.com/watch?v=7qi15XVihIE  | Sapphire Moon Chocolates - Reopened store with old remains of Chuck E. Cheese 🌹 | October 1, 2022          |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts                                                         |
-|------------------------------------------------------------|--------|---------------------------------------------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 005    | Destroyed, valve board and possibly other parts sent to Brookfield. |
-| Parrot (Animatronic)\|Bird                                 | N/A    | Destroyed                                                           |

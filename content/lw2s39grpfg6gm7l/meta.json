@@ -43,5 +43,98 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Retrofitted, 1986"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Retrofitted, 1986"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Retrofitted, 1986"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Retrofitted, 1986"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Retrofitted, 1986"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Kept on Display, Destroyed 2016"
+    },
+    {
+      "n": "Clapper Board",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Removed 2000's, Unknown"
+    },
+    {
+      "n": "Flag Wavers",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Removed 2000's, Unknown"
+    },
+    {
+      "n": "Marc (Chuck E. Cheese Retrofit)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Removed 2000's, Unknown"
+    },
+    {
+      "n": "Rita (Helen Henny Retrofit)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Removed 2000's, Unknown"
+    },
+    {
+      "n": "Ally (Mr. Munch Retrofit)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Removed 2000's, Unknown"
+    },
+    {
+      "n": "Fletch (Jasper T. Jowls Retrofit)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Removed 2000's, Unknown"
+    },
+    {
+      "n": "Chops (Pasqually Retrofit)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Removed 2000's, Unknown"
+    }
   ]
 }

@@ -8,28 +8,6 @@
 
 Originally when the store opened, they had a Rock-Afire Explosion like every other ShowBiz location. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. They would still have this until November 2011 when they would close due to numerous issues.
 
-| Stage                                               | Installed     | Removed       | Notes                                                                                           |
-|-----------------------------------------------------|---------------|---------------|-------------------------------------------------------------------------------------------------|
-| [Classic Stage]             | November 1981 | 1991-1992     | 1st ShowBiz Store to open in Indiana.                                                           |
-| [Concept Unification Stage (3-Stage)] | 1991-1992     | December 2011 | One of 7 ShowBiz stores in Indiana to get Concept Unification. Third to last 3-Stage in Indiana |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Code | Whereabouts |
-|---------------------------------------------------------------------------|-------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-7    | Unknown     |
-| [Dook Larue (Animatronic)]                        | 4-81 2-7    | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | 4-81 3-7    | Unknown     |
-| [Beach Bear (Animatronic)]                        | 4-81 4-7    | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-7    | Unknown     |
-| [Billy Bob (Animatronic)]                         | 4-81 6-7    | Unknown     |
-| [Looney Bird (Animatronic)]                       | 4-81 7-7    | Unknown     |
-| [Choo Choo (Animatronic)]                         | 4-81 8-7    | Unknown     |
-| [Sun (Animatronic)]                               | 4-81 10-7   | Unknown     |
-| [Moon (Animatronic)]                              | 4-81 11-7   | Unknown     |
-| [Antioch (Animatronic)]                           | N/A         | Unknown     |
-| [Wink]                                            | N/A         | Unknown     |
-
 ## YouTube Videos
 
 |                                                     |                                               |                  |

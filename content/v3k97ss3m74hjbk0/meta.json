@@ -166,6 +166,12 @@
       "n": "Studio C Alpha",
       "s": "1999-09-00",
       "e": "2009-00-00"
+    },
+    {
+      "n": "Studio C (1997)|Studio C Alpha",
+      "s": "1999-09-00",
+      "e": "0000-00-00",
+      "desc": "2nd Alpha in Arizona."
     }
   ],
   "downloadLinks": [],

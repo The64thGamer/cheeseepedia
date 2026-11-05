@@ -4,24 +4,6 @@
 
 West Palm Beach opened on December 18th, 1990, with one of three (Excluding Corporate) Prototype Road Stages (The others being [Jonesboro, GA (335 Upper Riverdale Rd)] &amp; [Springfield, PA (381 Baltimore Pike)]) in a freestanding building located in the Pine Trail Shopping Center. This store was known to have no ceilings due to the previous tenant (Which was unknown). They opened with the 1988 update to the 1986 SPT Remodel Program, containing checkers around the store, awnings above the menu, prize area, and salad bar, late '80s décor, and of course, the Prototype Road Stage itself. In 1991/1992, the Road Stage Prototype was removed and replaced with a finalized one which also had no ceiling. By 1993, the store received another minor remodel which involved replacing some of the decor with 1990's decor. The store then received another remodel in the Mid-Late 1990s which involved removing elements from the 1988 Update and replacing them with new decor from that time and the exterior signage was replaced which was the store's final remodel. In December 2004, the store was closed due to hurricane damage. The store remained vacant for a few years until the building was demolished for a TD Bank in around 2007. As of June 2023, TD Bank still remains on the site.
 
-## Stages
-
-| Stage                                           | Installed     | Removed       | Notes                                                                                                                                                     |
-|-------------------------------------------------|---------------|---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Road Stage] | December 1990 | 1991/1992     | Third and final Road Stage Prototype Installed (Excluding Corporate). One of 4 Prototypes produced. Converted into the finalized Road Stage in 1991/1992. |
-| [Road Stage] | 1991/1992     | December 2004 | One of many Road Stages in Florida.                                                                                                                       |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturer Date | Whereabouts | Notes                                        |
-|--------------------------------------------------------------|-------------------|-------------|----------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]         | Unknown           | Unknown.    | Removed after a Hurricane.                   |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown           | Unknown.    | Removed after a Hurricane.                   |
-| [Mr. Munch (Cyberamic)]               | Unknown           | Unknown.    | Removed after a Hurricane.                   |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown           | Unknown.    | Removed after a Hurricane.                   |
-| [Pasqually (Cyberamic)]              | Unknown           | Unknown.    | Removed after a Hurricane.                   |
-| [Wink (Cyberamic)]                   | 1991/1992         | Unknown.    | Added when converted to finalized Road Stage |
-
 ## Arcade Machines
 
 ### Identified Machines

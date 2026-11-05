@@ -1,43 +1,78 @@
 {
-    "title": "Dallas, TX (13364 Montfort Dr)",
-    "storeNumber": "",
-    "startDate": "2001-12-21",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2001-12-21"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2001-12-21",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Star Stage",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Circles of Light",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "32.92971437",
-        "-96.81218158"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "T3QEJAmQA344Gbf4V0Sq.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Dallas, TX (13364 Montfort Dr)",
+  "storeNumber": "",
+  "startDate": "2001-12-21",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2001-12-21"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2001-12-21",
+      "e": "2010-04-00"
+    },
+    {
+      "n": "Star Stage",
+      "s": "2010-04-00",
+      "e": "2012-08-00"
+    },
+    {
+      "n": "Circles of Light",
+      "s": "2012-08-00"
+    },
+    {
+      "n": "Dance Floor",
+      "s": "2014-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.92971437",
+    "-96.81218158"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "T3QEJAmQA344Gbf4V0Sq.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "155",
+      "desc": "Sent to Port Orange, FL (5539 S Williamson Blvd); Destroyed in building demolition."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed in April 2010"
+    },
+    {
+      "n": "Star Stage Flowers (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed in August 2012"
+    },
+    {
+      "n": "Star Stage Pasqually (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed in August 2012"
+    }
+  ]
 }

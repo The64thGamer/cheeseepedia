@@ -8,21 +8,4 @@ Garden Grove (Harbor) opened its doors in November 1981 with a Balcony Stage. It
 
 Sometime between 1989 and 1990, the location installed the short-lived [Chuck E.'s House Facade (C-Stage)]. In the Early 90's, the C Stage was removed for the 2-Stage, with this being its last animatronic show. During their 2.0 remodel in August 2022, the 2-Stage was removed with everything destroyed during store hours. All Six of the Cyberamics were left out in the open near an exit in the showroom and trashed later that night.
 
-## Animatronics
-
-| Character                                                    | Manufacturing Date | Status                                                |
-|--------------------------------------------------------------|--------------------|-------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Destroyed. Feet and Ear owned by Michael Armenta.     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Destroyed.                                            |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Destroyed. Remains owned by Private Collector.        |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Destroyed. Remains owned by Private Collector.        |
-| [Pasqually (Cyberamic)]              | Unknown            | Destroyed. Brim of Chef Hat owned by Michael Armenta. |
-| [Wink (Cyberamic)]                   | N/A                | Destroyed. Remains owned by Private Collector.        |
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown / Destroyed.                                  |
-| [Singing Flowers (Cyberamic)]        | Unknown            | Unknown / Destroyed.                                  |
-| [Flag Wavers (Cyberamic)]            | Unknown            | Unknown / Destroyed.                                  |
-| [Clapper Board (Cyberamic)]                                    | Unknown            | Unknown / Destroyed.                                  |
-| [Drum Board (Cyberamic)]             | Unknown            | Unknown / Destroyed.                                  |
-| [The King / King Kat (Lounge)]         | Unknown            | Unknown / Destroyed.                                  |
-
 ## Videos

@@ -1,42 +1,52 @@
 {
-    "title": "Miami (Kendall), FL (8701 SW 124th Ave)",
-    "storeNumber": "",
-    "startDate": "2000-12-04",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2000-12-04"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "0000-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Alpha",
-            "s": "2000-12-04",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "25.68631577",
-        "-80.39365283"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Miami (Kendall), FL (8701 SW 124th Ave)",
+  "storeNumber": "",
+  "startDate": "2000-12-04",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2000-12-04"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "0000-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "2000-12-04",
+      "e": "2022-03-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Dance Floor",
+      "s": "2022-03-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Video Wall",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "25.68631577",
+    "-80.39365283"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
 }

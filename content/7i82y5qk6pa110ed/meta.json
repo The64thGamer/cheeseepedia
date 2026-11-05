@@ -33,12 +33,14 @@
     {
       "n": "Balcony Stage",
       "s": "1983-03-00",
-      "e": "1988-00-00"
+      "e": "1988-00-00",
+      "desc": "20th Pizza Time Theatre Store to open in Florida"
     },
     {
       "n": "Chuck E.'s House Facade (C-Stage)",
       "s": "1988-00-00",
-      "e": "1995-00-00"
+      "e": "1995-00-00",
+      "desc": "One of 2 installed in Florida"
     },
     {
       "n": "2-Stage",
@@ -60,6 +62,18 @@
     {
       "n": "Video Wall",
       "s": "2022-12-00"
+    },
+    {
+      "n": "Studio C Beta, 16m",
+      "s": "0000-00-00",
+      "e": "2022-12-00",
+      "desc": "Last 16M Beta in Florida"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2022-12-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model"
     }
   ],
   "franchisees": [],
@@ -158,6 +172,20 @@
       "desc": "Added upon installation of Studio C Beta. Removed in 2.0 remodel and subsequently destroyed.",
       "s": "2005-00-00",
       "e": "2022-12-00"
+    },
+    {
+      "n": "Clapper Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed."
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed."
     }
   ]
 }

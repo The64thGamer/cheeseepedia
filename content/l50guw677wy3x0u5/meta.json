@@ -1,34 +1,85 @@
 {
-    "title": "Eau Claire, WI (2221 Eastridge Center)",
-    "storeNumber": "",
-    "startDate": "1987-04-30",
-    "endDate": "1989-12-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1987-04-30"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Chuck E.'s House (Rocker Stage)",
-            "s": "1987-04-30",
-            "e": "1989-12-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "44.79489202",
-        "-91.46540398"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Eau Claire, WI (2221 Eastridge Center)",
+  "storeNumber": "",
+  "startDate": "1987-04-30",
+  "endDate": "1989-12-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1987-04-30"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Chuck E.'s House (Rocker Stage)",
+      "s": "1987-04-30",
+      "e": "1989-12-00",
+      "desc": "Second Chuck E.'s House installed."
+    },
+    {
+      "n": "Classic Stage (persumed)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Unknown if installed or not"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "44.79489202",
+    "-91.46540398"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1987-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Helen Henny (Cyberamic)|Helen Henny (Cyberamic)",
+      "s": "1987-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1987-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1987-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1987-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "1987-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

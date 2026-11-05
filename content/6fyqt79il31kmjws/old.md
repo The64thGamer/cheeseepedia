@@ -8,31 +8,6 @@ Torrance (Prairie) opened in 1983 and originally had a Balcony Stage and was a f
 
 Originally when the store opened, they had a Balcony Stage, as all other Pizza Time Theatres did. Unfortunately, there were not many photos or videos of Torrance (Prairie) back then. They would have it for a few years until 1989/1990, when they would receive a C-Stage (Chuck E.'s House Facade (C-Stage)), they would have it for a short time until the mid 1990's, when they would receive a 2-Stage. They would have the 2-Stage for many years, until January 2023, when they would remove the 2-Stage for a Dance Floor and Video Wall, as a part of the 2.0 Remodel. Currently, as of February 2023, they still have the Dance Floor and Video Wall.
 
-| Stage                                                                                             | Installed       | Removed         | Notes                                                                                                                                     |
-|---------------------------------------------------------------------------------------------------|-----------------|-----------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| [Balcony Stage]                                                | 1983            | 1989/1990       | One of many in Caifornia.                                                                                                                 |
-| [Chuck E.'s House Facade (C-Stage)]                                                  | 1989/1990       | Mid-Late 1990's | One of many in Caifornia. Looked identical to the one installed at the [Bell, CA (5089 E Florence Ave)] location. |
-| [2-Stage]                                                                 | Mid-Late 1990's | January 2023    | One of many in Caifornia.                                                                                                                 |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | January 2023    | Still In Use    | 2019 Model                                                                                                                                |
-
-## Animatronics
-
-| Animatronic                                                  | Serial Number | Whereabouts       |
-|--------------------------------------------------------------|---------------|-------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | N/A           | Destroyed         |
-| [Guest Star / Helen Henny (Cyberamic)] | N/A           | Destroyed         |
-| [Mr. Munch (Cyberamic)]               | N/A           | Destroyed         |
-| [Jasper T. Jowls (Cyberamic)]         | N/A           | Destroyed         |
-| [Pasqually (Cyberamic)]              | N/A           | Destroyed         |
-| [Warblettes (Cyberamic)]             | N/A           | Unknown/Destroyed |
-| [Flag Wavers (Cyberamic)]                                     | N/A           | Unknown/Destroyed |
-| [Applause Board (Cyberamic)]         | N/A           | Unknown/Destroyed |
-| [Drum Board (Cyberamic)]             | N/A           | Unknown/Destroyed |
-| [Singing Flowers (Cyberamic)]        | N/A           | Unknown/Destroyed |
-| [Dolli Dimples (Cabaret)]            | N/A           | Unknown/Destroyed |
-| [The King / King Kat (Lounge)]         | N/A           | Unknown/Destroyed |
-| [Wink (Cyberamic)]                   | N/A           | Destroyed         |
-
 ## Videos
 
 | Link                                                      | Description                                                                                                                       | Filming Date           | Published Date    |

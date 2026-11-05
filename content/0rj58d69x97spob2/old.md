@@ -10,12 +10,6 @@ Colerain started [Concept Unification Installation Manual] on April 28, 1991(4),
 
 In October 2016 Helens Latex Legs were replaced with the fabric variant. In 2017 Chuck E. Cheese would receive a new mask although with no teeth. December 2017 marked the end of the Moon as he was thrown out and destroyed. Helen would receive a new mask in Summer 2018 with the Buildings mask and lift removed but the base of the mech remaining. At the same time as that the CRT TV was removed from stage right with a replacement flat screen installed in Fall 2018. In Fall 2018 the condition of the stage would improve majorly although not for long as on September 22, 2019 the store would close and the show split up for parts / landfill. Parts of the show being sent to [Springfield, OH (2345 Valley Loop Rd)] such as Chucks Avenger Outfit, Jaspers Bin, &amp; parts of Pasqually's Drums (Although never used) (5)
 
-| Stage                                               | Debuted           | Removed            |
-|-----------------------------------------------------|-------------------|--------------------|
-| [Classic Stage]             | November 11, 1981 | May 2, 1991        |
-| [Concept Unification Stage (3-Stage)] | May 3, 1991       | September 22, 2019 |
-|                                                     |                   |                    |
-
 ## History
 
 The Colerain Ave ShowBiz Pizza Place opened up November 11, 1981 opening in front of the former Gold Circle Mall as the 2nd ShowBiz Pizza Store in Ohio (2nd after [Sharonville, OH (1429 E Kemper Rd)]). The store featured 'The Show Room, Sports Room, 60 Arcade games, a merry-go-round, and 'a magic cave'.' Fun Fact Colerain had unique showroom walls which unlike normal stores had an entrance in the middle of the wall. In 1982 apart of support for the Bengals getting into Super Bowl XVI ShowBiz Pizza ran a promotion at Colerain &amp; [Sharonville, OH (1429 E Kemper Rd)]. The event would happen January 24th in which you'd watch the event on a 'Wide Screen TV' and also bring in cans of soup in return 'Four Free Game Tokens and the soup goes to charity'. (6)
@@ -91,21 +85,3 @@ Between October - November 2024 Colerain would receive minor "renovations" in th
 | [link](https://www.youtube.com/watch?v=cZdiUYeanFs)      | Footage of the store during and after cleanout.                                                            | September 24, 2019, October 3, 2019    |
 | [link](https://youtu.be/ZJk7YRR5qVo)                     | The store at night after closing (2 Years later)                                                           | September 18, 2021                     |
 | [link](https://www.youtube.com/watch?v=ifQNHVBx2Z4&t=9s) | A step into the abandoned building, showing what's left of Colerain after closure.                         | October 13, 2023                       |
-
-## Animatronics
-
-| Character                                                                 | Serial    | Status                                    |
-|---------------------------------------------------------------------------|-----------|-------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-8  | Dismantled during cleanout                |
-| [Dook Larue (Animatronic)]                        | 4-81 2-8  | Owned by a Private Collector              |
-| [Fatz Geronimo (Animatronic)]                     | 4-81 3-8  | Dismantled during cleanout                |
-| [Beach Bear (Animatronic)]                        | 4-81 4-8  | Owned by a Private Collector              |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-8  | Owned by a Private Collector              |
-| [Billy Bob (Animatronic)]                         | 4-81 6-8  | Unknown/Destroyed                         |
-| [Looney Bird (Animatronic)]                       | 4-81 7-8  | Unknown/Destroyed                         |
-| [Choo Choo (Animatronic)]                         | 4-81 8-8  | Unknown/Destroyed                         |
-| [Sun (Animatronic)]                               | 4-81 11-8 | Unknown/Destroyed                         |
-| [Moon (Animatronic)]                              | 4-81 11-8 | Unknown/Destroyed                         |
-| [Antioch (Animatronic)]                           | N/A       | Unknown/Destroyed                         |
-| [Uncle Klunk (Animatronic)]                       | N/A       | Unknown/Destroyed                         |
-| [Wink]                                            | N/A       | Intact during cleanout, currently unknown |

@@ -1,11 +1,5 @@
 ***Toledo, OH (5455 Airport Hwy), Store #554*** is a *Chuck E. Cheese's* that opened on September 6th, 1993 with a [1-Stage]. It still exists as of today, in good condition except for a few mechanical issues. Currently running Legacy Showtapes. This store is notable for being featured in a 2011 video where a Chuck E walkaround's head fell off during a Cupid Shuffle live show.
 
-## Stages
-
-| Stage                             | Installed      | Removed       | Notes                    |
-|-----------------------------------|----------------|---------------|--------------------------|
-| [1-Stage] | September 1993 | Still in use. | Last MMBB Stage in Ohio. |
-
 ## History
 
 W.I.P
@@ -19,14 +13,3 @@ W.I.P
 | Link                                              | Description                                        | Filming/Publish date |
 |---------------------------------------------------|----------------------------------------------------|----------------------|
 | https://youtu.be/Vr4tZkGoz\_c?si=xzTRZ3uML3EDq-Aq | Footage of 5455 Airport Hwy using Legacy Showtapes | May 18, 2025         |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts |
-|--------------------------------------------------------------|--------------------|-------------|
-| [Chuck E. Cheese (Cyberamic)]      | Unknown            | In store.   |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | In store.   |
-| [Mr. Munch (Cyberamic)]               | Unknown            | In store.   |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | In store.   |
-| [Pasqually (Cyberamic)]              | Unknown            | In store.   |
-| [Wink (Cyberamic)]                   | Unknown            | In store.   |

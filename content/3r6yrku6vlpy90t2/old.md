@@ -14,22 +14,6 @@ When Corpus Christi opened, it housed a Balcony Stage like the other Pizza Time 
 
 ## Animatronics
 
-| Character                                                    | Manufacturing Date | Status                                                                   |
-|--------------------------------------------------------------|--------------------|--------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Destroyed                                                                |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Destroyed                                                                |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Destroyed                                                                |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Destroyed                                                                |
-| [Pasqually (Cyberamic)]              | Unknown            | Destroyed                                                                |
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown / Destroyed                                                      |
-| [Singing Flowers (Cyberamic)]        | Unknown            | Unknown / Destroyed                                                      |
-| [Flag Wavers (Cyberamic)]                                     | Unknown            | Owned by [Matt the Franchize](https://www.youtube.com/@MattTheFranchize) |
-| [Clapper Board (Cyberamic)]                                    | Unknown            | Unknown / Destroyed                                                      |
-| Band Board (Cyberamic)                                       | Unknown            | Unknown / Destroyed                                                      |
-| [The King / King Kat (Lounge)]         | Unknown            | Unknown / Destroyed                                                      |
-| [Chuck E Cheese 16m (Animatronic)]   | 2003               | Destroyed                                                                |
-| [Pizza Time Clock (Animatronic)]     | 2003               | Destroyed                                                                |
-
 [1980's-1996](https://www.showbizpizza.com/photos/ptt/tx_corpus/index.html) [2002-2007](https://www.showbizpizza.com/photos/cec/tx_corpus/index.html)
 
 ## Videos

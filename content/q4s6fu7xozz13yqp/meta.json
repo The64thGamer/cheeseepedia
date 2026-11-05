@@ -18,8 +18,15 @@
     },
     {
       "n": "Studio C Beta",
-      "s": "0000-00-00",
-      "e": "2020-11-17"
+      "s": "2007-05-00",
+      "e": "2020-11-17",
+      "desc": "Gemini sent to the Orlando (East), FL (449 N Alafaya Trail) location, now removed."
+    },
+    {
+      "n": "3-Stage",
+      "s": "1991-12-00",
+      "e": "2007-05-00",
+      "desc": "Show was from a stage that was from Creative Engineering, Inc."
     }
   ],
   "franchisees": [],
@@ -36,5 +43,91 @@
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 1-?",
+      "desc": "Unknown. From Creative Engineering, Inc."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 2-?",
+      "desc": "Unknown. From Creative Engineering, Inc."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 3-?",
+      "desc": "Unknown. From Creative Engineering, Inc."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 4-?",
+      "desc": "Unknown. From Creative Engineering, Inc."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 5-?",
+      "desc": "Unknown. From Creative Engineering, Inc."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 7-?",
+      "desc": "Unknown. From Creative Engineering, Inc."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 8-?",
+      "desc": "Unknown. From Creative Engineering, Inc."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 10-?",
+      "desc": "Unknown. From Creative Engineering, Inc."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "??-8? 11-?",
+      "desc": "Unknown. From Creative Engineering, Inc."
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
   ]
 }

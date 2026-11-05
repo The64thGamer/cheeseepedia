@@ -1,44 +1,88 @@
 {
-    "title": "Stafford, TX (11920 Southwest Fwy)",
-    "storeNumber": "",
-    "startDate": "1992-09-22",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1992-09-22"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-08-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "2-Stage",
-            "s": "1992-09-00",
-            "e": "2022-07-00",
-            "desc": "Replaced by Dance Floor + Video Wall."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-08-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "29.64799702",
-        "-95.57286983"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Stafford, TX (11920 Southwest Fwy)",
+  "storeNumber": "",
+  "startDate": "1992-09-22",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1992-09-22"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-08-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "2-Stage",
+      "s": "1992-09-00",
+      "e": "2022-07-00",
+      "desc": "Replaced by Chuck E. Live Stage (Dance Floor)."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-08-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "29.64799702",
+    "-95.57286983"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Remains owned by a Private Collector."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
+  ]
 }

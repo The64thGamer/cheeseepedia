@@ -1,49 +1,100 @@
 {
-    "title": "Roseville, MI (31920 Gratiot Ave)",
-    "storeNumber": "",
-    "startDate": "1991-04-22",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1991-04-22"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2021-08-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Road Stage",
-            "s": "1991-04-22",
-            "e": "1995-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "1996-00-00",
-            "e": "2021-00-00",
-            "desc": "Replaced by Dance Floor + Video Wall."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2021-08-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "42.52935727",
-        "-82.91348733"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Roseville, MI (31920 Gratiot Ave)",
+  "storeNumber": "",
+  "startDate": "1991-04-22",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1991-04-22"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2021-08-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-04-22",
+      "e": "1995-00-00",
+      "desc": "Only Road Stage in Michigan."
+    },
+    {
+      "n": "2-Stage",
+      "s": "1996-00-00",
+      "e": "2021-00-00",
+      "desc": "Replaced by Chuck E. Live Stage (Dance Floor)."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2021-08-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.52935727",
+    "-82.91348733"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Mask sent to Toledo, OH (5455 Airport Hwy)."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Wink",
+      "s": "1991-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
+  ]
 }

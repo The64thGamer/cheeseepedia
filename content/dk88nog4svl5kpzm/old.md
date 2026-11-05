@@ -8,12 +8,6 @@ The Mall at Whitney Field originally opened in 1967 as the Searstown Mall. Not m
 
 As stated before, Leominster had the second generation Studio C Cappa. Leominster's Chuck E. bot originally featured the Cool Chuck outfit. They would later receive the Avenger outfit by 2011. Sometime between 2018-2019, the top half of the bot would be replaced with the half from Rochester, NY (Ridge). Leominster would keep the Cappa until they closed. The Cappa would be demolished during closure, with the bot's head going to the Pittsburgh, PA store.
 
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts                                                                                                                                                            |
-|------------------------------------------------------------|--------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A    | Top half replaced with the one from Rochester, NY. Disassembled for parts, head sent to [Pittsburgh, PA (20 McIntyre Square Dr)], now removed. |
-
 ## Videos
 
 | Link                                                       | Description                                          | Filming Date |

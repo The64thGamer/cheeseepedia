@@ -17,23 +17,31 @@
     {
       "n": "Balcony Stage",
       "s": "1982-08-08",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "2nd Pizza Time Theatre to open in Pennsylvania."
     },
     {
       "n": "Chuck E.'s House Facade (C-Stage)",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "One of 4 installed in Pennsylvania."
     },
     {
       "n": "2-Stage",
       "s": "1993-00-00",
       "e": "2019-08-00",
-      "desc": "One of 7/8 2-Stages installed in Pennsylvania. Relocated to a different part of the store during the 2005 Update. Destroyed in 2019 flood and Replaced by Dance Floor + Video Wall."
+      "desc": "One of 7/8 2-Stages installed in Pennsylvania. Relocated to a different part of the store during the 2005 Update. Destroyed in 2019 flood and Replaced by Chuck E. Live Stage (Dance Floor)."
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2019-08-00",
       "desc": "2019 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + COL Monitor",
+      "s": "2019-08-00",
+      "e": "0000-00-00",
+      "desc": "2019 Model. Has a COL TV Monitor."
     }
   ],
   "franchisees": [],
@@ -50,5 +58,91 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed in 2019 flood. Jeans sent to Levittown, PA (1283 E Lincoln Hwy). Shirt sent to Philadelphia, PA (9 Snyder Ave)."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed in 2019 flood. Mask sent to Levittown, PA (1283 E Lincoln Hwy)."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed in 2019 flood."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed in 2019 flood. Hat sent to Levittown, PA (1283 E Lincoln Hwy)."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed in 2019 flood."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed. Removed when the Showroom was relocated during the 2005 Update."
+    }
   ]
 }

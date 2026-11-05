@@ -14,10 +14,6 @@ After the store permanently closed, the location along with several other buildi
 
 The location opened with a [Studio C Beta], 16m, which would be kept until the store’s closure in 2014. After closing the TV Portion of the Studio C Beta would be sent to [Miamisburg, OH (30 Prestige Place)].
 
-| Stage                                   | Installed | Removed        |
-|-----------------------------------------|-----------|----------------|
-| [Studio C Beta] | 2007      | September 2014 |
-
 ## Arcade Machines
 
 - Deep Sea Treasures
@@ -42,10 +38,3 @@ The location opened with a [Studio C Beta], 16m, which would be kept until the s
 - Chuck E Cheese Safari Photos Truck
 - Angel Carousel
 - Barney Train Ride
-
-## Animatronics
-
-| Animatronics                                               | Serial Number | Whereabouts |
-|------------------------------------------------------------|---------------|-------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A           | Unknown     |
-| [Pizza Time Clock (Animatronic)]   | N/A           | Unknown     |

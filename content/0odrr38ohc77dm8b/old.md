@@ -12,14 +12,3 @@ When they were opened, they only had a [Balcony Stage]. After closure, the bots 
 |----------------------------------------------------|-----------|---------|
 | Stage                                              | Installed | Removed |
 | [Balcony Stage] | June 1981 | 1985    |
-
-## Animatronics
-
-| Animatronics                                                 | Manufacturing Date | Status  |
-|--------------------------------------------------------------|--------------------|---------|
-| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown |
-| [Pasqually (Cyberamic)]              | Unknown            | Unknown |
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown |

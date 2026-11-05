@@ -4,23 +4,7 @@
 
 Stevenson Ranch opened on March 4, 1998 with a 1-Stage. The 1-Stage would remain until January 2023, when the store would receive the [CEC 2.0 Remodel Program], removing the 1-Stage in favor of a dance floor and video wall. The animatronics would be sent to the [Pasadena, CA (3737 E Foothill Blvd)] location, which would have its stage and animatronics removed in their remodel in February 2024.
 
-## Animatronics
-
-| Animatronic                                                  | Whereabouts                                                               |
-|--------------------------------------------------------------|---------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel. |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel. |
-| [Mr. Munch (Cyberamic)]               | Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel. |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel. |
-| [Pasqually (Cyberamic)]              | Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel. |
-| [Wink (Cyberamic)]                   | Unknown/destroyed                                                         |
-
 ## Stages
-
-| Stage                                                                                             | Installed    | Removed                              | Notes                           |
-|---------------------------------------------------------------------------------------------------|--------------|--------------------------------------|---------------------------------|
-| [1-Stage]                                                                 | March 1998   | January 2023, bots sent to Pasadena. | Third to last 1-stage installed |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | January 2023 | Still in use                         | 2021 model with video wall      |
 
 WIP
 

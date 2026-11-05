@@ -8,17 +8,6 @@ Stafford opened its doors on September 22nd, 1992 next to the freeway. Stafford 
 
 When Stafford opened, it housed a 2-Stage like the other locations that opened at the time. In July 2022, Stafford received the 2.0 remodel and removed their 2-Stage for the Dance Floor and Video Wall.
 
-## Animatronics
-
-| Character                                                    | Manufacturing Date | Status                                           |
-|--------------------------------------------------------------|--------------------|--------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | Unknown            | Destroyed.                                       |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Destroyed. Remains owned by a Private Collector. |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Destroyed.                                       |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Destroyed.                                       |
-| [Pasqually (Cyberamic)]              | Unknown            | Destroyed.                                       |
-| [Wink (Cyberamic)]                   | Unknown            | Destroyed.                                       |
-
 ## Videos
 
 TODO

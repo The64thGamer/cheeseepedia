@@ -8,22 +8,6 @@ The show was installed in 1995 and ran off the original Greybox control system c
 
 On 27 February 2022 Instagram user 'xan_rock_afire_fan' announced that he would be restoring all 3 of Gulliver's Hard Luck Bears shows.(3) The restoration included a full mechanical restoration, a switch to the 'BlueBox' control system, Looney Bird being relocated to the Rock-afire standard position and the shows lights being switched over to LED lights, with only the spotlights staying as the original halogen lights. The show room got a repaint and artwork of the characters designed by Instagram user 'rockafire_guy' painted on the back walls.(4) This show as of now plays original Rock-afire Explosion showtapes as well as fan made showtapes and runs regularly with every open day of the park Gulliver's will sometimes run fan conventions(5) (6)for the show and the other animatronics in their parks.
 
-## Animatronics
-
-| Animatronic      | Serial | Manufacturing Date | Origin                   |
-|------------------|--------|--------------------|--------------------------|
-| Rolfe &amp; Earl | N/A    | N/A                | Creative Engineering Inc |
-| Dook Larue       | N/A    | N/A                | Creative Engineering Inc |
-| Fatz Geronimo    | N/A    | N/A                | Creative Engineering Inc |
-| Beach Bear       | N/A    | N/A                | Creative Engineering Inc |
-| Mitzi Mozzaerlla | N/A    | N/A                | Creative Engineering Inc |
-| Billy Bob        | N/A    | N/A                | Creative Engineering Inc |
-| Looney Bird      | N/A    | N/A                | Creative Engineering Inc |
-| Choo Choo        | N/A    | N/A                | Creative Engineering Inc |
-| Sun              | N/A    | N/A                | Creative Engineering Inc |
-| Moon             | N/A    | N/A                | Creative Engineering Inc |
-| Antioch          | N/A    | N/A                | Creative Engineering Inc |
-
 ## Character Changes
 
 ### Earl Schmerle

@@ -1,62 +1,148 @@
 {
-    "title": "Chico, CA (966 East Ave)",
-    "storeNumber": "",
-    "startDate": "1982-07-00",
-    "endDate": "2011-01-11",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1982-07-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1982-07-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E.'s House Facade (C-Stage)",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "0000-00-00",
-            "e": "2011-01-00",
-            "desc": "One of many installed in California."
-        }
-    ],
-    "franchisees": [],
-    "attractions": [
-        {
-            "n": "Chuck E. Cheese's Circus",
-            "s": "0000-00-00",
-            "e": "0000-00-00",
-            "desc": "Was stripped of CEC branding at one point."
-        },
-        {
-            "n": "Fantasy Forest",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Wheel of Fortune (ICE redemption game)",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        }
-    ],
-    "sqft": "",
-    "latitudeLongitude": [
-        "39.76008477",
-        "-121.8430586"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "kaY8UrgSIgTiG23eJCud.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Chico, CA (966 East Ave)",
+  "storeNumber": "",
+  "startDate": "1982-07-00",
+  "endDate": "2011-01-11",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-07-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-07-00",
+      "e": "1988-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "s": "1988-00-00",
+      "e": "1993-00-00"
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "2011-01-00",
+      "desc": "One of many installed in California."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Chuck E. Cheese's Circus",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Was stripped of CEC branding at one point."
+    },
+    {
+      "n": "Fantasy Forest",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Wheel of Fortune (ICE redemption game)",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.76008477",
+    "-121.8430586"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "kaY8UrgSIgTiG23eJCud.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "2011-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "2011-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic) / Dog (Mr Munch Retrofit)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Sold"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic) / Lion (Jasper T Jowls Retrofit)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Sold"
+    },
+    {
+      "n": "Pasqually (Cyberamic) / Cow (Pasqually Retrofit)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Sold"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "1988-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "1988-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "1988-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "1988-00-00",
+      "e": "1993-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "2011-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

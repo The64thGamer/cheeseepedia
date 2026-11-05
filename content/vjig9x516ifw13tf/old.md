@@ -7,18 +7,3 @@ Canton opened on July 23rd, 1998, with a Studio C (1997)|Studio C Alpha, and the
 ## Stages
 
 The store would end up removing its [Interactive Console] in 2013, Blue Screen, and disabling their curtains in 2015, as most Studio Cs have. The stage would be removed on April 29, 2024, when the store received the 2.0 Remodel.
-
-| Stage          | Installed  | Removed        | Notes      |
-|----------------|------------|----------------|------------|
-| Studio C Alpha | July 1998  | April 29, 2024 | N/A        |
-| Dance Floor    | April 2024 | Still in use.  | 2021 Model |
-| Video Wall     | April 2024 | Still in use.  | N/A        |
-
-## Animatronics
-
-| Animatronic                       | Serial # | Status  |
-|-----------------------------------|----------|---------|
-| Chuck E. Cheese 32m (Animatronic) | 010      | Unknown |
-| Parrot (Animatronic)              | N/A      | Unknown |
-| Pizza Time Clock                  | N/A      | Unknown |
-| Pizza Phone                       | N/A      | Unknown |

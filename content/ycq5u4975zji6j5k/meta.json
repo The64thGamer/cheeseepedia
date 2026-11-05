@@ -1,42 +1,92 @@
 {
-    "title": "Mentor, OH (8000 Plaza Blvd)",
-    "storeNumber": "",
-    "startDate": "1998-07-20",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1998-07-20"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "0000-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1998-07-20",
-            "e": "2024-05-12"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.6522557",
-        "-81.36784758"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "ISLf7GdPkHe1AsywwYMq.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Mentor, OH (8000 Plaza Blvd)",
+  "storeNumber": "",
+  "startDate": "1998-07-20",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1998-07-20"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "0000-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1998-07-20",
+      "e": "2024-05-12",
+      "desc": "Good condition until removal. Movements like Chucks eyelids and Munches hands stopped working after a while, along with miscellaneous less noticeable movements such as Jaspers eyes."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2024-05-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.6522557",
+    "-81.36784758"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "ISLf7GdPkHe1AsywwYMq.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Removed. Saved by a private collector on May 14, 2024."
+    }
+  ]
 }

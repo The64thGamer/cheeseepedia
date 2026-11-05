@@ -1,39 +1,120 @@
 {
-    "title": "Champaign, IL (1036 Bloomington Rd)",
-    "storeNumber": "",
-    "startDate": "1984-00-00",
-    "endDate": "1990-12-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1984-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1984-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E.'s House Facade (C-Stage)",
-            "s": "0000-00-00",
-            "e": "1990-12-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "40.13312407",
-        "-88.26247453"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "M3no8jllgVlSLKiF231B.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Champaign, IL (1036 Bloomington Rd)",
+  "storeNumber": "",
+  "startDate": "1984-00-00",
+  "endDate": "1990-12-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1984-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1984-00-00",
+      "e": "1989-00-00",
+      "desc": "Last Balcony Stage installed in Illinois."
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "s": "1989-00-00",
+      "e": "1990-12-00",
+      "desc": "First C-Stage to be removed. One of 3 in Illinois."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.13312407",
+    "-88.26247453"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "M3no8jllgVlSLKiF231B.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    }
+  ]
 }

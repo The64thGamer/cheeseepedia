@@ -11,17 +11,3 @@ Tallahassee opened on August 9, 1982, with a [Balcony Stage]. Nothing is known a
 ### Post Pizza Time Theatre
 
 The location would sit vacant for a period of time before becoming part of a Walgreen's. The Walgreen's would close between 2008 and 2010 and become Dollar Tree. As of August 2023, Dollar Tree sits on the space.
-
-## Animatronics
-
-| Animatronic                                                  | Serial Number | Whereabouts |
-|--------------------------------------------------------------|---------------|-------------|
-| [Mr. Munch (Cyberamic)]               | Unknown       | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown     |
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown       | Unknown     |
-| [Warblettes (Cyberamic)]             | Unknown       | Unknown     |
-| [Flag Wavers (Cyberamic)]                                     | Unknown       | Unknown     |
-| [Applause Board (Cyberamic)]         | Unknown       | Unknown     |
-| [Drum Board (Cyberamic)]             | Unknown       | Unknown     |

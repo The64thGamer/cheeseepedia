@@ -8,28 +8,6 @@ Fayetteville opened its doors on November 1st, 1982 as the first ShowBiz Pizza s
 
 Originally, Fayetteville featured a Rock-Afire Explosion, as all other ShowBiz locations did. Unfortunately, there are some photos but no videos to exist of Fayetteville with the Rock afire, or as a ShowBiz in general. they got Concept Unification sometime between 1991-1992. In 2010, they removed the 3-Stage for their closure.
 
-| Stage                                               | Intalled     | Removed        | Notes                                                                  |
-|-----------------------------------------------------|--------------|----------------|------------------------------------------------------------------------|
-| [Classic Stage]             | October 1982 | 1991           | First ShowBiz Pizza store to open in Arkansas.                         |
-| [Concept Unification Stage (3-Stage)] | 1991         | September 2010 | One of 4 ShowBiz locations in Arkansas to receive Concept Unification. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts |
-|---------------------------------------------------------------------------|---------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-82 1-6      | Unknown     |
-| [Dook Larue (Animatronic)]                        | 4-82 2-6      | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | 4-82 3-6      | Unknown     |
-| [Beach Bear (Animatronic)]                        | 4-82 4-6      | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-82 5-6      | Unknown     |
-| [Billy Bob (Animatronic)]                         | 4-82 6-6      | Unknown     |
-| [Looney Bird (Animatronic)]                       | 4-82 7-6      | Unknown     |
-| [Choo Choo (Animatronic)]                         | 4-82 8-6      | Unknown     |
-| [Sun (Animatronic)]                               | 4-82 10-6     | Unknown     |
-| [Moon (Animatronic)]                              | 4-82 11-6     | Unknown     |
-| [Antioch (Animatronic)]                           | N/A           | Unknown     |
-| [Wink]                                            | N/A           | Destroyed.  |
-
 ## Videos
 
 | Link                                                      | Description                                                                                        | Date Filmed     | Date Published      | Credit To    |

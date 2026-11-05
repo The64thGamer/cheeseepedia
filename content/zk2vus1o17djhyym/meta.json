@@ -1,52 +1,142 @@
 {
-    "title": "Tacoma, WA (4911 Tacoma Mall Blvd)",
-    "storeNumber": "",
-    "startDate": "1983-11-00",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "0000-00-00"
-        },
-        {
-            "n": "PTT Standard Layout",
-            "s": "1983-11-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1983-11-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E.'s House Facade (C-Stage)",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Studio C Beta",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "47.21082122",
-        "-122.4646844"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "fuIccnM8_5R5BwzJF3tf.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Tacoma, WA (4911 Tacoma Mall Blvd)",
+  "storeNumber": "",
+  "startDate": "1983-11-00",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-11-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-11-00",
+      "e": "0000-00-00",
+      "desc": "One of eight Pizza Time Theatres in Washington State."
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "s": "0000-00-00",
+      "e": "2003-00-00",
+      "desc": "One of three installed in Washington State. Last C-Stage to exist."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "2003-00-00",
+      "e": "2022-06-00",
+      "desc": "One of five Studio C Betas installed in Washington State (one of four 16M betas)."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-06-00",
+      "desc": "Second Dance Floor installed in Washington state. 2021 Model."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "47.21082122",
+    "-122.4646844"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "fuIccnM8_5R5BwzJF3tf.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    }
+  ]
 }

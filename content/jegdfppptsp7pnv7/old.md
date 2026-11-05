@@ -8,29 +8,6 @@ Sacramento (Arden) opened in February 1982, as a Pizza Time Theatre and as part 
 
 Originally, Sacramento (Arden) had a Balcony Stage when it first opened in February 1982. In 1988-1989, they would receive the C-Stage. In the Early 90's, most likely around 1992 or 1993, the C-Stage was replaced by the 2-Stage. On January 22nd, 2024, the store would remove its 1-Stage in favor of its 2.0 Remodel.
 
-| Stage                                              | Installed             | Removed          | Notes                                |
-|----------------------------------------------------|-----------------------|------------------|--------------------------------------|
-| [Balcony Stage] | February 1982         | Late 80's        | One of many installed in California. |
-| [Chuck E.'s House Facade (C-Stage)]   | Late 80's             | Early 90's       | One of many installed in California. |
-| [2-Stage]                  | Early 90's            | January 22, 2024 | One of many installed in California. |
-| Dance Floor + Video Wall                           | January-February 2024 | Still in use.    |                                      |
-
-## Animatronics
-
-| Animatronic                                                  | Serial Code | Condition | Whereabouts                           |
-|--------------------------------------------------------------|-------------|-----------|---------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | N/A         |           | Owned by Firecat\_p                   |
-| [Guest Star / Helen Henny (Cyberamic)] | N/A         |           | Owned by Firecat\_p                   |
-| [Mr. Munch (Cyberamic)]               | N/A         |           | Owned by Firecat\_P /Wayfinder\_triko |
-| [Jasper T. Jowls (Cyberamic)]         | N/A         |           | Owned by Firecat\_P                   |
-| [Pasqually (Cyberamic)]              | N/A         |           | Owned by Firecat\_P                   |
-| [Warblettes (Cyberamic)]             | N/A         | N/A       | Unknown/Destroyed                     |
-| [Flag Wavers (Cyberamic)]                                     | N/A         | N/A       | Unknown/Destroyed                     |
-| [Clapper Board (Cyberamic)]                                    | N/A         | N/A       | Unknown/Destroyed                     |
-| [Singing Flowers (Cyberamic)]        | N/A         | N/A       | Unknown/Destroyed                     |
-| [The King / King Kat (Lounge)]         | N/A         | N/A       | Unknown/Destroyed                     |
-| [Wink]                               | N/A         |           | Unknown/Destroyed                     |
-
 ## Videos
 
 | Link | Title | Description | Publish Date | Filming Date | Credit To |

@@ -7,23 +7,3 @@ Burlington opened on October 15th 1981 as the second international location and 
 ## Stages
 
 Burlington opened with the Balcony Stage in October 1981. In 1989/1990 they removed the Balcony Stage for a Chuck E.'s House Facade (C-Stage). Unfortunately, there are some photos but no videos to exist of Burlington.
-
-| Stage                   | Installed    | Removed      | Notes                             |
-|-------------------------|--------------|--------------|-----------------------------------|
-| Balcony Stage           | October 1981 | 1989/1990    | First Chuck E. Cheese in Canada.  |
-| Chuck E.'s House Facade (C-Stage) | 1989/1990    | October 1991 | One of the 3 installed in Canada. |
-
-## Animatronics
-
-| Character                                                    | Manufacturing Date | Status  |
-|--------------------------------------------------------------|--------------------|---------|
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown |
-| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown |
-| [Pasqually (Cyberamic)]              | Unknown            | Unknown |
-| [Flag Wavers (Cyberamic)]                                     | Unknown            | Unknown |
-| [Applause Board (Cyberamic)]         | Unknown            | Unknown |
-| [Drum Board (Cyberamic)]             | Unknown            | Unknown |
-| [Singing Flowers (Cyberamic)]        | Unknown            | Unknown |

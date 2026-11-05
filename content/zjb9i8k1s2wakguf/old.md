@@ -33,14 +33,3 @@ Kowloon would close permanently in 1988, with the rest of the Pizza Time Theatre
 | https://www.youtube.com/watch?v=4kLx\_J1ufag&amp;ab\_channel=%E4%BD%95%E9%B4%BB%E5%BE%B7                      | Commerical shot to promote Hong Kong PTTs.                                                 | 1986         |
 | https://www.youtube.com/watch?v=B5BWdjrgyRo&amp;ab\_channel=jcyl141104                                        | Commerical shot to promote Hong Kong PTTs.                                                 | 1986         |
 | https://www.youtube.com/watch?v=seqqb7r5PlM&amp;ab\_channel=CECUNKNOWN2                                       | Footage of ether Aberdeen or Kowloon's balcony stage in an arcade following their closure. | 1989         |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts |
-|--------------------------------------------------------------|--------------------|-------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown            | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown     |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown            | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown     |
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown     |

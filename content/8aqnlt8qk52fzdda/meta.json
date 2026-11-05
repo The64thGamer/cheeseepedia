@@ -13,12 +13,14 @@
     {
       "n": "Balcony Stage",
       "s": "1982-03-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "One of 9 Balcony Stages in Pennsylvania."
     },
     {
       "n": "Chuck E.'s House Facade (C-Stage)",
       "s": "0000-00-00",
-      "e": "1993-03-00"
+      "e": "1993-03-00",
+      "desc": "One of 4 Chuck E.'s House Facade (C-Stage)s in Pennsylvania."
     }
   ],
   "franchisees": [],
@@ -37,5 +39,42 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
   ]
 }

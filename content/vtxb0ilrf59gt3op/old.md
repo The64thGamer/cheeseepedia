@@ -7,20 +7,3 @@ This ShowBiz in particular had unique menu items, such as pizzamoffin, pizzpan, 
 ## Stages
 
 This location's [Classic Stage] show was originally from the Terre Haute, IN (3820 S US Hwy 41) location, which had just closed about year prior. The show more than likely received Concept Unification prior to 1996.
-
-## Animatronics
-
-| Animatronic                                                               | **Serial** | Wearabouts                                                                            |
-|---------------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-26  | On display at displayed at Concepcion County, Guatemala\|Condado Concepcion location. |
-| [Dook Larue (Animatronic)]                        | 1-82 2-26  | On display at displayed at Concepcion County, Guatemala\|Condado Concepcion location. |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-26  | On display at displayed at Concepcion County, Guatemala\|Condado Concepcion location. |
-| [Beach Bear (Animatronic)]                        | 1-82 4-26  | On display at displayed at Concepcion County, Guatemala\|Condado Concepcion location. |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-26  | On display at displayed at Concepcion County, Guatemala\|Condado Concepcion location. |
-| [Billy Bob (Animatronic)]                         | 1-82 6-26  | Unknown                                                                               |
-| [Looney Bird (Animatronic)]                       | 1-82 7-26  | Unknown                                                                               |
-| [Choo Choo (Animatronic)]                         | 1-82 8-26  | Unknown                                                                               |
-| [Sun (Animatronic)]                               | 1-82 10-26 | Unknown                                                                               |
-| [Moon (Animatronic)]                              | 1-82 11-26 | Unknown                                                                               |
-| [Antioch (Animatronic)]                           | N/A        | Unknown                                                                               |
-| Wink (Animatronic)                                                        | N/A        | Unknown                                                                               |

@@ -4,10 +4,6 @@
 
 This location received the Cyberamic characters from the [Riverside, CA (4033 Chicago Ave)] location for use on their 1-Stage show. Chuck later got Cool Chuck in the 2000s, keeping the derby, and by 2011, was replaced with Avenger. The Cyberamics still utilized a portion of the original cosmetics before removal, and featured the last PTT Chuck snout in a store, along with one of the last PTT Pasqually masks in a store. Jasper originally featured the late 80s' straw hat, but was eventually replaced with the standard cowboy hat in the mid 2000s. Once the store closed in 2014, the stage was cleared of everything, and a large projector screen was put on the stage. The Cyberamics would then be sent to the [Orem, UT (40 E Center St)] store for parts on their 3-Stage show.
 
-| Stage   | Installed   | Removed |
-|---------|-------------|---------|
-| 1-Stage | Summer 1996 | 2014    |
-
 ## History
 
 As this franchised store opened in 1996 in a secluded location, it has gone mostly undocumented besides of things seen in the 2001 home video that would suggest the store opened with [Phase 1 (1994)].(1) At some point the store also received [Phase 3 (2000)], which most likely is why the [Skytubes] were relocated between then and 2011. In September 2011 this location was remodeled for the first time as a Chuck E. Cheese's during the [CEC 2000's Remodel Program]. A percentage of the old art would remain, however, including the showroom shelves and walls.
@@ -25,14 +21,3 @@ By the Fall of 2014, the location closed and was turned into an expansion of the
 | https://youtu.be/8L3KZ7gZf\_A | Birthday Party         | September 2012 |
 | https://youtu.be/5HSeQVUvLn4  | All Star Pizzeria Tour | November 2019  |
 | https://youtu.be/KBM4hO4yuGE  | All Star Pizzeria Tour | July 2022      |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                                                                                                                                                                                                                               |
-|--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | 1981               | Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Now unknown.                                                                                                                                                                     |
-| [Guest Star / Helen Henny (Cyberamic)] | 1981               | Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Now unknown.                                                                                                                                                                     |
-| [Mr. Munch (Cyberamic)]               | 1981               | Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Now unknown.                                                                                                                                                                     |
-| [Jasper T. Jowls (Cyberamic)]         | 1981               | Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Guitar later sent to [Billings, MT (100 24th St)]. Now unknown, guitar at [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. |
-| [Pasqually (Cyberamic)]              | 1981               | Originally from [Riverside, CA (4033 Chicago Ave)]. Sent to [Orem, UT (40 E Center St)]. Now unknown.                                                                                                                                                                     |
-| [Wink (Cyberamic)]                   | N/A                | Sent to [Orem, UT (40 E Center St)]. Now unknown.                                                                                                                                                                                                                                                 |

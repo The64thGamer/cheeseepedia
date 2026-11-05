@@ -8,29 +8,6 @@ New Orleans opened on February 23rd, 1981 as the 1st ShowBiz Pizza store in Loui
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations had. In around 1991, New Orleans would undergo Concept Unification, turning the RAE into Munch's Make Believe Band.
 
-| Stage                                                                                             | Installed     | Removed       | Notes                                                                                           |
-|---------------------------------------------------------------------------------------------------|---------------|---------------|-------------------------------------------------------------------------------------------------|
-| [Classic Stage]                                                           | February 1981 | 1991          | 10th ShowBiz Pizza Store, 1st to open in Louisiana.                                             |
-| [Concept Unification Stage (3-Stage)]                                               | 1991          | March 7, 2023 | One of 5 ShowBiz stores in Louisiana to undergo Concept Unification. Last 3-Stage in Louisiana. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | March 7, 2023 | Still In Use. | 2021 Model.                                                                                     |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                  |
-|---------------------------------------------------------------------------|---------------|------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-80 1-4     | Owned by a private collector |
-| [Dook Larue (Animatronic)]                        | 10-80 2-4     | Unknown/Destroyed            |
-| [Fatz Geronimo (Animatronic)]                     | 10-80 3-4     | Unknown/Destroyed            |
-| [Beach Bear (Animatronic)]                        | 10-80 4-4     | Unknown/Destroyed            |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-80 5-4     | Unknown/Destroyed            |
-| [Billy Bob (Animatronic)]                         | 10-80 6-4     | Unknown/Destroyed            |
-| [Looney Bird (Animatronic)]                       | 10-80 7-4     | Unknown/Destroyed            |
-| [Choo Choo (Animatronic)]                         | 10-80 8-4     | Unknown/Destroyed            |
-| [Sun (Animatronic)]                               | 10-80 10-4    | Unknown/Destroyed            |
-| [Moon (Animatronic)]                              | 10-80 11-4    | Unknown/Destroyed            |
-| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed            |
-| [Wink]                                            | N/A           | Owned by a private collector |
-
 ## Videos
 
 | Link                                                           | Description                                 | Footage Date      | Upload Date       |

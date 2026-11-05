@@ -13,12 +13,14 @@
     {
       "n": "Balcony Stage",
       "s": "1982-08-23",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "One of 3 installed in Wisconsin."
     },
     {
       "n": "Chuck E.'s House Facade (C-Stage)",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "1994-00-00",
+      "desc": "One of 2 installed in Wisconsin."
     },
     {
       "n": "1-Stage",

@@ -1,44 +1,144 @@
 {
-    "title": "Jackson, MS (5465 I-55)",
-    "storeNumber": "",
-    "startDate": "1982-08-00",
-    "endDate": "2009-06-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1982-08-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1982-08-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E.'s House Facade (C-Stage)",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Studio C Alpha",
-            "s": "0000-00-00",
-            "e": "2009-06-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "32.37576552",
-        "-90.15075508"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "PatbpziV8VszKZZEvkbO.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Jackson, MS (5465 I-55)",
+  "storeNumber": "",
+  "startDate": "1982-08-00",
+  "endDate": "2009-06-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-08-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-08-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "2009-06-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.37576552",
+    "-90.15075508"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "PatbpziV8VszKZZEvkbO.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Beagles / Beach Bowsers (Lounge)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Relocated to Jackson, MS (6352 Ridgewood Court Rd)"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Relocated to Jackson, MS (6352 Ridgewood Court Rd)"
+    }
+  ]
 }

@@ -7,20 +7,3 @@ Winnipeg opened its doors on April 30th, 1990, as the ninth Chuck E. Cheese stor
 ## Stages
 
 Originally, Winnipeg featured Chuck E.'s House, as all other Chuck E. Cheese locations had in 1987-1990. Unfortunately, there are a couple photos to exist of Winnipeg with the Chuck E.'s House, and 1-Stage as there is only one photo of the location's exterior in general. In July 2001, the location closed and removed their 1-Stage.
-
-| Stage                                     | Installed  | Removed   | Notes                                  |
-|-------------------------------------------|------------|-----------|----------------------------------------|
-| [Chuck E.'s House (Rocker Stage)] | April 1990 | Mid-90's  | 9th Chuck E. Cheese to open in Canada. |
-| [1-Stage]         | Mid-90's   | July 2001 | Only 1-Stage in Canada.                |
-
-## Animatronics
-
-| Animatronic                                                  | Whereabouts |
-|--------------------------------------------------------------|-------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
-| [Mr. Munch (Cyberamic)]               | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown     |
-| [Singing Flowers (Cyberamic)]        | Unknown     |
-| [Wink (Cyberamic)]                   | Unknown     |

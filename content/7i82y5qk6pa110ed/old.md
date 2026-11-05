@@ -7,28 +7,3 @@ St. Petersburg opened its doors in March 1983 with a Balcony Stage. Being one of
 ## Stages
 
 St. Petersburg opened with the Balcony Stage in March 1983. In 1988-1989, St. Petersburg received the Chuck E.'s House Facade (C-Stage) stage, otherwise known as the [Chuck E.'s House Facade (C-Stage)]. In 1995-1996, the Chuck E.'s House Facade (C-Stage) stage was replaced with the 2-Stage. In 2005 or 2006, the 2-Stage was replaced with the Studio C concept. This store received Studio C Beta, a newer take on the concept. This Studio C Show was later removed in December 2022 when they received the 2.0 remodel and removed their Studio C show for the Dance Floor and Video Wall.
-
-| Stage                                                                                             | Installed     | Removed       | Notes                                            |
-|---------------------------------------------------------------------------------------------------|---------------|---------------|--------------------------------------------------|
-| [Balcony Stage]                                                | March 1983    | 1988-1989     | 20th Pizza Time Theatre Store to open in Florida |
-| [Chuck E.'s House Facade (C-Stage)]                                                  | Late 80's     | 1995-1996     | One of 2 installed in Florida                    |
-| [2-Stage]                                                                 | 1995-1996     | 2005/2006     | One of 4 installed in Florida                    |
-| Studio C Beta, 16m                                                                                | 2005/2006     | December 2022 | Last 16M Beta in Florida                         |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | December 2022 | Still in use  | 2021 Model                                       |
-
-## Animatronics
-
-| Character                                                    | Manufacturing Date | Status               |
-|--------------------------------------------------------------|--------------------|----------------------|
-| [Chuck E. Cheese (Cyberamic)]      | Unknown            | Unknown / Destroyed. |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown / Destroyed. |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown / Destroyed. |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown / Destroyed. |
-| [Pasqually (Cyberamic)]              | Unknown            | Unknown / Destroyed. |
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown / Destroyed. |
-| [Flag Wavers (Cyberamic)]                                     | Unknown            | Unknown / Destroyed. |
-| [Clapper Board (Cyberamic)]                                    | Unknown            | Unknown / Destroyed. |
-| [Singing Flowers (Cyberamic)]        | Unknown            | Unknown / Destroyed. |
-| [The King / King Kat (Lounge)]         | Unknown            | Unknown / Destroyed. |
-| [Wink]                               | Unknown            | Unknown / Destroyed. |
-| [Chuck E Cheese 16m (Animatronic)]   | 2005               | Destroyed.           |

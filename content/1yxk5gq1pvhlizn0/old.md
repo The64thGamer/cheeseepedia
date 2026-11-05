@@ -20,25 +20,6 @@ Identified Machines [Chuck E Cheese's Super Shot] Chuck E. Cheese's Photo Ride (
 | [Link](https://www.youtube.com/watch?v=uNjkjhiv4wY) | Birthday Party | November 13, 1999 |
 | [Link](https://www.youtube.com/watch?v=AGmBmf9j7Hw) | Birthday Party | November 2000     |
 
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Serial Number | Status                                                                       |
-|--------------------------------------------------------------|--------------------|---------------|------------------------------------------------------------------------------|
-| [Mr. Munch (Cyberamic)]               | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [Chuck E. Cheese (Cyberamic)]      | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [Jasper T. Jowls (Cyberamic)]         | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [Guest Star / Helen Henny (Cyberamic)] | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [Pasqually (Cyberamic)]              | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [Warblettes (Cyberamic)]             | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [Flag Wavers (Cyberamic)]                                     | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [Applause Board (Cyberamic)]         | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| Beagles / Beach Bowsers (Lounge)                             | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [The King / King Kat (Lounge)]         | 1982               | Unknown       | Unknown/Destroyed.                                                           |
-| [Chuck E Cheese 32m (Animatronic)]   | Unknown            | Unknown       | Relocated to [Jackson, MS (6352 Ridgewood Court Rd)] |
-| [Bird (Animatronic)]                 | Unknown            | N/A           | Unknown/Destroyed.                                                           |
-| [Pizza Phone (Animatronic)]          | Unknown            | N/A           | Unknown/Destroyed.                                                           |
-| [Pizza Time Clock (Animatronic)]     | Unknown            | N/A           | Relocated to [Jackson, MS (6352 Ridgewood Court Rd)] |
-
 ## Walkarounds
 
 | Head                                                | Outfits &amp; Suits                                                                             | Accessories                                                                                 | Whereabouts                                                               |

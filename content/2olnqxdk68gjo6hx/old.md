@@ -8,22 +8,6 @@ West Hills opened on June 23rd, 1992 as a corporate-owned location. West Hills o
 
 Like all Road Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. The lift curtains were added by the Late 90's. In the Early 2000's, this was replaced with the Cool Chuck outfit. By the Late 2000's, Chuck's outfit was replaced with the Avenger outfit. The lift curtains were later removed. Chuck, Jasper, and Pasqually would all receive new masks in 2012. On February 12, 2024 West Hills would remove its Road Stage in favor of its 2.0 Remodel
 
-| Stage                                           | Installed     | Removed           |
-|-------------------------------------------------|---------------|-------------------|
-| [Road Stage] | June 1992     | February 12, 2024 |
-| Dance Floor + Video Wall                        | February 2024 | Still in use.     |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Status                                                                               |
-|--------------------------------------------------------------|--------------------|--------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]         | N/A                | Destroyed, Parts sold/listed on eBay                                                 |
-| [Guest Star / Helen Henny (Cyberamic)] | N/A                | Destroyed                                                                            |
-| [Mr. Munch (Cyberamic)]               | N/A                | Destroyed, Listed/sold parts on eBay. Teeth owned by MunchTimeStudios.               |
-| [Jasper T. Jowls (Cyberamic)]         | N/A                | Destoryed. Mask sent to [Northridge, CA (8425 Reseda Blvd)]. |
-| [Pasqually (Cyberamic)]              | N/A                | Destroyed, Listed/sold parts on eBay                                                 |
-| [Wink (Cyberamic)]                   | N/A                | Destroyed                                                                            |
-
 ## Videos
 
 | Link                                                                                                                                       | Description                                                                                                                                                                                                                                                                 | Filming Date | Publish Date |

@@ -1,43 +1,88 @@
 {
-    "title": "Murrieta, CA (25110 Hancock Ave)",
-    "storeNumber": "",
-    "startDate": "1993-11-01",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1993-11-01"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-05-09"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1993-11-01",
-            "e": "2023-05-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-05-09",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "33.56757087",
-        "-117.1831899"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "Murrieta.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Murrieta, CA (25110 Hancock Ave)",
+  "storeNumber": "",
+  "startDate": "1993-11-01",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-11-01"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-05-09"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-11-01",
+      "e": "2023-05-00",
+      "desc": "Used for parts at La Mesa during 2.0."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-05-09",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.56757087",
+    "-117.1831899"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Murrieta.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used for parts, later destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used for parts, now unknown."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used for parts, now unknown."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used for parts, now unknown."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used for parts, now unknown."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    }
+  ]
 }

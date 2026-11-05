@@ -1,13 +1,5 @@
 ***4567 Peck Rd, Store #428*** was a Pizza Time Theatre that opened in 1982 (month and day unknown) with a Balcony Stage and closed in June 2020.
 
-## Stages
-
-| Stage         | Installation Date | Removal Date | Notes                                |
-|---------------|-------------------|--------------|--------------------------------------|
-| Balcony Stage | 1982              | Late 80's    | One of many installed in California. |
-| C-Stage       | Late 80's         | Mid 90's     | One of many installed in California. |
-| 2-Stage       | Mid 90's          | June 2020    | One of many installed in California. |
-
 ## History
 
 ### Pizza Time Theatre
@@ -21,19 +13,3 @@ It happened around the Late 80's, when they removed the Balcony Stage for the C-
 ### 'Phase 3' Remodel.
 
 It happened around the Late 90's when they removed old decor and added new decor and SkyTubes. They would remain like this until their closure in June 2020. In 2022, it became a Dollar Tree.
-
-## Animatronics
-
-| Character                                                    | Serial  | Status                        |
-|--------------------------------------------------------------|---------|-------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown | Owned by a Private Collector. |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown | Unknown/Destroyed.            |
-| [Mr. Munch (Cyberamic)]               | Unknown | Owned by a Private Collector. |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown | Unknown/Destroyed             |
-| [Pasqually (Cyberamic)]              | Unknown | Owned by a Private Collector. |
-| [Warblettes (Cyberamic)]             | N/A     | Unknown/Destroyed             |
-| [Flag Wavers (Cyberamic)]                                     | N/A     | Unknown/Destroyed             |
-| [Applause Board (Cyberamic)]         | N/A     | Unknown/Destroyed             |
-| [Drum Board (Cyberamic)]             | N/A     | Unknown/Destroyed             |
-| [Singing Flowers (Cyberamic)]        | N/A     | Unknown/Destroyed             |
-| [Wink (Cyberamic)]                   | N/A     | Owned by a Private Collector. |

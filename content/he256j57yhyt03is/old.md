@@ -8,22 +8,6 @@ Attleboro opened October 4th, 1993, in Marketplace Square (formerly South Attleb
 
 Attleboro opened with a [1-Stage]. Around 2003, A sprinkler room, up &amp; down Curtains, and a new kitchen entrance were added. Around 2005, the curtains were disabled. During the 2005 remodel in Fall 2006, the stage was relocated and rebuilt. Attleboro was one of the five New England locations that was open after 2006 that did not receive the Cool Chuck outfit. Those other four were [Warwick, RI (650 Bald Hill Rd)], [North Dartmouth, MA (412-418 State Rd)], [Waterbury, CT (650 Wolcott St)], &amp; [Newington, CT (3075 Berlin Tpke)]. By 2009, Helen &amp; Pasqually received new masks. In September 2013, Chuck's derby was removed, following the tuxedo in 2014, declaring the tuxedo &amp; derby outfit in-store extinct; being replaced with the Avenger outfit with no cap. In April 2018, Jasper's mask was replaced with the mask from the [Newington, NH (30 Fox Run Rd)] location. In October 2019, Attleboro started 2.0, removing the 1-Stage on November 11, 2019 and installing the 2019 Model Dance Floor. This is the first location in Massachusetts to get 2.0 (Also the first to remove the animatronic show entirely in Massachusetts).
 
-| Stage                                                        | Installed     | Removed       | Notes                                                                                            |
-|--------------------------------------------------------------|---------------|---------------|--------------------------------------------------------------------------------------------------|
-| [1-Stage]                            | October 1993  | November 2019 | One of 3 1-Stages installed in Massachusetts. Showroom relocated to expansion area in Fall 2006. |
-| \|[Chuck E Live Stage (Dance Floor)] | November 2019 | Still In Use  | First 2.0 in New England. 2019 Model.                                                            |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing date | Status                                                      |
-|--------------------------------------------------------------|--------------------|-------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1993               | Unknown/Destroyed.                                          |
-| [Guest Star / Helen Henny (Cyberamic)] | 1993               | Destroyed. Mask replaced by 2009.                           |
-| [Mr. Munch (Cyberamic)]               | 1993               | Destroyed.                                                  |
-| [Jasper T. Jowls (Cyberamic)]         | 1993               | Destroyed. Mask replaced with Newington NH's in April 2018. |
-| [Pasqually (Cyberamic)]              | 1993               | Destroyed. Mask replaced by 2009.                           |
-| [Wink]                               | 1993               | Destroyed.                                                  |
-
 ## Videos
 
 | Link                                                     | Description                                                                                                                | Filming Date      | Published Date     |

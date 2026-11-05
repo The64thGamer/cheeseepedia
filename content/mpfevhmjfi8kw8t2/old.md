@@ -29,12 +29,3 @@ The most notable incident at this store happened on December 31st, 2021, when a 
 | https://youtu.be/P79PeSuRlOM        | Birthday party. Showcases a quick exterior shot and the arcade.                                                       | June 10th, 2000     |
 | https://youtu.be/oO-1fomU\_Ro?t=611 | Birthday; showcases the stage and Chuck E. LIVE! of *Chuck E Swing 1999*.                                             | September 1st, 2000 |
 | https://youtu.be/AU6EVxtHqkM        | The store mid-renovations of its [CEC 2000's Remodel Program]; showcases arcade and showroom. | November 15th, 2007 |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts       |
-|------------------------------------------------------------|--------|-------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 039    | Unknown/Destroyed |
-| [Bird (Animatronic)]               | N/A    | Unknown/Destroyed |
-| [Pizza Phone (Animatronic)]        | N/A    | Unknown/Destroyed |
-| [Pizza Time Clock (Animatronic)]   | N/A    | Unknown/Destroyed |

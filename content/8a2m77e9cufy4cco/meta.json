@@ -1,44 +1,131 @@
 {
-    "title": "Austin, TX (8038 Burnet Rd)",
-    "storeNumber": "",
-    "startDate": "1982-01-28",
-    "endDate": "2006-10-29",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-00-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1982-01-28"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1982-01-28",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-00-00",
-            "e": "2006-10-00",
-            "desc": "One of 17 3-Stages in Texas to undergo Concept Unification. Was in Good Condition, Chuck had full rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, and Stage had Pizzacam."
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "30.35787287",
-        "-97.73202963"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Austin, TX (8038 Burnet Rd)",
+  "storeNumber": "",
+  "startDate": "1982-01-28",
+  "endDate": "2006-10-29",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1982-01-28"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-01-28",
+      "e": "1991-00-00",
+      "desc": "5th ShowBiz Pizza store to open in Texas."
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-00-00",
+      "e": "2006-10-00",
+      "desc": "One of 17 3-Stages in Texas to undergo Concept Unification. Was in Good Condition, Chuck had full rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, and Stage had Pizzacam."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.35787287",
+    "-97.73202963"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 1-4",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 2-4",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 3-4",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 4-4",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 5-4",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 6-4",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 7-4",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 8-4",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 10-4",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 11-4",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    }
+  ]
 }

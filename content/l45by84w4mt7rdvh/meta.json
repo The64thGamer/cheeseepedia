@@ -1,49 +1,114 @@
 {
-    "title": "Orange, CT (82 Boston Post Rd)",
-    "storeNumber": "",
-    "startDate": "1992-06-16",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1992-06-16"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-03-23"
-        }
-    ],
-    "stages": [
-        {
-            "n": "2-Stage",
-            "s": "1992-06-00",
-            "e": "2006-08-00",
-            "desc": "One of two in Connecticut. Replaced by Studio C Beta 16M."
-        },
-        {
-            "n": "Studio C Beta",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-03-23",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.27645367",
-        "-72.98842298"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "QAmfNms7eD7wfl0DhEg_.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Orange, CT (82 Boston Post Rd)",
+  "storeNumber": "",
+  "startDate": "1992-06-16",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1992-06-16"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-03-23"
+    }
+  ],
+  "stages": [
+    {
+      "n": "2-Stage",
+      "s": "1992-06-00",
+      "e": "2006-08-00",
+      "desc": "One of two in Connecticut. Replaced by Studio C Beta 16M."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "2006-08-00",
+      "e": "2022-03-00",
+      "desc": "One of three Betas installed in Connecticut (One of two 16m installations). Last Studio C stage in Connecticut."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-03-23",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2022-03-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model. Installed when the store expanded."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.27645367",
+    "-72.98842298"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "QAmfNms7eD7wfl0DhEg_.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Head sent to Manchester, NH (1525 S Willow St) location prior to remodel, currently unknown. Rest of bot destroyed."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
+  ]
 }

@@ -8,34 +8,6 @@ Saginaw opened on October 13th, 1982 as the 2nd ShowBiz Pizza store in Michigan 
 
 Originally when the store opened, they had a Rock-afire Explosion, as all other ShowBiz locations had. In around 1991, Saginaw would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. In around 1999, the 3-Stage was removed for the Alpha. In August 2019, Saginaw received 2.0 and the Alpha was removed for the Dance Floor.
 
-| Stage                                               | Installed    | Removed      | Notes                                                                     |
-|-----------------------------------------------------|--------------|--------------|---------------------------------------------------------------------------|
-| [Classic Stage]             | October 1982 | 1991         | 2nd ShowBiz Pizza Store in Michigan.                                      |
-| [Concept Unification Stage (3-Stage)] | 1991         | 1999         | One of 6 ShowBiz Pizza Stores in Michigan to undergo Concept Unification. |
-| Studio C (1997)\|Studio C Alpha                     | 1999         | August 2019  | One of 6 Studio C Alphas installed in Michigan.                           |
-| Dance Floor                                         | August 2019  | Still in use | 2019 Model.                                                               |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts        |
-|---------------------------------------------------------------------------|---------------|--------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-14     | Unknown/Destroyed  |
-| [Dook Larue (Animatronic)]                        | 1-82 2-14     | Unknown/Destroyed  |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-14     | Unknown/Destroyed  |
-| [Beach Bear (Animatronic)]                        | 1-82 4-14     | Unknown/Destroyed  |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-14     | Unknown/Destroyed  |
-| [Billy Bob (Animatronic)]                         | 1-82 6-14     | Unknown/Destroyed  |
-| [Looney Bird (Animatronic)]                       | 1-82 7-14     | Unknown/Destroyed  |
-| [Choo Choo (Animatronic)]                         | 1-82 8-14     | Unknown/Destroyed  |
-| [Sun (Animatronic)]                               | 1-82 10-14    | Unknown/Destroyed  |
-| [Moon (Animatronic)]                              | 1-82 11-14    | Unknown/Destroyed  |
-| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed  |
-| [Wink]                                            | N/A           | Unknown/Destroyed. |
-| [Chuck E Cheese 32m (Animatronic)]                | Unknown       | Unknown/Destroyed. |
-| [Bird (Animatronic)]                              | N/A           | Unknown/Destroyed. |
-| [Pizza Time Clock (Animatronic)]                  | N/A           | Unknown/Destroyed. |
-| [Pizza Phone (Animatronic)]                       | N/A           | Unknown/Destroyed. |
-
 ## Videos
 
 | Link | Description | Footage Date | Upload Date |

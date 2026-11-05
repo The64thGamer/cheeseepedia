@@ -1,43 +1,65 @@
 {
-    "title": "Joliet, IL (3250 Chicagoland Circle)",
-    "storeNumber": "",
-    "startDate": "2007-01-29",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2007-01-29"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2020-02-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2007-01-29",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2020-02-00",
-            "desc": "2019 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.58371117",
-        "-88.16523318"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "DVHd3OmneUfRjC2Huaz6.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Joliet, IL (3250 Chicagoland Circle)",
+  "storeNumber": "",
+  "startDate": "2007-01-29",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2007-01-29"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2020-02-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2007-01-29",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2020-02-00",
+      "desc": "2019 Model"
+    },
+    {
+      "n": "Studio C Beta, 16m",
+      "s": "2007-01-00",
+      "e": "2020-02-00",
+      "desc": "One of six Studio C Betas installed in Illinois (One of three 16m Beta installations). Later used at Darien, IL (7409 Cass Ave) as one of two Beta 16m 3-Stage installations."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.58371117",
+    "-88.16523318"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "DVHd3OmneUfRjC2Huaz6.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Later used at Darien, IL (7409 Cass Ave), Now destroyed."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown, not used at Darien."
+    }
+  ]
 }

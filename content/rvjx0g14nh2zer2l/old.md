@@ -57,20 +57,3 @@ In June 2007, the location's shopping center was sold to a California company, w
 | [Link](https://www.instagram.com/p/CTHgCkOH0Ogh6JuVKsSclacx02w3s-BX28KGUA0/?igshid=MzRlODBiNWFlZA%3D%3D) | Footage of January 2009 being performed on the store’s stage                                        | Q1 2009                  |
 | [Link](https://youtu.be/ohAxKy3xzVM)                                                                     | The location's stage performing a birthday show; notice the stage condition's decline.              | March 3, 2009            |
 | [Link](https://youtu.be/8jKpzgWkUuk)                                                                     | Jasper walkaround character playing with the person filming.                                        | April 9, 2009            |
-
-## Animatronics
-
-| Animatronic                     | Serial Number | Whereabouts |
-|---------------------------------|---------------|-------------|
-| Chuck E. Cheese / Rolfe DeWolfe | 7-82 1-12     | Destroyed   |
-| Pasqually / Dook Larue          | 7-82 2-12     | Destroyed   |
-| Mr. Munch / Fatz Geronimo       | 7-82 3-12     | Destroyed   |
-| Jasper T. Jowls / Beach Bear    | 7-82 4-12     | Destroyed   |
-| Helen Henny / Mitzi Mozzarella  | 7-82 5-12     | Destroyed   |
-| Billy Bob                       | 7-82 6-12     | Unknown     |
-| PizzaCam / Looney Bird          | 7-82 7-12     | Destroyed   |
-| Munch Jr. / Choo Choo           | 7-82 8-12     | Destroyed   |
-| Building / Sun                  | 7-82 10-12    | Destroyed   |
-| Moon                            | 7-82 11-12    | Destroyed   |
-| Antioch                         | N/A           | Unknown     |
-| Wink                            | N/A           | Unknown     |

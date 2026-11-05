@@ -11,19 +11,3 @@ After they closed in 1989, they would become a Circus Pizza restaurant, possibly
 ## Stages
 
 This store had the first final [Chuck E.'s House (Rocker Stage)] and the second overall and would keep it until closure.
-
-| Stage                                              | Installed            | Removed         | Notes                              |
-|----------------------------------------------------|----------------------|-----------------|------------------------------------|
-| [Chuck E.'s House (Rocker Stage)]          | April 30th, 1987     | Late 1989       | Second Chuck E.'s House installed. |
-| [Classic Stage] (persumed) | 1989/1990 (persumed) | 1991 (persumed) | Unknown if installed or not        |
-
-## Animatronics
-
-| Animatronic                                             | Manufacturing Date | Whereabouts |
-|---------------------------------------------------------|--------------------|-------------|
-| [Chuck E. Cheese (Cyberamic)] | 1987               | Unknown     |
-| Helen Henny (Cyberamic)\|Helen Henny (Cyberamic)        | 1987               | Unknown     |
-| [Mr. Munch (Cyberamic)]          | 1987               | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]    | 1987               | Unknown     |
-| [Pasqually (Cyberamic)]         | 1987               | Unknown     |
-| [Singing Flowers (Cyberamic)]   | 1987               | Unknown     |

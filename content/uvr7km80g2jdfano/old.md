@@ -8,13 +8,6 @@ Rockville opened on August 20, 2002 with a 32 movement Studio C Beta. They were 
 
 Rockville opened with a 32 movement bot Studio C Beta|Studio C . Just like Frederick, MD, this Beta has one screen instead of the usual three screen Beta. Chuck wore the cool chuck outfit with the red cap, blue shirt and khakis until the late 2000's when he received the avenger outfit. Chuck E's cap was removed in late 2013 for the new rockstar look and he received jeans in August 2017. They also removed the CRT TV and lighting above in 2018. The stage was removed in October 2023 in favor of the store’s closure.
 
-## Animatronics
-
-| Animatronic                                                | Serial | Status  |
-|------------------------------------------------------------|--------|---------|
-| [Chuck E Cheese 32m (Animatronic)] | 173    | Unknown |
-| [Pizza Time Clock (Animatronic)]   | N/A    | Unknown |
-
 ## Videos
 
 | Link                                                                                                 | Description                                                                                                                                                                             | Filming Date      | Published Date  |

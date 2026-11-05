@@ -1,49 +1,135 @@
 {
-    "title": "Matteson, IL (106 Town Center Rd)",
-    "storeNumber": "",
-    "startDate": "1983-05-23",
-    "endDate": "2020-06-18",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-00-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1983-05-23"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1983-05-23",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-00-00",
-            "e": "2015-02-22",
-            "desc": "One of 10 3-Stages in Illinois to undergo Concept Unification. Stage was damaged during a store fire in 2015, and was replaced with a Circles of Light stage. Was in Good Condition. Chuck had rare 'Cool Chuck' hat and shirt."
-        },
-        {
-            "n": "Circles of Light",
-            "s": "0000-00-00",
-            "e": "2020-06-18"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.50345172",
-        "-87.73742633"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "wyELLBLbOpefUoQkXEkH.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Matteson, IL (106 Town Center Rd)",
+  "storeNumber": "",
+  "startDate": "1983-05-23",
+  "endDate": "2020-06-18",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1983-05-23"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-05-23",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-00-00",
+      "e": "2015-02-22",
+      "desc": "One of 10 3-Stages in Illinois to undergo Concept Unification. Stage was damaged during a store fire in 2015, and was replaced with a Circles of Light stage. Was in Good Condition. Chuck had rare 'Cool Chuck' hat and shirt."
+    },
+    {
+      "n": "Circles of Light",
+      "s": "0000-00-00",
+      "e": "2020-06-18"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.50345172",
+    "-87.73742633"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "wyELLBLbOpefUoQkXEkH.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Not seen at Darien, current status unknown."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Darien for parts, later sent to Kedzie. Head frame owned by a collector."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Some parts seen at Darien, current status unknown. Likely thrown away over time between 2015 - 2020."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Some parts seen at Darien, current status unknown. Likely thrown away over time between 2015 - 2020."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Darien for parts, now owned by a collector."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Not seen at Darien, current status unknown."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Not seen at Darien, current status unknown."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed in fire."
+    }
+  ]
 }

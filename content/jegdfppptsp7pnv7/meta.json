@@ -1,53 +1,134 @@
 {
-    "title": "Sacramento, CA (1690-96 Arden Way)",
-    "storeNumber": "",
-    "startDate": "1982-02-00",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "0000-00-00"
-        },
-        {
-            "n": "PTT Standard Layout",
-            "s": "1982-02-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1982-02-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E.'s House Facade (C-Stage)",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "0000-00-00",
-            "e": "2022-01-00",
-            "desc": "One of many installed in California. Replaced by Dance Floor + Video Wall."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "38.59690932",
-        "-121.429028"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Sacramento, CA (1690-96 Arden Way)",
+  "storeNumber": "",
+  "startDate": "1982-02-00",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-02-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-02-00",
+      "e": "0000-00-00",
+      "desc": "One of many installed in California."
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "One of many installed in California."
+    },
+    {
+      "n": "2-Stage",
+      "s": "0000-00-00",
+      "e": "2022-01-00",
+      "desc": "One of many installed in California. Replaced by Chuck E. Live Stage (Dance Floor)."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.59690932",
+    "-121.429028"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by Firecatp"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by Firecatp"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by FirecatP /Wayfindertriko"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by FirecatP"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by FirecatP"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Clapper Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    }
+  ]
 }

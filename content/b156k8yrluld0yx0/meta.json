@@ -1,34 +1,85 @@
 {
-    "title": "Biloxi, MS (4550 W Beach Blvd)",
-    "storeNumber": "",
-    "startDate": "1983-10-00",
-    "endDate": "1984-10-07",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1983-10-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1983-10-00",
-            "e": "1984-10-07"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "30.35586227",
-        "-89.11716778"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "Dg7wUfMTkC7Jn99JDUWZ.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Biloxi, MS (4550 W Beach Blvd)",
+  "storeNumber": "",
+  "startDate": "1983-10-00",
+  "endDate": "1984-10-07",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-10-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-10-00",
+      "e": "1984-10-07"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.35586227",
+    "-89.11716778"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Dg7wUfMTkC7Jn99JDUWZ.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sold at Auction in 1986, unknown current wearabouts."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sold at Auction in 1986, unknown current wearabouts."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sold at Auction in 1986, unknown current wearabouts."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sold at Auction in 1986, unknown current wearabouts."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sold at Auction in 1986, unknown current wearabouts."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sold at Auction in 1986, unknown current wearabouts."
+    },
+    {
+      "n": "(Unknown Lounge or Cabaret Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sold at Auction in 1986, unknown current wearabouts."
+    }
+  ]
 }

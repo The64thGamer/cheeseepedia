@@ -8,22 +8,6 @@ Monroeville opened in March 1993 as the relocation of the original Monroeville l
 
 Originally, when the store opened in March 1993, they had a 2-Stage like every other CEC location at the time. Fortunately, a couple videos do exist of Monroeville. In August 2018, Monroeville received the 2.0 remodel and removed the 2-Stage for the Dance Floor and Video Wall.
 
-| Stage                                                      | Installed  | Removed     | Notes                                          |
-|------------------------------------------------------------|------------|-------------|------------------------------------------------|
-| [2-Stage]                          | March 1993 | August 2018 | One of 7/8 2-Stages installed in Pennsylvania. |
-| [Chuck E Live Stage (Dance Floor)] | July 2018  | March 2024  | 2017 Model. First 2.0 in Pennsylvania.         |
-
-## Animatronics
-
-| Character                                                    | Manufacturer Date | Status     |
-|--------------------------------------------------------------|-------------------|------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1992/1993         | Destroyed. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1992/1993         | Destroyed. |
-| [Mr. Munch (Cyberamic)]               | 1992/1993         | Destroyed. |
-| [Jasper T. Jowls (Cyberamic)]         | 1992/1993         | Destroyed. |
-| [Pasqually (Cyberamic)]              | 1992/1993         | Destroyed. |
-| [Wink (Cyberamic)]                   | 1992/1993         | Destroyed. |
-
 ## Videos
 
 | Link                                                                                                                                                 | Description         | Filming Date | Publish Date |

@@ -1,44 +1,140 @@
 {
-    "title": "Owensboro, KY (4736 Frederica St)",
-    "storeNumber": "",
-    "startDate": "1985-10-00",
-    "endDate": "1995-11-00",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-00-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1985-10-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1985-10-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-00-00",
-            "e": "1995-11-00",
-            "desc": "One of 3 3-Stages in Kentucky to undergo Concept Unification."
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "37.72307307",
-        "-87.12748358"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "P7ebajusGyb1FyQdP0L_.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Owensboro, KY (4736 Frederica St)",
+  "storeNumber": "",
+  "startDate": "1985-10-00",
+  "endDate": "1995-11-00",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1985-10-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1985-10-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-00-00",
+      "e": "1995-11-00",
+      "desc": "One of 3 3-Stages in Kentucky to undergo Concept Unification."
+    },
+    {
+      "n": "Rock-Afire Explosion",
+      "s": "1985-10-00",
+      "e": "1991-00-00"
+    },
+    {
+      "n": "3-Stage",
+      "s": "1991-00-00",
+      "e": "1995-11-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.72307307",
+    "-87.12748358"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "P7ebajusGyb1FyQdP0L_.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese / Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Pasqually / Dook Larue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Mr. Munch / Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Jasper T. Jowls / Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Helen Henny / Mitzi Mozzarella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Pizzacam / Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Munch Jr. / Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Building / Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    }
+  ]
 }

@@ -6,35 +6,4 @@ This location was originally a ***Chuck E Cheese's Pizza Time Theater*** that op
 
 ## Stages
 
-In June of 2021, this location would replaced their Studio C Alpha with a Dance Floor + Video Wall. As of December 2024 Blaine remains with a 2021 Model Dance Floor and Video Wall.
-
-| Stage                | Installed      | Removed       |
-|----------------------|----------------|---------------|
-| Balcony Stage        | June 1982      | 1988          |
-| Rock-Afire Explosion | 1988           | 1999          |
-| Studio C Alpha       | August 9, 1999 | June 2021     |
-| Dance Floor          | June 2021      | Still in use. |
-| Video Wall           | June 2021      | Still in use. |
-
-| Animatronic                                     | Manufacturing Date | Status                        |
-|-------------------------------------------------|--------------------|-------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                      | N/A                | Unknown                       |
-| Guest Star / Helen Henny (Cyberamic)              | N/A                | Unknown                       |
-| Mr. Munch (Cyberamic)                            | N/A                | Unknown                       |
-| Jasper T. Jowls (Cyberamic)                      | N/A                | Unknown                       |
-| Pasqually (Cyberamic)                           | N/A                | Unknown                       |
-| Rolfe Dewolfe &amp; Earl Schmerle (Animatronic) | N/A                | Unknown/Destroyed.            |
-| Dook Larue (Animatronic)                        | N/A                | Unknown/Destroyed.            |
-| Fatz Geronimo (Animatronic)                     | N/A                | Unknown/Destroyed.            |
-| Beach Bear (Animatronic)                        | N/A                | Owned by a private collector. |
-| Mitzi Mozzarella (Animatronic)                  | N/A                | Unknown/Destroyed.            |
-| Billy Bob (Animatronic)                         | N/A                | Unknown/Destroyed.            |
-| Looney Bird (Animatronic)                       | N/A                | Unknown/Destroyed.            |
-| Uncle Klunk (Animatronic)                       | N/A                | Owned by a private collector. |
-| Choo Choo (Animatronic)                         | N/A                | Unknown/Destroyed.            |
-| Sun (Animatronic)                               | N/A                | Unknown/Destroyed.            |
-| Moon (Animatronic)                              | N/A                | Unknown/Destroyed.            |
-| Studio C Alpha 32M                              | N/A                | Unknown/Destroyed.            |
-| Bird (Animatronic)                              | N/A                | Unknown.                      |
-| Pizza Time Clock (Animatronic)                  | N/A                | Unknown.                      |
-| Pizza Phone (Animatronic)                       | N/A                | Unknown.                      |
+In June of 2021, this location would replaced their Studio C Alpha with a Chuck E. Live Stage (Dance Floor). As of December 2024 Blaine remains with a 2021 Model Dance Floor and Video Wall.

@@ -6,30 +6,7 @@
 
 ## Stages
 
-Fargo opened with the Rock afire Explosion in 1984. Unfortunately, there are hardly any photos or videos to exist of Fargo with the Rock afire, or as a ShowBiz in general. But there is a photo of its original exterior. In October 1991, Fargo received [Concept Unification], converting the Rock afire into Munch’s Make-Believe Band. In December 2022, Fargo started the 2.0 Remodel, removing the 3-Stage and adding a Dance Floor + Video Wall. On March 18th, 2024, the store would permanently close.
-
-| Stage                                                                   | Installed     | Removed       | Notes                                                                 |
-|-------------------------------------------------------------------------|---------------|---------------|-----------------------------------------------------------------------|
-| [Classic Stage]                                 | February 1984 | October 1991  | Only ShowBiz in North Dakota.                                         |
-| [Concept Unification Stage (3-Stage)]                     | October 1991  | December 2022 | Only 3-Stage in North Dakota.                                         |
-| [Chuck E Live Stage (Dance Floor)] + Video Wall | December 2022 | March 2024    | Received 2.0 shortly after being bought out by Corporate. 2021 Model. |
-
-## Animatronics
-
-| Character                                                                 | Serial    | Status             |
-|---------------------------------------------------------------------------|-----------|--------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-83 1-5  | Destroyed          |
-| [Dook Larue (Animatronic)]                        | 1-83 2-5  | Destroyed          |
-| [Fatz Geronimo (Animatronic)]                     | 1-83 3-5  | Destroyed          |
-| [Beach Bear (Animatronic)]                        | 1-83 4-5  | Destroyed          |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-83 5-5  | Destroyed          |
-| [Billy Bob (Animatronic)]                         | 1-83 6-5  | Destroyed          |
-| [Looney Bird (Animatronic)]                       | 1-83 7-5  | Destroyed          |
-| [Choo Choo (Animatronic)]                         | 1-83 8-5  | Destroyed          |
-| [Sun (Animatronic)]                               | 1-83 10-5 | Unknown            |
-| [Moon (Animatronic)]                              | 1-83 11-5 | Unknown            |
-| [Antioch (Animatronic)]                           | N/A       | Destroyed          |
-| [Wink]                                            | N/A       | Taken by corporate |
+Fargo opened with the Rock afire Explosion in 1984. Unfortunately, there are hardly any photos or videos to exist of Fargo with the Rock afire, or as a ShowBiz in general. But there is a photo of its original exterior. In October 1991, Fargo received [Concept Unification], converting the Rock afire into Munch’s Make-Believe Band. In December 2022, Fargo started the 2.0 Remodel, removing the 3-Stage and adding a Chuck E. Live Stage (Dance Floor). On March 18th, 2024, the store would permanently close.
 
 ## Videos
 

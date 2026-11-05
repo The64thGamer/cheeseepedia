@@ -8,22 +8,6 @@ TODO
 
 Originally when the store opened, they featured a Balcony Stage. Edmonton's Balcony was the second last installed in a new store, with Edmonton also being the second last new PTT to open. They would have it until a time frame of between. The 2-Stage would not last very long, as they would permanently close in 1995.
 
-| Stage         | Installed     | Removed | Note                                                               |
-|---------------|---------------|---------|--------------------------------------------------------------------|
-| Balcony Stage | November 1985 | 1993    | Second-Last Balcony Stage installed. Last surviving Balcony Stage. |
-| 2-Stage       | 1993          | 1995    | Only 2-Stage to directly replace Balcony Stage                     |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts |
-|--------------------------------------------------------------|--------------------|-------------|
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown     |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown     |
-| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown     |
-| Guest Star/ Helen Henny (Cyberamic)\|Helen Henny (Cyberamic) | Unknown            | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown            | Unknown     |
-
 ## Videos
 
 {| class='wikitable' |+ !Link !Filming Date !Notes |- |https://youtu.be/Tr1-muBNtRQ?si=1c\_FzvEWHbHbeQAF |June 29, 1992 |Footage of the store and its Balcony Stage playing [Environment '92] and [Birthday Star '92].

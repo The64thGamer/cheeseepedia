@@ -4,14 +4,6 @@
 
 The store opened with the Kooser PTT Show until it would be replaced by The Showboat in April 1980. In 1981, the stage would be replaced by a [Balcony Stage]. The stage would eventually be converted into a [Chuck E.'s House Facade (C-Stage)] during their 1988 Remodel, and would finally be converted into a [2-Stage].
 
-| Stage                                              | Installed        | Removed       | Notes |
-|----------------------------------------------------|------------------|---------------|-------|
-| [Kooser PTT Show]          | December 2, 1978 | May 1980      |       |
-| Showboat Stage                                     | April 1980       | 1981          |       |
-| [Balcony Stage] | 1981             | 1988-1989     |       |
-| [Chuck E.'s House Facade (C-Stage)]   | 1988-1989        | 1993          |       |
-| [2-Stage]                  | 1993             | June 25, 2020 |       |
-
 ## History
 
 Before its debut as a Pizza Time Theatre, *1371 Kooser Rd* originally housed a grocery store in the 1960s.(1) Pizza Time Theatre would keep the original flooring and lighting used in this grocery store for its first few months open before removing and replacing both with standardized tiling and lighting.(2) The store itself had a square foot of 18,348 unlike Winchester's square foot of 5,000. (Thus, making it the largest pizza parlor in the city.) The size of This location gave an opportunity to have a dedicated room for its [Kooser PTT Show], which was programmed via a recording booth nearby with a window looking towards the characters. The nearby Dolli Dimples cabaret show originally had a Jukebox-like show selector. This would utilize tokens and would give guests the opportunity to select Dolli's next act. Some time between opening and October of 1979, the location would have its tiled white showroom floors replaced with brown tiling similar to other Pizza Time Theatres of the time.(3) In April of 1980, it was announced that the Kooser Rd. Pizza Time Theatre received new staging that moved all of the characters onto one wall and new [Cyberamics]. This new stage would be called 'The Showboat', appearing to have been designed after a vintage steamboat.(4) In 1980 a fundraiser for Laurelwood Elementary School in Santa Clara, CA. Which, the Kooser Rd. Pizza Time Theatre raffle off coupons. Shortly after, the store's Mike Berkeland and Tony Welch attended the March of Dimes Walk-A-Thon. Mike would be in the Chuck E. Cheese mascot suit while Tony would escort him. To provide the two rest stops, Mike's brother Rob would drive his van nearby.(0) In 1981 the Kooser Pizza Time Theatre would remodel for the first time. This remodel included a complete overhaul to Fantasy Forest, color-coded rooms signage, and exterior remodel moving the entrances that were left behind from the grocery store were removed and placed in the front. (The old left entrance was replaced by a set of windows.)(5) On October 22, 1984, the location was purchased by Pizza Time Theatre, later being re-franchised due to the bankruptcy that followed shortly after. In 1983 the location received [Cheese E. Street], an indoor funhouse that bought guests through tubes, slides, ladders, and tunnels. This store in particular would premiere Cheese E. Street on April 22, 1983, at 1:00 PM as an event.(6)
@@ -53,32 +45,6 @@ The Kooser Road Pizza Time Theatre was the first and potentially last Chuck E. C
 - [World Cup Football - Atari, 1974](https://www.arcade-museum.com/game_detail.php?game_id=19605)
 - [Sprint 1 - Atari, 1978](https://www.arcade-museum.com/game_detail.php?game_id=9738)
 - 1978 Skee-Ball
-
-## Animatronics
-
-| Animatronic                                                         | Manufacturing Date | Whereabouts                   |
-|---------------------------------------------------------------------|--------------------|-------------------------------|
-| [Kooser Chuck E Cheese (Animatronic)]       | 1978               | Unknown                       |
-| [Kooser Pasqually (Animatronic)]            | 1978               | Unknown                       |
-| [Kooser Jasper T. Jowls (Animatronic)]      | 1978               | Unknown                       |
-| [Kooser Mr Munch (Animatronic)]             | 1978               | Unknown                       |
-| [Kooser Helen Henny (Animatronic)]          | 1978               | Unknown                       |
-| [Kooser Dolli Dimples (Animatronic)]        | 1978               | Destroyed                     |
-| [Kooser Pizza Time Orchestra (Animatronic)] | 1978               | Unknown                       |
-| Kooser Mopsey Sisters (Animatronic)                                 | 1978               | Unknown                       |
-| [Kooser Flag Wavers (Animatronic)]          | 1978               | Unknown                       |
-| Kooser Applause Board (Animatronic)                                 | 1978               | Unknown                       |
-| [Chuck E. Cheese (Cyberamic)]                                          | 1980               | Destroyed                     |
-| [Guest Star / Helen Henny (Cyberamic)]        | 1980               | Destroyed, Parts sold on eBay |
-| [Mr. Munch (Cyberamic)]                      | 1980               | Sold on eBay                  |
-| [Jasper T. Jowls (Cyberamic)]                | 1980               | Destroyed                     |
-| [Pasqually (Cyberamic)]                     | 1980               | Destroyed                     |
-| [Warblettes (Cyberamic)]                    | 1980               | Unknown                       |
-| [Flag Wavers (Cyberamic)]                                            | 1980               | Unknown                       |
-| [Applause Board (Cyberamic)]                | 1980               | Unknown                       |
-| [Drum Board (Cyberamic)]                    | 1980               | Unknown                       |
-| [Singing Flowers (Cyberamic)]               | N/A                | Unknown                       |
-| [Wink (Cyberamic)]                          | N/A                | Destroyed                     |
 
 ## Walkarounds
 

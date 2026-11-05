@@ -4,11 +4,6 @@
 
 This location was the second to last Studio C Beta to be installed with a [Chuck E Cheese 32m (Animatronic)] and was also speculated to have the oldest Studio C Animatronic on a Studio C Beta. The Chuck E. Cheese Animatronic was installed incorrectly with many movements reversed or hooked up to the wrong valve, making the eyelids being stuck upwards and for the head to be stuck tilted for years. The Show itself was updated at some point from 2017 to 2020 to have LED lighting; at the same time, new fur arms, jeans, feet, and small miscellaneous repairs for the Chuck E. Animatronic.
 
-| Stage                    | Installed | Removed      |
-|--------------------------|-----------|--------------|
-| Studio C Beta            | June 2009 | July 2024    |
-| Dance Floor + Video Wall | July 2024 | Still in use |
-
 ## History
 
 In June of 2009, the Melvin franchise permanently closed their [Jackson, MS (5465 I-55)] location and had relocated most of the assets to the Ridgewood Court location.
@@ -52,12 +47,6 @@ As of August 2024, Jackson remains like this with the 2.0 remodel
 | https://www.youtube.com/watch?v=8QBBjqwYTag  | 'Keep Drummin'                           | September 18, 2022 |
 | https://www.youtube.com/watch?v=KcmhaNiGYJc  | 'Jaspers Country Classic'                | September 18, 2022 |
 | https://www.youtube.com/watch?v=udy8UEasMks  | 'Barbra The Barnyard Barber'             | September 18, 2022 |
-
-## Animatronics
-
-| Animatronic                                                | Serial  | Whereabouts                  |
-|------------------------------------------------------------|---------|------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | Unknown | Unknown (probably destroyed) |
 
 ## Trivia
 

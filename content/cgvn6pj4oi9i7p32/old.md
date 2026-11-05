@@ -12,20 +12,6 @@ As of 2022, the former Pizza Time Theatre in Bowling Green is now a RE/MAX Real 
 
 The Bowling Green PTT opened with the [Balcony Stage], as every PTT had (except for the few early PTT's between 1977-1980) they never got another stage since the store closed in 1986. There are no public photos of the Bowling Green Pizza Time Theatre except for one single black and white photo of The King (shown above).
 
-| Stage                                              | Installed  | Removed        | Fate                                        |
-|----------------------------------------------------|------------|----------------|---------------------------------------------|
-| [Balcony Stage] | April 1984 | April-May 1986 | Auctioned Off; Unknown what happened after. |
-
 ## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                  |
-|--------------------------------------------------------------|--------------------|----------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown (Destroyed or In Private Collection) |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown (Destroyed or In Private Collection) |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown (Destroyed or In Private Collection) |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown (Destroyed or In Private Collection) |
-| [Pasqually (Cyberamic)]              | Unknown            | Unknown (Destroyed or In Private Collection) |
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown (Destroyed or In Private Collection) |
-| [The King / King Kat (Lounge)]         | Unknown            | Unknown (Destroyed or In Private Collection) |
 
 File:BGPTTNewspaper.jpeg|Opening Ad. File:BowlingGreenPTTAuctionAd.jpg|Auction Ad. File:2530ScottsvilleRoadStreetViewMay2008.png|Google Street View of the 'Old Hickory Building' in May 2008. File:2530ScottsvilleRoadStreetView2019.png|Google Street View of the 'Old Hickory Building' in July 2019.

@@ -4,11 +4,6 @@
 
 Beaverton's only stage was the [Balcony Stage]. However, any further documentation is unknown.
 
-| Stage                                              | Installed    | Removed   | Notes                                           |
-|----------------------------------------------------|--------------|-----------|-------------------------------------------------|
-| [Balcony Stage] | October 1981 | July 1985 | First CEC in Oregon.                            |
-| The King                                           | Unknown      | Unknown   | Confirmed by photos taken between 1981 and 1983 |
-
 ## History
 
 This location opened in October 1981 (day unknown) as the first Chuck E. Cheese in Oregon. As most other PTTs at the time, they had the [Balcony Stage]. Unfortunately, basically no documentation exists on this location. The location closed permanently around July 1985 for unknown reasons, but likely due to it underperforming. As of July 2023, the location is now Trader Joe's.

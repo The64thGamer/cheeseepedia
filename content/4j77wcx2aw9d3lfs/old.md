@@ -2,16 +2,11 @@
 
 ## Stages
 
-Victorville opened with a Studio C (1997)|Studio C Alpha. The Alpha received minor changes throughout its lifespan up until April 2022, when they receive the 2.0 remodel and replaced the Alpha with a 2021 Model [Chuck E Live Stage (Dance Floor)] and [Video Wall]. As of August 2023, the Dance Floor and Video wall are still there.
-
-| Stage                                                                                             | Installed     | Removed      | Notes                                |
-|---------------------------------------------------------------------------------------------------|---------------|--------------|--------------------------------------|
-| Studio C (1997)\|Studio C Alpha                                                                   | December 1999 | April 2022   | One of many installed in California. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | April 2022    | Still in use | 2021 Model.                          |
+Victorville opened with a Studio C (1997)|Studio C Alpha. The Alpha received minor changes throughout its lifespan up until April 2022, when they receive the 2.0 remodel and replaced the Alpha with a 2021 Model [Chuck E. Live Stage (Dance Floor)] and [Video Wall]. As of August 2023, the Dance Floor and Video wall are still there.
 
 ## History
 
-Victorville opened on December 14, 1999, with the [Phase 2 (1997)] remodel and a Studio C (1997)|Studio C Alpha. A few years later between 2000 and 2002, they received [Phase 3 (2000)]. Around 2007, they received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing all 90s decor, removing showroom walls and balcony seating, expanded the store, added purple walls, and changed the exterior. The [Skytubes] were removed sometime in the mid-late 2010s. In April 2022, Victorville received the 2.0 remodel, removing the Studio C Alpha for a 2021 Model [Chuck E Live Stage (Dance Floor)] and [Video Wall]. The grand reopening occurred on June 2, 2022. As of August 2023, Victorville remains operational with the 2.0 remodel.
+Victorville opened on December 14, 1999, with the [Phase 2 (1997)] remodel and a Studio C (1997)|Studio C Alpha. A few years later between 2000 and 2002, they received [Phase 3 (2000)]. Around 2007, they received the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which involved removing all 90s decor, removing showroom walls and balcony seating, expanded the store, added purple walls, and changed the exterior. The [Skytubes] were removed sometime in the mid-late 2010s. In April 2022, Victorville received the 2.0 remodel, removing the Studio C Alpha for a 2021 Model [Chuck E. Live Stage (Dance Floor)] and [Video Wall]. The grand reopening occurred on June 2, 2022. As of August 2023, Victorville remains operational with the 2.0 remodel.
 
 ## Animatronics
 

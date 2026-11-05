@@ -7,14 +7,3 @@ It opened on December 20, 1982 as a Pizza Time Theatre in the Palm Springs Mile 
 ## Videos
 
 No videos have surfaced of this location.
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts |
-|--------------------------------------------------------------|--------------------|-------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | 1980s              | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | 1980s              | Unknown     |
-| [Mr. Munch (Cyberamic)]               | 1980s              | Unknown     |
-| [Pasqually (Cyberamic)]              | 1980s              | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | 1980s              | Unknown     |
-| [Warblettes (Cyberamic)]             | 1980s              | Unknown     |

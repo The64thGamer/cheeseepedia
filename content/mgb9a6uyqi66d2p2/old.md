@@ -8,32 +8,6 @@ Englewood opened its doors on July 16th, 1981 with a Rock-afire Explosion show. 
 
 Englewood opened with the Rock afire Explosion in July 1981. Unfortunately, there are some photos but no videos to exist of Englewood with the Rock afire, or as a ShowBiz in general. In 1991/1992, Englewood received [Concept Unification], converting the Rock afire into Munch’s Make Believe Band. Sometime in around Early-Mid 2000, Englewood removed the 3-Stage for the Studio C Alpha stage.
 
-| Stage                                                                                             | Installed     | Removed       | Notes                                                  |
-|---------------------------------------------------------------------------------------------------|---------------|---------------|--------------------------------------------------------|
-| [Classic Stage]                                                           | July 1981     | 1991 or 1992  | 3rd ShowBiz Pizza in Colorado.                         |
-| [Concept Unification Stage (3-Stage)]                                               | 1991 or 1992  | Early 2000    | One of 5 Colorado locations to get Concept Unification |
-| Studio C (1997)\|Studio C Alpha                                                                   | Early 2000    | November 2022 | Formerly last animatronic show in Colorado.            |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | November 2022 | Still in use  | 2021 Model.                                            |
-
 ## Animatronics
-
-| Character                                                                 | Serial    | Status            |
-|---------------------------------------------------------------------------|-----------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-81 1-6  | Unknown/Destroyed |
-| [Dook Larue (Animatronic)]                        | 1-81 2-6  | Unknown/Destroyed |
-| [Fatz Geronimo (Animatronic)]                     | 1-81 3-6  | Unknown/Destroyed |
-| [Beach Bear (Animatronic)]                        | 1-81 4-6  | Unknown/Destroyed |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-81 5-6  | Unknown/Destroyed |
-| [Billy Bob (Animatronic)]                         | 1-81 6-6  | Unknown/Destroyed |
-| [Looney Bird (Animatronic)]                       | 1-81 7-6  | Unknown/Destroyed |
-| [Choo Choo (Animatronic)]                         | 1-81 8-6  | Unknown/Destroyed |
-| [Sun (Animatronic)]                               | 1-81 10-6 | Unknown/Destroyed |
-| [Moon (Animatronic)]                              | 1-81 11-6 | Unknown/Destroyed |
-| [Antioch (Animatronic)]                           | N/A       | Unknown/Destroyed |
-| [Wink]                                            | N/A       | Unknown/Destroyed |
-| [Chuck E Cheese 32m (Animatronic)]                | 066       | Destroyed         |
-| [Bird (Animatronic)]                              | N/A       | Destroyed         |
-| [Pizza Time Clock (Animatronic)]                  | N/A       | Destroyed         |
-| [Pizza Phone (Animatronic)]                       | N/A       | Destroyed         |
 
 [Englewood as ShowBiz Pizza Place](https://www.showbizpizza.com/photos/spp/co_englewood/index.html) [Englewood CO before the 2005 Remodel and after removal of 3-Stage](https://www.flickr.com/photos/skessler/albums/72157604498713792)

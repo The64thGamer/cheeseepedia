@@ -4,11 +4,6 @@
 
 This location opened with a 1-Stage show right before the finalized version was released. In the original plans, Chuck E. would originally have his turntable installed, but it was quickly dropped. The stage had three screens instead of the usual two or one behind Munch. In the Early 2000s, the Tuxedo outfit would be replaced with the Cool Chuck outfit. The Red Cap on the Chuck E. Bot was replaced with the Avenger cap in 2007 but never received the full Avenger outfit. Sometime in 2005-2008, the curtains would be shoved under the stage. (In which they would gather dust and dirt.) In late 2013, Chuck E's avenger cap was removed. Chuck received Rockstar Jeans in 2019, while keeping his Cool Chuck shirt. The stage received its original lift curtains on July 17th.
 
-| Stage                                                      | Installed        | Removed      | Notes                                                                                     |
-|------------------------------------------------------------|------------------|--------------|-------------------------------------------------------------------------------------------|
-| [1-Stage]                          | January 24, 1994 | Still in Use | Perfect condition. Preserved as the company's official 1-Stage following the 2.0 remodel. |
-| [Chuck E Live Stage (Dance Floor)] | June 13, 2024    | Still in Use | 2019 Model.                                                                               |
-
 ## History
 
 Hicksville opened on January 24, 1994 with a 1-Stage. Upon its opening, the location was featured in a CEC Special Report segment, which was included in the showtape [Let The Good Times Roll]. The store opened with the Major 90s Remodel which had the Record Posters, Green Booths, and other features. In the late 90s-Early 2000s, the store received Phase 3. Which included more decor being added, and a new exterior with the Thumb Chuck logo. The restaurant had an initial expansion between 2004 to 2005. The restaurant was expanded again sometime in mid-to-late 2013(1). Because of it, Hicksville had to get 2010 update to [CEC 2000's Remodel Program], and the entrance was reconfigured. The 2013 expansion utilized space from a Blockbuster Video location which had closed sometime between 2007 to 2011(2).
@@ -36,14 +31,3 @@ On June 10th, 2024, the store would begin its [CEC 2.0 Remodel Program]. The sto
 | [Link](https://www.youtube.com/watch?v=o-DUuaBXVwY)                | A view of the interior of the restaurant at night.(5)                                     | November 7, 2020 |
 | [Link](https://archive.org/details/cec-hicksville-ny-promo-videos) | New York Times Promotional Videos of the stage in operation.                              | 2024             |
 | [Link](https://www.youtube.com/watch?v=nTwc-C2HFs0)                | A video of the stage performing 'Song of Summer' recorded by Rockafire Moon.              | May 21, 2024     |
-
-## Animatronics
-
-| Animatronic                                                  | Serial   | Whereabouts |
-|--------------------------------------------------------------|----------|-------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown. | In store.   |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown. | In store.   |
-| [Mr. Munch (Cyberamic)]               | 1361\.   | In store.   |
-| [Jasper T. Jowls (Cyberamic)]         | 1422\.   | In store.   |
-| [Pasqually (Cyberamic)]              | Unknown. | In store.   |
-| [Wink (Cyberamic)]                   | Unknown. | In store.   |

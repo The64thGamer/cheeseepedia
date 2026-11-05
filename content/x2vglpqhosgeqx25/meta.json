@@ -1,43 +1,94 @@
 {
-    "title": "North Dartmouth, MA (412-418 State Rd)",
-    "storeNumber": "",
-    "startDate": "1994-12-05",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1994-12-05"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-09-17"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1994-12-05",
-            "e": "2023-09-17"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-09-17",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.63955237",
-        "-70.99912413"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "VjdzlPTMt_WST25uzXqS.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "North Dartmouth, MA (412-418 State Rd)",
+  "storeNumber": "",
+  "startDate": "1994-12-05",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1994-12-05"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-09-17"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1994-12-05",
+      "e": "2023-09-17",
+      "desc": "One of 3 1-Stages installed in Massachusetts."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-09-17",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2023-09-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.63955237",
+    "-70.99912413"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "VjdzlPTMt_WST25uzXqS.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1994-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Cosmetics destroyed. Parts sent to Northridge, CA (8425 Reseda Blvd). Remains sent to ShowBiz Pizza Time Distribution Center (Topeka, KS).; Mask replaced in Late 2014."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1994-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Cosmetics destroyed. Parts sent to Northridge, CA (8425 Reseda Blvd). Remains sent to ShowBiz Pizza Time Distribution Center (Topeka, KS).; Mask replaced in Late 2014."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1994-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Cosmetics destroyed. Parts sent to Northridge, CA (8425 Reseda Blvd). Remains sent to ShowBiz Pizza Time Distribution Center (Topeka, KS).; Mask replaced in Late 2014."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1994-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Cosmetics destroyed. Parts sent to Northridge, CA (8425 Reseda Blvd). Remains sent to ShowBiz Pizza Time Distribution Center (Topeka, KS).; Mask replaced with one from New London, CT (389 N Frontage Rd) that closed in 2014"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1994-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Cosmetics destroyed. Parts sent to Northridge, CA (8425 Reseda Blvd). Remains sent to ShowBiz Pizza Time Distribution Center (Topeka, KS).; Most of mask replaced with one from Worcester, MA (50 Southwest Cutoff) in 2021."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1994-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    }
+  ]
 }

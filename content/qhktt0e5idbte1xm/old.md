@@ -14,22 +14,6 @@ By the Fall of 1988, the conversion was completed, and was ready to open. The st
 
 Originally, the store opened with Chuck E.'s House, they would have the last PTT vest until 2009, when they replaced it with the Avenger outfit. Chuck E.'s House was finally removed on June 12, 2022, as a part of the 2.0 remodel. The show was dismantled and was collected by the SPT Distribution. The bots still reside there today.
 
-| Stage                                                                                             | Installed    | Removed      | Notes                                                                                                                                                                                |
-|---------------------------------------------------------------------------------------------------|--------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Chuck E.'s House (Rocker Stage)]                                                         | October 1988 | June 2022    | First of 3 Rocker Stages in [Tinley Park, IL (16090 S Harlem Ave)][Streamwood, IL (990 S Barrington Rd)]. Last Rocker to be removed. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | June 2022    | Still in use | 2021 model.                                                                                                                                                                          |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                                                                       |
-|--------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Mr. Munch (Cyberamic)]               | 1981               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Loves Park, IL (6505 N 2nd St)]. |
-| [Jasper T. Jowls (Cyberamic)]         | 1981               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Loves Park, IL (6505 N 2nd St)]. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1981               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Loves Park, IL (6505 N 2nd St)]. |
-| [Chuck E. Cheese (Cyberamic)]      | 1981               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Loves Park, IL (6505 N 2nd St)]. |
-| [Pasqually (Cyberamic)]              | 1981               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Loves Park, IL (6505 N 2nd St)]. |
-| [Singing Flowers (Cyberamic)]        | 1988               | Unknown.                                                                                                                                                          |
-
 ## Videos
 
 | Link                                                | Description                                                                                                                                                 | Filming Date    | Published Date     |

@@ -8,34 +8,6 @@ Garland opened its doors on November 3rd, 1982 with a Rock-afire Explosion show.
 
 Garland opened with the Rock afire Explosion in November 1982. Unfortunately, there are no photos but no videos to exist of Garland with the Rock afire, or as a ShowBiz in general. In 1991, Garland received [Concept Unification], converting the Rock afire into Munch’s Make Believe Band. In the early 2000's, Garland removed the 3-Stage for the Studio C Alpha stage. In November 2021, the location received the 2.0 remodel removing the Alpha stage for the Dance Floor.
 
-| Stage                                               | Installed     | Removed       | Notes |
-|-----------------------------------------------------|---------------|---------------|-------|
-| [Classic Stage]             | November 1982 | 1991          |       |
-| [Concept Unification Stage (3-Stage)] | 1991          | 1999-2000     |       |
-| Studio C Alpha                                      | 1999-2000     | November 2021 |       |
-| Dance Floor                                         | November 2021 | Still in use  |       |
-
-## Animatronics
-
-| Character                                                                 | Serial    | Status            |
-|---------------------------------------------------------------------------|-----------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-82 1-5  | Unknown/Destroyed |
-| [Dook Larue (Animatronic)]                        | 4-82 2-5  | Unknown/Destroyed |
-| [Fatz Geronimo (Animatronic)]                     | 4-82 3-5  | Unknown/Destroyed |
-| [Beach Bear (Animatronic)]                        | 4-82 4-5  | Unknown/Destroyed |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-82 5-5  | Unknown/Destroyed |
-| [Billy Bob (Animatronic)]                         | 4-82 6-5  | Unknown/Destroyed |
-| [Looney Bird (Animatronic)]                       | 4-82 7-5  | Unknown/Destroyed |
-| [Choo Choo (Animatronic)]                         | 4-82 8-5  | Unknown/Destroyed |
-| [Sun (Animatronic)]                               | 4-82 10-5 | Unknown/Destroyed |
-| [Moon (Animatronic)]                              | 4-82 11-5 | Unknown/Destroyed |
-| [Antioch (Animatronic)]                           | N/A       | Unknown/Destroyed |
-| [Wink]                                            | N/A       | Unknown/Destroyed |
-| [Chuck E Cheese 32m (Animatronic)]                | Unknown   | Destroyed         |
-| [Bird (Animatronic)]                              | N/A       | Destroyed         |
-| [Pizza Time Clock (Animatronic)]                  | N/A       | Destroyed         |
-| [Pizza Phone (Animatronic)]                       | N/A       | Destroyed         |
-
 ## Videos
 
 | Link                                 | Description                                                                                    | Filming Date |

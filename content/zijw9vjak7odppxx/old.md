@@ -6,16 +6,4 @@ TODO: History
 
 ## Stages
 
-Originally, the store had a [Studio C Alpha], with an [Interactive Console], they would have it until around June of 2019. they use to have curtains, but were removed sometime between the late 2000's to early-2010's, they replaced where the curtains were with mini walls. in mid 2019, they would receive the 2.0 remodel, removing the Alpha, and replacing it with a [Chuck E Live Stage (Dance Floor)]. As of September 2022, they still have this remodel.
-
-| Stage                                                      | Installed     | Removed      | Notes                                    |
-|------------------------------------------------------------|---------------|--------------|------------------------------------------|
-| [Studio C Alpha]                   | December 2000 | Summer 2019  | Interactive Console removed in June 2019 |
-| [Chuck E Live Stage (Dance Floor)] | Summer 2019   | Still In Use | 2019 Model                               |
-
-## Animatronics
-
-| Animatronic                                                | Serial  | Whereabouts |
-|------------------------------------------------------------|---------|-------------|
-| [Chuck E Cheese 32m (Animatronic)] | Unknown | Unknown     |
-| Parrot (Animatronic)\|Bird (Studio C)                      | N/A     | Unknown     |
+Originally, the store had a [Studio C Alpha], with an [Interactive Console], they would have it until around June of 2019. they use to have curtains, but were removed sometime between the late 2000's to early-2010's, they replaced where the curtains were with mini walls. in mid 2019, they would receive the 2.0 remodel, removing the Alpha, and replacing it with a [Chuck E. Live Stage (Dance Floor)]. As of September 2022, they still have this remodel.

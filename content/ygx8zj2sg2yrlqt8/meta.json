@@ -1,34 +1,114 @@
 {
-    "title": "Bloomingdale, IL (132 E Lake St)",
-    "storeNumber": "",
-    "startDate": "1981-04-01",
-    "endDate": "1985-00-00",
-    "remodels": [
-        {
-            "n": "SPP Standard Layout",
-            "s": "1981-04-01"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1981-04-01",
-            "e": "1985-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.95470997",
-        "-88.07674833"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Bloomingdale, IL (132 E Lake St)",
+  "storeNumber": "",
+  "startDate": "1981-04-01",
+  "endDate": "1985-00-00",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1981-04-01"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-04-01",
+      "e": "1985-00-00",
+      "desc": "2nd ShowBiz Pizza store to open in Illinois. Whereabouts Unknown."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.95470997",
+    "-88.07674833"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-80 1-10",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-80 2-10",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-80 3-10",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-80 4-10",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-80 5-10",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-80 6-10",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-80 7-10",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-80 8-10",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-80 10-10",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-80 11-10",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

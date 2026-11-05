@@ -13,7 +13,14 @@
     {
       "n": "Balcony Stage",
       "s": "1983-08-00",
-      "e": "1984-08-00"
+      "e": "1984-08-00",
+      "desc": "5th Chuck E. Cheese's location in Connecticut."
+    },
+    {
+      "n": "Retrofitted Balcony",
+      "s": "0000-00-00",
+      "e": "1987-07-00",
+      "desc": "Retrofitted during it's time as Banjoe's Family Pizza Playhouse."
     }
   ],
   "franchisees": [],
@@ -30,5 +37,70 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic) (Ted E. Bear)",
+      "s": "1983-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic) (Polly Parton)",
+      "s": "1983-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic) (Corporal Crunch)",
+      "s": "1983-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic) (Banjoe)",
+      "s": "1983-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic) (Sergeant Pepperoni)",
+      "s": "1983-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1983-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by the American Treasure Tour Museum."
+    },
+    {
+      "n": "Clapper Board (Cyberamic)",
+      "s": "1983-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1983-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1983-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
   ]
 }

@@ -11,13 +11,4 @@ Southington opened with a [Balcony Stage] which remained until closure. The anim
 
 ## Animatronics
 
-| Animatronics                                                 | Manufacturing Date | Status  |
-|--------------------------------------------------------------|--------------------|---------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown            | Unknown |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown |
-| [Pasqually (Cyberamic)]              | Unknown            | Unknown |
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown |
-
 Category:Stage

@@ -25,6 +25,11 @@
       "s": "1994-00-00",
       "e": "2020-10-00",
       "desc": "Only 2-Stage in Oregon."
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)/C-Stage",
+      "s": "0000-00-00",
+      "e": "1994-00-00"
     }
   ],
   "franchisees": [],
@@ -45,5 +50,91 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by a Private Collector with new cosmetics. Cosmetics from store were destroyed, but they're owned by another Private Collector."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed, Remains owned by LKD Animatronics and a Private Collector."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed, Remains owned by LKD Animatronics."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed, Remains owned by LKD Animatronics."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed, Remains owned by LKD Animatronics."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dolli Dimples (Cabaret)",
+      "s": "1982-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
   ]
 }

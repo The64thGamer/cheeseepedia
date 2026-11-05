@@ -23,9 +23,3 @@ During the 2020 pandemic, Kade Perry, an employee at the Waco location, stood ou
 | https://youtu.be/F8oRbh5Xx6g      | 'Chuck E. Cha Cha'      | July 31, 2019            |
 | https://youtu.be/IDhP9R5dKuE      | 'Chuck E.'s Easy Dance' | July 31, 2019            |
 | [l](https://youtu.be/PQlvmW1QQ5k) | Store Tour              | October 9, 2021          |
-
-## Animatronic
-
-| Animatronic                                                | Manufacturing Date | Whereabouts |
-|------------------------------------------------------------|--------------------|-------------|
-| [Chuck E Cheese 16m (Animatronic)] | 2003               | Unknown     |

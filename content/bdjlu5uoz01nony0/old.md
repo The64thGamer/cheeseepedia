@@ -37,20 +37,3 @@ On June 23, 2011, the building was purchased and redevelopment plans started to 
 | https://youtu.be/P8MK1Q9mQn4?si=ciFuFUD03okUVbnx       | Store footage from 1994 that shows the 3 Stage | Sep 12, 2023   |
 | https://youtu.be/dPzJ9UM8xDI                           | RAE inside of the barn                         | Jan 18, 2020   |
 | https://youtu.be/HaMNMuw65zo                           | Exploration of the abandoned store             | Nov 23, 2021   |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                  |
-|---------------------------------------------------------------------------|---------------|------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-82 1-33    | Owned by a Private Collector |
-| [Dook Larue (Animatronic)]                        | 10-82 2-33    | Owned by a Private Collector |
-| [Fatz Geronimo (Animatronic)]                     | 10-82 3-33    | Owned by a Private Collector |
-| [Beach Bear (Animatronic)]                        | 10-82 4-33    | Owned by a Private Collector |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-82 5-33    | Owned by a Private Collector |
-| [Billy Bob (Animatronic)]                         | 10-82 6-33    | Owned by a Private Collector |
-| [Looney Bird (Animatronic)]                       | 10-82 7-33    | Owned by a Private Collector |
-| [Choo Choo (Animatronic)]                         | 10-82 8-33    | Owned by Connor Leschinsky   |
-| [Sun (Animatronic)]                               | 10-82 10-33   | Owned by a Private Collector |
-| [Moon (Animatronic)]                              | 10-82 11-33   | Owned by a YouTuber          |
-| [Antioch (Animatronic)]                           | N/A           | Unknown                      |
-| [Wink]                                            | N/A           | Unknown                      |

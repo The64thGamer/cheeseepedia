@@ -2,18 +2,11 @@
 
 ## History
 
-Augusta opened its doors on July 14th, 1982 as the 6th ShowBiz Pizza store in store in Georgia. It opened with the Rock-Afire Explosion band. Augusta received a very minor remodel in 1987 where some SPP decor was removed for newer decor though some remained, and the stage was heavily changed. Billy Bob was replaced with Yogi Bear and Looney Bird was replaced with Boo-Boo. On October 13th, 1991, Augusta received [Concept Unification] and fully received the 1988 remodel removing all SPP decor for CU decor, added Blue and White awnings above the salad bar, added checkers around and outside the store, and removed the Rock-Afire Explosion, including the Yogi Bear test stage for the 3-Stage. The store would receive the 1993 remodel sometime by the Mid 90's removing older CU decor for Record Posters and removing the Blue and White awnings above the salad bar. In the Late 90's, Augusta received another remodel, changing the exterior, removed older decor for newer decor, and replaced the ball pit with SkyTubes. August would remain like this until 2006-2007 when they would receive the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing older decor for newer decor, removing Showroom Walls, expanding to the left of the former space, replacing the older pointing Chuck for the newer one, and received an exterior remodel. Then in 2010-2012, Augusta would remodel again to the 2010 Update which involved redoing the front end of the store including relocating the Salad Bar from the back to the store to closer to the ordering counter and redoing the entryway. On April 25th, 2023, this location had started their 2.0 remodel, removing the stage in the morning of that day. In April 2023, Augusta started their 2.0 remodel. The store's Grand Reopening took place on June 1st, 2023(1). As of November 2023, Augusta still has the 2.0 Remodel &amp; the 2021 Model Dance Floor + Video Wall.
+Augusta opened its doors on July 14th, 1982 as the 6th ShowBiz Pizza store in store in Georgia. It opened with the Rock-Afire Explosion band. Augusta received a very minor remodel in 1987 where some SPP decor was removed for newer decor though some remained, and the stage was heavily changed. Billy Bob was replaced with Yogi Bear and Looney Bird was replaced with Boo-Boo. On October 13th, 1991, Augusta received [Concept Unification] and fully received the 1988 remodel removing all SPP decor for CU decor, added Blue and White awnings above the salad bar, added checkers around and outside the store, and removed the Rock-Afire Explosion, including the Yogi Bear test stage for the 3-Stage. The store would receive the 1993 remodel sometime by the Mid 90's removing older CU decor for Record Posters and removing the Blue and White awnings above the salad bar. In the Late 90's, Augusta received another remodel, changing the exterior, removed older decor for newer decor, and replaced the ball pit with SkyTubes. August would remain like this until 2006-2007 when they would receive the 2005 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing older decor for newer decor, removing Showroom Walls, expanding to the left of the former space, replacing the older pointing Chuck for the newer one, and received an exterior remodel. Then in 2010-2012, Augusta would remodel again to the 2010 Update which involved redoing the front end of the store including relocating the Salad Bar from the back to the store to closer to the ordering counter and redoing the entryway. On April 25th, 2023, this location had started their 2.0 remodel, removing the stage in the morning of that day. In April 2023, Augusta started their 2.0 remodel. The store's Grand Reopening took place on June 1st, 2023(1). As of November 2023, Augusta still has the 2.0 Remodel &amp; the 2021 Model Chuck E. Live Stage (Dance Floor).
 
 ## Stages
 
-Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the Billy Bob stage was replaced with Yogi Bear. On October 13th, 1991, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. Their compressor had burst sometime around February/March 2023 and would remain that way until the stage's removal on the morning of April 25th, 2023. As of June 2023, Augusta still has the 2.0 Remodel &amp; the 2021 Model Dance Floor + Video Wall.
-
-| Stage                                                                                             | Installed          | Removed            | Notes                                                              |
-|---------------------------------------------------------------------------------------------------|--------------------|--------------------|--------------------------------------------------------------------|
-| [Classic Stage]                                                           | July 1982          | October 13th, 1991 | 6th ShowBiz Pizza store in Georgia.                                |
-| [Yogi Bear Stage]                                                         | 1987               | 1987/1988          | One of 3 ShowBiz Pizzas to receive this test stage.                |
-| [Concept Unification Stage (3-Stage)]                                               | October 13th, 1991 | April 25th, 2023   | One of 6 ShowBiz stores in Georgia to undergo Concept Unification. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | April 25th, 2023   | Still In Use.      | 2021 Model.                                                        |
+Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the Billy Bob stage was replaced with Yogi Bear. On October 13th, 1991, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. Their compressor had burst sometime around February/March 2023 and would remain that way until the stage's removal on the morning of April 25th, 2023. As of June 2023, Augusta still has the 2.0 Remodel &amp; the 2021 Model Chuck E. Live Stage (Dance Floor).
 
 ## Arcade Machines
 
@@ -124,24 +117,6 @@ Originally when the store opened, they had a Rock-Afire Explosion. In 1987, the 
 - NBA Hoop Troop Jr.
 - Super Big Rig
 - Hungry Froggy
-
-## Animatronics
-
-| Animatronic                     | Serial Number | Whereabouts                 |
-|---------------------------------|---------------|-----------------------------|
-| Chuck E. Cheese / Rolfe DeWolfe | 10-81 1-16    | Destroyed. Removed 4/25/23  |
-| Pasqually / Dook Larue          | 10-81 2-16    | Destroyed. Removed 4/25/23  |
-| Mr. Munch / Fatz Geronimo       | 10-81 3-16    | Destroyed. Removed 4/25/23  |
-| Jasper T. Jowls / Beach Bear    | 10-81 4-16    | Destroyed. Removed 4/25/23  |
-| Helen Henny / Mitzi Mozzarella  | 10-81 5-16    | Destroyed. Removed 4/25/23  |
-| Billy Bob                       | 10-81 6-16    | Unknown.                    |
-| Birthday Bird                   | N/A           | Owned by private collector. |
-| Pizzacam / Looney Bird          | 10-81 7-16    | Destroyed.                  |
-| Munch Jr. / Choo Choo           | 10-81 8-16    | Destroyed.                  |
-| Building / Sun                  | 10-81 10-16   | Destroyed. Removed 4/25/23  |
-| Moon                            | 10-81 11-16   | Destroyed. Removed 4/25/23  |
-| Antioch                         | N/A           | Unknown.                    |
-| Wink                            | N/A           | Destroyed. Removed 4/25/23  |
 
 ## Videos
 

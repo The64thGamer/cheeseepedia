@@ -7,30 +7,3 @@ Metairie opened its doors in June 24th, 1981 with a Rock-afire Explosion show. I
 ## Stages
 
 Metairie opened with the Rock afire Explosion in June 1981. Unfortunately, there are no photos or videos to exist of Metairie with the Rock afire, or as a ShowBiz in general. In 1991/1992, Metairie received [Concept Unification], converting the Rock afire into Munch’s Make Believe Band. In 2000, Metairie removed the 3-Stage, it was soon replaced with a Studio C Alpha stage. The Studio C Alpha would be removed when the store closed on March 17, 2024
-
-| Stage                                               | Installed    | Removed      | Notes                                                                                                                     |
-|-----------------------------------------------------|--------------|--------------|---------------------------------------------------------------------------------------------------------------------------|
-| [Classic Stage]             | June 1981    | 1991 or 1992 | 2nd ShowBiz in Louisiana.                                                                                                 |
-| [Concept Unification Stage (3-Stage)] | 1991 or 1992 | 2000         | One of 5 ShowBiz stores in Louisiana to undergo Concept Unification. One of 8 stores to get the Cheerleader Helen outfit. |
-| Studio C (1997)\|Studio C Alpha                     | 2000         | March 2024   | One of two Studio C Alphas installed in the state. Last one in Louisiana.                                                 |
-
-## Animatronics
-
-| Character                                                                 | Serial    | Status            |
-|---------------------------------------------------------------------------|-----------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-81 1-3  | Unknown/Destroyed |
-| [Dook Larue (Animatronic)]                        | 1-81 2-3  | Unknown/Destroyed |
-| [Fatz Geronimo (Animatronic)]                     | 1-81 3-3  | Unknown/Destroyed |
-| [Beach Bear (Animatronic)]                        | 1-81 4-3  | Unknown/Destroyed |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-81 5-3  | Unknown/Destroyed |
-| [Billy Bob (Animatronic)]                         | 1-81 6-3  | Unknown/Destroyed |
-| [Looney Bird (Animatronic)]                       | 1-81 7-3  | Unknown/Destroyed |
-| [Choo Choo (Animatronic)]                         | 1-81 8-3  | Unknown/Destroyed |
-| [Sun (Animatronic)]                               | 1-81 10-3 | Unknown/Destroyed |
-| [Moon (Animatronic)]                              | 1-81 11-3 | Unknown/Destroyed |
-| [Antioch (Animatronic)]                           | N/A       | Unknown/Destroyed |
-| [Wink]                                            | N/A       | Unknown/Destroyed |
-| [Chuck E Cheese 32m (Animatronic)]                | Unknown   | Unknown           |
-| [Bird (Animatronic)]                              | N/A       | Unknown           |
-| [Pizza Time Clock (Animatronic)]                  | N/A       | Unknown           |
-| [Pizza Phone (Animatronic)]                       | N/A       | Unknown           |

@@ -4,30 +4,8 @@
 
 TODO
 
-## Stages
-
-| Stage                   | Installed | Removed       | Notes                              |
-|-------------------------|-----------|---------------|------------------------------------|
-| Balcony Stage           | May 1982  | 1989/1990     | One of the many installed in Ohio. |
-| Chuck E.'s House Facade (C-Stage) | 1989/1990 | December 1991 | One of 5 installed in Ohio.        |
-
 ## Videos
 
 | Link                                              | Description | Filming Date |
 |---------------------------------------------------|-------------|--------------|
 | [Link](https://m.youtube.com/watch?v=WuYuf7IBewQ) | C-Stage     | 1990         |
-
-## Animatronics
-
-| Animatronic                                                  | Whereabouts          |
-|--------------------------------------------------------------|----------------------|
-| [Chuck E. Cheese (Cyberamic)]      | Retrofitted in 1991. |
-| [Guest Star / Helen Henny (Cyberamic)] | Retrofitted in 1991. |
-| [Mr. Munch (Cyberamic)]               | Retrofitted in 1991. |
-| [Jasper T. Jowls (Cyberamic)]         | Retrofitted in 1991. |
-| [Pasqually (Cyberamic)]              | Retrofitted in 1991. |
-| Marc (Chuck E. Cheese Retrofit)                              | Unknown              |
-| Rita (Helen Henny Retrofit)                                  | Unknown.             |
-| Ally (Mr. Munch Retrofit)                                    | Unknown.             |
-| Fletch (Jasper T. Jowls Retrofit)                            | Unknown.             |
-| Chops (Pasqually Retrofit)                                   | Unknown.             |

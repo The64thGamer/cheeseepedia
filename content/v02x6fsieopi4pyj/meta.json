@@ -1,42 +1,64 @@
 {
-    "title": "Independence, MO (18701 E 39th St)",
-    "storeNumber": "",
-    "startDate": "2012-05-00",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2012-05-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "0000-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2012-05-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "39.04611682",
-        "-94.36214643"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "6NPRxxnr4SHqqUGqbmxi.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Independence, MO (18701 E 39th St)",
+  "storeNumber": "",
+  "startDate": "2012-05-00",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2012-05-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "0000-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2012-05-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-09-00"
+    },
+    {
+      "n": "Studio C Beta, 16m",
+      "s": "2012-05-00",
+      "e": "2024-09-16",
+      "desc": "Last Beta in Missouri. Last Animatronic of any kind in the state."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.04611682",
+    "-94.36214643"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "6NPRxxnr4SHqqUGqbmxi.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown, Most likely Destroyed"
+    }
+  ]
 }

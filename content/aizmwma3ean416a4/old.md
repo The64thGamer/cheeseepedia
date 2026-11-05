@@ -7,26 +7,3 @@ Houston (Weslayan) opened its doors on October 6th, 1982 with a Rock-afire Explo
 ## Stages
 
 Originally when the store opened, they had a Rock-afire Explosion, as all other ShowBiz locations did. They would have it for a few years, until 1991 or 1992, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. They would have this stage until they closed. The Building and Moon animatronics were sent to the [Chuck E Cheese's Corporate Office], where they are being used for programming.
-
-| Stage                | Installed    | Removed        | Notes                                                                                                       |
-|----------------------|--------------|----------------|-------------------------------------------------------------------------------------------------------------|
-| Rock-afire Explosion | October 1982 | 1991-1992      | 19th ShowBiz Pizza store to open in Texas.                                                                  |
-| 3-Stage              | 1991-1992    | September 2018 | One of 17 ShowBiz Pizza stores in Texas to receive Concept Unification. Last 3-Stage store in Houston area. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                                                                                          |
-|---------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-20     | Destroyed                                                                                            |
-| [Dook Larue (Animatronic)]                        | 1-82 2-20     | Destroyed                                                                                            |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-20     | Destroyed                                                                                            |
-| [Beach Bear (Animatronic)]                        | 1-82 4-20     | Unknown/Destroyed. Replaced with bot from [Houston, TX (6760 Antoine Dr)](1) |
-| [Beach Bear (Animatronic)]                        | 1-81 4-5      | Came from [Houston, TX (6760 Antoine Dr)], now destroyed(1)                  |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-20     | Destroyed. Mask later sent to [Dallas, TX (7110 S Westmoreland Rd)].         |
-| [Billy Bob (Animatronic)]                         | 1-82 6-20     | Destroyed                                                                                            |
-| [Looney Bird (Animatronic)]                       | 1-82 7-20     | Destroyed                                                                                            |
-| [Choo Choo (Animatronic)]                         | 1-82 8-20     | Destroyed                                                                                            |
-| [Sun (Animatronic)]                               | 1-82 10-20    | Sent to CEC Corporate Office, used for programming.                                                  |
-| [Moon (Animatronic)]                              | 1-82 11-20    | Sent to CEC Corporate Office, used for programming.                                                  |
-| [Antioch (Animatronic)]                           | N/A           | Destroyed                                                                                            |
-| [Wink]                                            | N/A           | Destroyed                                                                                            |

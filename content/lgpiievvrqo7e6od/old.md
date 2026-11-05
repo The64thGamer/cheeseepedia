@@ -8,23 +8,6 @@ Natick opened on November 17, 1992, with a 2-Stage. The 2-Stage had a unique con
 
 During the closure, all animatronic mechs were thrown into the Cognex trash compactor. The stage with various props was still seen up until a few weeks later. Shortly after, the location became warehouse space for Cognex Corporation, repainting the building, gutting the interior, and building racks for storage.
 
-## Stages
-
-| Stage   | Installed     | Removed  | Notes                                   |
-|---------|---------------|----------|-----------------------------------------|
-| 2-Stage | November 1992 | May 2020 | One of five installed in Massachusetts. |
-
-## Animatronics
-
-| Animatronics                                                 | Manufacturing Date | Status                                   |
-|--------------------------------------------------------------|--------------------|------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1991-1992          | Thrown into a trash compactor, destroyed |
-| [Guest Star / Helen Henny (Cyberamic)] | 1991-1992          | Thrown into a trash compactor, destroyed |
-| [Mr. Munch (Cyberamic)]               | 1991-1992          | Thrown into a trash compactor, destroyed |
-| [Jasper T. Jowls (Cyberamic)]         | 1991-1992          | Thrown into a trash compactor, destroyed |
-| [Pasqually (Cyberamic)]              | 1991-1992          | Thrown into a trash compactor, destroyed |
-| [Wink (Cyberamic)]                   | 1991-1992          | Unknown/Destroyed                        |
-
 ## Videos
 
 (WIP)

@@ -12,19 +12,6 @@ The land the Bandera Road Chuck E. Cheese's would be built on was purchased in O
 
 On June 2nd, 2016, A grandmother was about to park into a space when she accidentally hit her accelerator. Her vehicle hit the front of the store. The grandson was treated at the scene. (2)
 
-## Stages
-
-| Stage                                                                                             | Installed  | Removed    | Notes                                                                                        |
-|---------------------------------------------------------------------------------------------------|------------|------------|----------------------------------------------------------------------------------------------|
-| [Studio C Beta]                                                           | April 2002 | April 2024 | 32M Beta                                                                                     |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | April 2024 | 2021 Model | Dance Floor originally came from [Arlington, TX (2216 S Fielder Rd)] |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts       |
-|------------------------------------------------------------|--------|-------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 160    | Unknown/Destroyed |
-
 ## Games &amp; Rides
 
 ### Skill Games

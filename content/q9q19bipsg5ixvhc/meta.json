@@ -1,34 +1,114 @@
 {
-    "title": "Pontiac, MI (965 S Opdyke Rd)",
-    "storeNumber": "",
-    "startDate": "1982-11-04",
-    "endDate": "1984-01-08",
-    "remodels": [
-        {
-            "n": "SPP Standard Layout",
-            "s": "1982-11-04"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1982-11-04",
-            "e": "1984-01-08"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "42.62054102",
-        "-83.25008098"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Pontiac, MI (965 S Opdyke Rd)",
+  "storeNumber": "",
+  "startDate": "1982-11-04",
+  "endDate": "1984-01-08",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1982-11-04"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-11-04",
+      "e": "1984-01-08",
+      "desc": "4th ShowBiz Pizza store in Michigan."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.62054102",
+    "-83.25008098"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 1-7",
+      "desc": "Unknown / Destroyed."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4/82 2-7",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4/82 3-7",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 4-7",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 5-7",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 6-7",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 7-7",
+      "desc": "Unknown / Destroyed."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 8-7",
+      "desc": "Unknown / Destroyed."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 10-7",
+      "desc": "Unknown / Destroyed."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-82 11-7",
+      "desc": "Unknown / Destroyed."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed."
+    }
+  ]
 }

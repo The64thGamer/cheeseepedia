@@ -154,61 +154,6 @@ Unlike Liseberg's *Ap-O-Teket*, Edenlandia's *Variety Show* was a massive hit wi
 
 ## Animatronics
 
-### Phantasialand &amp; Hellendoorn
-
-| Animatronic                  | Manufacturing Date | Status            |
-| ---------------------------- | ------------------ | ----------------- |
-| Western Monkey on Washboard  | 1976-77            | Unknown/Destroyed |
-| Old Captain / Cowboy Bear    | 1976-77            | Unknown/Destroyed |
-| Louis Armstrong Monkey       | 1976-77            | Unknown/Destroyed |
-| Showmaster Monkey &amp; Bird | 1976-77            | Unknown/Destroyed |
-| Gorilla Pianist              | 1976-77            | Unknown/Destroyed |
-| Hawaiian Monkey #1           | 1976-77            | Unknown/Destroyed |
-| Hawaiian Monkey #2           | 1976-77            | Unknown/Destroyed |
-| Hawaiian Monkey #3           | 1976-77            | Unknown/Destroyed |
-| Saxophone Monkey             | 1976-77            | Unknown/Destroyed |
-| Upright Bass Monkey          | 1976-77            | Unknown/Destroyed |
-| Banjo Monkey                 | 1976-77            | Unknown/Destroyed |
-| Drummer Monkey               | 1976-77            | Unknown/Destroyed |
-| Violin Monkey                | 1976-77            | Unknown/Destroyed |
-| Accordion Monkey             | 1976-77            | Unknown/Destroyed |
-| Bonvivant Monkey             | 1976-77            | Unknown/Destroyed |
-| 'Kisses For Me' Monkey #1    | 1976-77            | Unknown/Destroyed |
-| 'Kisses For Me' Monkey #2    | 1976-77            | Unknown/Destroyed |
-| 'Kisses For Me' Monkey #3    | 1976-77            | Unknown/Destroyed |
-| Primadonna Monkey            | 1976-77            | Unknown/Destroyed |
-| Drunken Bear with Lantern    | 1976-77            | Unknown/Destroyed |
-| Bavarian Parrot              | 1976-77            | Unknown/Destroyed |
-| French Parrot                | 1976-77            | Unknown/Destroyed |
-| Pirate Parrot                | 1988-89            | Unknown/Destroyed |
-
-### Liseberg &amp; Edenlandia
-
-| Animatronic                   | Manufacturing Date | Status  | Notes               |
-| ----------------------------- | ------------------ | ------- | ------------------- |
-| Western Monkey on Washboard   | 1982-83            | Unknown |                     |
-| Old Captain Bear              | 1980s              | Unknown | Edenlandia Addition |
-| Louis Armstrong Monkey        | 1982-83            | Unknown |                     |
-| Showmaster Monkey &amp; Skunk | 1980s              | Unknown | Edenlandia Addition |
-| Gorilla Pianist               | 1982-83            | Unknown |                     |
-| Hawaiian Monkey #1            | 1982-83            | Unknown |                     |
-| Hawaiian Monkey #2            | 1982-83            | Unknown |                     |
-| Hawaiian Monkey #3            | 1982-83            | Unknown |                     |
-| Saxophone Monkey              | 1982-83            | Unknown |                     |
-| Upright Bass Monkey           | 1982-83            | Unknown |                     |
-| Banjo Monkey                  | 1982-83            | Unknown |                     |
-| Drummer Monkey                | 1982-83            | Unknown |                     |
-| Violin Monkey                 | 1982-83            | Unknown |                     |
-| Accordion Monkey              | 1982-83            | Unknown |                     |
-| Bonvivant Monkey              | 1980s              | Unknown | Edenlandia Addition |
-| 'Kisses For Me' Monkey #1     | 1982-83            | Unknown |                     |
-| 'Kisses For Me' Monkey #2     | 1982-83            | Unknown |                     |
-| 'Kisses For Me' Monkey #3     | 1982-83            | Unknown |                     |
-| Primadonna Monkey             | 1982-83            | Unknown |                     |
-| Drunken Bear with Lantern     | 1980s              | Unknown | Edenlandia Addition |
-| Red Parrot                    | 1982-83            | Unknown |                     |
-| Blue Parrot                   | 1982-83            | Unknown |                     |
-
 ## Videos
 
 | Link                                                        | Description                                                                                                          | Filming Date  | Publish Date      |

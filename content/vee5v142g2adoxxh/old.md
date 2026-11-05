@@ -18,12 +18,6 @@ Between 2011-early 2012, Jasper's PTT mask was replaced and received his new mas
 
 Around 2020 and 2021, The Road Stage fell into a state of disrepair after reopening from the pandemic, As Helen couldn’t move nor move her eyes, Munch couldn’t touch his keyboard, And Jasper was completely aired down for a year and the spotlights (Including the wink Spotlight) were broken. The stage was removed on November 28th, 2021, for the 2.0 Remodel and Dance Floor with the video wall. All of the animatronics were being destroyed. It’s also noteworthy that Hialeah was the first Road Stage removed for 2.0.
 
-| Stage       | Installed     | Removed       | Notes                                   |
-|-------------|---------------|---------------|-----------------------------------------|
-| Road Stage  | March 1991    | November 2021 | First Road Stage to be removed for 2.0. |
-| Dance Floor | December 2021 | Still in use  | 2021 Model                              |
-| Video Wall  | January 2022  | Still In use  | Dragon Model                            |
-
 As of December 2023, Hialeah still has the Dance Floor with the video wall and 2.0 Remodel.
 
 ## History
@@ -60,17 +54,6 @@ W.I.P
 | Link                                                | Remember That Time being showed on the video wall                                                           | 04-26-2024   |
 
 [[CEC 2000's Remodel Program] Hialeah (2011)](https://photos.app.goo.gl/kfAdhwSRHrMrziRy8) [Hialeah Showroom (2013)](https://www.catchmyparty.com/photos/1279723) [Hialeah 2.0 (January 2022)](https://photos.app.goo.gl/3PZ9NTZu5Eo73VJP9)
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Status     |
-|--------------------------------------------------------------|--------------------|------------|
-| [Chuck E. Cheese (Cyberamic)]         | 1980s              | Destroyed. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1980s              | Destroyed. |
-| [Mr. Munch (Cyberamic)]               | 1980s              | Destroyed. |
-| [Jasper T. Jowls (Cyberamic)]         | 1980s              | Destroyed. |
-| [Pasqually (Cyberamic)]              | 1980s              | Destroyed. |
-| [Wink (Cyberamic)]                   | 1990s              | Destroyed. |
 
 ## Walkarounds
 

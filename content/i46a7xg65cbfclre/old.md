@@ -16,7 +16,7 @@ On November 10th, 2006, the store would open its doors with the 2003 'Cool Chuck
 
 ### 2.0 Remodel
 
-Around July 2019, the store would start their 2.0 remodel, removing the animatronic stage and adding a 2019 model dance floor. The store would then host its grand reopening on September 5th, 2019.(4) Around February 2023, the store would add a [Video Wall] and replace its [Chuck E Live Stage (Dance Floor)] with a 2021 Model version of it.
+Around July 2019, the store would start their 2.0 remodel, removing the animatronic stage and adding a 2019 model dance floor. The store would then host its grand reopening on September 5th, 2019.(4) Around February 2023, the store would add a [Video Wall] and replace its [Chuck E. Live Stage (Dance Floor)] with a 2021 Model version of it.
 
 ## Arcade Machines
 
@@ -108,10 +108,3 @@ Around July 2019, the store would start their 2.0 remodel, removing the animatro
 | [Link](https://youtu.be/B1JR8Od149Y)                | The store's show performing *Gamin' Time* from [Chuck E Cheese's Show 3 2016] | July 2nd, 2019   |
 | [Link](https://youtu.be/L8aN7t4Xwto)                | The Easy Dance                                                                                        | July 2nd, 2019   |
 | [Link](https://youtu.be/uEUu-aVKXrI)                | 2.0 Store Tour                                                                                        | June 27th, 2020  |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts |
-|------------------------------------------------------------|--------|-------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A    | Unknown     |
-| [Pizza Time Clock (Animatronic)]   | N/A    | Unknown     |

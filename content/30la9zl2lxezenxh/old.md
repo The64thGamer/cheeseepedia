@@ -12,28 +12,6 @@ After Elegance Salon de Eventos moved into the former space, it was unknown whet
 
 Originally when the store opened, they had a Rock-Afire Explosion like every other ShowBiz location. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. They would still have this stage until their closure in December 2011 due to it being in an abandoned shopping center.
 
-| Stage                                               | Installed | Removed       | Notes                                                                                         |
-|-----------------------------------------------------|-----------|---------------|-----------------------------------------------------------------------------------------------|
-| [Classic Stage]             | June 1982 | 1991-1992     | 4th ShowBiz Store to open in Indiana.                                                         |
-| [Concept Unification Stage (3-Stage)] | 1991-1992 | December 2011 | One of 7 ShowBiz stores in Indiana to get Concept Unification. 2nd to Last 3-Stage in Indiana |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Code | Whereabouts |
-|---------------------------------------------------------------------------|-------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-81 1-12  | Unknown     |
-| [Dook Larue (Animatronic)]                        | 10-81 2-12  | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | 10-81 3-12  | Unknown     |
-| [Beach Bear (Animatronic)]                        | 10-81 4-12  | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-81 5-12  | Unknown     |
-| [Billy Bob (Animatronic)]                         | 10-81 6-12  | Unknown     |
-| [Looney Bird (Animatronic)]                       | 10-81 7-12  | Unknown     |
-| [Choo Choo (Animatronic)]                         | 10-81 8-12  | Unknown     |
-| [Sun (Animatronic)]                               | 10-81 10-12 | Unknown     |
-| [Moon (Animatronic)]                              | 10-81 11-12 | Unknown     |
-| [Antioch (Animatronic)]                           | N/A         | Unknown     |
-| [Wink]                                            | N/A         | Unknown     |
-
 ### Chuck E. Cheese
 
 ### Elegance Salon de Eventos(1)

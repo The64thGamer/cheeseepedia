@@ -8,20 +8,6 @@ TODO
 
 Originally when the store opened, they had a Studio C Alpha with a 32M Chuck E. animatronic. they would have the stage until they closed, but in June 2020, they replaced their 32M figure with a 16M figure which came from the Muskegon, Michigan (Muskegon had one of the original 7 'V1' Studio C Cappas), which closed in June 2020. As of October 2022, they have been the only Studio C Alpha to feature a 16M character (Alphas normally have the 32M character). they would have the 'Studio C Alpha, 16M' for only 5-6 months, when they would close on December 2nd, 2020, possibly of the COVID-19 Pandemic, and the financial situation of CEC Entertainment, Chuck E. Cheese's parent company.
 
-| Stage          | Installed    | Removed       | Notes                                                                            |
-|----------------|--------------|---------------|----------------------------------------------------------------------------------|
-| Studio C Alpha | October 2000 | December 2020 | 32M Beta from October 2000 until June 2020. 16M Beta from June to December 2020. |
-|                |              |               |                                                                                  |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts | Notes                                                    |
-|------------------------------------------------------------|---------------|-------------|----------------------------------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | Unknown       | Destroyed   | Replaced in June 2020                                    |
-| Chuck E. Cheese 16M (Studio C)                             | Unknown       | Destroyed   | Came from Muskegon, Michigan, which closed in June 2020. |
-| Parrot (Animatronic)\|Bird (Studio C)                      | N/A           | Destroyed   |                                                          |
-| [Pizza Phone (Animatronic)]        | N/A           | Destroyed   |                                                          |
-
 ## Arcade Machines
 
 ### Identified Machines:

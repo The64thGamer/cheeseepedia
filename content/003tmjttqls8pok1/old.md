@@ -8,29 +8,6 @@ Boise opened on July 7th, 1983 as the only ShowBiz Pizza store in Idaho. It was 
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations did. They would have it for a few years, until around 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. When the store received Concept Unification, Chuck E wore a Tuxedo &amp; Derby like all the other 3-Stages had when they converted from the RockAfire. In the Early 2000's, Chuck's Tuxedo &amp; Derby would be replaced with the Cool Chuck outfit. In between 2006-2008, Munch's Latex Mask would be replaced with a Plastic one (Jasper's would then be replaced in 2011-2012). Chuck's Cool Chuck cap would be removed in September 2013. In around 2020-2021, Chuck's 3-Stage ears would be replaced with Cyberamic ones. In August 2022, Boise would receive the 2.0 remodel, removing the 3-Stage for a 2021 Model Dance Floor &amp; Video Wall. As of March 2023, they still have the 2021 Model Dance Floor &amp; Video Wall.
 
-| Stage                                                                                              | Installed   | Removed      | Notes                                      |
-|----------------------------------------------------------------------------------------------------|-------------|--------------|--------------------------------------------|
-| [Classic Stage]                                                            | July 1983   | Around 1991  | Only ShowBiz Pizza store to open in Idaho. |
-| [Concept Unification Stage (3-Stage)]                                                | Around 1991 | August 2022  | Last CEC in Idaho.                         |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall]. | August 2022 | Still In Use | 2021 Model.                                |
-
-## Animatronics
-
-| Animatronic                                                               | Serial     | Whereabouts |
-|---------------------------------------------------------------------------|------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ?-8? 1-??  | Destroyed   |
-| [Dook Larue (Animatronic)]                        | ?-8? 2-??  | Destroyed   |
-| [Fatz Geronimo (Animatronic)]                     | ?-8? 3-??  | Destroyed   |
-| [Beach Bear (Animatronic)]                        | ?-8? 4-??  | Destroyed   |
-| [Mitzi Mozzarella (Animatronic)]                  | ?-8? 5-??  | Destroyed   |
-| [Billy Bob (Animatronic)]                         | ?-8? 6-??  | Unknown     |
-| [Looney Bird (Animatronic)]                       | ?-8? 7-??  | Destroyed   |
-| [Choo Choo (Animatronic)]                         | ?-8? 8-??  | Destroyed   |
-| [Sun (Animatronic)]                               | ?-8? 10-?? | Destroyed   |
-| [Moon (Animatronic)]                              | ?-8? 11-?? | Destroyed   |
-| [Antioch (Animatronic)]                           | N/A        | Destroyed   |
-| [Wink]                                            | N/A        | Destroyed   |
-
 ## Videos
 
 TODO

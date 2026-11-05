@@ -5,14 +5,3 @@
 ### Zapp's
 
 On May 6th, 1986, Zapp's would host the *Fashion Auction Show* in collaboration with *Show's West*. The event would take place from 9 to 11 pm, and feature a fashion auction, live entertainment, free prizes, makeovers, and a grand prize.(1)
-
-## Animatronics
-
-| Animatronic                                                  | Whereabouts |
-|--------------------------------------------------------------|-------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
-| [Mr. Munch (Cyberamic)]               | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown     |
-| [Warblettes (Cyberamic)]             | Unknown     |

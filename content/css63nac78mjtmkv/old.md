@@ -21,13 +21,3 @@ TODO
 ## Stage
 
 The store opened on October 29, 2005 with a Studio C Beta, which would be kept until the store closed on June 15, 2020.
-
-| Stage                                   | Installed    | Removed   |
-|-----------------------------------------|--------------|-----------|
-| [Studio C Beta] | October 2005 | June 2020 |
-
-## Animatronic
-
-| Character                                                   | Serial | Status   |
-|-------------------------------------------------------------|--------|----------|
-| [Chuck E. Cheese 16m (Animatronic)] | N/A    | Unknown. |

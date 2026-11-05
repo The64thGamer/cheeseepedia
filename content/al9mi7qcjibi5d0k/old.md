@@ -4,24 +4,6 @@
 
 The location had a Balcony Stage, any further documentation is unknown.
 
-| Stage                                              | Installed   | Removed | Notes                                                |
-|----------------------------------------------------|-------------|---------|------------------------------------------------------|
-| [Balcony Stage] | August 1981 | 1984    | Whereabouts Unknown. One of many installed in Texas. |
-
 ## History
 
 Unfortunately, there is no documentation on this store other than select advertisements. The location closed in 1984 for reasons unknown, maybe for underperforming or competition from other San Antonio stores. The address now belongs to The Martini Club and various other businesses.
-
-## Animatronics
-
-| Animatronic                                                  | Whereabouts |
-|--------------------------------------------------------------|-------------|
-| [Mr. Munch (Cyberamic)]               | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown     |
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown     |
-| [Warblettes (Cyberamic)]             | Unknown     |
-| [Flag Wavers (Cyberamic)]                                     | Unknown     |
-| [Applause Board (Cyberamic)]         | Unknown     |
-| [Drum Board (Cyberamic)]             | Unknown     |

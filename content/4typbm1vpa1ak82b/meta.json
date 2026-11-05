@@ -1,49 +1,98 @@
 {
-    "title": "Herndon, VA (2465 Centreville Rd)",
-    "storeNumber": "",
-    "startDate": "1992-05-19",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1992-05-19"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-07-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "2-Stage",
-            "s": "1992-05-00",
-            "e": "2005-00-00",
-            "desc": "One of six 2-Stages installed in Virginia. Replaced by Studio C Beta 16M."
-        },
-        {
-            "n": "Studio C Beta",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-07-00",
-            "desc": "2019 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "38.94989832",
-        "-77.41005358"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "f2Qi3oXu9zP07REOtyqW.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Herndon, VA (2465 Centreville Rd)",
+  "storeNumber": "",
+  "startDate": "1992-05-19",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1992-05-19"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-07-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "2-Stage",
+      "s": "1992-05-00",
+      "e": "2005-00-00",
+      "desc": "One of six 2-Stages installed in Virginia. Replaced by Studio C Beta 16M."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "2023-07-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-07-00",
+      "desc": "2019 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2023-07-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.94989832",
+    "-77.41005358"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "f2Qi3oXu9zP07REOtyqW.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Alexandria, VA (6303 Richmond Hwy) Mask later sent to Virginia Beach, VA (2699 Lishelle Place), Avenger outfit later sent to Chesapeake. Mask now destroyed, Avenger outfit now at ShowBiz Pizza Time Distribution Center (Topeka, KS)."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Alexandria, VA (6303 Richmond Hwy) Mask later sent to Virginia Beach, VA (2699 Lishelle Place), Now destroyed."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Alexandria, VA (6303 Richmond Hwy) Hat later sent to Chesapeake, VA (1528 Sam's Circle), mask later sent to Virginia Beach. Hat at SPT. Mask now destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Alexandria, VA (6303 Richmond Hwy) Guitar later sent to Chesapeake, VA (1528 Sam's Circle), Mask later sent to Chesapeake, Guitar and mask both now at SPT."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Alexandria, VA (6303 Richmond Hwy) Mask later sent to Chesapeake, VA (1528 Sam's Circle), Now at SPT."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    }
+  ]
 }

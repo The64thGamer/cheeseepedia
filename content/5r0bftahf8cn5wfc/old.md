@@ -8,17 +8,6 @@ Dublin opened on August 1st, 1994 in a freestanding building in an unnamed plaza
 
 Originally when the store opened, they had a 1-Stage, which also had a turntable, which they still have but not operational. When first installed, Chuck E had the Tuxedo &amp; Derby outfit like all other 1-Stages and a functional turntable that turned when a Live or a Birthday Show played. Between 2009-2012, Pasqually's mask would be replaced. In 2018, Chuck's mask would be replaced with [Newark, CA (39839 Mowry School Rd)]'s which got 2.0 in 2018. In March 2023, Jasper's mask would replaced with one from [Sun Valley, CA (8375 Laurel Canyon Blvd)], which possibly got a new Jasper mask or it could of been a spare one they had backstage. In January 2024, Dublin's 1-Stage was removed.
 
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts        |
-|--------------------------------------------------------------|--------------------|--------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | 1993/1994          | Sent to corporate. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1993/1994          | Sent to corporate. |
-| [Mr. Munch (Cyberamic)]               | 1993/1994          | Sent to corporate. |
-| [Jasper T. Jowls (Cyberamic)]         | 1993/1994          | Sent to corporate. |
-| [Pasqually (Cyberamic)]              | 1993/1994          | Sent to corporate. |
-| Wink (Animatronic)\|Wink (Cyberamic)                         | 1993/1994          | Unknown/Destroyed  |
-
 ## Videos
 
 | Link                                                     | Description                                         | Filming Date      | Published Date      |

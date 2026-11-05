@@ -7,31 +7,3 @@ Greenville opened sometime in February 1983 as the second ShowBiz Pizza Place in
 ## Stages
 
 Greenville would premiere with a Classic Rock-afire Explosion, as other ShowBiz locations did at the time. The show would remain largely unchanged until 1991, when [Concept Unification] occurred. The Munch's Make Believe Band 3-Stage would then be replaced by a Studio C Alpha in the year 2000, operating until Greenville's 2.0. remodel in October 2018.
-
-| Stage                                                      | Intalled      | Removed      | Notes                                                                        |
-|------------------------------------------------------------|---------------|--------------|------------------------------------------------------------------------------|
-| [Classic Stage]                    | February 1983 | 1991         | 2nd ShowBiz Pizza Place to open in South Carolina.                           |
-| [Concept Unification Stage (3-Stage)]        | 1991          | 2000         | One of 4 ShowBiz locations in South Carolina to receive Concept Unification. |
-| [Studio C Alpha]                   | 2000          | October 2018 |                                                                              |
-| [Chuck E Live Stage (Dance Floor)] | October 2018  | Still in Use | 2017 Model.                                                                  |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts |
-|------------------------------------------------------------|---------------|-------------|
-| Chuck E. Cheese / Rolfe DeWolfe                            | N/A           | Unknown     |
-| Pasqually / Dook Larue                                     | N/A           | Unknown     |
-| Mr. Munch / Fatz Geronimo                                  | N/A           | Unknown     |
-| [Beach Bear (Animatronic)]         | N/A           | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]   | N/A           | Unknown     |
-| [Billy Bob]                        | N/A           | Unknown     |
-| Pizzacam / Looney Bird                                     | N/A           | Unknown     |
-| [Choo Choo (Animatronic)]          | N/A           | Unknown     |
-| [Sun (Animatronic)]                | N/A           | Unknown     |
-| [Moon (Animatronic)]               | N/A           | Unknown     |
-| Antioch                                                    | N/A           | Unknown     |
-| [Wink]                             | N/A           | Unknown     |
-| [Chuck E Cheese 32m (Animatronic)] | N/A           | Unknown     |
-| [Bird (Animatronic)]               | N/A           | Unknown     |
-| [Pizza Time Clock (Animatronic)]   | N/A           | Unknown     |
-| [Pizza Phone (Animatronic)]        | N/A           | Unknown     |

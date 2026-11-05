@@ -1,34 +1,113 @@
 {
-    "title": "Salina, KS (2555 Market Place)",
-    "storeNumber": "",
-    "startDate": "1981-09-10",
-    "endDate": "1984-01-08",
-    "remodels": [
-        {
-            "n": "SPP Standard Layout",
-            "s": "1981-09-10"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1981-09-10",
-            "e": "1984-01-08"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "38.79217497",
-        "-97.61331148"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "Orywi_6zEEcgsqIZlCf_.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Salina, KS (2555 Market Place)",
+  "storeNumber": "",
+  "startDate": "1981-09-10",
+  "endDate": "1984-01-08",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1981-09-10"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-09-10",
+      "e": "1984-01-08"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.79217497",
+    "-97.61331148"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Orywi_6zEEcgsqIZlCf_.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 1-12",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 2-12",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 3-12",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 4-12",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 5-12",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 6-12",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 7-12",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 8-12",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 10-12",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 11-12",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    }
+  ]
 }

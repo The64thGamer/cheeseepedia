@@ -14,23 +14,7 @@ Glen Burnie opened as a corporate-owned location and was the first location to o
 
 Like all Rocker Stages at the time, Chuck wore his PTT outfit. The stage was replaced by a 2-Stage in 1993. In the early 2000's, Chuck's tuxedo outfit was replaced with the Cool Chuck outfit. By the late 2000's/early 2010's, Chuck's outfit was replaced with the Avenger outfit. In December 2018, the stage was removed for the 2.0 Remodel and Dance Floor.
 
-| Stage                                                      | Installed     | Removed       | Notes                                        |
-|------------------------------------------------------------|---------------|---------------|----------------------------------------------|
-| [Chuck E.'s House (Rocker Stage)]                  | November 1990 | 1993          | Only Chuck E.'s House installed in Maryland. |
-| [2-Stage]                          | 1993          | December 2018 | One of five 2-Stages installed in Maryland.  |
-| [Chuck E Live Stage (Dance Floor)] | December 2018 | Still in use. | 2017 Model.                                  |
-
 ## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Serial Number | Status    |
-|--------------------------------------------------------------|--------------------|---------------|-----------|
-| [Chuck E. Cheese (Cyberamic)]      | N/A                | Unknown       | Destroyed |
-| [Guest Star / Helen Henny (Cyberamic)] | N/A                | Unknown       | Destroyed |
-| [Mr. Munch (Cyberamic)]               | N/A                | Unknown       | Destroyed |
-| [Jasper T. Jowls (Cyberamic)]         | N/A                | Unknown       | Destroyed |
-| [Pasqually (Cyberamic)]              | N/A                | Unknown       | Destroyed |
-| [Singing Flowers (Cyberamic)]        | 1990               | Unknown       | Unknown   |
-| Wink(Cyberamic)                                              | 1993               | Unknown       | Destroyed |
 
 [2021](https://www.flickr.com/photos/ryanrules/albums/72157720017092401)
 

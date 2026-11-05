@@ -16,24 +16,3 @@ National City opened in May 1982 with a [Balcony Stage]. Although 1 exterior pho
 | [(41) Chuck E. Cheese National city CA store tour - YouTube](https://www.youtube.com/watch?v=JpTqp0-0Wco&ab_channel=ChuckAround)         | Store tour.                  | Fall 2020    | October 17, 2020  |
 
 TODO
-
-## Animatronics
-
-| Animatronic                                                  | Serial Number | Whereabouts                                                                                  |
-|--------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
-| [Mr. Munch (Cyberamic)]               | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
-| [Mr. Munch (Cyberamic)]               | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
-| [Pasqually (Cyberamic)]              | Unknown       | Replaced with Sports Arena's bot, unknown.                                                   |
-| [Pasqually (Cyberamic)]              | Unknown       | Destroyed. Originally from [San Diego, CA (3146 Sports Arena Blvd)]. |
-| [Warblettes (Cyberamic)]             | Unknown       | Unknown/Destroyed                                                                            |
-| [Flag Wavers (Cyberamic)]                                     | Unknown       | Unknown                                                                                      |
-| [Applause Board (Cyberamic)]         | Unknown       | Unknown/Destroyed                                                                            |
-| [Drum Board (Cyberamic)]             | Unknown       | Unknown/Destroyed                                                                            |
-| [Singing Flowers (Cyberamic)]        | Unknown       | Unknown/Destroyed                                                                            |
-| [Wink (Cyberamic)]                   | Unknown       | Destroyed                                                                                    |

@@ -17,7 +17,8 @@
     {
       "n": "Classic Stage",
       "s": "1982-00-00",
-      "e": "1991-00-00"
+      "e": "1991-00-00",
+      "desc": "1st ShowBiz Pizza store to open in West Virginia."
     },
     {
       "n": "Concept Unification Stage (3-Stage)",
@@ -48,66 +49,84 @@
       "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
       "l": "1-82 1-3",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "In storage."
     },
     {
       "n": "Dook Larue (Animatronic)",
       "l": "1-82 2-3",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "In storage."
     },
     {
       "n": "Fatz Geronimo (Animatronic)",
       "l": "1-82 3-3",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "In storage."
     },
     {
       "n": "Beach Bear (Animatronic)",
       "l": "1-82 4-3",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "In storage."
     },
     {
       "n": "Mitzi Mozzarella (Animatronic)",
       "l": "1-82 5-3",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "In storage."
     },
     {
       "n": "Billy Bob (Animatronic)",
       "l": "1-82 6-3",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "In storage."
     },
     {
       "n": "Looney Bird (Animatronic)",
       "l": "1-82 7-3",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "In storage."
     },
     {
       "n": "Choo Choo (Animatronic)",
       "l": "1-82 8-3",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "In storage."
     },
     {
       "n": "Moon (Animatronic)",
       "l": "1-82 9-3",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "In storage."
     },
     {
       "n": "Sun (Animatronic)",
       "l": "1-82 10-3",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "In storage."
     },
     {
       "n": "Antioch (Animatronic)",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "In storage."
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "In storage."
     }
   ]
 }

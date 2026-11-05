@@ -4,10 +4,6 @@
 
 Originally, when the store opened, they had a Studio C Cappa V1, which was only installed in 7 locations. As of August 17, 2024, they still have the Cappa V1, with it being the only animatronic in Tennessee and in the world. The animatronic is rarely used but still sits like a statue on the stage.
 
-| Stage          | Installed | Removed                        | Notes                                                |
-|----------------|-----------|--------------------------------|------------------------------------------------------|
-| Studio C Cappa | July 2003 | Still on display, rarely used. | V1 Cappa, Last Animatronic of any kind in Tennessee. |
-
 ## History
 
 TODO
@@ -94,9 +90,3 @@ TODO
 | https://www.youtube.com/watch?v=vmHbX34PgFw | Full Store Tour                                  | August 17, 2024   |
 
 TODO
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts      |
-|------------------------------------------------------------|--------|------------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A    | Currently in Use |

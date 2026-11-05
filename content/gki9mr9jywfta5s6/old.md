@@ -3,18 +3,3 @@
 ## History
 
 Sparks opened on December 20th, 1979 in the *Greenbrae Center* with a Portrait Stage. This was also the first Chuck E. Cheese of any kind to open in the state of Nevada. However, not much is known about the location other than it housing a Portrait Stage and a Balcony Stage. The store was then closed in 1984 for unknown reasons (though it may have been underperforming, a reason for many store closures around the same time) after operating for almost 5 years. The show's fate is unknown. it is unknown which space in the plaza it occupied.
-
-## Animatronics
-
-| Animatronic                                                  | Whereabouts |
-|--------------------------------------------------------------|-------------|
-| [Mr. Munch (Cyberamic)]               | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown     |
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown     |
-| [Warblettes (Cyberamic)]             | Unknown     |
-| [Flag Wavers (Cyberamic)]                                     | Unknown     |
-| [Applause Board (Cyberamic)]         | Unknown     |
-| [Drum Board (Cyberamic)]             | Unknown     |
-| [Dolli Dimples (Cabaret)]            | Unknown     |

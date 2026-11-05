@@ -8,19 +8,6 @@ Spokane opened in March 2000 with a Studio C Alpha and the Phase 3 Remodel. At s
 
 The store originally opened with a [Studio C (1997)](https://cheeseepedia.org/wiki/Studio_C_%281997%29), being the second Studio C stage in the state, and is one of 3 Alphas in the state of Washington.
 
-| Stage          | Installed  | Removed      |
-|----------------|------------|--------------|
-| Studio C Alpha | March 2000 | Still in Use |
-
-## Animatronics
-
-| Animatronic                                                                                              | Serial | Whereabouts  |
-|----------------------------------------------------------------------------------------------------------|--------|--------------|
-| [Chuck E. Cheese 32m (Animatronic)](https://cheeseepedia.org/wiki/Chuck_E._Cheese_32m_%28Animatronic%29) | 075    | Still in Use |
-| Parrot                                                                                                   | N/A    | Still in Use |
-| Clock                                                                                                    | N/A    | Still in Use |
-| Pizza Phone                                                                                              | N/A    | Still in Use |
-
 ## Videos
 
 | Link                                                | Description                                           | Published Date |

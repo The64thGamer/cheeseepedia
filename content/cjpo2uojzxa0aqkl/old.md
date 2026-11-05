@@ -19,20 +19,3 @@ This store opened as a franchised ShowBiz Pizza Place owned by Wellington Develo
 | [Link](https://www.youtube.com/watch?v=B6kPN2zETvw) | Footage of the store featured on *SML Movie: Bowser Junior's 11th Birthday*             | September 2019     |
 | [Link](https://www.youtube.com/watch?v=foCP21hWfI4) | Small Clip of the outside of the store as it featured on *SML Movie: The Time Machine!* | Late February 2020 |
 | [Link](https://www.youtube.com/watch?v=w2Z3ysx58Vc) | Footage of the store featured on *SML Movie: Scooter's Birthday*                        | June 2020          |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                                               |
-|---------------------------------------------------------------------------|---------------|-----------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-14     | Sold to Steven Parker. Parts currently owned by Connor L. |
-| [Dook Larue (Animatronic)]                        | 4-81 2-14     | Sold to Steven Parker. Unknown.                           |
-| [Fatz Geronimo (Animatronic)]                     | 4-81 3-14     | Sold to Steven Parker. Owned by private collector.        |
-| [Beach Bear (Animatronic)]                        | 4-81 4-14     | Sold to Steven Parker. Owned by a Private Collector       |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-14     | Sold to Steven Parker. Owned by Layton                    |
-| [Billy Bob (Animatronic)]                         | 4-81 6-14     | Unknown                                                   |
-| [Looney Bird (Animatronic)]                       | 4-81 7-14     | Sold to Steven Parker. Unknown.                           |
-| [Choo Choo (Animatronic)]                         | 4-81 8-14     | Unknown.                                                  |
-| [Sun (Animatronic)]                               | 4-81 10-14    | Taken by Snapper Ard. Unknown.                            |
-| [Moon (Animatronic)]                              | 4-81 11-14    | Taken by Snapper Ard. Unknown.                            |
-| [Antioch (Animatronic)]                           | N/A           | Unknown.                                                  |
-| [Wink]                                            | N/A           | Unknown.                                                  |

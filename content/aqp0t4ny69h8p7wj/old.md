@@ -4,21 +4,6 @@
 
 Prior to CEC opening, the space was the [Methuen Mall](https://en.wikipedia.org/wiki/The_Loop_%28shopping_center%29), and was redeveloped in 2000 as The Loop, an open air strip mall. Methuen officially opened August 28th, 2000, with a [Studio C Alpha]. This was the 2nd Studio C in New England after [Warwick, RI (650 Bald Hill Rd)] and the first in Massachusetts. In 2005, Methuen disabled their curtains, before re-enabling them in 2007. They swapped out Late Night for the Cool Chuck outfit between 2006-2009. They got the Avenger outfit by 2011, while keeping the original cap. By the end of September 2013, the Late Night/Cool Chuck cap was removed. In November 2014, Methuen began their remodel to the 2013 Update of the [CEC 2000's Remodel Program], along with the store in [Everett, MA (29 Mystic View Rd)]. The Blue Screen camera was also removed by this time. In 2016, the curtains were disabled yet again. In early 2017, the [Interactive Console] was removed, marking the extinction of the console in New England. On April 20, 2024, Methuen received the Trampoline Zone. The trampolines were fully setup by late May. On July 8, 2024, the store would start its [CEC 2.0 Remodel Program], removing the stage on the same day. The grand reopening would be held on August 28th, 2004. [Helen Henny], [Mr Munch], and [Jasper T Jowls] would make an appearance for the event.
 
-| Stage                                                      | Installed   | Removed      | Notes                                                                                                |
-|------------------------------------------------------------|-------------|--------------|------------------------------------------------------------------------------------------------------|
-| [Studio C Alpha]                   | August 2000 | July 8, 2024 | One of two in New England, 2nd Studio C installed in the New England Region; First in Massachusetts. |
-| [Chuck E Live Stage (Dance Floor)] | July 2024   | Still in use | 2019 Model.                                                                                          |
-| [Video Wall]                       | July 2024   | Still in use | 2021 Model.                                                                                          |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Status                    |
-|------------------------------------------------------------|--------|---------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 102    | Unknown, Likely Destroyed |
-| Parrot (Animatronic)                                       | N/A    | Unknown, Likely Destroyed |
-| Clock                                                      | N/A    | Unknown, Likely Destroyed |
-| Pizza Phone                                                | N/A    | Unknown, Likely Destroyed |
-
 ## Videos
 
 | Video Link                                                                  | Video Title                                                                                                                               | Description                                                                  | Recording/Upload Date            |   |

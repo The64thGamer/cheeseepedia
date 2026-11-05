@@ -8,16 +8,7 @@ Indianapolis opened in December 2011 as the relocation of [Indianapolis, IN (810
 
 The store opened with a Studio C Beta 16m stage in December 2011, which was later removed during closure.
 
-| Stage                                       | Installed     | Removed          | Notes                                  |
-|---------------------------------------------|---------------|------------------|----------------------------------------|
-| [Studio C Beta] 16m | December 2011 | March 31st, 2025 | Last Animatronic Show in Indianapolis. |
-
 ## Animatronic
-
-| Character                                                   | Serial | Status                                                                                 |
-|-------------------------------------------------------------|--------|----------------------------------------------------------------------------------------|
-| [Chuck E. Cheese 16m (Animatronic)] | N/A    | Taken to [Showbiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Pizza Time Clock (Animatronic)]    | N/A    | Unknown.                                                                               |
 
 TODO
 

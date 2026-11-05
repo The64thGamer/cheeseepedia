@@ -13,7 +13,8 @@
     {
       "n": "Balcony Stage",
       "s": "1982-11-26",
-      "e": "1985-07-29"
+      "e": "1985-07-29",
+      "desc": "Animatronics sold at auction."
     }
   ],
   "franchisees": [
@@ -89,6 +90,27 @@
       "l": "",
       "s": "1982-11-26",
       "e": "1985-07-29"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sold at auction, current status unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sold at auction, current status unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sold at auction, current status unknown"
     }
   ]
 }

@@ -1,5 +1,4 @@
 {
-  
   "title": "Jackson, TN (2021 North Highland Ave)",
   "startDate": "2003-07-30",
   "endDate": "2025-11-23",
@@ -47,7 +46,8 @@
     {
       "n": "Studio C Cappa",
       "s": "2003-07-30",
-      "e": "2025-11-23"
+      "e": "2025-11-23",
+      "desc": "V1 Cappa, Last Animatronic of any kind in Tennessee."
     }
   ],
   "downloadLinks": [],

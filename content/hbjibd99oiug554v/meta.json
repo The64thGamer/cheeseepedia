@@ -1,53 +1,163 @@
 {
-    "title": "Huntsville, AL (1220 Jordan Lane)",
-    "storeNumber": "",
-    "startDate": "1982-06-08",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-00-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-03-29"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1982-06-08"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1982-06-08",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-00-00",
-            "e": "2023-03-29",
-            "desc": "One of 7 3-Stages in Alabama to receive Concept Unification. Last 3-Stage and MMBB stage in Alabama from 2020 until stage removal in March 2023. Last stage with Black Plastic Pizzacam and originally the last Pizzacam. Was in Good Condition. Helen had green cheerleader outfit and blonde hair, Munch had with initials 'CEC' similar to the Charlotte, NC 3-Stage, Jasper had Custom Red, White, &amp; Blue Beach Bear Guitar, and Stage had colored wink."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-03-29",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "34.73886342",
-        "-86.62822578"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "NHwJdAcV0GRJRQQcZxz3.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Huntsville, AL (1220 Jordan Lane)",
+  "storeNumber": "",
+  "startDate": "1982-06-08",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-03-29"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1982-06-08"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-06-08",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-00-00",
+      "e": "2023-03-29",
+      "desc": "One of 7 3-Stages in Alabama to receive Concept Unification. Last 3-Stage and MMBB stage in Alabama from 2020 until stage removal in March 2023. Last stage with Black Plastic Pizzacam and originally the last Pizzacam. Was in Good Condition. Helen had green cheerleader outfit and blonde hair, Munch had with initials 'CEC' similar to the Charlotte, NC 3-Stage, Jasper had Custom Red, White, &amp; Blue Beach Bear Guitar, and Stage had colored wink."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-03-29",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Rock-Afire Explosion",
+      "s": "1982-06-00",
+      "e": "1991-00-00",
+      "desc": "2nd ShowBiz Pizza store to open in Alabama."
+    },
+    {
+      "n": "Billy Bob Interactive",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Zero documentation but is confirmed to have once been at the location by the manager 'Kirt Moore'"
+    },
+    {
+      "n": "3-Stage",
+      "s": "1991-00-00",
+      "e": "2023-03-00",
+      "desc": "One of 7 ShowBiz locations in Alabama to undergo Concept Unification. Formerly the last 3-Stage in the state of Alabama."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2023-03-29",
+      "e": "0000-00-00",
+      "desc": "2021 Model. Also, this is the first Corporate store to remodel to 2.0 not because of damage to the store (Birmingham, AL (500 Old Town Rd) got 2.0 because of flood damage and Sheffield was remodeled to 2.0 under the choice of the store's Franchisee). 2nd location to undergo a full 2.0 exterior remodel (Sheffield yet again kept the logo from it's previous remodel)"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.73886342",
+    "-86.62822578"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "NHwJdAcV0GRJRQQcZxz3.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 1-1",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 2-1",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 3-1",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 4-1",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 5-1",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 6-1",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 7-1",
+      "desc": "Mechanism destroyed. Cosmetics owned by the former technician, Kirt Moore."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 8-1",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 10-1",
+      "desc": "Owned by Kirt Moore."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 11-1",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Removed 3/29/23, possibly destroyed or owned by a private collector."
+    }
+  ]
 }

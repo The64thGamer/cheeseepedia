@@ -8,22 +8,6 @@ Corona opened on May 19th, 1992, as a corporate-owned location. Corona opened wi
 
 Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby outfit. Also, the stage featured no curtains like any other Road Stage from when it was first installed. The lift curtains were added by the Late 90's. In the Early 2000's, this was replaced with the Cool Chuck outfit. By the Late 2000's, Chuck's outfit was replaced with the Avenger outfit. The lift curtains were later removed. In December of 2015, Chuck E. would lose his teeth and would stay that way until April of 2021 when the stage was refurbished with Chuck E. getting new teeth in the process. In 2022, the door was painted black, possibly to prepare for the 2.0 remodel that would happen eventually. Later in 2023, they would receive the Trampoline Zone despite not being remodeled to 2.0. In February 2024, Corona would start their 2.0 remodel and would remove their Road Stage not long after for the Dance Floor.
 
-| Stage                                           | Installed           | Removed                                          |
-|-------------------------------------------------|---------------------|--------------------------------------------------|
-| [Road Stage] | May 1992            | February 11, 2024. Refurbished in April of 2021. |
-| Dance Floor + Video Wall                        | February/March 2024 | Still in Use.                                    |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Serial Number | Status                                                |
-|--------------------------------------------------------------|--------------------|---------------|-------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]         | 1992               | Unknown       | Destroyed.https://www.youtube.com/watch?v=8yVK9Q7cADw |
-| [Guest Star / Helen Henny (Cyberamic)] | 1992               | 1032          | Destroyed.(0)                                         |
-| [Mr. Munch (Cyberamic)]               | 1992               | 1051          | Destroyed.(0)                                         |
-| [Jasper T. Jowls (Cyberamic)]         | 1992               | 1079          | Owned by a private collector.                         |
-| [Pasqually (Cyberamic)]              | 1992               | Unknown       | Destroyed.(0)                                         |
-| [Wink (Cyberamic)]                   | 1992               | N/A           | Destroyed.(0)                                         |
-
 ## Games
 
 (1)

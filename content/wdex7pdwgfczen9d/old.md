@@ -2,19 +2,11 @@
 
 ## Stages
 
-When this location opened, it had a prototype [Studio C Beta](1) that had one TV. Somewhere between the early-mid 2010s, the curtains would be removed. It would stay like this until 2020 when it would be replaced by the 2019 Model [Chuck E Live Stage (Dance Floor)]. It would later be upgraded to the 2021 Model sometime in February of 2023 due to corporate’s funding of the Houston locations.
+When this location opened, it had a prototype [Studio C Beta](1) that had one TV. Somewhere between the early-mid 2010s, the curtains would be removed. It would stay like this until 2020 when it would be replaced by the 2019 Model [Chuck E. Live Stage (Dance Floor)]. It would later be upgraded to the 2021 Model sometime in February of 2023 due to corporate’s funding of the Houston locations.
 
 ## History
 
 Katy opened on December 30, 2001 near the growing Katy Mills mall with the major 90s remodel. Somewhere between 2009-2011, Katy would receive the [CEC 2000's Remodel Program] which involved removing showroom walls, replacing older decor for newer decor, and painting specific walls purple. The store would also receive an expansion in 2009 for the back of the place. Despite this, the phase 3 exterior remained intact. However, new letters were installed. Around 2018, the skytubes would be removed. It would remain like this until March of 2020 right before the pandemic when this location would receive 2.0 which involved replacing older decor with newer decor, getting rid of the studio c beta, and upgrading the atmosphere to a more modern look. In December 2023, Katy would receive the new trampoline zone concept. As of 2024, Katy remains like this.
-
-## Stages
-
-| Stages        | Installed     | Removed      | Notes                                 |
-|---------------|---------------|--------------|---------------------------------------|
-| Studio C Beta | December 2001 | March 2020   | Had one TV                            |
-| Dance Floor   | March 2020    | Still in use | One of 7 locations to get 2.0 in 2020 |
-| Video Wall    | February 2023 | Still in use |                                       |
 
 ## Videos
 
@@ -29,13 +21,6 @@ Katy opened on December 30, 2001 near the growing Katy Mills mall with the major
 | [Link](https://www.youtube.com/watch?v=qf2fJaV0Fdc)                                                        | Yuletide Slide preformed                                             | December 1, 2023         |
 | [Link](https://www.youtube.com/watch?v=jHTXwRlC8go)                                                        | Footage of the Dance Floor/ Video Wall                               | June 1, 2024             |
 | [Link](https://www.youtube.com/watch?v=L-PlErW3tKg)                                                        | The FINAL Footage Of Katy, TX in 2018                                | December 30, 2018        |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Wherabouts        |
-|------------------------------------------------------------|--------|-------------------|
-| [Chuck E Cheese 32m (Animatronic)] | N/A    | Unknown/Destroyed |
-| [Pizza Time Clock (Animatronic)]   | N/A    | Unknown/Destroyed |
 
 ## Games
 

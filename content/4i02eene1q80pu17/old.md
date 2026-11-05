@@ -8,31 +8,6 @@ Wilmington opened July 23rd, 1984, as the 4th ShowBiz store in North Carolina (F
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations had. Wilmington's show was manufactured in January of 1982, being batch number 1. They would have the RAE for a few years, until 1992, when they would receive Concept Unification, this was the process used to turn the RAE into the Chuck E. Cheese characters. They would have the 3-Stage until they closed. They would have the last Munch Jr. animatronic in-store. They would also be the only location so far to have the full 'Rockstar' outfit (shirt and jeans), other than Dept. 18's programming show.
 
-| Stage                                               | Installed       | Removed      | Notes                                                                                                                                                                                  |
-|-----------------------------------------------------|-----------------|--------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Classic Stage]             | July 1984       | 1991         | Reused show from an unknown ShowBiz Pizza Place that opened in 1982. 4th ShowBiz Store to open in North Carolina. One of four ShowBiz locations in state to open after SPP/CEC Merger. |
-| [Concept Unification Stage (3-Stage)] | 1991            | October 2020 | Second-to-last complete 3-Stage. The last complete 3-Stage is located at the [Charlotte, NC (7701 Pineville-Matthews Rd)] location.                            |
-| [Studio C Beta]             | Never Installed | October 2020 | From [Danbury, CT (20 Backus Ave)] which was closed in 2013, never installed and later trashed after closure.                                                  |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Code | Whereabouts                                                                                           |
-|---------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-1    | Owned by the stores technician.                                                                       |
-| [Dook Larue (Animatronic)]                        | 1-82 2-1    | Owned by the stores technician.                                                                       |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-1    | Owned by the stores technician.                                                                       |
-| [Beach Bear (Animatronic)]                        | 1-82 4-1    | Owned by the stores technician.                                                                       |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-1    | Owned by the stores technician.                                                                       |
-| [Billy Bob (Animatronic)]                         | 1-82 6-1    | Unknown                                                                                               |
-| [Looney Bird (Animatronic)]                       | 1-82 7-1    | Owned by the stores technician. Received working LED light in the middle of 2018.                     |
-| [Choo Choo (Animatronic)]                         | 1-82 8-1    | Owned by the stores technician.                                                                       |
-| [Sun (Animatronic)]                               | 1-82 10-1   | Owned by the stores technician.                                                                       |
-| [Moon (Animatronic)]                              | 1-82 11-1   | Owned by the stores technician.                                                                       |
-| [Antioch (Animatronic)]                           | N/A         | Unknown.                                                                                              |
-| [Wink]                                            | N/A         | Destroyed                                                                                             |
-| [Chuck E Cheese 16m (Animatronic)]                | N/A         | From [Danbury, CT (20 Backus Ave)]; Never used, destroyed.                    |
-| [Pizza Time Clock (Animatronic)]                  | N/A         | From [Danbury, CT (20 Backus Ave)]; Never used, owned by a private collector. |
-
 ## YouTube Videos
 
 | Link                                                | Description                                                                                         | Filming Date    | Published Date  |

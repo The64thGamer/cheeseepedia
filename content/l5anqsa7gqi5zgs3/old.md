@@ -8,17 +8,6 @@ Hempstead opened on December 17, 2002, in a shopping center named 'The Hub'. It 
 
 Hempstead opened with the Studio C Beta, 32M. The stage would be generally untouched throughout the years, other than a few things. In 2005, the curtains were disabled, and in 2013, Chuck's hat was removed. A few years later, Hempstead’s technician would re-enable their curtains until 2017 when the cylinder stopped working and was ordered by the district technician to remove everything, which caused them to re-carpet the stage. Later in 2017, Hempstead’s previous technician would install yellow LED lights on top of the stage and red LED lights on the outer base of the stage. Chuck E.'s Avenger shirt and shorts were replaced with a new Rockstar shirt and jeans in 2017. In 2019, Hempstead replaced their flood lights and room floods with LED versions. During that time, the stage had a DTU problem with the lights corresponding with Chuck E’s movements. In 2021, Hempstead’s stage would receive a minor update from the district technician by fixing the DTU problem with the lights, replacing the clock neon with LED and the clock motor which only went forward, and the blue rope light behind Chuck E. On September 19, 2022, Studio C animatronics ceased programming throughout all stores. In June 2023, during 2.0, their Studio C Beta, 32M was removed for the 2021 model Dance Floor and Video Wall.
 
-| Stage                                   | Installed     | Removed      |
-|-----------------------------------------|---------------|--------------|
-| [Studio C Beta] | December 2002 | June 2023    |
-| Dance Floor + Video Wall                | May/June 2023 | Still in use |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number      | Whereabouts |
-|------------------------------------------------------------|--------------------|-------------|
-| [Chuck E Cheese 32m (Animatronic)] | 142 (R&amp;D 5000) | Destroyed   |
-
 ## Videos
 
 | LInk | Filmed | Uploaded | Description |

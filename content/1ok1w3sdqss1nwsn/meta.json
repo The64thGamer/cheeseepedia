@@ -1,34 +1,50 @@
 {
-    "title": "South Portland, ME (166 Philbrook Ave)",
-    "storeNumber": "",
-    "startDate": "2002-12-17",
-    "endDate": "2012-12-16",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2002-12-17"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2002-12-17",
-            "e": "2012-12-16"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "43.62920157",
-        "-70.33297378"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "6W0zS_FmJVEHgiq2YJWT.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "South Portland, ME (166 Philbrook Ave)",
+  "storeNumber": "",
+  "startDate": "2002-12-17",
+  "endDate": "2012-12-16",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2002-12-17"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2002-12-17",
+      "e": "2012-12-16"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "43.62920157",
+    "-70.33297378"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "6W0zS_FmJVEHgiq2YJWT.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to West Palm Beach, FL. Removed in 2022, likely destroyed."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

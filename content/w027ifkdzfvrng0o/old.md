@@ -8,24 +8,6 @@ Ellisville opened on August 21st, 1990, as part of an expansion of the shopping 
 
 Originally, Ellisville had a Rocker Stage. In 1994, they would receive the 1-Stage. Some parts of Ellisville’s 1-Stage would be taken and used at Fairview Heights, IL. In 2005-2006, the 1-Stage was replaced by the Studio C Cappa and would stay until October 10th, 2023, when the store's animatronic would be destroyed in favor of the store receiving the 2.0 Remodel.
 
-| Stage          | Installed   | Removed            | Notes                                                   |
-|----------------|-------------|--------------------|---------------------------------------------------------|
-| Rocker Stage   | August 1990 | 1994               | First Chuck E. Cheese to open in Missouri after merger. |
-| 1-Stage        | 1994        | 2005-2006          | One of 2 1-Stages in Missouri.                          |
-| Studio C Cappa | 2005-2006   | October 10th, 2023 | 3rd Generation Cappa                                    |
-|                |             |                    |                                                         |
-
-## Animatronics
-
-| Animatronic                        | Serial Code | Whereabouts                                                       |
-|------------------------------------|-------------|-------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]        | 1980s       | Unknown/Destroyed.                                                |
-| Helen Henny (Cyberamic)            | 1980s       | Unknown/Destroyed. Bracelet/corsage sent to Fairview Heights, IL. |
-| Mr. Munch (Cyberamic)              | 1980s       | Unknown/Destroyed.                                                |
-| Jasper T. Jowls (Cyberamic)        | 1980s       | Unknown/Destroyed. Mask sent to Fairview Heights, IL.             |
-| Pasqually (Cyberamic)              | 1980s       | Unknown/Destroyed. Mask possibly sent to Fairview Heights, IL.    |
-| Chuck E. Cheese, 16m (Animatronic) | Early 2000s | Destroyed                                                         |
-
 ## Videos
 
 | Link                                                       | Description                                                                                                                      | Filmed              |

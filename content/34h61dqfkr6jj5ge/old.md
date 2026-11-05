@@ -8,29 +8,6 @@ Wichita Falls opened on September 22nd, 1982 as the 17th ShowBiz Pizza store in 
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations had. In around 1991, Wichita Falls would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. In Early 2020, Wichita Falls received 2.0 and the Alpha was removed for the 2019 Model Dance Floor.
 
-| Stage                                                      | Installed      | Removed        | Notes                                                             |
-|------------------------------------------------------------|----------------|----------------|-------------------------------------------------------------------|
-| [Classic Stage]                    | September 1982 | September 1991 | 17th ShowBiz Pizza Place store in Texas.                          |
-| [Concept Unification Stage (3-Stage)]        | September 1991 | Early 2020     | One of 17 ShowBiz stores in Texas to undergo Concept Unification. |
-| [Chuck E Live Stage (Dance Floor)] | Early 2020     | Still in use   | 2019 Model. One of 7 locations to remodel to 2.0 in 2020.         |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts       |
-|---------------------------------------------------------------------------|---------------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-11     | Destroyed         |
-| [Dook Larue (Animatronic)]                        | 1-82 2-11     | Destroyed         |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-11     | Destroyed         |
-| [Beach Bear (Animatronic)]                        | 1-82 4-11     | Destroyed         |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-11     | Destroyed         |
-| [Billy Bob (Animatronic)]                         | 1-82 6-11     | Unknown/Destroyed |
-| [Looney Bird (Animatronic)]                       | 1-82 7-11     | Unknown/Destroyed |
-| [Choo Choo (Animatronic)]                         | 1-82 8-11     | Unknown/Destroyed |
-| [Sun (Animatronic)]                               | 1-82 10-11    | Unknown/Destroyed |
-| [Moon (Animatronic)]                              | 1-82 11-11    | Unknown/Destroyed |
-| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed |
-| [Wink]                                            | N/A           | Destroyed         |
-
 ## Videos
 
 | Link                                   | Description                                                                                                                                                                                                                                                                      | Footage Date                    | Upload Date        |

@@ -1,43 +1,80 @@
 {
-    "title": "Winston-Salem, NC (620 Hanes Mall Blvd)",
-    "storeNumber": "",
-    "startDate": "2000-01-08",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2000-01-08"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-03-26"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Alpha",
-            "s": "2000-01-08",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-03-26",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "36.06227517",
-        "-80.30556663"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "iYUsQwhweLhTcQVnV64F.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Winston-Salem, NC (620 Hanes Mall Blvd)",
+  "storeNumber": "",
+  "startDate": "2000-01-08",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2000-01-08"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-03-26"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "2000-01-08",
+      "e": "2023-03-26",
+      "desc": "One of two Studio C Alphas installed in North Carolina (One of 4 installed in the Carolinas overall)."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-03-26",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2023-03-00",
+      "e": "0000-00-00",
+      "desc": "Second Dance Floor and second Video Wall installed in a CEC location in the Piedmont Triad metropolitan area."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "36.06227517",
+    "-80.30556663"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "iYUsQwhweLhTcQVnV64F.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed."
+    },
+    {
+      "n": "Parrot (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed."
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed."
+    }
+  ]
 }

@@ -2,20 +2,7 @@
 
 ## History
 
-Originally when the store opened, they had a Studio C Beta, 32M, first one in the state of Illinois. In 2009-2011, they would receive the 2005 Remodel which involved painting the patterns around the logo (They kept the same logo from opening until they replaced the logo on the exterior). In around 2013-2014, they replaced the logo with the 2013 logo and remained that way until the 2.0 remodel. Between April to May 2022, Villa started remodeling to 2.0, removing the Studio C Beta and adding a Dance Floor + Video Wall. This was the first 2021 Dance Floor in Illinois.
-
-## Stages
-
-| Stage                                                                   | Installed   | Removed      | Notes                           |
-|-------------------------------------------------------------------------|-------------|--------------|---------------------------------|
-| [Studio C Beta]                                 | August 2001 | May 2022     | First Studio C Beta in Illinois |
-| [Chuck E Live Stage (Dance Floor)] + Video Wall | May 2022    | Still In Use | 2021 Model                      |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts |
-|------------------------------------------------------------|---------------|-------------|
-| [Chuck E Cheese 32m (Animatronic)] | 144           | Destroyed   |
+Originally when the store opened, they had a Studio C Beta, 32M, first one in the state of Illinois. In 2009-2011, they would receive the 2005 Remodel which involved painting the patterns around the logo (They kept the same logo from opening until they replaced the logo on the exterior). In around 2013-2014, they replaced the logo with the 2013 logo and remained that way until the 2.0 remodel. Between April to May 2022, Villa started remodeling to 2.0, removing the Studio C Beta and adding a Chuck E. Live Stage (Dance Floor). This was the first 2021 Dance Floor in Illinois.
 
 ## Videos
 

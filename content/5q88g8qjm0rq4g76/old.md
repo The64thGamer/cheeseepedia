@@ -15,17 +15,3 @@ La Habra opened in May of 1980 with a [Portrait / Shelf Stage], and was the 10th
 ### Closing
 
 On October 21, 1984, the store would be selected to be auctioned off as part of [Pizza Time Theatre] bankruptcy.(6) Its lease would be auctioned on November 27th along with 58 other locations, though it is unknown if it was purchased on that day.(7) By December 2nd a separate auction company would announce an auction to clear out all animatronics, kitchen equipment, arcades, and other items in the store. The auction would take place on December 11th.(8)(0) It is unknown what the location would become after the auction, though by November of 2008 it would be a Yang Ming Marine Transport location, and by November 2012 the location would be demolished and rebuilt as a CVS Health. It is unknown if the 2008 building was the original Pizza Time Theatre building or if it had gone through demolitions or expansions during the decades.
-
-## Animatronics
-
-| Animatronic                                                  | Serial Number | Whereabouts |
-|--------------------------------------------------------------|---------------|-------------|
-| [Mr. Munch (Cyberamic)]               | Unknown       | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown     |
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown       | Unknown     |
-| [Warblettes (Cyberamic)]             | Unknown       | Unknown     |
-| [Flag Wavers (Cyberamic)]                                     | Unknown       | Unknown     |
-| [Applause Board (Cyberamic)]         | Unknown       | Unknown     |
-| [Drum Board (Cyberamic)]             | Unknown       | Unknown     |

@@ -17,12 +17,20 @@
     {
       "n": "Balcony Stage",
       "s": "1981-00-00",
-      "e": "1989-00-00"
+      "e": "1989-00-00",
+      "desc": "One of many installed in California."
     },
     {
       "n": "Chuck E.'s House Facade (C-Stage)",
       "s": "1989-00-00",
-      "e": "1996-04-00"
+      "e": "1996-04-00",
+      "desc": "One of many installed in California."
+    },
+    {
+      "n": "1-Stage",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Unknown if actually installed."
     }
   ],
   "franchisees": [],
@@ -42,5 +50,84 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Sandy, UT (10535 So State St) and then used for parts at Orem, UT (40 E Center St). Rest of bot unknown."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Sandy, UT (10535 So State St) and then used for parts at Orem, UT (40 E Center St). Rest of bot unknown."
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Sandy, UT (10535 So State St) and then used for parts at Orem, UT (40 E Center St). Rest of bot unknown."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Sandy, UT (10535 So State St) and then used for parts at Orem, UT (40 E Center St). Rest of bot unknown."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Sandy, UT (10535 So State St) and then used for parts at Orem, UT (40 E Center St). Rest of bot unknown."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Sandy, UT (10535 So State St) and then used for parts at Orem, UT (40 E Center St). Rest of bot unknown. (If installed)"
+    }
   ]
 }

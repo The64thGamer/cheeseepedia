@@ -1,39 +1,147 @@
 {
-    "title": "Fall River, MA (35 Mariano Bishop Blvd)",
-    "storeNumber": "",
-    "startDate": "1985-02-00",
-    "endDate": "1991-04-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1985-02-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1985-02-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E.'s House Facade (C-Stage)",
-            "s": "0000-00-00",
-            "e": "1991-04-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.67579112",
-        "-71.16420153"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "46Vp0mhtHKaQ8nNWs2NM.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Fall River, MA (35 Mariano Bishop Blvd)",
+  "storeNumber": "",
+  "startDate": "1985-02-00",
+  "endDate": "1991-04-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1985-02-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1985-02-00",
+      "e": "0000-00-00",
+      "desc": "Originally from Danvers, MA (139 Endicott St)."
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "s": "0000-00-00",
+      "e": "1991-04-00",
+      "desc": "One of three House Facades (C-Stages) installed in the New England region."
+    },
+    {
+      "n": "Celebration Station's WOOF Radio",
+      "s": "0000-00-00",
+      "e": "2007-00-00",
+      "desc": "Location origins unknown. Animatronics installed within the existing House Facade stage. Only W.O.O.F. Radio show to ever be installed in Massachusetts and the New England region in general."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.67579112",
+    "-71.16420153"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "46Vp0mhtHKaQ8nNWs2NM.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Originally from Danvers, MA (139 Endicott St). Retrofitted in 1991."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Originally from Danvers, MA (139 Endicott St). Retrofitted in 1991."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Originally from Danvers, MA (139 Endicott St). Retrofitted in 1991."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Originally from Danvers, MA (139 Endicott St). Retrofitted in 1991."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Originally from Danvers, MA (139 Endicott St). Retrofitted in 1991."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Originally from Danvers, MA (139 Endicott St)."
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Originally from Danvers, MA (139 Endicott St)."
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Originally from Danvers, MA (139 Endicott St)."
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Originally from Danvers, MA (139 Endicott St)."
+    },
+    {
+      "n": "Harry Hound (W.O.O.F. Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Purrscilla Purr (W.O.O.F. Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Big Bear (W.O.O.F. Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Doc Fox (W.O.O.F. Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Major Moose (W.O.O.F. Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

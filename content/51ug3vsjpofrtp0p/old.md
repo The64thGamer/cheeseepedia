@@ -22,34 +22,6 @@ In around 2014-2016, The Interactive Console was removed. The Projector was also
 
 Originally, Bakersfield featured a Rock-Afire Explosion, as all other ShowBiz locations did, in around 1991, they would undergo Concept Unification, turning the RAE into the 3-Stage, they would have the 3-Stage until 1998, when they would receive one of the first Studio Cs in California (Which was a Studio C Alpha). They would have that until June 2019, when it was removed for a 2019 model Dance Floor. As of February 2023, Bakersfield still has the Dance Floor.
 
-| Stage                                                      | Installed     | Removed      | Notes                                                                       |
-|------------------------------------------------------------|---------------|--------------|-----------------------------------------------------------------------------|
-| [Classic Stage]                    | November 1982 | 1991-1992    | 2nd ShowBiz Pizza store to open in California.                              |
-| [Concept Unification Stage (3-Stage)]        | 1991-1992     | 1998         | One of 9 ShowBiz Pizza stores in California to undergo Concept Unification. |
-| Studio C (1997)\|Studio C Alpha                            | 1998          | June 2019    | One of the first Studio Cs installed in California.                         |
-| [Chuck E Live Stage (Dance Floor)] | June 2019     | Still In Use | 2019 Model.                                                                 |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts |
-|------------------------------------------------------------|---------------|-------------|
-| Chuck E. Cheese / Rolfe DeWolfe                            | 4-82 1-9      | Destroyed   |
-| Pasqually / Dook Larue                                     | 4-82 2-9      | Destroyed   |
-| Mr. Munch / Fatz Geronimo                                  | 4-82 3-9      | Destroyed   |
-| Jasper T. Jowls / Beach Bear                               | 4-82 4-9      | Destroyed   |
-| Helen Henny / Mitzi Mozzarella                             | 4-82 5-9      | Destroyed   |
-| Billy Bob                                                  | 4-82 6-9      | Destroyed   |
-| PizzaCam / Looney Bird                                     | 4-82 7-9      | Destroyed   |
-| Munch Jr. / Choo Choo                                      | 4-82 8-9      | Destroyed   |
-| Building / Sun                                             | 4-82 10-9     | Destroyed   |
-| Moon                                                       | 4-82 11-9     | Destroyed   |
-| Antioch                                                    | N/A           | Destroyed   |
-| Wink                                                       | N/A           | Destroyed   |
-| [Chuck E Cheese 32m (Animatronic)] | Unknown       | Unknown     |
-| [Bird (Animatronic)]               | N/A           | Unknown     |
-| [Pizza Time Clock (Animatronic)]   | N/A           | Unknown     |
-| [Pizza Phone (Animatronic)]        | N/A           | Unknown     |
-
 ## Videos
 
 TODO

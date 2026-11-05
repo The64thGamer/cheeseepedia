@@ -18,24 +18,7 @@ In the coming years of this store's closure, it would become many businesses, wi
 
 When this store opened, they would have a [Balcony Stage], which would in turn be replaced with [Chuck E.'s House Facade (C-Stage)].
 
-| Stage                                              | Installed   | Removed       | Notes                               |
-|----------------------------------------------------|-------------|---------------|-------------------------------------|
-| [Balcony Stage] | 1984        | Late 1980's   | 2nd Pizza Time Theatre in Kentucky. |
-| [Chuck E.'s House Facade (C-Stage)]   | Late 1980's | December 1991 | One of two installed in Kentucky.   |
-
 ## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts       | Notes |
-|--------------------------------------------------------------|--------------------|-------------------|-------|
-| [Chuck E. Cheese (Cyberamic)]      | 1984               | Unknown/Destroyed |       |
-| [Guest Star / Helen Henny (Cyberamic)] | 1982               | Unknown/Destroyed |       |
-| [Mr. Munch (Cyberamic)]               | 1984               | Unknown/Destroyed |       |
-| [Jasper T. Jowls (Cyberamic)]         | 1984               | Unknown/Destroyed |       |
-| [Pasqually (Cyberamic)]              | 1984               | Unknown/Destroyed |       |
-| [Warblettes (Cyberamic)]             | 1984               | Unknown/Destroyed |       |
-| [Flag Wavers (Cyberamic)]                                     | 1984               | Unknown/Destroyed |       |
-| [Applause Board (Cyberamic)]         | 1984               | Unknown/Destroyed |       |
-| [Drum Board (Cyberamic)]             | 1984               | Unknown/Destroyed |       |
 
 TODO
 

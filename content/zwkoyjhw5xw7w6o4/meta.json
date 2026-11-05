@@ -1,39 +1,140 @@
 {
-    "title": "Springfield, PA (381 Baltimore Pike)",
-    "storeNumber": "",
-    "startDate": "1990-12-04",
-    "endDate": "2012-04-15",
-    "remodels": [
-        {
-            "n": "SPT 1980's Remodel Program",
-            "s": "1990-12-04"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Road Stage",
-            "s": "1990-12-04",
-            "e": "1995-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "1995-00-00",
-            "e": "2012-04-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "39.91975162",
-        "-75.32217518"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "yvezbE26Sao4X_Hou1y_.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Springfield, PA (381 Baltimore Pike)",
+  "storeNumber": "",
+  "startDate": "1990-12-04",
+  "endDate": "2012-04-15",
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-12-04"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1990-12-04",
+      "e": "1995-00-00",
+      "desc": "Second Road Stage ever installed. One of four Road Stage Prototypes built. Converted to the finalized Road Stage design between 1991-1992."
+    },
+    {
+      "n": "2-Stage",
+      "s": "1995-00-00",
+      "e": "2012-04-00",
+      "desc": "One of seven (or eight) 2-Stages installed in Pennsylvania."
+    },
+    {
+      "n": "Celebration Station's WOOF Radio",
+      "s": "1984-12-00",
+      "e": "1989-02-00",
+      "desc": "One of two W.O.O.F. Radio shows installed in Pennsylvania. Purchased by Marc Glassman of Marc's Funtime Pizza Palace in August 1989."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.91975162",
+    "-75.32217518"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "yvezbE26Sao4X_Hou1y_.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Harry Hound (W.O.O.F. Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Purchased by Marc Glassman of Marc's Funtime Pizza Palace in August 1989."
+    },
+    {
+      "n": "Purrscilla Purr (W.O.O.F. Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Purchased by Marc Glassman of Marc's Funtime Pizza Palace in August 1989."
+    },
+    {
+      "n": "Big Bear (W.O.O.F. Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Purchased by Marc Glassman of Marc's Funtime Pizza Palace in August 1989."
+    },
+    {
+      "n": "Doc Fox (W.O.O.F. Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Purchased by Marc Glassman of Marc's Funtime Pizza Palace in August 1989."
+    },
+    {
+      "n": "Major Moose (W.O.O.F. Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Purchased by Marc Glassman of Marc's Funtime Pizza Palace in August 1989."
+    },
+    {
+      "n": "Howard Le Trec (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Purchased by Marc Glassman of Marc's Funtime Pizza Palace in August 1989."
+    },
+    {
+      "n": "Accu-Duck (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown; Purchased by Marc Glassman of Marc's Funtime Pizza Palace in August 1989."
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed. Mask sent to Levittown, PA (1283 E Lincoln Hwy) and was later destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed.; Added when converted to finalized Road Stage"
+    }
+  ]
 }

@@ -4,11 +4,6 @@
 
 This store opened on September 30th, 1981 with a Rock-afire Explosion, then in 1991, the stage was converted through Concept Unification to the 3-stage. The 3-stage would be maintained well over the years, up until early 2006. The bots were either destroyed or sent to another location for spare parts.
 
-| Stage                    | Installed      | Removed     |
-|--------------------------|----------------|-------------|
-| The Rock-afire Explosion | September 1981 | 1991        |
-| 3-Stage                  | 1991           | Spring 2006 |
-
 ## History
 
 ### ShowBiz Pizza
@@ -31,23 +26,6 @@ After they closed in Spring 2006, they were abandoned for a little bit as they w
 
 In 1984, a man was accused of stealing money from numerous businesses, one of them was the ShowBiz Pizza on 2805 Target Drive, where he stole $61 dollars. The man has since been arrested.  
 In 1994, a man allegedly stole $81 dollars from the location, the man has since been arrested
-
-## Animatronics
-
-| Character                       | Serial     | Status            |
-|---------------------------------|------------|-------------------|
-| Chuck E. Cheese / Rolfe DeWolfe | 1-81 1-13  | Unknown/Destroyed |
-| Pasqually / Dook Larue          | 1-81 2-13  | Unknown/Destroyed |
-| Mr. Munch / Fatz Geronimo       | 1-81 3-13  | Unknown/Destroyed |
-| Jasper T. Jowls / Beach Bear    | 1-81 4-13  | Unknown/Destroyed |
-| Helen Henny / Mitzi Mozzarella  | 1-81 5-13  | Unknown/Destroyed |
-| Billy Bob                       | 1-81 6-13  | Unknown/Destroyed |
-| PizzaCam / Looney Bird          | 1-81 7-13  | Unknown/Destroyed |
-| Munch Jr. / Choo Choo           | 1-81 8-13  | Unknown/Destroyed |
-| Building / Sun                  | 1-81 10-13 | Unknown/Destroyed |
-| Moon                            | 1-81 11-13 | Unknown/Destroyed |
-| Antioch                         | N/A        | Unknown/Destroyed |
-| Wink                            | N/A        | Unknown/Destroyed |
 
 ## Videos
 

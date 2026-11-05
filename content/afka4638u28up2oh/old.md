@@ -2,12 +2,7 @@
 
 ## Stages
 
-La Mirada opened with a Road Stage with Chuck's tuxedo. There isn't much documentation on their stage, but Chuck's tuxedo was replaced in the 2000s with the Cool Chuck and Avenger outfits. By the end of 2013, Chuck's cap was removed. The stage remained like this until November 2022, when the stage was removed and destroyed for a [Chuck E Live Stage (Dance Floor)] and [Video Wall].
-
-| Stage                    | Installed     | Removed       |
-|--------------------------|---------------|---------------|
-| Road Stage               | February 1992 | November 2022 |
-| Dance Floor + Video Wall | November 2022 | Still in use. |
+La Mirada opened with a Road Stage with Chuck's tuxedo. There isn't much documentation on their stage, but Chuck's tuxedo was replaced in the 2000s with the Cool Chuck and Avenger outfits. By the end of 2013, Chuck's cap was removed. The stage remained like this until November 2022, when the stage was removed and destroyed for a [Chuck E. Live Stage (Dance Floor)] and [Video Wall].
 
 ## History
 
@@ -21,14 +16,3 @@ La Mirada opened on February 25, 1992 with a Road Stage and the [SPT 1980's Remo
 | https://www.youtube.com/watch?v=MurBf0Kg-kI&amp;ab\_channel=ChuckSouthernCaliforniacheese | Store tour after 2.0.  | 2023         |
 
 TODO
-
-## Animatronics
-
-| Animatronic                                                  | Serial Number | Whereabouts |
-|--------------------------------------------------------------|---------------|-------------|
-| [Chuck E. Cheese (Cyberamic)]         | Unknown       | Destroyed   |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Destroyed   |
-| [Mr. Munch (Cyberamic)]               | Unknown       | Destroyed   |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Destroyed   |
-| [Pasqually (Cyberamic)]              | Unknown       | Destroyed   |
-| [Wink (Cyberamic)]                   | N/A           | Destroyed   |

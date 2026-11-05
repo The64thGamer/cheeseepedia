@@ -8,28 +8,7 @@ Westmoreland (Redbird) opened its doors on September 15th, 1982 with a Rock-afir
 
 Westmoreland (Redbird) opened with the Rock afire Explosion in September 1982. Fortunately, there are some photos and videos to exist of Dallas (Westmoreland/Redbird) with the Rock afire, or as a ShowBiz in general, including a grand opening video. In 1991, the store received [Concept Unification], converting the Rock afire into the Munch’s Make Believe Band 3-Stage. After the closure of the [Houston, TX (5535 Weslayan St)], some of the location's stage cosmetics would be sent to this store's stage. The condition of the center and right stages would be deteriorated sometime as early 2021, one of which being the arms of the Helen animatronic often being stuck held out across, which her right arm would eventually be stuck forever during the stage's last months of operation. The stage would eventually be removed around mid-August 2022 in favor of the store's 2.0 remodel.
 
-| Stage                                                                                             | Installed      | Removed      | Notes                                                        |
-|---------------------------------------------------------------------------------------------------|----------------|--------------|--------------------------------------------------------------|
-| [Classic Stage]                                                           | September 1982 | 1991         | 100th ShowBiz Pizza store opened. 16th to open in the state. |
-| [Concept Unification Stage (3-Stage)]                                               | 1991           | August 2022  | Formerly the last 3-Stage in Texas.                          |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | August 2022    | Still in use | 2021 Model.                                                  |
-
 ## Animatronics
-
-| Character                                                                 | Serial     | Status            |
-|---------------------------------------------------------------------------|------------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-10  | Destroyed         |
-| [Dook Larue (Animatronic)]                        | 1-82 2-10  | Destroyed         |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-10  | Destroyed         |
-| [Beach Bear (Animatronic)]                        | 1-82 4-10  | Destroyed         |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-10  | Destroyed         |
-| [Billy Bob (Animatronic)]                         | 1-82 6-10  | Unknown/Destroyed |
-| [Looney Bird (Animatronic)]                       | 1-82 7-10  | Unknown/Destroyed |
-| [Choo Choo (Animatronic)]                         | 1-82 8-10  | Unknown/Destroyed |
-| [Sun (Animatronic)]                               | 1-82 10-10 | Destroyed         |
-| [Moon (Animatronic)]                              | 1-82 11-10 | Destroyed         |
-| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed |
-| [Wink]                                            | N/A        | Destroyed         |
 
 [2007](http://showbizpizza.com/photos/cec/tx_dallasredbird/index.html)
 

@@ -14,5 +14,63 @@
     "<a href=\"https://en.wikipedia.org/wiki/The_Care_Bears_in_the_Land_Without_Feelings\">https://en.wikipedia.org/wiki/The_Care_Bears_in_the_Land_Without_Feelings</a>",
     "<a href=\"https://en.wikipedia.org/wiki/The_Care_Bears_Battle_the_Freeze_Machine\">https://en.wikipedia.org/wiki/The_Care_Bears_Battle_the_Freeze_Machine</a>"
   ],
-  "pageThumbnailFile": "DamluAbUKRynb60JVtuW.avif"
+  "pageThumbnailFile": "DamluAbUKRynb60JVtuW.avif",
+  "animatronics": [
+    {
+      "n": "Cheer Bear",
+      "s": "1986-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Funshine Bear",
+      "s": "1986-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Tenderheart Bear",
+      "s": "1986-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Bedtime Bear",
+      "s": "1986-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Grumpy Bear",
+      "s": "1986-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Friend Bear",
+      "s": "1986-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Care Meter",
+      "s": "1986-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Flowers",
+      "s": "1986-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

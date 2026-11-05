@@ -1,34 +1,40 @@
 {
-    "title": "Jacksonville, FL (10320 Shops Lane)",
-    "storeNumber": "",
-    "startDate": "2016-02-07",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2016-02-07"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2016-02-07",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "30.17548617",
-        "-81.55869923"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "6b5x4H79CT4JMHYLPBXy.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Jacksonville, FL (10320 Shops Lane)",
+  "storeNumber": "",
+  "startDate": "2016-02-07",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2016-02-07"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2016-02-07",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2023-07-00",
+      "e": "0000-00-00",
+      "desc": "Added during 2.0 remodel."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.17548617",
+    "-81.55869923"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "6b5x4H79CT4JMHYLPBXy.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
 }

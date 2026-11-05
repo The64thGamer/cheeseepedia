@@ -1,44 +1,130 @@
 {
-    "title": "Honolulu, HI (820 W Hind Dr)",
-    "storeNumber": "",
-    "startDate": "1983-02-15",
-    "endDate": "2009-00-00",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-03-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1983-02-15"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1983-02-15",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-03-00",
-            "e": "2009-05-00",
-            "desc": "Only 3-Stage in Hawaii until stage removal and store closure in 2009. Poor Condition. Chuck had full 'Cool Chuck' outfit, Wink had the visible 'In Pizza We Trust' slogan, kept CU carpet, kept Munch Jr., and stage had short height."
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "21.27753092",
-        "-157.7561881"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "mlqB4PZSQLFxQWm0HtBx.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Honolulu, HI (820 W Hind Dr)",
+  "storeNumber": "",
+  "startDate": "1983-02-15",
+  "endDate": "2009-00-00",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-03-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1983-02-15"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-02-15",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-03-00",
+      "e": "2009-05-00",
+      "desc": "Only 3-Stage in Hawaii until stage removal and store closure in 2009. Poor Condition. Chuck had full 'Cool Chuck' outfit, Wink had the visible 'In Pizza We Trust' slogan, kept CU carpet, kept Munch Jr., and stage had short height."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "21.27753092",
+    "-157.7561881"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "mlqB4PZSQLFxQWm0HtBx.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese / Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 1-12",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pasqually / Dook Larue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 2-12",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Mr. Munch / Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 3-12",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Jasper T. Jowls / Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 4-12",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Helen Henny / Mitzi Mozzarella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 5-12",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 6-12",
+      "desc": "Unknown"
+    },
+    {
+      "n": "PizzaCam / Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 7-12",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Munch Jr. / Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 8-12",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Building / Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 10-12",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 11-12",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

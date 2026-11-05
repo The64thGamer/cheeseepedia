@@ -1,54 +1,141 @@
 {
-    "title": "Albuquerque, NM (4418 Wyoming Blvd)",
-    "storeNumber": "",
-    "startDate": "1981-10-00",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-09-00"
-        },
-        {
-            "n": "PTT Standard Layout",
-            "s": "1981-10-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1981-10-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E.'s House Facade (C-Stage)",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "1993-00-00",
-            "e": "2022-09-00",
-            "desc": "Only 2-Stage in New Mexico. Replaced by Dance Floor + Video Wall."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-09-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "35.12855427",
-        "-106.5505321"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "LCNFUYjTKtsC_nMetOMC.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Albuquerque, NM (4418 Wyoming Blvd)",
+  "storeNumber": "",
+  "startDate": "1981-10-00",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-09-00"
+    },
+    {
+      "n": "PTT Standard Layout",
+      "s": "1981-10-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1981-10-00",
+      "e": "0000-00-00",
+      "desc": "Only PTT in New Mexico."
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Only one installed in New Mexico."
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-00-00",
+      "e": "2022-09-00",
+      "desc": "Only 2-Stage in New Mexico. Replaced by Chuck E. Live Stage (Dance Floor)."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-09-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2022-09-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "35.12855427",
+    "-106.5505321"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "LCNFUYjTKtsC_nMetOMC.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    }
+  ]
 }

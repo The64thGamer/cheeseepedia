@@ -51,13 +51,20 @@
     {
       "n": "Chuck E.'s House Facade (C-Stage)",
       "s": "0000-00-00",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "One of many installed in California. Only known Shelf to Chuck E.'s House Facade (C-Stage) conversion."
     },
     {
       "n": "2-Stage",
       "s": "0000-00-00",
       "e": "2025-09-21",
       "desc": "Oldest CEC location currently. Opened in October 1979 as the 5th Pizza Time Theatre with a Portrait Stage. Last store from the 1970's that is still open. One of last two 2-Stage's operating in California."
+    },
+    {
+      "n": "Cyberamics Portrait Stage|Portrait Stage",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "Oldest CEC in the world. Formerly, San Jose, CA (1371 Kooser Rd) until their closure in June 2020."
     }
   ],
   "franchisees": [],
@@ -247,6 +254,13 @@
       "s": "1979-10-06",
       "e": "0000-00-00",
       "l": "N/A",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
       "desc": "Unknown"
     }
   ],

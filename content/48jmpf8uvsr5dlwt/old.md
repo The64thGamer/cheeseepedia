@@ -18,12 +18,6 @@ Sometime after closure, the location was converted into Dollar Tree, completely 
 
 The store opened on April 21st, 2004 with the Small-Town Studio C &amp; the Cool Chuck outfit. It was one of 4 installed in Pennsylvania. The store would have their Small Town Studio C. Sometime between 2010-2012, the Cool Chuck Khaki Shorts were replaced with the Avenger shorts, the shirt was never replaced. It's unknown on what happened to the bot after the store closed.
 
-## Animatronics
-
-| Animatronic                                                | Manufacturing Date | Serial Number | Whereabouts |
-|------------------------------------------------------------|--------------------|---------------|-------------|
-| [Chuck E Cheese 16m (Animatronic)] | 2004               | N/A           | Unknown.    |
-
 ## Videos
 
 There is very little documentation on this location, a couple photos exist but no videos were found at the moment. TODO

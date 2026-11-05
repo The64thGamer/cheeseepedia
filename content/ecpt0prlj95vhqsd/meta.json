@@ -3,7 +3,6 @@
   "storeNumber": "522",
   "startDate": "2003-06-00",
   "endDate": "",
-  
   "remodels": [
     {
       "n": "SPT 1990's Remodel Program",
@@ -19,6 +18,12 @@
       "n": "Studio C Beta",
       "s": "2003-06-00",
       "e": "0000-00-00"
+    },
+    {
+      "n": "Studio C Beta 16m",
+      "s": "2003-06-00",
+      "e": "0000-00-00",
+      "desc": "One of the earliest 16ms installed in a store."
     }
   ],
   "franchisees": [
@@ -78,5 +83,21 @@
   "tags": [
     "Chuck E. Cheese's"
   ],
-  "attractions": []
+  "attractions": [],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "823",
+      "desc": "Still in use; Full Rockstar outfit including walkaround shoes."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Still in use; Original clock,"
+    }
+  ]
 }

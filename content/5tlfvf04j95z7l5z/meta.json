@@ -1,43 +1,87 @@
 {
-    "title": "Corona, CA (191 N McKinley St)",
-    "storeNumber": "",
-    "startDate": "1992-05-19",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1992-05-19"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2024-02-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Road Stage",
-            "s": "1992-05-19",
-            "e": "2024-02-11"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2024-02-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "33.88480057",
-        "-117.5168422"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "eHm1YzNQtZYXKYxPzzaq.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Corona, CA (191 N McKinley St)",
+  "storeNumber": "",
+  "startDate": "1992-05-19",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1992-05-19"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-02-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1992-05-19",
+      "e": "2024-02-11"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-02-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "33.88480057",
+    "-117.5168422"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "eHm1YzNQtZYXKYxPzzaq.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed.https://www.youtube.com/watch?v=8yVK9Q7cADw"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "1032",
+      "desc": "Destroyed.(0)"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "1051",
+      "desc": "Destroyed.(0)"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "1079",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed.(0)"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed.(0)"
+    }
+  ]
 }

@@ -7,26 +7,3 @@ Huntington Beach opened on October 6th, 1979. Unfortunately, information on the 
 ## Stages
 
 Huntington Beach opened with the Portrait Stage in October 1979. Unfortunately, there are some photos but hardly any videos to exist of Huntington Beach during its PTT/CECP Era.
-
-| Stage                                            | Installed    | Removed      | Notes                                                                                                                        |
-|--------------------------------------------------|--------------|--------------|------------------------------------------------------------------------------------------------------------------------------|
-| Cyberamics Portrait Stage\|Portrait Stage        | October 1979 | 1989/1990    | Oldest CEC in the world. Formerly, [San Jose, CA (1371 Kooser Rd)] until their closure in June 2020. |
-| [Chuck E.'s House Facade (C-Stage)] | 1989/1990    | Mid 90's     | One of many installed in California. Only known Shelf to Chuck E.'s House Facade (C-Stage) conversion.                                 |
-| [2-Stage]                | Mid 90's     | Still in use | One of many installed in California. One of two 2-Stage's operating in California.                                           |
-
-## Animatronics
-
-| Character                                                    | Manufacturing Date | Status    |
-|--------------------------------------------------------------|--------------------|-----------|
-| [Chuck E. Cheese (Cyberamic)]                                  | Unknown            | In Store. |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | In Store. |
-| [Mr. Munch (Cyberamic)]               | Unknown            | In Store. |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | In Store. |
-| [Pasqually (Cyberamic)]              | Unknown            | In Store. |
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown   |
-| [Flag Wavers (Cyberamic)]                                     | Unknown            | Unknown   |
-| [Applause Board (Cyberamic)]         | Unknown            | Unknown   |
-| [Drum Board (Cyberamic)]             | Unknown            | Unknown   |
-| [Singing Flowers (Cyberamic)]        | Unknown            | Unknown   |
-| [Helen Henny (Lounge)]               | Unknown            | Unknown   |
-| [Wink]                               | Mid 1990's         | In Store. |

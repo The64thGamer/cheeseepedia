@@ -1,62 +1,253 @@
 {
-    "title": "Jacksonville, FL (9820 Atlantic Blvd)",
-    "storeNumber": "",
-    "startDate": "1980-08-14",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "Low Volume Store Initiative",
-            "s": "2024-00-00"
-        },
-        {
-            "n": "Concept Unification",
-            "s": "1991-00-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-11-19"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1980-08-14"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1980-08-14",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-00-00",
-            "e": "1999-00-00",
-            "desc": "One of 7 3-Stages in Florida to undergo Concept Unification. Was in good condition. Munch had Sunrise Organ, Jasper had Beach Bear Guitar, Pasqually had White Drumset. One of many 3-Stages replaced with a Studio C Alpha."
-        },
-        {
-            "n": "Studio C Alpha",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-11-19",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "30.31886452",
-        "-81.54585498"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "gajkUff9fCPoq0HnTXuC.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Jacksonville, FL (9820 Atlantic Blvd)",
+  "storeNumber": "",
+  "startDate": "1980-08-14",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "2024-00-00"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-11-19"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1980-08-14"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1980-08-14",
+      "e": "1991-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-00-00",
+      "e": "1999-00-00",
+      "desc": "One of 7 3-Stages in Florida to undergo Concept Unification. Was in good condition. Munch had Sunrise Organ, Jasper had Beach Bear Guitar, Pasqually had White Drumset. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "1999-00-00",
+      "e": "2022-11-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-11-19",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.31886452",
+    "-81.54585498"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "gajkUff9fCPoq0HnTXuC.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Beta Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 1-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beta Dook Larue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 2-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beta Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 3-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beta Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 4-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beta Mitzi Mozzarella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 5-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beta Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 6-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beta Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 7-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beta Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 8-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beta Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 10-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beta Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 11-1",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beta Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 1-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 2-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 3-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 4-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 5-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 6-20",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 7-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 8-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 10-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "4-81 11-20",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "048",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    }
+  ]
 }

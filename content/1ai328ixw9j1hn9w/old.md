@@ -7,17 +7,3 @@ Winter Park opened with a [Balcony Stage]. Their first Guest Star was Madame Oin
 ## History
 
 Winter Park opened on January 26th, 1981, with a [Balcony Stage]. Barely any information is known about Winter Park, although there is one known picture from its opening. The exterior sign was likely replaced around 1982. The location would close in February 1984 (day unknown) due to underperformance and bankruptcy from the company. As of August 2023, the store is now part of a farmer's market.
-
-## Animatronics
-
-| Animatronic                                                  | Manufacture Date | Whereabouts                                                            |
-|--------------------------------------------------------------|------------------|------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]         | 1980             | Unknown                                                                |
-| [Guest Star / Helen Henny (Cyberamic)] | 1980             | Was Madame Oink, then Harmony Howlette, then Madame Oink again, Unkown |
-| [Mr. Munch (Cyberamic)]               | 1980             | Unknown                                                                |
-| [Jasper T. Jowls (Cyberamic)]         | 1980             | Unknown                                                                |
-| [Pasqually (Cyberamic)]              | 1980             | Unknown                                                                |
-| [Warblettes (Cyberamic)]             | 1980             | Unknown                                                                |
-| [Applause Board (Cyberamic)]         | 1980             | Unknown                                                                |
-| [Drum Board (Cyberamic)]             | 1980             | Unknown                                                                |
-| [Flag Wavers (Cyberamic)]            | 1980             | Unknown                                                                |

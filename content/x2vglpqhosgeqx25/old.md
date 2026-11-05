@@ -65,25 +65,6 @@ Note: Not all of the arcade machines in the store are listed, of some are missin
 - Hit Music
 - NBA Hoop Troop Jr.
 
-## Stages
-
-| Stage                                                      | Installed      | Removed        | Notes                                         |
-|------------------------------------------------------------|----------------|----------------|-----------------------------------------------|
-| [1-Stage]                          | December 1994  | September 2023 | One of 3 1-Stages installed in Massachusetts. |
-| [Chuck E Live Stage (Dance Floor)] | September 2023 | Still In Use   | 2021 Model.                                   |
-| [Video Wall]                       | September 2023 | Still In Use   | 2021 Model.                                   |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                                                                                                    | Notes                                                                                                        |
-|--------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1994               | Cosmetics destroyed. Parts sent to [Northridge, CA (8425 Reseda Blvd)]. Remains sent to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. | Mask replaced in Late 2014.                                                                                  |
-| [Guest Star / Helen Henny (Cyberamic)] | 1994               | Cosmetics destroyed. Parts sent to [Northridge, CA (8425 Reseda Blvd)]. Remains sent to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. | Mask replaced in Late 2014.                                                                                  |
-| [Mr. Munch (Cyberamic)]               | 1994               | Cosmetics destroyed. Parts sent to [Northridge, CA (8425 Reseda Blvd)]. Remains sent to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. | Mask replaced in Late 2014.                                                                                  |
-| [Jasper T. Jowls (Cyberamic)]         | 1994               | Cosmetics destroyed. Parts sent to [Northridge, CA (8425 Reseda Blvd)]. Remains sent to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. | Mask replaced with one from [New London, CT (389 N Frontage Rd)] that closed in 2014 |
-| [Pasqually (Cyberamic)]              | 1994               | Cosmetics destroyed. Parts sent to [Northridge, CA (8425 Reseda Blvd)]. Remains sent to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. | Most of mask replaced with one from [Worcester, MA (50 Southwest Cutoff)] in 2021.   |
-| [Wink (Cyberamic)]                   | 1994               | Unknown/Destroyed                                                                                                                                                                              |                                                                                                              |
-
 ## Walkarounds
 
 | Head                                                | Outfit &amp; Suits                       | Accessories | Whereabouts |

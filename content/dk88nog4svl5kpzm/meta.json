@@ -1,34 +1,43 @@
 {
-    "title": "Leominster, MA (132 Sacks Blvd)",
-    "storeNumber": "",
-    "startDate": "2005-01-17",
-    "endDate": "2020-06-02",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2005-01-17"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Cappa",
-            "s": "2005-01-17",
-            "e": "2020-06-02"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "42.52773392",
-        "-71.74375868"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "HTa7xVtlNp8iKfhvikOb.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Leominster, MA (132 Sacks Blvd)",
+  "storeNumber": "",
+  "startDate": "2005-01-17",
+  "endDate": "2020-06-02",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2005-01-17"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Cappa",
+      "s": "2005-01-17",
+      "e": "2020-06-02"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.52773392",
+    "-71.74375868"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "HTa7xVtlNp8iKfhvikOb.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Top half replaced with the one from Rochester, NY. Disassembled for parts, head sent to Pittsburgh, PA (20 McIntyre Square Dr), now removed."
+    }
+  ]
 }

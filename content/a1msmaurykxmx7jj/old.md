@@ -8,11 +8,6 @@ Toledo on Monroe opened on September 6th, 1993 along with the [Toledo, OH (5455 
 
 W.I.P: Stage History
 
-| Stage                                                                   | Installed      | Removed        | Notes                                   |
-|-------------------------------------------------------------------------|----------------|----------------|-----------------------------------------|
-| [1-Stage]                                       | September 1993 | September 2021 | One of Seven 1-Stages installed in Ohio |
-| [Chuck E Live Stage (Dance Floor)] + Video Wall | September 2021 | Still In Use   | First 2021 Model in Ohio                |
-
 W.I.P
 
 ## Videos

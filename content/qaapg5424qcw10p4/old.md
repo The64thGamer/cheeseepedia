@@ -6,19 +6,7 @@ Conroe opened on June 29th, 2001 in the College Park Shopping Center in a freest
 
 ## Stages
 
-Originally when the store opened, they had a Studio C Beta. They got the 2.0 Remodel in March/April 2023, replacing the Beta with a 2021 model Dance Floor + Video Wall. As of April 2023, they still have this remodel.
-
-| Stage                                                                                            | Installed  | Removed      | Notes                                                                   |
-|--------------------------------------------------------------------------------------------------|------------|--------------|-------------------------------------------------------------------------|
-| Studio C Beta, 32m                                                                               | June 2001  | April 2023   | One of 21 installed in Texas (One of 10 32m installations in the state) |
-| [Chuck E Live Stage (Dance Floor)] +[Video Wall] | April 2023 | Still in Use | 2021 Model.                                                             |
-
-## Animatronics
-
-| Animatronic                                                | Serial  | Whereabouts |
-|------------------------------------------------------------|---------|-------------|
-| [Chuck E Cheese 32m (Animatronic)] | Unknown | Unknown     |
-| [Pizza Time Clock (Animatronic)]   | N/A     | Unknown     |
+Originally when the store opened, they had a Studio C Beta. They got the 2.0 Remodel in March/April 2023, replacing the Beta with a 2021 model Chuck E. Live Stage (Dance Floor). As of April 2023, they still have this remodel.
 
 ## Arcade Games &amp; Rides
 

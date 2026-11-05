@@ -2,34 +2,11 @@
 
 ## History
 
-Columbia opened its doors on June 28th, 1983. The store was originally franchised, being owned and operated by the McBiz Corporation (along with 29 other locations). Like other ShowBiz locations, the store opened with a [Classic Stage], placed adjacently on the store's rear wall. In the late 80's, Columbia underwent the [SPT 1980's Remodel Program], phasing out original ShowBiz Pizza Place decor and signage for that of generalized ShowBiz Pizza Time assets. Sometime in 1991, the location received [Concept Unification Stage (3-Stage)], retrofitting the Rock-afire into Munch's Make Believe Band, meanwhile keeping the ShowBiz Pizza name until later that same year. On September 16, 1996, Columbia's operating license was acquired by SPT Corporate along with sister locations [Charleston, SC (1610 Sam Rittenburg Blvd)] &amp; [Greenville, SC (253 Congaree Rd)]. Around this time, the store would undergo the [SPT 1990's Remodel Program]. The store received the [CEC 2000's Remodel Program] in the late 2000's, with newer booths, posters, and purple walls. Aside from rotating game packages, Columbia would remain in this state throughout the late 2000's into the 2020's decade. In September 2020, the Chuck E, Helen, and Jasper animatronics would be replaced with those from the then-recently closed [Charleston, SC (1610 Sam Rittenburg Blvd)] store. On November 1st, 2022, Columbia removed the 3-Stage for the Dance Floor + Video Wall as part of the [CEC 2.0 Remodel Program], becoming the store's most recent overhaul.
+Columbia opened its doors on June 28th, 1983. The store was originally franchised, being owned and operated by the McBiz Corporation (along with 29 other locations). Like other ShowBiz locations, the store opened with a [Classic Stage], placed adjacently on the store's rear wall. In the late 80's, Columbia underwent the [SPT 1980's Remodel Program], phasing out original ShowBiz Pizza Place decor and signage for that of generalized ShowBiz Pizza Time assets. Sometime in 1991, the location received [Concept Unification Stage (3-Stage)], retrofitting the Rock-afire into Munch's Make Believe Band, meanwhile keeping the ShowBiz Pizza name until later that same year. On September 16, 1996, Columbia's operating license was acquired by SPT Corporate along with sister locations [Charleston, SC (1610 Sam Rittenburg Blvd)] &amp; [Greenville, SC (253 Congaree Rd)]. Around this time, the store would undergo the [SPT 1990's Remodel Program]. The store received the [CEC 2000's Remodel Program] in the late 2000's, with newer booths, posters, and purple walls. Aside from rotating game packages, Columbia would remain in this state throughout the late 2000's into the 2020's decade. In September 2020, the Chuck E, Helen, and Jasper animatronics would be replaced with those from the then-recently closed [Charleston, SC (1610 Sam Rittenburg Blvd)] store. On November 1st, 2022, Columbia removed the 3-Stage for the Chuck E. Live Stage (Dance Floor) as part of the [CEC 2.0 Remodel Program], becoming the store's most recent overhaul.
 
 ## Stages
 
-Columbia would premiere with a Classic Rock-afire Explosion, as other ShowBiz locations did at the time. The show would remain largely unchanged until 1991, when [Concept Unification] occurred. In November 2022, Columbia removed the 3-Stage for a 2021 Model Dance Floor + Video Wall.
-
-| Stage                                                                                             | Installed     | Removed          | Notes                                                                        |
-|---------------------------------------------------------------------------------------------------|---------------|------------------|------------------------------------------------------------------------------|
-| [Classic Stage]                                                           | June 1983     | 1991             | 4th ShowBiz Pizza to open in South Carolina.                                 |
-| [Concept Unification Stage (3-Stage)]                                               | 1991          | November 2, 2022 | One of 4 ShowBiz locations in South Carolina to receive Concept Unification. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | November 2022 | Still in use     | 2021 Model.                                                                  |
-
-## Animatronics
-
-| Character                                                                 | Serial      | Status                                                                             |
-|---------------------------------------------------------------------------|-------------|------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-82 1-15  | \|Unknown; Removed in September 2020.                                              |
-| [Dook Larue (Animatronic)]                        | 10-82 2-15  | \|Destroyed.                                                                       |
-| [Fatz Geronimo (Animatronic)]                     | 10-82 3-15  | \|Destroyed.                                                                       |
-| [Beach Bear (Animatronic)]                        | 10-82 4-15  | Owned by a Private Collector; Removed in September 2020.                           |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-82 5-15  | \|Owned by a Private Collector; Removed in September 2020.                         |
-| [Billy Bob (Animatronic)]                         | 10-82 6-15  | Unknown                                                                            |
-| [Looney Bird (Animatronic)]                       | 10-82 7-15  | Unknown                                                                            |
-| [Choo Choo (Animatronic)]                         | 10-82 8-15  | Unknown                                                                            |
-| [Sun (Animatronic)]                               | 10-82 10-15 | Mask sent to [Charlotte, NC (7701 Pineville-Matthews Rd)]. |
-| [Moon (Animatronic)]                              | 10-82 11-15 | Unknown                                                                            |
-| [Antioch (Animatronic)]                           | N/A         | Unknown                                                                            |
-| [Wink]                                            | N/A         | Owned by a Private Collector; Removed in November 2022.                            |
+Columbia would premiere with a Classic Rock-afire Explosion, as other ShowBiz locations did at the time. The show would remain largely unchanged until 1991, when [Concept Unification] occurred. In November 2022, Columbia removed the 3-Stage for a 2021 Model Chuck E. Live Stage (Dance Floor).
 
 ## Videos
 

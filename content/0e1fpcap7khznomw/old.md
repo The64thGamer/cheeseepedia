@@ -6,37 +6,7 @@ Citrus Heights (Sunrise) opened in August 1983 as a franchise-owned location. Ci
 
 ## Stages
 
-Like all ShowBiz Pizzas at the time, the store opened with the Rock-Afire Explosion stage. 1988-1989, the stage was converted into Chuck E.'s House, which would later be replaced around 1991-1992 for a Road Stage. In 2015, the store would replace its Road Stage with a [1-Stage] On January 22nd, 2024, the store would remove its [1-Stage] in favor of its 2.0 Remodel. It was replaced with a Dance Floor + Video Wall a few days later.
-
-| Stage                                                                                             | Installed    | Removed          |
-|---------------------------------------------------------------------------------------------------|--------------|------------------|
-| [Classic Stage]                                                           | 1983         | 1988-1989        |
-| [Chuck E.'s House (Rocker Stage)]                                                         | 1988-1989    | 1991-1992        |
-| [Road Stage]                                                   | 1991-1992    | 2015             |
-| [1-Stage]                                                                 | 2015         | January 22, 2024 |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | January 2024 | Still in Use     |
-
-## Animatronics
-
-| Animatronic                                                               | Manufacturing Date | Status             |
-|---------------------------------------------------------------------------|--------------------|--------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | N/A                | Unknown/Destroyed. |
-| [Dook Larue (Animatronic)]                        | N/A                | Unknown/Destroyed. |
-| [Fatz Geronimo (Animatronic)]                     | N/A                | Unknown/Destroyed. |
-| [Beach Bear (Animatronic)]                        | N/A                | Unknown/Destroyed. |
-| [Mitzi Mozzarella (Animatronic)]                  | N/A                | Unknown/Destroyed. |
-| [Billy Bob (Animatronic)]                         | N/A                | Unknown/Destroyed. |
-| [Looney Bird (Animatronic)]                       | N/A                | Unknown/Destroyed. |
-| [Choo Choo (Animatronic)]                         | N/A                | Unknown/Destroyed. |
-| [Sun (Animatronic)]                               | N/A                | Unknown/Destroyed. |
-| [Moon (Animatronic)]                              | N/A                | Unknown/Destroyed. |
-| [Antioch (Animatronic)]                           | N/A                | Unknown/Destroyed. |
-| [Chuck E. Cheese (Cyberamic)]                   | N/A                | Unknown            |
-| [Guest Star / Helen Henny (Cyberamic)]              | N/A                | Unknown            |
-| [Mr. Munch (Cyberamic)]                            | N/A                | Unknown            |
-| [Jasper T. Jowls (Cyberamic)]                      | N/A                | Unknown            |
-| [Pasqually (Cyberamic)]                           | N/A                | Unknown            |
-| [Wink (Cyberamic)]                                | N/A                | Unknown            |
+Like all ShowBiz Pizzas at the time, the store opened with the Rock-Afire Explosion stage. 1988-1989, the stage was converted into Chuck E.'s House, which would later be replaced around 1991-1992 for a Road Stage. In 2015, the store would replace its Road Stage with a [1-Stage] On January 22nd, 2024, the store would remove its [1-Stage] in favor of its 2.0 Remodel. It was replaced with a Chuck E. Live Stage (Dance Floor) a few days later.
 
 ## Videos
 

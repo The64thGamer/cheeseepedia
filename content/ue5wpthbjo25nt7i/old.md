@@ -20,20 +20,3 @@ This location opened on March 24th, 1982, as a ShowBiz Pizza Place with the [Cla
 | [Link](https://youtu.be/EHAjiG4Khns)       | The removal of the animatronic stage after the store's closure                       | May 12th, 2013      |
 
 [2005](https://www.showbizpizza.com/photos/cec/tx_benwhite/index.html)
-
-## Animatronics
-
-| Character                                                                 | Serial     | Status                                                                                                                                                     |
-|---------------------------------------------------------------------------|------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-81 1-12  | Sent to [San Antonio, TX (6874 Ingram Dr)], Status Unknown                                                                         |
-| [Dook Larue (Animatronic)]                        | 7-81 2-12  | Sent to [San Antonio, TX (6874 Ingram Dr)], Owned by a private collector                                                           |
-| [Fatz Geronimo (Animatronic)]                     | 7-81 3-12  | Sent to [San Antonio, TX (6874 Ingram Dr)], Status Unknown                                                                         |
-| [Beach Bear (Animatronic)]                        | 7-81 4-12  | Sent to [San Antonio, TX (6874 Ingram Dr)], Owned by a private collector                                                           |
-| [Mitzi Mozzarella (Animatronic)]                  | 7-81 5-12  | Sent to [San Antonio, TX (6874 Ingram Dr)], Owned by a private collector                                                           |
-| [Billy Bob (Animatronic)]                         | 7-81 6-12  | Unknown/Destroyed                                                                                                                                          |
-| [Looney Bird (Animatronic)]                       | 7-81 7-12  | Unknown                                                                                                                                                    |
-| [Choo Choo (Animatronic)]                         | 7-81 8-12  | Unknown                                                                                                                                                    |
-| [Sun (Animatronic)]                               | 7-81 10-12 | Mask sent to [Houston, TX (5535 Weslayan St)], then to corporate's programming stage. Mask currently owned by a private collector. |
-| [Moon (Animatronic)]                              | 7-81 11-12 | Unknown                                                                                                                                                    |
-| [Antioch (Animatronic)]                           | N/A        | Unknown                                                                                                                                                    |
-| [Wink]                                            | N/A        | Unknown                                                                                                                                                    |

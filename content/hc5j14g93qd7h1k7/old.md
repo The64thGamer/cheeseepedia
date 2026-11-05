@@ -26,20 +26,3 @@ On June 18, 2020, this location would be permanently closed due to CEC Entertain
 |-----------------------------------------------------|---------------------------------------------------------------|--------------------------|
 | [link](https://www.youtube.com/watch?v=Hr8T5Wd6vlk) | Chuck E. Cheese Walk-Around featured through out the location | May 10, 2011             |
 | [link](https://www.youtube.com/watch?v=dSSeDCBrX5Y) | Showcase of the now vacant Chuck E. Cheese building           | Jul 12, 2020             |
-
-## Animatronics
-
-| Animatronics                                                              | Serial Number | Status                                                                                               |
-|---------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | Unknown       | Not seen at Darien, current status unknown.                                                          |
-| [Dook Larue (Animatronic)]                        | Unknown       | Sent to Darien for parts, later sent to Kedzie. Head frame owned by a collector.                     |
-| [Fatz Geronimo (Animatronic)]                     | Unknown       | Some parts seen at Darien, current status unknown. Likely thrown away over time between 2015 - 2020. |
-| [Beach Bear (Animatronic)]                        | Unknown       | Some parts seen at Darien, current status unknown. Likely thrown away over time between 2015 - 2020. |
-| [Mitzi Mozzarella (Animatronic)]                  | Unknown       | Sent to Darien for parts, now owned by a collector.                                                  |
-| [Billy Bob (Animatronic)]                         | Unknown       | Unknown / Destroyed                                                                                  |
-| [Looney Bird (Animatronic)]                       | Unknown       | Unknown / Destroyed                                                                                  |
-| [Choo Choo (Animatronic)]                         | Unknown       | Unknown / Destroyed                                                                                  |
-| [Sun (Animatronic)]                               | Unknown       | Not seen at Darien, current status unknown.                                                          |
-| [Moon (Animatronic)]                              | Unknown       | Not seen at Darien, current status unknown.                                                          |
-| [Antioch (Animatronic)]                           | N/A           | Unknown / Destroyed                                                                                  |
-| [Wink]                                            | N/A           | Destroyed in fire.                                                                                   |

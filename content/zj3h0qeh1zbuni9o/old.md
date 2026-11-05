@@ -8,23 +8,6 @@ Manhattan opened on August 18th, 1983 as the eighth and final ShowBiz Pizza Plac
 
 Originally, Manhattan featured a Rock-Afire Explosion, as all other ShowBiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage. In 1993, the location closed for unknown reasons.
 
-## Animatronics
-
-| Animatronic                                                               | Serial     | Whereabouts        |
-|---------------------------------------------------------------------------|------------|--------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ?-8? 1-??  | Unknown/Destroyed. |
-| [Dook Larue (Animatronic)]                        | ?-8? 2-??  | Unknown/Destroyed. |
-| [Fatz Geronimo (Animatronic)]                     | ?-8? 3-??  | Unknown/Destroyed. |
-| [Beach Bear (Animatronic)]                        | ?-8? 4-??  | Unknown/Destroyed. |
-| [Mitzi Mozzarella (Animatronic)]                  | ?-8? 5-??  | Unknown/Destroyed. |
-| [Billy Bob (Animatronic)]                         | ?-8? 6-??  | Unknown/Destroyed. |
-| [Looney Bird (Animatronic)]                       | ?-8? 7-??  | Unknown/Destroyed. |
-| [Choo Choo (Animatronic)]                         | ?-8? 8-??  | Unknown/Destroyed. |
-| [Sun (Animatronic)]                               | ?-8? 10-?? | Unknown/Destroyed. |
-| [Moon (Animatronic)]                              | ?-8? 11-?? | Unknown/Destroyed. |
-| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed. |
-| [Wink]                                            | N/A        | Unknown/Destroyed. |
-
 ## Videos
 
 | Link | Description | Published/ Filmed Date |

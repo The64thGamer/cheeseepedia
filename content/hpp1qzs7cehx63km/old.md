@@ -4,23 +4,6 @@
 
 Waterbury opened on September 29, 1992 in Mattatuck Plaza with a 2-Stage with the CEC 1988 Remodel|1988 Remodel. In the mid 1990's, Waterbury remodeled to the [SPT 1990's Remodel Program], which involved removing the checkers around the store, the blue and white awnings, and the neon signage. In the Summer of 2001, Munch's cap was removed. By 2004, they added some of the 1999 décor and in December; they replaced the side to side curtains with the up and down curtains. In April 2005, the Helicopter Light was replaced with the Gemini. Curtains were disabled in July 2005. Helen's cosmetics were replaced in April 2006. Waterbury received the [CEC 2000's Remodel Program] in 2008 which started in January. In around June 2011, the Tuxedo &amp; Derby were replaced with the Avenger outfit (Chuck's derby was however briefly kept until they received the Avenger cap not long after). Waterbury was the last 2-Stage to have the Tuxedo and Derby which were both replaced by July 2011, Pasqually's cosmetics were replaced around the same timeframe. Jasper would receive new cosmetics in December 2011. Waterbury was originally supposed to close in 2013; however, [Meriden, CT (533 S Broad St)] was chosen to close instead which ended up happening on May 19th, 2013. In the mid 2010's the Avenger Shirt on the animatronic was replaced with the Rockstar Shirt. The store would be temporarily closed on March 16th, 2020 due to the COVID-19 pandemic. On June 25, 2020; Waterbury closed their doors for the final time, ending the store's almost 28 years of operation. Waterbury was one of the five New England locations that was open after 2006 that did not receive the Cool Chuck outfit. Those other four were [Warwick, RI (650 Bald Hill Rd)], [North Dartmouth, MA (412-418 State Rd)], [Attleboro, MA (287 Washington St)], &amp; [Newington, CT (3075 Berlin Tpke)].
 
-## Stages
-
-| Stage                             | Installed      | Removed   | Notes                                        |
-|-----------------------------------|----------------|-----------|----------------------------------------------|
-| [2-Stage] | September 1992 | June 2020 | One of two 2-Stages installed in Connecticut |
-
-## Animatronics
-
-| Animatronics                                                 | Manufacturing Date | Status                        |
-|--------------------------------------------------------------|--------------------|-------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1992               | Owned by a Private Collector. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1992               | Owned by a Private Collector. |
-| [Mr. Munch (Cyberamic)]               | 1992               | Owned by a Private Collector. |
-| [Jasper T. Jowls (Cyberamic)]         | 1992               | Owned by a Private Collector. |
-| [Pasqually (Cyberamic)]              | 1992               | Owned by a Private Collector. |
-| [Wink (Cyberamic)]                   | 1992               | Unknown                       |
-
 ## Videos
 
 | Link                                     | Description                                                                                                                                                                                                               | Filming Date       | Published Date     |

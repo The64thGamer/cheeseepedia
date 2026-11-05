@@ -11,20 +11,3 @@ Arvada opened with a [Classic Stage] and as the 15th ShowBiz Pizza Place to open
 ### Closure
 
 On September 20th, 2017, the location closed due to being in a dead shopping center it was located in. The store would remain vacant for a year until 2018, when the shopping center was demolished.
-
-## Animatronics
-
-| Animatronic                                                               | Serial     | Whereabouts       |
-|---------------------------------------------------------------------------|------------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-80 1-9  | Unknown/Destroyed |
-| [Dook Larue (Animatronic)]                        | 10-80 2-9  | Unknown/Destroyed |
-| [Fatz Geronimo (Animatronic)]                     | 10-80 3-9  | Unknown/Destroyed |
-| [Beach Bear (Animatronic)]                        | 10-80 4-9  | Unknown/Destroyed |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-80 5-9  | Unknown/Destroyed |
-| [Billy Bob (Animatronic)]                         | 10-80 6-9  | Unknown/Destroyed |
-| [Looney Bird (Animatronic)]                       | 10-80 7-9  | Unknown/Destroyed |
-| [Choo Choo (Animatronic)]                         | 10-80 8-9  | Unknown/Destroyed |
-| [Sun (Animatronic)]                               | 10-80 10-9 | Unknown/Destroyed |
-| [Moon (Animatronic)]                              | 10-80 11-9 | Unknown/Destroyed |
-| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed |
-| [Wink]                                            | N/A        | Unknown/Destroyed |

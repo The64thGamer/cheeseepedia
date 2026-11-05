@@ -13,12 +13,20 @@
     {
       "n": "Balcony Stage",
       "s": "1982-10-05",
-      "e": "0000-00-00"
+      "e": "0000-00-00",
+      "desc": "One of many installed in California."
     },
     {
       "n": "Chuck E.'s House Facade (C-Stage)",
       "s": "0000-00-00",
-      "e": "1993-06-00"
+      "e": "1993-06-00",
+      "desc": "One of many installed in California."
+    },
+    {
+      "n": "Retrofitted C-Stage",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Became Buzz-E's Pizza Time Circus after closure."
     }
   ],
   "franchisees": [],

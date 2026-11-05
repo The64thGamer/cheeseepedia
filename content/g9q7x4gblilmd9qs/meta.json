@@ -1,40 +1,118 @@
 {
-    "title": "Waldorf, MD (2928 Festival Way)",
-    "storeNumber": "",
-    "startDate": "1992-03-24",
-    "endDate": "2012-05-24",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1992-03-24"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1992-03-24",
-            "e": "2000-00-00",
-            "desc": "Mini Unit 1-Stage"
-        },
-        {
-            "n": "Studio C Alpha",
-            "s": "0000-00-00",
-            "e": "2012-05-24"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "38.62751012",
-        "-76.91135448"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Waldorf, MD (2928 Festival Way)",
+  "storeNumber": "",
+  "startDate": "1992-03-24",
+  "endDate": "2012-05-24",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1992-03-24"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1992-03-24",
+      "e": "2000-00-00",
+      "desc": "Mini Unit 1-Stage"
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "2012-05-24"
+    },
+    {
+      "n": "Studio C (1997)|Studio C Alpha",
+      "s": "2000-00-00",
+      "e": "2012-05-00",
+      "desc": "Brought to Waldorf, MD (3241 Plaza Way)."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.62751012",
+    "-76.91135448"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "109",
+      "desc": "Sent to new Waldorf, MD (3241 Plaza Way) store. Removed in Late 2023."
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to newWaldorf, MD (3241 Plaza Way) store. Removed in Late 2023."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to newWaldorf, MD (3241 Plaza Way) store. Removed in Late 2023."
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to newWaldorf, MD (3241 Plaza Way) store. Removed in Late 2023."
+    }
+  ]
 }

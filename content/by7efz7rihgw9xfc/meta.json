@@ -1,42 +1,70 @@
 {
-    "title": "Concord, NC (7970 Lyles Lane)",
-    "storeNumber": "",
-    "startDate": "2001-08-28",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2001-08-28"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "0000-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2001-08-28",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "35.36315707",
-        "-80.71786548"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "qbddGzBdIJanT1pNSDPR.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Concord, NC (7970 Lyles Lane)",
+  "storeNumber": "",
+  "startDate": "2001-08-28",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2001-08-28"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "0000-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2001-08-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Studio C Beta, 32m",
+      "s": "2001-08-00",
+      "e": "2023-03-00",
+      "desc": "One of 3 installed in North Carolina (4 in the Carolinas) (One of 2 32m installations in the state)."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2023-03-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model. First 2.0 remodel in Charlotte NC area."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "35.36315707",
+    "-80.71786548"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "qbddGzBdIJanT1pNSDPR.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "148",
+      "desc": "Destroyed, Remains owned by a Private Collector."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed, Remains owned by a Private Collector."
+    }
+  ]
 }

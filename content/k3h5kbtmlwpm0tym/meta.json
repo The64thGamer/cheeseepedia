@@ -1,34 +1,56 @@
 {
-    "title": "Indianapolis, IN (10021 E Washington St)",
-    "storeNumber": "",
-    "startDate": "2011-12-26",
-    "endDate": "2025-03-30",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2011-12-26"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2011-12-26",
-            "e": "2025-03-30"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "39.77167692",
-        "-85.99051978"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "obwPchMgANYDT1orQUMC.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Indianapolis, IN (10021 E Washington St)",
+  "storeNumber": "",
+  "startDate": "2011-12-26",
+  "endDate": "2025-03-30",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2011-12-26"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2011-12-26",
+      "e": "2025-03-30"
+    },
+    {
+      "n": "Studio C Beta 16m",
+      "s": "2011-12-00",
+      "e": "2025-03-31",
+      "desc": "Last Animatronic Show in Indianapolis."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.77167692",
+    "-85.99051978"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "obwPchMgANYDT1orQUMC.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to Showbiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    }
+  ]
 }

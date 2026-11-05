@@ -1,43 +1,94 @@
 {
-    "title": "Lowell, MA (199 Plain St)",
-    "storeNumber": "",
-    "startDate": "1993-05-27",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1993-05-27"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-09-17"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1993-05-27",
-            "e": "2023-09-17"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-09-17",
-            "desc": "2019 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "42.62095817",
-        "-71.31928918"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "cgNII9GosQSCMi1r_SK6.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Lowell, MA (199 Plain St)",
+  "storeNumber": "",
+  "startDate": "1993-05-27",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-05-27"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-09-17"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-05-27",
+      "e": "2023-09-17",
+      "desc": "One of 3 1-Stages installed in Massachusetts."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-09-17",
+      "desc": "2019 Model"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2023-09-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.62095817",
+    "-71.31928918"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "cgNII9GosQSCMi1r_SK6.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Top half replaced with Worcester, MA's. Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Top half replaced with Worcester, MA's. Destroyed."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Top half replaced with Worcester, MA's. Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
+  ]
 }

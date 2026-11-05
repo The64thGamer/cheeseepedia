@@ -13,7 +13,8 @@
     {
       "n": "Balcony Stage",
       "s": "1981-11-15",
-      "e": "1988-10-00"
+      "e": "1988-10-00",
+      "desc": "Animatronics taken to be used at Rockford for their Chuck E.'s House (Rocker Stage)."
     }
   ],
   "franchisees": [],
@@ -32,5 +33,77 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Rockford and used until June 2022, Collected by SPT Distribution"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Rockford and used until June 2022, Collected by SPT Distribution"
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Rockford and used until June 2022, Collected by SPT Distribution"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Rockford and used until June 2022, Collected by SPT Distribution"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Rockford and used until June 2022, Collected by SPT Distribution"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    }
   ]
 }

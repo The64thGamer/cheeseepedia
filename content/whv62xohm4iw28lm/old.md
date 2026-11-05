@@ -7,26 +7,3 @@ Ventura opened in Fall 1983 and originally had a Balcony Stage and was a franchi
 ## Stages
 
 Originally when Ventura opened, they had a Balcony Stage, as all other Pizza Time Theatres did. Unfortunately, there are not many photos or videos of Ventura back then. They would have it for a few years until the late 80's, when they would receive a C-Stage, they would have it for a short time until 1996-1997 when they would receive a 2-Stage. Ventura would have the 2-Stage for many years until the show’s removal which happened by October 1st, 2023.
-
-| Stage                                                      | Installed         | Removed           | Notes                                                      |
-|------------------------------------------------------------|-------------------|-------------------|------------------------------------------------------------|
-| [Balcony Stage]         | Fall 1983         | Late 1980's       | Opening Date Unknown. One of many installed in California. |
-| [Chuck E.'s House Facade (C-Stage)]           | Late 1980's       | 1996/1997         | One of many installed in California                        |
-| [2-Stage]                          | 1996/1997         | October 1st, 2023 | One of many installed in California                        |
-| [Chuck E Live Stage (Dance Floor)] | October 1st, 2023 | Still In Use      |                                                            |
-
-## Animatronics
-
-| Animatronic                                                  | Serial Number | Whereabouts       |
-|--------------------------------------------------------------|---------------|-------------------|
-| [Chuck E. Cheese (Cyberamic)]         | N/A           | Unknown           |
-| [Guest Star / Helen Henny (Cyberamic)] | N/A           | Unknown           |
-| [Mr. Munch (Cyberamic)]               | N/A           | Unknown           |
-| [Jasper T. Jowls (Cyberamic)]         | N/A           | Unknown           |
-| [Pasqually (Cyberamic)]              | N/A           | Unknown           |
-| [Warblettes (Cyberamic)]             | N/A           | Unknown/Destroyed |
-| [Clapper Board (Cyberamic)]                                    | N/A           | Unknown/Destroyed |
-| [Singing Flowers (Cyberamic)]        | N/A           | Unknown/Destroyed |
-| [Dolli Dimples (Cabaret)]            | N/A           | Unknown/Destroyed |
-| [The King / King Kat (Lounge)]         | N/A           | Unknown/Destroyed |
-| [Wink (Cyberamic)]                   | N/A           | In store.         |

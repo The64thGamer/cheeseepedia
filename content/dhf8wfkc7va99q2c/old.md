@@ -4,11 +4,6 @@
 
 Bloomfield opened with a Balcony Stage, which the store would have until its 1984 closure. When the store rebranded into Banjoe's they would keep the Balcony Stage setup, retrofitting the show to have original characters and backdrops.
 
-| Stage                                              | Installed   | Removed     | Notes                                                            |
-|----------------------------------------------------|-------------|-------------|------------------------------------------------------------------|
-| [Balcony Stage] | August 1983 | August 1984 | 5th Chuck E. Cheese's location in Connecticut.                   |
-| Retrofitted Balcony                                | 1984/1985   | July 1987   | Retrofitted during it's time as Banjoe's Family Pizza Playhouse. |
-
 ## History
 
 ### Pre-CEC
@@ -26,20 +21,6 @@ While most references to Chuck E. Cheese and Pizza Time Theatre were removed, as
 ### Post Banjoe's
 
 The building would remain vacant again for a few years until it became a bank. The bank stayed in operation until it would close in 2018/19. As of April 2024, the building is vacant once again. It is unknown what will happen to the empty building.
-
-## Animatronics
-
-| Animatronics                                                                | Manufacturing Date | Status                                      |
-|-----------------------------------------------------------------------------|--------------------|---------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)] (Ted E. Bear)          | 1983               | Unknown                                     |
-| [Guest Star / Helen Henny (Cyberamic)] (Polly Parton) | 1983               | Unknown                                     |
-| [Mr. Munch (Cyberamic)] (Corporal Crunch)            | 1983               | Unknown                                     |
-| [Jasper T. Jowls (Cyberamic)] (Banjoe)               | 1983               | Unknown                                     |
-| [Pasqually (Cyberamic)] (Sergeant Pepperoni)        | 1983               | Unknown                                     |
-| [Warblettes (Cyberamic)]                            | 1983               | Owned by the American Treasure Tour Museum. |
-| [Clapper Board (Cyberamic)]                                                   | 1983               | Unknown                                     |
-| [Drum Board (Cyberamic)]                            | 1983               | Unknown                                     |
-| [Flag Wavers (Cyberamic)]                           | 1983               | Unknown                                     |
 
 ## Videos
 

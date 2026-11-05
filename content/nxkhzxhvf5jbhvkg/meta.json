@@ -76,12 +76,14 @@
     {
       "n": "Chuck E.'s House (Rocker Stage)",
       "s": "1990-10-12",
-      "e": "1994-00-00"
+      "e": "1994-00-00",
+      "desc": "One of the last installed. Animatronics from an unknown Pizza Time Theatre that opened in 1981. One of two installed in New England."
     },
     {
       "n": "1-Stage",
       "s": "1994-00-00",
-      "e": "1994-11-19"
+      "e": "1994-11-19",
+      "desc": "One of 7 1-Stages in New England; one of two in the region with Turntable."
     }
   ],
   "downloadLinks": [],

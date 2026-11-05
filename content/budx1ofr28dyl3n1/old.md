@@ -7,10 +7,3 @@ Mississauga (Argentia) opened on January 12th, 2006 as the 22nd Chuck E. Cheese 
 ## Stages
 
 Mississauga (Argentia) opened with the Studio C Beta, 16m in January 2006. The Studio C Beta was removed with the 2.0 Remodel in April 2023, and replaced with the 2021 Model Dance Floor and Video Wall.
-
-## Animatronics
-
-| Animatronic                         | Serial | Whereabouts |
-|-------------------------------------|--------|-------------|
-| Studio C Beta\|Chuck E. Cheese, 16m | N/A    | Destroyed.  |
-| Pizza Time Clock                    | N/A    | Destroyed.  |

@@ -1,44 +1,142 @@
 {
-    "title": "Joliet, IL (1965 W Jefferson St)",
-    "storeNumber": "",
-    "startDate": "1983-07-13",
-    "endDate": "2007-01-00",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "0000-00-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1983-07-13"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1983-07-13",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "0000-00-00",
-            "e": "2007-01-00",
-            "desc": "One of 10 3-Stages in Illinois to undergo Concept Unification. Animatronics sent to Mishawaka, IN (822 W McKinley Ave) after stage removal and store closure in 2007."
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.52122432",
-        "-88.12775883"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "K4HtaY29SVPIsIrLB1RW.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Joliet, IL (1965 W Jefferson St)",
+  "storeNumber": "",
+  "startDate": "1983-07-13",
+  "endDate": "2007-01-00",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1983-07-13"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-07-13",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "0000-00-00",
+      "e": "2007-01-00",
+      "desc": "One of 10 3-Stages in Illinois to undergo Concept Unification. Animatronics sent to Mishawaka, IN (822 W McKinley Ave) after stage removal and store closure in 2007."
+    },
+    {
+      "n": "The Rock-afire Explosion",
+      "s": "1983-07-00",
+      "e": "0000-00-00",
+      "desc": "One of the last SPPs in Illinois to open."
+    },
+    {
+      "n": "3-Stage",
+      "s": "0000-00-00",
+      "e": "2007-01-00",
+      "desc": "Show sent to Mishawaka, Indiana after closure."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.52122432",
+    "-88.12775883"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "K4HtaY29SVPIsIrLB1RW.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese / Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-82 1-23",
+      "desc": "Owned by Doc Ferdifer."
+    },
+    {
+      "n": "Pasqually the Chef / Dook Larue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-82 2-23",
+      "desc": "Unknown where the bot went after the fire."
+    },
+    {
+      "n": "Mr. Munch / Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-82 3-23",
+      "desc": "Unknown where the bot went after the fire."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-82 4-23",
+      "desc": "Later used at Mishawaka, IN (822 W McKinley Ave) after the Joliet fire, now Owned by Private Collector after the Mishawaka fire."
+    },
+    {
+      "n": "Helen Henny / Mitzi Mozzarella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-82 5-23",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-82 6-23",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-82 7-23",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Munch Jr./Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-82 8-23",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Building/Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-82 10-23",
+      "desc": "Unknown, possibly not sent to Mishawaka"
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-82 11-23",
+      "desc": "Unknown, possibly not sent to Mishawaka"
+    },
+    {
+      "n": "Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown, not sent to Mishawaka"
+    }
+  ]
 }

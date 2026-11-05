@@ -3,15 +3,3 @@
 ## Stages
 
 Elk Grove opened with a Studio C Beta, 16M, being the last location in The USA to open with this stage. Not much changed throughout the stage's history. The only major change was on September 19th, 2022, when Studio C ceased programming. Elk Grove's stage was removed in January 2024.
-
-| Stage                                                                                             | Installed    | Removed      | Notes                                                            |
-|---------------------------------------------------------------------------------------------------|--------------|--------------|------------------------------------------------------------------|
-| [Studio C Beta], 16M                                                      | June 2012    | January 2024 | Last location to open with a Studio C Beta in the United States. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | January 2024 | Still in Use |                                                                  |
-
-## Animatronics
-
-| Animatronic                                                | Manufacturing Date | Wheareabouts            |
-|------------------------------------------------------------|--------------------|-------------------------|
-| [Chuck E Cheese 16m (Animatronic)] | 2011-2012          | Saved/Private Collector |
-| Pizza Time Clock                                           | 2012               | Saved/Private Collector |

@@ -14,21 +14,6 @@ The store would open in Summer of 1980, being franchised by Roy Taylor and Scott
 |-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|--------------|
 | [link](https://ia800303.us.archive.org/21/items/paintingbynumbers/paintingbynumbersreel2.mp4) | BBC Paint By Numbers documentary. 6 minutes in features entire location and interview with Nolan Bushnell. | 1981         |
 
-## Animatronics
-
-| Animatronic                                                  | Whereabouts |
-|--------------------------------------------------------------|-------------|
-| [Mr. Munch (Cyberamic)]               | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown     |
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown     |
-| [Warblettes (Cyberamic)]             | Unknown     |
-| [Flag Wavers (Cyberamic)]                                     | Unknown     |
-| [Applause Board (Cyberamic)]         | Unknown     |
-| [Drum Board (Cyberamic)]             | Unknown     |
-| [The King / King Kat (Lounge)]         | Unknown     |
-
 ## Walkarounds
 
 | Head                                                      | Whereabouts |

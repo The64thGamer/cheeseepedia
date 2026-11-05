@@ -1,38 +1,59 @@
 {
-    "title": "West Palm Beach, FL (2471 Okeechobee Blvd)",
-    "storeNumber": "",
-    "startDate": "2013-12-26",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2013-12-26"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Circles of Light",
-            "s": "2013-12-26",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Circles of Light",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "26.70633907",
-        "-80.09052248"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "7Cs_D7pB1FyP66M81dni.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "West Palm Beach, FL (2471 Okeechobee Blvd)",
+  "storeNumber": "",
+  "startDate": "2013-12-26",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2013-12-26"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Circles of Light",
+      "s": "2013-12-26",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Circles of Light",
+      "s": "2022-03-00"
+    },
+    {
+      "n": "Circles of Light, 32M",
+      "s": "2013-12-00",
+      "e": "2022-03-00",
+      "desc": "Bot removed for 2.0. Bot came from South Portland, Maine"
+    },
+    {
+      "n": "Dance Floor",
+      "s": "2022-03-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "26.70633907",
+    "-80.09052248"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "7Cs_D7pB1FyP66M81dni.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    }
+  ]
 }

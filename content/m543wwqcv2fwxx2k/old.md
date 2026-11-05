@@ -10,19 +10,6 @@ On March 1st, 2010, a Chuck E. Cheese's would open in the Airport Plaza. This st
 
 After the store permanently closed, the bot was sent to [Wilmington, NC (4389 Oleander Dr)], but remained in storage, as the store never ended up using it. The building remained vacant for a year or two, until a Bev-Max opened in the former space. Later on, a SportClips opened in the space. Both remain open to this day.
 
-## Stages
-
-| Stage         | Installed  | Removed     | Notes                                                                                                                                                                                |
-|---------------|------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Studio C Beta | March 2010 | August 2013 | One of three Studio C Betas installed in Connecticut (One of two 16Ms in the state). Was known for being in extremely bad condition. Sent to Wilmington, NC, unused, then destroyed. |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts                                                                                      |
-|------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A           | Sent to Wilmington, NC, unused. Destroyed after Wilmington's closure.                            |
-| [Pizza Time Clock (Animatronic)]   | N/A           | Sent to Wilmington, NC, unused. After Wilmington's closure, it was saved by a Private Collector. |
-
 ## Videos
 
 | Link                                        | Filming Date      | Notes                                                                                                                                                                                                                                                                                                     |

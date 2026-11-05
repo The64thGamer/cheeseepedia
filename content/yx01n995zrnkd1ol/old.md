@@ -8,23 +8,4 @@ Champaign opened in 1984 with a [Balcony Stage]. However, almost nothing is know
 
 The [Balcony Stage] was kept up until 1989, when they retrofitted it to [Chuck E.'s House Facade (C-Stage)]. The stage would only last a year, as they would close in December 1990.
 
-| Stage                                              | Installed | Removed       | Notes                                              |
-|----------------------------------------------------|-----------|---------------|----------------------------------------------------|
-| [Balcony Stage] | 1984      | 1989          | Last Balcony Stage installed in Illinois.          |
-| [Chuck E.'s House Facade (C-Stage)]   | 1989      | December 1990 | First C-Stage to be removed. One of 3 in Illinois. |
-
 The store would have most likely opened with Helen Henny as a guest star, and a King Cyberamic in the Lounge.
-
-| Character                                                    | Status              |
-|--------------------------------------------------------------|---------------------|
-| [Chuck E. Cheese (Cyberamic)]         | Unknown / Destroyed |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown / Destroyed |
-| [Mr. Munch (Cyberamic)]               | Unknown / Destroyed |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown / Destroyed |
-| [Pasqually (Cyberamic)]              | Unknown / Destroyed |
-| [Warblettes (Cyberamic)]             | Unknown / Destroyed |
-| [Flag Wavers (Cyberamic)]                                     | Unknown / Destroyed |
-| [Applause Board (Cyberamic)]         | Unknown / Destroyed |
-| [Drum Board (Cyberamic)]             | Unknown / Destroyed |
-| [Singing Flowers (Cyberamic)]        | Unknown / Destroyed |
-| [The King / King Kat (Lounge)]         | Unknown / Destroyed |

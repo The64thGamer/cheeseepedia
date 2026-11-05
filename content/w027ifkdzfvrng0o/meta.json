@@ -1,53 +1,104 @@
 {
-    "title": "Ellisville, MO (15913 Manchester Rd)",
-    "storeNumber": "",
-    "startDate": "1990-08-21",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1980's Remodel Program",
-            "s": "1990-08-21"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "0000-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Chuck E.'s House (Rocker Stage)",
-            "s": "1990-08-21",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "1-Stage",
-            "s": "1994-00-00",
-            "e": "2005-00-00",
-            "desc": "1-Stage w/ Turntable"
-        },
-        {
-            "n": "Studio C Cappa",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "38.59271132",
-        "-90.58984683"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "KQstDsSfq7J1dgoPEx80.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Ellisville, MO (15913 Manchester Rd)",
+  "storeNumber": "",
+  "startDate": "1990-08-21",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-08-21"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "0000-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Chuck E.'s House (Rocker Stage)",
+      "s": "1990-08-21",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "1-Stage",
+      "s": "1994-00-00",
+      "e": "2005-00-00",
+      "desc": "1-Stage w/ Turntable"
+    },
+    {
+      "n": "Studio C Cappa",
+      "s": "0000-00-00",
+      "e": "2023-10-10",
+      "desc": "3rd Generation Cappa"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Rocker Stage",
+      "s": "1990-08-00",
+      "e": "1994-00-00",
+      "desc": "First Chuck E. Cheese to open in Missouri after merger."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.59271132",
+    "-90.58984683"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "KQstDsSfq7J1dgoPEx80.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1980s",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1980s",
+      "desc": "Unknown/Destroyed. Bracelet/corsage sent to Fairview Heights, IL."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1980s",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1980s",
+      "desc": "Unknown/Destroyed. Mask sent to Fairview Heights, IL."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1980s",
+      "desc": "Unknown/Destroyed. Mask possibly sent to Fairview Heights, IL."
+    },
+    {
+      "n": "Chuck E. Cheese, 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Early 2000s",
+      "desc": "Destroyed"
+    }
+  ]
 }

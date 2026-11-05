@@ -1,34 +1,119 @@
 {
-    "title": "Shawnee, KS (12280 Shawnee Mission)",
-    "storeNumber": "",
-    "startDate": "1981-08-19",
-    "endDate": "1985-10-13",
-    "remodels": [
-        {
-            "n": "SPP Standard Layout",
-            "s": "1981-08-19"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1981-08-19",
-            "e": "1985-10-13"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "38.970923",
-        "-94.9094629"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "CHCm0gqIc9kHmJDAoVJA.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Shawnee, KS (12280 Shawnee Mission)",
+  "storeNumber": "",
+  "startDate": "1981-08-19",
+  "endDate": "1985-10-13",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1981-08-19"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-08-19",
+      "e": "1985-10-13"
+    },
+    {
+      "n": "The Rock-afire Explosion",
+      "s": "1981-08-00",
+      "e": "1985-10-00",
+      "desc": "Second SPP in Kansas."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.970923",
+    "-94.9094629"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "CHCm0gqIc9kHmJDAoVJA.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 1-8",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dook Larue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 2-8",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 3-8",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 4-8",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mitzi Mozzarella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 5-8",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 6-8",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 7-8",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 8-8",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 10-8",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 11-8",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

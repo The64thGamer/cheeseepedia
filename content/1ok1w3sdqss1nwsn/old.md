@@ -14,10 +14,3 @@ South Portland's CEC opened on December 17th, 2002, as an outparcel, or separate
 |---------------------------------------------|---------------------------------------------------|--------------------------|
 | https://www.youtube.com/watch?v=Lzi-9oLKn78 | Chuck E. Cheese's closing South Portland location | December 11, 2012        |
 |                                             |                                                   |                          |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts                                                     |
-|------------------------------------------------------------|---------------|-----------------------------------------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | ???           | Sent to West Palm Beach, FL. Removed in 2022, likely destroyed. |
-| [Pizza Time Clock (Animatronic)]   | ???           | Unknown                                                         |

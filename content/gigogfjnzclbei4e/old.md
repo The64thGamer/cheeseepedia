@@ -15,15 +15,3 @@ In 1981, After PTT went public, plans were made to develop international locatio
 ## Arcade Machines
 
 TODO: Add a list of every confirmed arcade &amp; ride used at the store.
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts | Notes                   |
-|--------------------------------------------------------------|--------------------|-------------|-------------------------|
-| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown     |                         |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown     | Madame Oink Cosmetics.  |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown     |                         |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown     |                         |
-| [Pasqually (Cyberamic)]              | Unknown            | Unknown     | Had Portrait Mechanics. |
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown     |                         |
-| [Dolli Dimples (Cabaret)]            | Unknown            | Unknown     |                         |

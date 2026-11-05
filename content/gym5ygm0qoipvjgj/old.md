@@ -8,30 +8,6 @@ Visalia opened May 2, 1983 as ShowBiz Pizza Place in the Mineral King Plaza, The
 
 Originally when the store opened, they had a [Classic Stage], as all other ShowBiz locations had. In around 1991, the store would undergo Concept Unification, turning the RAE into [Concept Unification Stage (3-Stage)]. In 2004(2), Chuck's Tux &amp; Derby were replaced with the Cool Chuck outfit &amp; also received 3-Stage Jasper shoes; Not long after, Moon and Pizzacam were removed. Chuck's cap was removed in September 2013. On February 4, 2024, the 3-Stage was removed.
 
-| Stage                                                      | Installed     | Removed          | Notes                                                                                                                                                                                                                                                                                        |
-|------------------------------------------------------------|---------------|------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Classic Stage]                    | April 1983    | 1991             | 9th ShowBiz Pizza Store to open in California.                                                                                                                                                                                                                                               |
-| [Concept Unification Stage (3-Stage)]        | 1991          | February 4, 2024 | One of 8 ShowBiz Pizza Stores in California to undergo Concept Unification (Fullerton opened as a new store with the stage undergoing Concept Unification while the store was under construction). Last 3-Stage in California. 3-Stage was thrown away, rather than being sent to corporate. |
-| [Chuck E Live Stage (Dance Floor)] | February 2024 | Still in Use     | 2019 Model                                                                                                                                                                                                                                                                                   |
-| [Video Wall]                       | February 2024 | Still in Use     | 2021 Model                                                                                                                                                                                                                                                                                   |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                                        |
-|---------------------------------------------------------------------------|---------------|----------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-82 1-10     | Destroyed / Thrown Away                            |
-| [Dook Larue (Animatronic)]                        | 4-82 2-10     | Destroyed / Thrown Away, hand owned by ItzaRob.(3) |
-| [Fatz Geronimo (Animatronic)]                     | 4-82 3-10     | Destroyed / Thrown Away                            |
-| [Beach Bear (Animatronic)]                        | 4-82 4-10     | Destroyed / Thrown Away                            |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-82 5-10     | Destroyed / Thrown Away                            |
-| [Billy Bob (Animatronic)]                         | 4-82 6-10     | Destroyed / Unknown                                |
-| [Looney Bird (Animatronic)]                       | 4-82 7-10     | Unknown                                            |
-| [Choo Choo (Animatronic)]                         | 4-82 8-10     | Unknown                                            |
-| [Sun (Animatronic)]                               | 4-82 10-10    | Unknown                                            |
-| [Moon (Animatronic)]                              | 4-82 11-10    | Unknown                                            |
-| [Antioch (Animatronic)]                           | N/A           | Destroyed / Unknown                                |
-| [Wink]                                            | N/A           | Destroyed / Thrown Away                            |
-
 ## Videos
 
 | Link                                                        | Description                                                                                                                          | Footage Date          | Upload Date       |

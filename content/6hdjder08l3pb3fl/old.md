@@ -8,19 +8,6 @@ Fredericksburg originally opened on September 4th, 1999, with a Studio C Alpha. 
 
 Originally when the store opened, they had a Studio C Alpha, they would have it until they closed. When they reopened in July 2021, they remodeled to 2.0 and got the 2021 Model of Dance Floor and Video Wall. As of July 2023, they still have the 2.0 Remodel and Dance Floor and Video Wall.
 
-| Stage                                                                                             | Installed   | Removed      | Note                                    |
-|---------------------------------------------------------------------------------------------------|-------------|--------------|-----------------------------------------|
-| [Studio C Alpha]                                                          | August 1999 | May 2020     | Store Closed in May 2020.               |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | July 2021   | Still In Use | Store Reopened in July 2021. 2021 Model |
-
-## Animatronics
-
-| Animatronic                    | Serial Number | Whereabouts |
-|--------------------------------|---------------|-------------|
-| Chuck E. Cheese 32m (Studio C) | Unknown       | Destroyed   |
-| Bird (Studio C)                | N/A           | Destroyed   |
-| Pizza Phone (Studio C)         | N/A           | Destroyed   |
-
 ## Videos\\Footage
 
 TODO

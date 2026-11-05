@@ -6,20 +6,7 @@ San Bernardino opened its doors on June 27, 2003 with a Studio C. Beta show. Jus
 
 ## Stages
 
-San Bernardino (Hospitality) opened with a Studio C Beta and has remained ever since its opening. The Studio C Beta likely had a Cool Chuck outfit on its opening, but unfortunately, no photos or videos exist of the figure in its outfit. The animatronic would receive a cosmetic upgrade, using the 2005 remodel outfit. Another cosmetic upgrade came in in 2014, phasing out the Avenger Chuck outfit with a new Rockstar Chuck outfit. The Studio C Beta was removed in January 2024 with the [Chuck E Live Stage (Dance Floor)].
-
-| Stage                                                      | Installed     | Removed      | Notes                                                      |
-|------------------------------------------------------------|---------------|--------------|------------------------------------------------------------|
-| [Studio C Beta]                    | June 27, 2003 | January 2024 | In poor condition, animatronic disabled some time in 2022. |
-| [Chuck E Live Stage (Dance Floor)] | January 2024  | Still In Use | Unknown Model                                              |
-| [Video Wall]                       | January 2024  | Still In Use | Unknown Model                                              |
-
-## Animatronics
-
-| Animatronic                                                | Manufacturing Date | Whereabouts       |
-|------------------------------------------------------------|--------------------|-------------------|
-| [Chuck E Cheese 16m (Animatronic)] | Unknown            | Unknown/Destroyed |
-| [Pizza Time Clock (Animatronic)]   | Unknown            | Unknown/Destroyed |
+San Bernardino (Hospitality) opened with a Studio C Beta and has remained ever since its opening. The Studio C Beta likely had a Cool Chuck outfit on its opening, but unfortunately, no photos or videos exist of the figure in its outfit. The animatronic would receive a cosmetic upgrade, using the 2005 remodel outfit. Another cosmetic upgrade came in in 2014, phasing out the Avenger Chuck outfit with a new Rockstar Chuck outfit. The Studio C Beta was removed in January 2024 with the [Chuck E. Live Stage (Dance Floor)].
 
 ## Videos
 

@@ -7,17 +7,3 @@ Bakersfield opened with a [Balcony Stage]. Not much is known about this stage, a
 ## History
 
 Bakersfield opened in December 1981 (day unknown) with a [Balcony Stage]. This predated the Bakersfield SPP by 11 months. Nothing is known about this location at all, however. The store would close in 1984 (month and day unknown) due to underperformance. As of today, the store is now part of a TJMaxx.
-
-## Animatronics
-
-| Animatronic                                                  | Serial Number | Whereabouts |
-|--------------------------------------------------------------|---------------|-------------|
-| [Mr. Munch (Cyberamic)]               | Unknown       | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown     |
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown       | Unknown     |
-| [Warblettes (Cyberamic)]             | Unknown       | Unknown     |
-| [Flag Wavers (Cyberamic)]                                     | Unknown       | Unknown     |
-| [Applause Board (Cyberamic)]         | Unknown       | Unknown     |
-| [Drum Board (Cyberamic)]             | Unknown       | Unknown     |

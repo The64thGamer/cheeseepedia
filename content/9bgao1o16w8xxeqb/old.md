@@ -16,9 +16,3 @@ The earliest documentation of this location being developed goes back to Septemb
 | https://youtu.be/yYK8qi-w3-g | 'Share the Joy'              | December 2, 2018  |
 | https://youtu.be/MiAP3GFWt0c | 'Chuck E. Cha Cha' Live Show | February 8, 2020  |
 | https://youtu.be/A04Qi4FJmGo | Store Tour                   | February 15, 2020 |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts       |
-|------------------------------------------------------------|--------|-------------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A    | Unknown/Destroyed |

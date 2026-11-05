@@ -7,30 +7,3 @@ Dearborn opened on December 21st, 1982 as the 8th ShowBiz Pizza store in Michiga
 ## Stages
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations had. In around 1991, Dearborn would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. In April 2015, the 3-Stage was removed for the Alpha from Plano, TX. The stage would then be removed in August 2023.
-
-| Stage                                                      | Installed     | Removed     | Notes                                                           |
-|------------------------------------------------------------|---------------|-------------|-----------------------------------------------------------------|
-| Rock-Afire Explosion                                       | December 1982 | 1991        | 8th ShowBiz Pizza store opened in Michigan                      |
-| 3-Stage                                                    | 1991          | May 2015    | One of 6 Michigan ShowBiz stores to undergo Concept Unification |
-| Studio C Alpha                                             | May 2015      | August 2023 | Stage from Plano, TX                                            |
-| [Chuck E Live Stage (Dance Floor)] | August 2023   | In Use      |                                                                 |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                                                                               |
-|---------------------------------------------------------------------------|---------------|-------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-82 1-20     | Unknown/Destroyed                                                                         |
-| [Dook Larue (Animatronic)]                        | 4-82 2-20     | Unknown/Destroyed                                                                         |
-| [Fatz Geronimo (Animatronic)]                     | 4-82 3-20     | Unknown/Destroyed                                                                         |
-| [Beach Bear (Animatronic)]                        | 4-82 4-20     | Unknown/Destroyed                                                                         |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-82 5-20     | Unknown/Destroyed                                                                         |
-| [Billy Bob (Animatronic)]                         | 4-82 6-20     | Unknown/Destroyed                                                                         |
-| [Looney Bird (Animatronic)]                       | 4-82 7-20     | Unknown/Destroyed                                                                         |
-| [Choo Choo (Animatronic)]                         | 4-82 8-20     | Unknown/Destroyed                                                                         |
-| [Sun (Animatronic)]                               | 4-82 10-20    | Unknown/Destroyed                                                                         |
-| [Moon (Animatronic)]                              | 4-82 11-20    | Unknown/Destroyed                                                                         |
-| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed                                                                         |
-| [Wink]                                            | N/A           | Unknown/Destroyed.                                                                        |
-| [Chuck E Cheese 32m (Animatronic)]                | 006           | Unknown/Destroyed. Originally from [Plano, TX (1604 Preston Rd)]. |
-| [Bird (Animatronic)]                              | N/A           | Unknown/Destroyed. Originally from [Plano, TX (1604 Preston Rd)]. |
-| [Pizza Phone (Animatronic)]                       | N/A           | Unknown/Destroyed. Originally from [Plano, TX (1604 Preston Rd)]. |

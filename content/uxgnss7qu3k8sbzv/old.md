@@ -4,20 +4,6 @@
 
 Fresno (Blackstone) opened on September 24th, 2002 in a freestanding building in the Villaggio Shopping Center with a Studio C Beta, 32m. They opened with the 1990s Major Remodel with the [Phase 3 (2000)] game package. The store would remain this way until around 2013/2014 when they would remodel to the 2013 update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative which involved the removal of the 1990s Decor, Must C TV posters, and dim lighting, adding purple walls, bright florescent lighting. In February 2024, they received the 2.0 Remodel, which included a Video Wall, Interactive Dance Floor, repainting of all walls to white, new 2.0 Artwork, the 2.0 Game Package, and an exterior remodel.
 
-## Stages
-
-| Stage                                                                                             | Installed      | Removed       | Notes                                |
-|---------------------------------------------------------------------------------------------------|----------------|---------------|--------------------------------------|
-| Studio C Beta, 32m                                                                                | September 2002 | February 2024 | One of many installed in California. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | February 2024  | Still in Use  | 2021 Model                           |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts       |
-|------------------------------------------------------------|---------------|-------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 1??           | Unknown/Destroyed |
-| [Pizza Time Clock (Animatronic)]   | N/A           | Unknown/Destroyed |
-
 ## Videos
 
 | Link                                                     | Description | Filming Date |

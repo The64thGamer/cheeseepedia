@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1979-10-00",
   "endDate": "1998-00-00",
-  
   "remodels": [
     {
       "n": "PTT Standard Layout",
@@ -39,6 +38,17 @@
       "s": "1993-00-00",
       "e": "1998-12-00",
       "desc": "One of many installed in California."
+    },
+    {
+      "n": "Portrait Stage",
+      "s": "1979-10-00",
+      "e": "0000-00-00",
+      "desc": "6th Chuck E. Cheese to open ever."
+    },
+    {
+      "n": "Balcony Stage",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
     }
   ],
   "franchisees": [],
@@ -240,6 +250,20 @@
       "e": "0000-00-00",
       "l": "N/A",
       "desc": "Unknown"
+    },
+    {
+      "n": "Dolli Dimples (Cabaret)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
     }
   ],
   "downloadLinks": [],

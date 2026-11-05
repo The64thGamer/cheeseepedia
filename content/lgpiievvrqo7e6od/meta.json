@@ -1,35 +1,79 @@
 {
-    "title": "Natick, MA (801 Worcester St)",
-    "storeNumber": "",
-    "startDate": "1992-11-17",
-    "endDate": "2020-05-06",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1992-11-17"
-        }
-    ],
-    "stages": [
-        {
-            "n": "2-Stage",
-            "s": "1992-11-00",
-            "e": "2020-05-00",
-            "desc": "One of 5 installed in Massachusetts."
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "42.29968542",
-        "-71.35701703"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "Y4gbxNYRy6hudl7ZOag8.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Natick, MA (801 Worcester St)",
+  "storeNumber": "",
+  "startDate": "1992-11-17",
+  "endDate": "2020-05-06",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1992-11-17"
+    }
+  ],
+  "stages": [
+    {
+      "n": "2-Stage",
+      "s": "1992-11-00",
+      "e": "2020-05-00",
+      "desc": "One of 5 installed in Massachusetts."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.29968542",
+    "-71.35701703"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Y4gbxNYRy6hudl7ZOag8.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Thrown into a trash compactor, destroyed"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Thrown into a trash compactor, destroyed"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Thrown into a trash compactor, destroyed"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Thrown into a trash compactor, destroyed"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Thrown into a trash compactor, destroyed"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    }
+  ]
 }

@@ -8,29 +8,7 @@ Bell opened sometime in 1982. Unfortunately, there is hardly any information whe
 
 Bell opened with the Balcony Stage in 1982. Fortunately, there are a lot of photos and videos to exist of Bell. Unfortunately, however, they do not start filming until they are inside. So, the original exterior of Bell as a PTT is lost.
 
-| Stage                                                                                             | Installed    | Removed      | Notes                                                                                                                                       |
-|---------------------------------------------------------------------------------------------------|--------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| [Balcony Stage]                                                | 1982         | 1989/1990    | One of many in Caifornia.                                                                                                                   |
-| [Chuck E.'s House Facade (C-Stage)]                                                  | 1989/1990    | 1993/1994    | One of many in Caifornia. Looked identical to the one installed at the [Torrance, CA (16920 Prairie Ave)] location. |
-| [2-Stage]                                                                 | 1993/1994    | October 2023 | One of many installed in California.                                                                                                        |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | October 2023 | Still in Use | One of many installed in California.                                                                                                        |
-
 ## Animatronics
-
-| Character                                                    | Manufacturing Date | Status   |
-|--------------------------------------------------------------|--------------------|----------|
-| [Chuck E. Cheese (Cyberamic)]                                   | 1981/1982          | Unknown. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1981/1982          | Unknown. |
-| [Mr. Munch (Cyberamic)]               | 1981/1982          | Unknown. |
-| [Jasper T. Jowls (Cyberamic)]         | 1981/1982          | Unknown. |
-| [Pasqually (Cyberamic)]              | 1981/1982          | Unknown. |
-| [Warblettes (Cyberamic)]             | 1981/1982          | Unknown. |
-| [Flag Wavers (Cyberamic)]                                     | 1981/1982          | Unknown. |
-| [Applause Board (Cyberamic)]         | 1981/1982          | Unknown. |
-| [Drum Board (Cyberamic)]             | 1981/1982          | Unknown. |
-| [Singing Flowers (Cyberamic)]        | 1981/1982          | Unknown. |
-| [The King / King Kat (Lounge)]         | 1981/1982          | Unknown. |
-| [Wink (Cyberamic)]                   | 1981/1982          | Unknown. |
 
 [2007](https://www.showbizpizza.com/photos/cec/ca_bell/index.html)
 

@@ -2,14 +2,7 @@
 
 ## Stages
 
-This location housed The Rock-Afire Explosion until May 1991, when the show was retrofitted into Munch's Make Believe Band. Sometime around 1993, the 3-Stage was beyond repair, however a new hire, Brian Hagan, was hired as a technician and majorly improved the decrepit condition the show was in. Brian was employed at the location until being contacted by ShowBiz Pizza Time in 1996 and relocating to Dallas, Texas(1). The reason for his departure was because of the many improvements he'd made to his district, notably customizing Mobile's stage setup three times throughout 1995 and 1996. The first of these customizations was the Vegas Stage (Mobile, AL)|Vegas Stage. At first, it was small quality-of-life improvements and making the show look better. Later on, it became its own concept. Afterward was a Winter Stage (Mobile, AL)|Winter Stage retrofit Brian also made use of Antioch's tolomatic lift, children's toys, and customized a tuxedo for Chuck E. Cheese for the Playroom Stage (Mobile, AL)|Playroom Stage. In 1992, the Playroom Stage retrofit began being retrofitted back into the standard 3-Stage look but with some things being untouched like Pasqually's position, Jasper's can, and Chuck E's base. All of the characters' outfits were also reverted. The backdrops were sourced from SPT, the store's originals having been thrown away rather than stored. At an unknown point after 2002, Chuck E's base was replaced with the regular black one. By 2010, the tuxedo on Chuck E. was finally replaced with the new 'Avenger' outfit. In April 2012 Snapper Ard does maintenance on the show and later sold off the prop characters.(2) The animatronics started to fall into disrepair shortly after his departure but was able to be recovered in 2016, around the same time they gave Chuck E. the 'Rockstar' shirt. The Cyberstar (disambiguation)|Cyberstar broke shortly before the 3-Stage was removed in October 2019, making the location to have the first [Chuck E Live Stage (Dance Floor)] installed in Alabama. The showroom would be called mediocre by many due to only having the art of Chuck E. Cheese and Helen Henny in the area and then having two screens between. This would finally be changed sometime in June 2023 when the store received the [Video Wall].
-
-| Stage                | installed     | Removed       |
-|----------------------|---------------|---------------|
-| Rock-Afire Explosion | February 1982 | May 1991      |
-| 3-Stage              | May 1991      | October 2019  |
-| Dance Floor          | October 2019  | Still in use. |
-| Video Wall           | June 2023     | Still in use. |
+This location housed The Rock-Afire Explosion until May 1991, when the show was retrofitted into Munch's Make Believe Band. Sometime around 1993, the 3-Stage was beyond repair, however a new hire, Brian Hagan, was hired as a technician and majorly improved the decrepit condition the show was in. Brian was employed at the location until being contacted by ShowBiz Pizza Time in 1996 and relocating to Dallas, Texas(1). The reason for his departure was because of the many improvements he'd made to his district, notably customizing Mobile's stage setup three times throughout 1995 and 1996. The first of these customizations was the Vegas Stage (Mobile, AL)|Vegas Stage. At first, it was small quality-of-life improvements and making the show look better. Later on, it became its own concept. Afterward was a Winter Stage (Mobile, AL)|Winter Stage retrofit Brian also made use of Antioch's tolomatic lift, children's toys, and customized a tuxedo for Chuck E. Cheese for the Playroom Stage (Mobile, AL)|Playroom Stage. In 1992, the Playroom Stage retrofit began being retrofitted back into the standard 3-Stage look but with some things being untouched like Pasqually's position, Jasper's can, and Chuck E's base. All of the characters' outfits were also reverted. The backdrops were sourced from SPT, the store's originals having been thrown away rather than stored. At an unknown point after 2002, Chuck E's base was replaced with the regular black one. By 2010, the tuxedo on Chuck E. was finally replaced with the new 'Avenger' outfit. In April 2012 Snapper Ard does maintenance on the show and later sold off the prop characters.(2) The animatronics started to fall into disrepair shortly after his departure but was able to be recovered in 2016, around the same time they gave Chuck E. the 'Rockstar' shirt. The Cyberstar (disambiguation)|Cyberstar broke shortly before the 3-Stage was removed in October 2019, making the location to have the first [Chuck E. Live Stage (Dance Floor)] installed in Alabama. The showroom would be called mediocre by many due to only having the art of Chuck E. Cheese and Helen Henny in the area and then having two screens between. This would finally be changed sometime in June 2023 when the store received the [Video Wall].
 
 ## History
 
@@ -40,23 +33,6 @@ On July 22, a fire allegedly started in the building.(3)
 | [link](https://www.youtube.com/watch?v=AV9DN9tLWzM) | Winter Stage              | 1995         |
 | [link](https://www.youtube.com/watch?v=ho-zMfBCH0k) | Playroom Set              | 1996         |
 | [link](https://www.youtube.com/watch?v=_m44Y44S2lk) | Together We Got It (2017) | 2017         |
-
-## Animatronics
-
-| Animatronic                                                               | Serial    | Whereabouts         |
-|---------------------------------------------------------------------------|-----------|---------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-81 1-5  | Destroyed           |
-| [Dook Larue (Animatronic)]                        | 7-81 2-5  | Destroyed           |
-| [Fatz Geronimo (Animatronic)]                     | 7-81 3-5  | Destroyed           |
-| [Beach Bear (Animatronic)]                        | 7-81 4-5  | Destroyed           |
-| [Mitzi Mozzarella (Animatronic)]                  | 7-81 5-5  | Destroyed           |
-| [Billy Bob (Animatronic)]                         | 7-81 6-5  | Unknown             |
-| [Looney Bird (Animatronic)]                       | 7-81 7-5  | Sold by Snapper Ard |
-| [Choo Choo (Animatronic)]                         | 7-81 8-5  | Unknown             |
-| [Sun (Animatronic)]                               | 7-81 10-5 | Sold by Snapper Ard |
-| [Moon (Animatronic)]                              | 7-81 11-5 | Sold by Snapper Ard |
-| [Antioch (Animatronic)]                           | N/A       | Unknown             |
-| [Wink]                                            | N/A       | Destroyed           |
 
 ## Walkarounds
 

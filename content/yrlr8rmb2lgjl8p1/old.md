@@ -8,10 +8,6 @@ TODO
 
 As the store is a 2.0, they have a Dance Floor, it is the 2021 Model, and the store also has the Video Wall.
 
-| Stage                                                                   | Installed    | Removed      | Notes      |
-|-------------------------------------------------------------------------|--------------|--------------|------------|
-| [Chuck E Live Stage (Dance Floor)] + Video Wall | October 2021 | Still In Use | 2021 Model |
-
 TODO
 
 ## YouTube Videos

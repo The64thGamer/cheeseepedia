@@ -8,27 +8,7 @@ Owensboro opened on October 6th, 1985 as a franchised ShowBiz Pizza Place with a
 
 Originally when the store opened, they had a Rock-Afire Explosion. Unfortunately, there are exterior and interior photos as a ShowBiz Pizza, but there are no photos of the exterior or interior as Chuck E. Cheese and there was one video of Owensboro's 3-Stage, but it was lost as it came from a deleted Instagram account. In 1991, they received Concept Unification which turned the Rock-afire Explosion into Munch's Make Believe Band. The 3-Stage remained until the November 1995 closure.
 
-| Stage                | Installed    | Removed       |
-|----------------------|--------------|---------------|
-| Rock-Afire Explosion | October 1985 | 1991          |
-| 3-Stage              | 1991         | November 1995 |
-
 ## Animatronics
-
-| Animatronic                                                                                       | Serial Number | Whereabouts        |
-|---------------------------------------------------------------------------------------------------|---------------|--------------------|
-| Chuck E. Cheese / Rolfe DeWolfe                                                                   | N/A           | Unknown/Destroyed  |
-| [Pasqually / Dook Larue](https://chuckepedia.com/wiki/Dook_Larue_%28Animatronic%29)               | N/A           | Unknown/Destroyed  |
-| [Mr. Munch / Fatz Geronimo](https://chuckepedia.com/wiki/Fatz_Geronimo_%28Animatronic%29)         | N/A           | Unknown/Destroyed  |
-| [Jasper T. Jowls / Beach Bear](https://chuckepedia.com/wiki/Beach_Bear_%28Animatronic%29)         | N/A           | Unknown/Destroyed  |
-| [Helen Henny / Mitzi Mozzarella](https://chuckepedia.com/wiki/Mitzi_Mozzarella_%28Animatronic%29) | N/A           | Unknown/Destroyed  |
-| [Billy Bob](https://chuckepedia.com/wiki/Billy_Bob_%28Animatronic%29)                             | N/A           | Unknown/Destroyed  |
-| [Pizzacam / Looney Bird](https://chuckepedia.com/wiki/Looney_Bird_%28Animatronic%29)              | N/A           | Unknown/Destroyed  |
-| [Munch Jr. / Choo Choo](https://chuckepedia.com/wiki/Choo_Choo_%28Animatronic%29)                 | N/A           | Unknown/Destroyed  |
-| [Building / Sun](https://chuckepedia.com/wiki/Sun_%28Animatronic%29)                              | N/A           | Unknown/Destroyed  |
-| [Moon](https://chuckepedia.com/wiki/Moon_%28Animatronic%29)                                       | N/A           | Unknown/Destroyed  |
-| [Antioch](https://chuckepedia.com/wiki/Antioch_%28Animatronic%29)                                 | N/A           | Unknown/Destroyed  |
-| [Wink](https://chuckepedia.com/wiki/Wink)                                                         | N/A           | Unknown/Destroyed. |
 
 TODO
 

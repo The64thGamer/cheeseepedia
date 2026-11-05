@@ -8,34 +8,6 @@ Jacksonville (Youngerman) opened December 22nd, 1981, as the 7th ShowBiz Pizza s
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations had. In around 1991, Jacksonville (Youngerman) would undergo Concept Unification, turning the Rock-afire Explosion into Munch's Make-Believe Band. In 1999, the 3-Stage was removed for the Alpha. In 2020, Jacksonville (Youngerman) received 2.0 and the Alpha was removed for the Dance Floor.
 
-| Stage                    | Installed     | Removed      | Notes                                                                              |
-|--------------------------|---------------|--------------|------------------------------------------------------------------------------------|
-| Rock-Afire Explosion     | December 1981 | 1991         | 7th ShowBiz Pizza Store to open in Florida.                                        |
-| 3-Stage                  | 1991          | 1999         | One of 7 ShowBiz locations in Florida to receive Concept Unification.              |
-| Studio C Alpha           | 1999          | 2020         | One of 10 Studio C Alphas In Florida.                                              |
-| Dance Floor + Video Wall | 2020          | Still in use | 2019 Model. One of 7 locations to get 2.0 in 2020 before the COVID Pandemic began. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                   |
-|---------------------------------------------------------------------------|---------------|-------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-16     | Unknown/Destroyed             |
-| [Dook Larue (Animatronic)]                        | 4-81 2-16     | Unknown/Destroyed             |
-| [Fatz Geronimo (Animatronic)]                     | 4-81 3-16     | Unknown/Destroyed             |
-| [Beach Bear (Animatronic)]                        | 4-81 4-16     | Unknown/Destroyed             |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-16     | Unknown/Destroyed             |
-| [Billy Bob (Animatronic)]                         | 4-81 6-16     | Unknown/Destroyed             |
-| [Looney Bird (Animatronic)]                       | 4-81 7-16     | Unknown/Destroyed             |
-| [Choo Choo (Animatronic)]                         | 4-81 8-16     | Unknown/Destroyed             |
-| [Sun (Animatronic)]                               | 4-81 10-16    | Unknown/Destroyed             |
-| [Moon (Animatronic)]                              | 4-81 11-16    | Unknown/Destroyed             |
-| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed             |
-| [Wink]                                            | N/A           | Unknown/Destroyed.            |
-| [Chuck E Cheese 32m (Animatronic)]                | 041           | Owned by a Private Collector. |
-| [Bird (Animatronic)]                              | N/A           | Destroyed.                    |
-| [Pizza Time Clock (Animatronic)]                  | N/A           | Destroyed.                    |
-| [Pizza Phone (Animatronic)]                       | N/A           | Destroyed.                    |
-
 ## Videos
 
 | Link | Description | Footage Date | Upload Date |

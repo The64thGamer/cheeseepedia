@@ -1,43 +1,88 @@
 {
-    "title": "North Bergen, NJ (8101 Tonelle Ave)",
-    "storeNumber": "",
-    "startDate": "1993-12-20",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1993-12-20"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-10-17"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1993-12-20",
-            "e": "2022-10-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-10-17",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "40.80677952",
-        "-74.0197603"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "VUIjS6sC7cWJYRuWRfZa.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "North Bergen, NJ (8101 Tonelle Ave)",
+  "storeNumber": "",
+  "startDate": "1993-12-20",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-12-20"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-10-17"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-12-20",
+      "e": "2022-10-00",
+      "desc": "One of six 1-Stages installed in New Jersey"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-10-17",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.80677952",
+    "-74.0197603"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "VUIjS6sC7cWJYRuWRfZa.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown / Destroyed"
+    }
+  ]
 }

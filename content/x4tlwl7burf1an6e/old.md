@@ -14,14 +14,3 @@ The location's first major known renovation was in 2005, when the showroom was s
 |-----------------------------------------------------|------------------------------------------------------------------|-------------------|
 | [link](https://www.youtube.com/watch?v=--84IhLRuZI) | Footage of Chuck E. March (1993), featuring the 1-Stage show.(4) | November 25, 1995 |
 | [link](https://www.youtube.com/watch?v=HMs8ve9mLCY) | A video depiction of the location's closure.(5)                  | June 19, 2015     |
-
-## Animatronics
-
-| Animatronic                                                  | Serial  | Whereabouts |
-|--------------------------------------------------------------|---------|-------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown | Unknown     |
-| [Mr. Munch (Cyberamic)]               | Unknown | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown | Unknown     |
-| [Chuck E Cheese 16m (Animatronic)]   | N/A     | Unknown     |

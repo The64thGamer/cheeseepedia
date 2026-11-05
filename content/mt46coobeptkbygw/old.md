@@ -8,35 +8,6 @@ White Settlement first opened as ShowBiz Pizza Place on December 29th, 1982, wit
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations had, they would have this until 1985, when they would close for unknown reasons. On August 6, 1987, the store would reopen as a ShowBiz Pizza with Chuck E.'s House, as the period when the store opened was during the time when CEC stores went by the name of ShowBiz, despite not having the RAE, they were the 3rd Chuck E.'s House installed, after [Eau Claire, WI (2221 Eastridge Center)], and [Arlington, TX (2216 S Fielder Rd)], as well as being the second modern CEC store to open. They would have Chuck E.'s House for a short time until February 1992, when they would receive the very first 2-Stage, having a different design than the later 2-Stages, with the stages separated into two parts (later ones have just one stage with a TV separating Chuck E. and Helen) a blue valence, 3-Stage buildings, Jasper sitting on a vent from a 3-Stage, Munch having a Road Stage keyboard, and Pasqually keeping his PTT arm movements. They would have the 2-Stage until they closed on June 25, 2020, as part of CEC's Bankruptcy and the COVID-19 Pandemic. The 2-Stage would be completely empty, with all of the props, backdrops, and animatronics gutted.
 
-| Stage                                     | Installed     | Removed       | Notes                                |
-|-------------------------------------------|---------------|---------------|--------------------------------------|
-| [Classic Stage]   | December 1982 | 1985          | 22nd ShowBiz Store to open in Texas. |
-| [Chuck E.'s House (Rocker Stage)] | August 1987   | February 1992 | 3rd Chuck E.'s House installed.      |
-| [2-Stage]         | February 1992 | June 2020     | First ever 2-Stage.                  |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts |
-|---------------------------------------------------------------------------|---------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-82 1-15     | Unknown.    |
-| [Dook Larue (Animatronic)]                        | 4-82 2-15     | Unknown.    |
-| [Fatz Geronimo (Animatronic)]                     | 4-82 3-15     | Unknown.    |
-| [Beach Bear (Animatronic)]                        | 4-82 4-15     | Unknown.    |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-82 5-15     | Unknown.    |
-| [Billy Bob (Animatronic)]                         | 4-82 6-15     | Unknown.    |
-| [Looney Bird (Animatronic)]                       | 4-82 7-15     | Unknown.    |
-| [Choo Choo (Animatronic)]                         | 4-82 8-15     | Unknown.    |
-| [Sun (Animatronic)]                               | 4-82 10-15    | Unknown.    |
-| [Moon (Animatronic)]                              | 4-82 11-15    | Unknown.    |
-| [Antioch (Animatronic)]                           | N/A           | Unknown.    |
-| [Chuck E. Cheese (Cyberamic)]                   | Unknown       | Destroyed.  |
-| [Guest Star / Helen Henny (Cyberamic)]              | Unknown       | Destroyed.  |
-| [Mr. Munch (Cyberamic)]                            | Unknown       | Destroyed.  |
-| [Jasper T. Jowls (Cyberamic)]                      | Unknown       | Destroyed.  |
-| [Pasqually (Cyberamic)]                           | Unknown       | Destroyed.  |
-| [Singing Flowers (Cyberamic)]                     | Unknown       | Unknown.    |
-| [Wink (Cyberamic)]                                | Unknown       | Destroyed.  |
-
 ## Videos
 
 | Link                                                                            | Description                                                                                                                                                 | Filming Date           | Publish Date     |

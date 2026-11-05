@@ -8,30 +8,6 @@ Laurel opened its doors in October 27th, 1982 with a Rock-afire Explosion show. 
 
 Laurel opened with the Rock afire Explosion in October 1982. Unfortunately, there are no photos or no videos to exist of Laurel with the Rock afire, or as a ShowBiz in general. In 1991, Laurel received [Concept Unification], converting the Rock afire into Munch’s Make Believe Band. In June 2022, Laurel received 2.0 and removed the 3-Stage for the Dance Floor although being collected by SPT Distribution.
 
-| Stage                                                                   | Installed    | Removed      | Notes                           |
-|-------------------------------------------------------------------------|--------------|--------------|---------------------------------|
-| [Classic Stage]                                 | October 1982 | 1991         | Only ShowBiz Pizza in Maryland. |
-| [Concept Unification Stage (3-Stage)]                     | 1991         | June 2022    | Collected by SPT Distribution   |
-| [Chuck E Live Stage (Dance Floor)] + Video Wall | June 2022    | Still in Use | 2021 Model.                     |
-
-## Animatronics
-
-| Character                                                                 | Serial     | Status                                                                                                                                                                                                                                                  |
-|---------------------------------------------------------------------------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-24  | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]                                                                                                                                                                  |
-| [Dook Larue (Animatronic)]                        | 1-82 2-24  | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]                                                                                                                                                                  |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-24  | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]                                                                                                                                                                  |
-| [Beach Bear (Animatronic)]                        | 1-82 4-24  | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]                                                                                                                                                                  |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-24  | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]                                                                                                                                                                  |
-| [Billy Bob (Animatronic)]                         | 1-82 6-24  | Unknown                                                                                                                                                                                                                                                 |
-| [Looney Bird (Animatronic)]                       | 1-82 7-24  | Unknown                                                                                                                                                                                                                                                 |
-| [Choo Choo (Animatronic)]                         | 1-82 8-24  | Unknown                                                                                                                                                                                                                                                 |
-| [Sun (Animatronic)]                               | 1-82 10-24 | Destroyed                                                                                                                                                                                                                                               |
-| [Moon (Animatronic)]                              | 1-82 11-24 | Destroyed                                                                                                                                                                                                                                               |
-| [Antioch (Animatronic)]                           | N/A        | Unknown                                                                                                                                                                                                                                                 |
-| [Wink]                                            | N/A        | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]                                                                                                                                                                  |
-| [Looney Bird (Animatronic)]                       | 10-82 7-40 | Originally from [Fairfax, VA (9404 Main St)].Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Sent to [Charlotte, NC (7701 Pineville-Matthews Rd)] in June 2024. |
-
 ## Videos
 
 TODO

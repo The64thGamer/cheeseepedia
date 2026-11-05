@@ -78,7 +78,8 @@
     {
       "n": "Mr. Munch (Cyberamic)",
       "s": "1996-00-00",
-      "e": "2014-00-00"
+      "e": "2014-00-00",
+      "desc": "Originally from Riverside, CA (4033 Chicago Ave). Sent to Orem, UT (40 E Center St). Now unknown."
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
@@ -97,6 +98,13 @@
       "desc": "Sent to [Orem, UT (40 E Center St)]. Now unknown.",
       "s": "1996-00-00",
       "e": "2014-00-00"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Orem, UT (40 E Center St). Now unknown."
     }
   ]
 }

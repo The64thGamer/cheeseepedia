@@ -7,29 +7,3 @@ Oceanside opened its doors on February 8th, 1983 (not confirmed) as a franchised
 ## Stages
 
 Originally, Oceanside featured a Rock-Afire Explosion, as all other ShowBiz locations did. Unfortunately, there are no photos or videos to exist of Oceanside with the Rock afire, or as a ShowBiz in general. they got Concept Unification sometime in 1991. In 2000, Oceanside removed their 3-Stage for the Studio C Beta. In November 2021, Oceanside removed the Studio C Beta, 32m for the Dance Floor for their 2.0 remodel.
-
-| Stage                                               | Intalled      | Removed       | Notes                                                                                                                                                                                              |
-|-----------------------------------------------------|---------------|---------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Classic Stage]             | February 1983 | 1991          | 5th ShowBiz Pizza in California.                                                                                                                                                                   |
-| [Concept Unification Stage (3-Stage)] | 1991          | 2000          | One of 9 ShowBiz Pizza Stores in California to undergo Concept Unification (Fullerton opened as a new store with the stage undergoing Concept Unification while the store was under construction). |
-| Studio C Beta, 32m                                  | 2000          | November 2021 | One of first 5 Betas installed                                                                                                                                                                     |
-| Dance Floor + Video Wall                            | November 2021 | Still in Use  | 2021 Model. One of first 2021 2.0s in California.                                                                                                                                                  |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts |
-|---------------------------------------------------------------------------|---------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-82 1-13     | Unknown     |
-| [Dook Larue (Animatronic)]                        | 7-82 2-13     | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | 7-82 3-13     | Unknown     |
-| [Beach Bear (Animatronic)]                        | 7-82 4-13     | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | 7-82 5-13     | Unknown     |
-| [Billy Bob (Animatronic)]                         | 7-82 6-13     | Unknown     |
-| [Looney Bird (Animatronic)]                       | 7-82 7-13     | Unknown     |
-| [Choo Choo (Animatronic)]                         | 7-82 8-13     | Unknown     |
-| [Sun (Animatronic)]                               | 7-82 10-13    | Unknown     |
-| [Moon (Animatronic)]                              | 7-82 11-13    | Unknown     |
-| [Antioch (Animatronic)]                           | N/A           | Unknown     |
-| [Wink]                                            | N/A           | Unknown     |
-| Chuck E. Cheese (32m, bot)                                                | Unknown       | Destroyed   |
-| Pizza Time Clock                                                          | N/A           | Destroyed   |

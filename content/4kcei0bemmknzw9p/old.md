@@ -2,15 +2,8 @@
 
 ## History
 
-This location opened on May 22nd, 2001. The bot featured one of the only Late Night Outfits on a Studio C Beta. This outfit has been since replaced. Between 2015 and 2016, this location would get the short-lived 2015 Remodel Initiative. This would change the exterior to feature Rock Star Chuck, replace all previous artwork, and repaint the walls. On June 17, 2024 the store would receive the [CEC 2.0 Remodel Program], removing the stage in favor of a [Chuck E Live Stage (Dance Floor)] and [Video Wall] On August 7th, 2024, the location had it's grand reopening event.
+This location opened on May 22nd, 2001. The bot featured one of the only Late Night Outfits on a Studio C Beta. This outfit has been since replaced. Between 2015 and 2016, this location would get the short-lived 2015 Remodel Initiative. This would change the exterior to feature Rock Star Chuck, replace all previous artwork, and repaint the walls. On June 17, 2024 the store would receive the [CEC 2.0 Remodel Program], removing the stage in favor of a [Chuck E. Live Stage (Dance Floor)] and [Video Wall] On August 7th, 2024, the location had it's grand reopening event.
 
 ## Stages
 
 This location originally opened with a Studio C Beta with a 32 movement. It had a standard 32 movement before the head got replaced between October and December of 2021, turning it into a [Chuck E Cheese 3216m Hybrid (Animatronic)]. On June 17, 2024, the stage would be removed in favor of the store's [CEC 2.0 Remodel Program].
-
-## Animatronics
-
-| Animatronic                                | Serial Number | Whereabouts                                         |
-|--------------------------------------------|---------------|-----------------------------------------------------|
-| Chuck E. Cheese 32m (Studio C)             | Unknown       | Unknown, Likely Destroyed. Original Head Destroyed. |
-| Chuck E. Cheese 16m (Studio C) (Head Only) | N/A           | From Leominster, MA. Unknown, Likely Destroyed      |

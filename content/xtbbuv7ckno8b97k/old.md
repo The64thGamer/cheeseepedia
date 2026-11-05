@@ -7,26 +7,3 @@ Maryville opened on March 3rd, 1983 as the Fifth ShowBiz Pizza Place in Tennesse
 ## Stages
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations did. In 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. The store would remain this way until closure in 1995.
-
-| Stage                                               | Installed  | Removed | Notes                                                                  |
-|-----------------------------------------------------|------------|---------|------------------------------------------------------------------------|
-| [Classic Stage]             | March 1983 | 1991    | All Eight ShowBiz locations in Tennessee was converted to stage below. |
-| [Concept Unification Stage (3-Stage)] | 1991       | 1995    | One of eight Tennessee locations to get Concept Unification.           |
-|                                                     |            |         |                                                                        |
-
-## Animatronics
-
-| Animatronic                                                               | Serial     | Whereabouts |
-|---------------------------------------------------------------------------|------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-82 1-25  | Unknown     |
-| [Dook Larue (Animatronic)]                        | 7-82 2-25  | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | 7-82 3-25  | Unknown     |
-| [Beach Bear (Animatronic)]                        | 7-82 4-25  | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | 7-82 5-25  | Unknown     |
-| [Billy Bob (Animatronic)]                         | 7-82 6-25  | Unknown     |
-| [Looney Bird (Animatronic)]                       | 7-82 7-25  | Unknown     |
-| [Choo Choo (Animatronic)]                         | 7-82 8-25  | Unknown     |
-| [Sun (Animatronic)]                               | 7-82 10-25 | Unknown     |
-| [Moon (Animatronic)]                              | 7-82 11-25 | Unknown     |
-| [Antioch (Animatronic)]                           | N/A        | Unknown     |
-| [Wink]                                            | N/A        | Unknown     |

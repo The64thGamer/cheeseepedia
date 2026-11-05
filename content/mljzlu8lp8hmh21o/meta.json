@@ -1,33 +1,40 @@
 {
-    "title": "Pompano Beach, FL (2201 N Federal Hwy)",
-    "storeNumber": "",
-    "startDate": "2014-11-17",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2014-11-17"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Circles of Light",
-            "s": "2014-11-17"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "26.25604812",
-        "-80.10370908"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "NOfGOEl8Ss2m_xwfpwfv.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Pompano Beach, FL (2201 N Federal Hwy)",
+  "storeNumber": "",
+  "startDate": "2014-11-17",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2014-11-17"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Circles of Light",
+      "s": "2014-11-17",
+      "desc": "Received 2.0 in February 2022"
+    },
+    {
+      "n": "Dance Floor",
+      "s": "2022-02-00",
+      "e": "0000-00-00",
+      "desc": "2019 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "26.25604812",
+    "-80.10370908"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "NOfGOEl8Ss2m_xwfpwfv.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ]
 }

@@ -17,12 +17,14 @@
     {
       "n": "Balcony Stage",
       "s": "1982-07-00",
-      "e": "0000-00-00"
+      "e": "1989-00-00",
+      "desc": "1st Pizza Time Theatre in New Hampshire."
     },
     {
       "n": "Chuck E.'s House Facade (C-Stage)",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1989-00-00",
+      "e": "1993-00-00",
+      "desc": "One of two installed in New Hampshire."
     },
     {
       "n": "2-Stage",
@@ -39,6 +41,18 @@
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2023-09-00",
       "desc": "2021 Model"
+    },
+    {
+      "n": "Studio C Beta |Studio C Beta, 16M",
+      "s": "2006-01-00",
+      "e": "2023-09-00",
+      "desc": "Only Studio C installed in New Hampshire. Last 16M Beta in New England. First to install fake curtains. Had Orange, CT's head before removal. Last animatronic stage in the state."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall.",
+      "s": "2023-09-00",
+      "e": "0000-00-00",
+      "desc": "2021 model. Last CEC in New Hampshire."
     }
   ],
   "franchisees": [],
@@ -57,5 +71,77 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Clapper Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Head destroyed, body unknown."
+    }
   ]
 }

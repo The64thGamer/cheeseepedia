@@ -14,6 +14,11 @@
       "n": "Balcony Stage",
       "s": "1982-12-00",
       "e": "1985-00-00"
+    },
+    {
+      "n": "Classic Stage",
+      "s": "1985-07-00",
+      "e": "2000-00-00"
     }
   ],
   "franchisees": [
@@ -38,5 +43,133 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mr. Munch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pasqually",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Warblettes",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Waving Flags",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Applause Board",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Drum Board",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Rolfe Dewolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 1-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dook LaRue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 2-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 3-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 4-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mitzi Mozzarella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 5-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 6-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 7-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 10-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 11-?",
+      "desc": "Unknown"
+    }
   ]
 }

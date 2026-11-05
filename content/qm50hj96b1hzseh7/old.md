@@ -13,9 +13,3 @@ Kokomo opened on April 6, 2004 with the [Phase 3 (2000)] game package and a [Stu
 | Link                                        | Description                        | Filming Date  |
 |---------------------------------------------|------------------------------------|---------------|
 | https://www.youtube.com/watch?v=3jS33CwG7xY | 'Merry Christmastime' performance. | December 2021 |
-
-## Animatronics
-
-| Animatronic                                                | Manufacturing Date | Whereabouts      |
-|------------------------------------------------------------|--------------------|------------------|
-| [Chuck E Cheese 16m (Animatronic)] | 2004               | Currently in use |

@@ -8,29 +8,6 @@ Omaha opened its doors on June 23th, 1982 as the 3rd and last ShowBiz Pizza stor
 
 Originally, Omaha featured a Rock-Afire Explosion, as all other ShowBiz locations did. Unfortunately, there are some photos but not a lot of videos to exist of Omaha with the Rock afire, or as a ShowBiz Pizza in general. There does exist one exterior photo however. Omaha got Concept Unification sometime in 1991. In April 2022, Omaha received the 2.0 Remodel, thus removing their 3-Stage for a Dance Floor and Video Wall.
 
-| Stage                                               | Intalled   | Removed     | Notes                                                                     |
-|-----------------------------------------------------|------------|-------------|---------------------------------------------------------------------------|
-| [Classic Stage]             | June 1982  | 1991        | 3rd and last ShowBiz Pizza store to open in Nebraska.                     |
-| [Concept Unification Stage (3-Stage)] | 1991       | April 2022  | One of 2 ShowBiz locations in Nebraska to receive Concept Unification.    |
-| Dance Floor + Video Wall                            | April 2022 | Stil in use | Only 2.0 in Nebraska as it is the only Chuck E. Cheese left in the state. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts        |
-|---------------------------------------------------------------------------|---------------|--------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | N/A           | Destroyed.         |
-| [Dook Larue (Animatronic)]                        | N/A           | Destroyed.         |
-| [Fatz Geronimo (Animatronic)]                     | N/A           | Destroyed.         |
-| [Beach Bear (Animatronic)]                        | N/A           | Destroyed.         |
-| [Mitzi Mozzarella (Animatronic)]                  | N/A           | Destroyed.         |
-| [Billy Bob (Animatronic)]                         | N/A           | Unknown/Destroyed. |
-| [Looney Bird (Animatronic)]                       | N/A           | Destroyed.         |
-| [Choo Choo (Animatronic)]                         | N/A           | Unknown/Destroyed. |
-| [Sun (Animatronic)]                               | N/A           | Destroyed.         |
-| [Moon (Animatronic)]                              | N/A           | Destroyed.         |
-| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed. |
-| [Wink]                                            | N/A           | Destroyed.         |
-
 ## Videos
 
 | Link                                                   | Description                                                                                                                      | Filming Date | Publish Date   |

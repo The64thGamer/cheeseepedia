@@ -1,4 +1,4 @@
-The **CEC 2.0 Remodel** is a remodel of [Chuck E. Cheese's] restaurants that has been ongoing since 2017. It is a complete refresh of Chuck E. Cheese's locations which completely renovates both the interior and exterior of a location and replaces the animated show with a new [Chuck E Live Stage (Dance Floor)] concept that gives a walkaround characters a dedicated space to perform.
+The **CEC 2.0 Remodel** is a remodel of [Chuck E. Cheese's] restaurants that has been ongoing since 2017. It is a complete refresh of Chuck E. Cheese's locations which completely renovates both the interior and exterior of a location and replaces the animated show with a new [Chuck E. Live Stage (Dance Floor)] concept that gives a walkaround characters a dedicated space to perform.
 
 ## History
 

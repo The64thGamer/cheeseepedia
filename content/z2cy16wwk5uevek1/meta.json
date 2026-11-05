@@ -1,48 +1,89 @@
 {
-    "title": "Brookfield, WI (19125 W Blue Mound Rd)",
-    "storeNumber": "",
-    "startDate": "1997-12-17",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1997-12-17"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2024-08-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Alpha",
-            "s": "1997-12-17",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2024-08-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [
-        {
-            "n": "Mega Superhero Playground",
-            "s": "2025-00-00"
-        }
-    ],
-    "sqft": "",
-    "latitudeLongitude": [
-        "43.03509092",
-        "-88.06849228"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "Wq3KDtZqguDydYlINhjq.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Brookfield, WI (19125 W Blue Mound Rd)",
+  "storeNumber": "",
+  "startDate": "1997-12-17",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1997-12-17"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-08-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "1997-12-17",
+      "e": "2024-08-12",
+      "desc": "First Alpha ever installed."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-08-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Dance Floor",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Video Wall",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "Mega Superhero Playground",
+      "s": "2025-00-00"
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "43.03509092",
+    "-88.06849228"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Wq3KDtZqguDydYlINhjq.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "003 (NO R&D)",
+      "desc": "Privately Owned"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    }
+  ]
 }

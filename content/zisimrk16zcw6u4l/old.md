@@ -3,23 +3,3 @@
 ## History
 
 San Diego (El Cajon Blvd) would open in March 1981 (Date Unknown) as the first Chuck E. Cheese of any kind in the San Diego area. Not much is known about this store other than having a [Balcony Stage] throughout its 3 years of being in business. It's also unknown if the store had any sort of Cabaret act. After around 3 years of business, the store would close in 1984 at an unknown date and the whereabouts of the store's show is unknown. It is unknown what the building is today.
-
-## Stages
-
-| Stage                                              | Installed  | Removed | Notes                                                                  |
-|----------------------------------------------------|------------|---------|------------------------------------------------------------------------|
-| [Balcony Stage] | March 1981 | 1984    | One of many installed in California. 1st CEC of any kind in San Diego. |
-
-## Animatronics
-
-| Animatronic                                                  | Whereabouts |
-|--------------------------------------------------------------|-------------|
-| [Mr. Munch (Cyberamic)]               | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown     |
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown     |
-| [Warblettes (Cyberamic)]             | Unknown     |
-| [Flag Wavers (Cyberamic)]                                     | Unknown     |
-| [Applause Board (Cyberamic)]         | Unknown     |
-| [Drum Board (Cyberamic)]             | Unknown     |

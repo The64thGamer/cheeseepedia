@@ -14,28 +14,6 @@ In March 1991, Parkersburg would remodel to a Chuck E. Cheese's Pizza, which inv
 
 After the store closed, the building would stay vacant for a while until it was redone and used by a few businesses. Currently, the old building is a business called WorkForce West Virginia. Rex Donahue, the franchise owner of all of the West Virginia ShowBiz Pizza Place locations, kept the show. The characters are in storage and are now being used for parts at [Billy Bob's Wonderland] in Barboursville, WV.
 
-## Stages
-
-| Stage                                               | Installed  | Removed | Notes                                                       |
-|-----------------------------------------------------|------------|---------|-------------------------------------------------------------|
-| [Classic Stage]             | 1983       | 1991    | 1st ShowBiz Pizza store to open in West Virginia.           |
-| [Concept Unification Stage (3-Stage)] | March 1991 | 1998    | Only West Virginia location to receive Concept Unification. |
-
 ## Animatronics
-
-| Animatronic                                                               | Serial      | Whereabouts |
-|---------------------------------------------------------------------------|-------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ??-8? 1-??  | In storage. |
-| [Dook Larue (Animatronic)]                        | ??-8? 2-??  | In storage. |
-| [Fatz Geronimo (Animatronic)]                     | ??-8? 3-??  | In storage. |
-| [Beach Bear (Animatronic)]                        | ??-8? 4-??  | In storage. |
-| [Mitzi Mozzarella (Animatronic)]                  | ??-8? 5-??  | In storage. |
-| [Billy Bob (Animatronic)]                         | ??-8? 6-??  | In storage. |
-| [Looney Bird (Animatronic)]                       | ??-8? 7-??  | In storage. |
-| [Choo Choo (Animatronic)]                         | ??-8? 8-??  | In storage. |
-| [Sun (Animatronic)]                               | ??-8? 10-?? | In storage. |
-| [Moon (Animatronic)]                              | ??-8? 11-?? | In storage. |
-| [Antioch (Animatronic)]                           | N/A         | In storage. |
-| [Wink]                                            | N/A         | In storage. |
 
 [Early 1990s](http://showbizpizza.com/photos/cec/wv_unknown/index.html)

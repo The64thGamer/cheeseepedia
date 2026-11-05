@@ -1,47 +1,102 @@
 {
-    "title": "Charlotte, NC (5612 Albemarle Rd)",
-    "storeNumber": "",
-    "startDate": "1991-11-00",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1991-11-00"
-        },
-        {
-            "n": "Low Volume Store Initiative",
-            "s": "2024-00-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2024-06-06"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Road Stage",
-            "s": "1991-11-00",
-            "e": "2024-06-02"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2024-06-06",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "35.20164082",
-        "-80.75370023"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "HT_NwShK6i0ppGH3VIze.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Charlotte, NC (5612 Albemarle Rd)",
+  "storeNumber": "",
+  "startDate": "1991-11-00",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1991-11-00"
+    },
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "2024-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-06-06"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-11-00",
+      "e": "2024-06-02",
+      "desc": "Last remaining Road Stage in the entire U.S before removal."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-06-06",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Dance Floor",
+      "s": "2024-06-06",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2024-06-04",
+      "e": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "35.20164082",
+    "-80.75370023"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "HT_NwShK6i0ppGH3VIze.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1991-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    }
+  ]
 }

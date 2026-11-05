@@ -8,29 +8,6 @@ Sheffield opened its doors on August 1st, 1984, as the tenth and last ShowBiz Pi
 
 Originally, Sheffield featured a Rock-Afire Explosion, as all other ShowBiz locations did. Unfortunately, there are no photos or videos to exist of Sheffield with the Rock afire, or as a ShowBiz in general. they got Concept Unification sometime in 1991. In 2020, Sheffield removed the 3-Stage for the Dance Floor for their 2.0 remodel.
 
-| Stage                                                      | Intalled  | Removed      | Notes                                                                 |
-|------------------------------------------------------------|-----------|--------------|-----------------------------------------------------------------------|
-| RockAfire Explosion                                        | July 1984 | 1991         | Tenth and last ShowBiz Pizza store to open in Alabama.                |
-| 3-Stage                                                    | 1991      | 2020         | One of 7 ShowBiz locations in Alabama to receive Concept Unification. |
-| [Chuck E Live Stage (Dance Floor)] | 2020      | Still in Use | 2019 Model. First 2.0 in Alabama.                                     |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts |
-|---------------------------------------------------------------------------|---------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | N/A           | Unknown     |
-| [Dook Larue (Animatronic)]                        | N/A           | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | N/A           | Unknown     |
-| [Beach Bear (Animatronic)]                        | N/A           | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | N/A           | Unknown     |
-| [Billy Bob (Animatronic)]                         | N/A           | Unknown     |
-| [Looney Bird (Animatronic)]                       | N/A           | Unknown     |
-| [Choo Choo (Animatronic)]                         | N/A           | Unknown     |
-| [Sun (Animatronic)]                               | N/A           | Unknown     |
-| [Moon (Animatronic)]                              | N/A           | Unknown     |
-| [Antioch (Animatronic)]                           | N/A           | Unknown     |
-| [Wink]                                            | N/A           | Unknown     |
-
 ## Videos
 
 | Link                                                                                                                                                          | Description                 | Date Filmed | Date Published |

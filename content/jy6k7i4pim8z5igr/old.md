@@ -8,37 +8,7 @@ Danvers opened in April 24th, 1983, in Endicott Plaza, franchised by Tom Saltsma
 
 Danvers originally featured the Balcony Stage much like every PTT at this point, with Madame Oink as the guest star. A few months later, [Helen Henny] would replace her. In the Cabaret, B.B Bubbles would be their first act, along with [The King / King Kat (Lounge)]. In February 1985, Danvers removed their Balcony Stage, which would be sent to [Fall River, MA (35 Mariano Bishop Blvd)] for that store's opening, due to a shortage of [Cyberamics]. In addition, B.B Bubbles took her final bow at the store and was removed. In place of the Balcony Stage was the [Family Album]. The names of the characters at the store were *Nadine* ('Dee-Dee'), *Randy* (the leader), and *Tommy-John* (or 'TJ'). In March 1988, Danvers would remove the Family Album, receive a new set of animatronics, build a temporary stage in front of the old Family Album, and begin construction on [Chuck E.'s House (Rocker Stage)], which was completed in April. In July 1989, The King was removed, to be swapped with The Beach Bowzers from Newington, NH. Chuck E.'s House would remain mostly the same throughout the years, with some cosmetic updates such as a new Jasper shirt in the early 1990s, the Singing Flowers being removed and re-installed multiple times, the windows on Munch and Pasqually's sides removed, and the fake plants being removed. Around 1993, Danvers would remove Chuck E.'s House, and receive a [2-Stage]. The characters also had all their PTT masks replaced. The Beach Bowzers was also removed at this time. Around 1999-2000, Jasper's 1992 shirt was replaced. In 2002, Pasqually's 1992 mask was replaced with a mask made in 1999. Helen's 1992 dress was replaced around 2002, Danvers would receive the Cool Chuck outfit around the same time. Jasper's original cheese guitar was also replaced by a 3-Stage cheese guitar by 2004-2005, along with Helen's mask. Curtains were disabled in September 2005, though Chuck's curtains remained operable for live appearances. By 2011, they replaced the Cool Chuck outfit with the Avenger outfit. The cap was removed in September 2013. In 2018, the original drum front was covered up by the [Ticket Blaster] decal, and later that year, the curtains were removed. These would be the last changes made to the stage before the store closed its doors.
 
-| Stage                                              | Installed     | Removed       | Notes                     |
-|----------------------------------------------------|---------------|---------------|---------------------------|
-| [Balcony Stage] | April 1983    | Feburary 1985 | Sent to Fall River, MA.   |
-| [Family Album]             | February 1985 | March 1988    |                           |
-| [Chuck E.'s House (Rocker Stage)]          | April 1988    | Summer 1993   | Bots from an unknown PTT. |
-| [2-Stage]                  | Summer 1993   | April 2020    |                           |
-
 ## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                                         |
-|--------------------------------------------------------------|--------------------|---------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1982/1983          | Sent to Fall River, MA, later retrofitted, now unknown.             |
-| [Chuck E. Cheese (Cyberamic)]      | 5/17/1982          | Unknown. Originally from an unknown PTT.                            |
-| [Guest Star / Helen Henny (Cyberamic)] | 1982/1983          | Sent to Fall River, MA, later retrofitted, now unknown.             |
-| [Guest Star / Helen Henny (Cyberamic)] | 1983               | Owned by Tyler Lead. Originally from an unknown PTT.                |
-| [Mr. Munch (Cyberamic)]               | 1982/1983          | Sent to Fall River, MA, later retrofitted, now unknown.             |
-| [Mr. Munch (Cyberamic)]               | 5/6/1982           | Owned by Tyler Lead. Originally from an unknown PTT.                |
-| [Jasper T. Jowls (Cyberamic)]         | 1982/1983          | Sent to Fall River, MA, later retrofitted, now unknown.             |
-| [Jasper T. Jowls (Cyberamic)]         | 1983               | Unknown. Originally from an unknown PTT.                            |
-| [Pasqually (Cyberamic)]              | 1982/1983          | Sent to Fall River, MA, later retrofitted, now unknown.             |
-| [Pasqually (Cyberamic)]              | 5/1/1982           | Owned by Tyler Lead. Originally from an unknown PTT.                |
-| [Warblettes (Cyberamic)]             | Unknown            | Sent to Fall River, now unknown.                                    |
-| [Flag Wavers (Cyberamic)]                                     | 1982/1983          | Unknown                                                             |
-| [Applause Board (Cyberamic)]         | 1982/1983          | Unknown                                                             |
-| [Drum Board (Cyberamic)]             | 1982/1983          | Unknown                                                             |
-| [Singing Flowers (Cyberamic)]        | 1988               | Destroyed, one mask owned by a private collector.                   |
-| B.B. Bubbles (Cyberamic)                                     | Unknown            | Cosmetics owned by Jenn Waitt. Mech destroyed.                      |
-| [The King / King Kat (Lounge)]         | Unknown            | Sent to Newington, NH, unknown.                                     |
-| Beagles / Beach Bowsers (Lounge)\|Beach Bowsers (Lounge)     | Unknown            | Unknown. Originally from Newington, NH.                             |
-| [Family Album]                       | 1984               | One hand of a character owned by a private collector. Rest unknown. |
-| [Wink (Cyberamic)]                   | 1993               | Owned by a private collector.                                       |
 
 [1980's](http://showbizpizza.com/photos/ptt/ma_danvers/index.html), [2002](http://showbizpizza.com/photos/cec/ma_danvers/index.html) , [2004](http://showbizpizza.com/photos/cec/ma_danvers_cv1/index.html), [2005](http://showbizpizza.com/photos/cec/ma_danvers_cv2/index.html)
 

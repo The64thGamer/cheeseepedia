@@ -1,34 +1,72 @@
 {
-    "title": "Calgary, Alberta, Canada (9627 Macleod Trail)",
-    "storeNumber": "",
-    "startDate": "1991-08-31",
-    "endDate": "1994-00-00",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1991-08-31"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Road Stage",
-            "s": "1991-08-31",
-            "e": "1994-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "50.96824567",
-        "-114.0748055"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "RcuzlBaCtWkM5lJwJqCL.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Calgary, Alberta, Canada (9627 Macleod Trail)",
+  "storeNumber": "",
+  "startDate": "1991-08-31",
+  "endDate": "1994-00-00",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1991-08-31"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-08-31",
+      "e": "1994-00-00",
+      "desc": "One of two Road Stages installed in Canada. Later reinstalled at Calgary, Alberta, Canada (2770 32nd Ave) to replace Chuck E.'s House (Rocker Stage)."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "50.96824567",
+    "-114.0748055"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "RcuzlBaCtWkM5lJwJqCL.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Reused at Calgary, Alberta, Canada (2770 32nd Ave).; saved in 2003"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Reused at Calgary, Alberta, Canada (2770 32nd Ave).; saved in 2003"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Reused at Calgary, Alberta, Canada (2770 32nd Ave).; saved in 2003"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Reused at Calgary, Alberta, Canada (2770 32nd Ave).; saved in 2003"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Reused at Calgary, Alberta, Canada (2770 32nd Ave).; saved in 2003"
+    }
+  ]
 }

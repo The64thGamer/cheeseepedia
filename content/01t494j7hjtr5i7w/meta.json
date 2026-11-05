@@ -1,34 +1,113 @@
 {
-    "title": "Dublin, CA (7590 Amador Valley Blvd)",
-    "storeNumber": "",
-    "startDate": "1982-04-21",
-    "endDate": "1985-00-00",
-    "remodels": [
-        {
-            "n": "SPP Standard Layout",
-            "s": "1982-04-21"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1982-04-21",
-            "e": "1985-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "37.70695697",
-        "-121.9332431"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Dublin, CA (7590 Amador Valley Blvd)",
+  "storeNumber": "",
+  "startDate": "1982-04-21",
+  "endDate": "1985-00-00",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1982-04-21"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-04-21",
+      "e": "1985-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.70695697",
+    "-121.9332431"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 1-11",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dook Larue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 2-11",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 3-11",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 4-11",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mitzi Mozzarella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 5-11",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 6-11",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 7-11",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 8-11",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 10-11",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 11-11",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

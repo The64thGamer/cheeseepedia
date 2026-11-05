@@ -12,13 +12,6 @@ On August 26, 2016, Grant joined as Assistant Tech for the gameroom &amp; showro
 
 The era of animatronics for this store came to an end in August 13, 2019, when the 2.0 remodel started to happen, with the animatronics being removed shortly afterwards on the night of August 28, 2019. The animatronics were saved instead of being destroyed like most others during the 2.0 process. The grand re-opening for the location happened on October 3rd where Rockstar Chuck E. was present to greet the folks on that day alongside a giant inflatable Chuck E. outside the building. This location had the standardized 2019 2.0 design with it retaining mostly all of the 2.0 art, fixtures, menu, &amp; etc. The Chuck E. Live Stage is however notable for having a custom arrangement of TV's surrounding the stage with one TV on each end, and two TVs in the middle on each side.
 
-| Stage                                                      | Installed       | Removed         | Notes                                                                                                     |
-|------------------------------------------------------------|-----------------|-----------------|-----------------------------------------------------------------------------------------------------------|
-| [Road Stage]            | July 1991       | 1994-1995       | One of 6 installed in Florida.                                                                            |
-| [2-Stage]                          | 1994-1995       | August 28, 2019 | One of 4 installed in Florida.                                                                            |
-| [Chuck E Live Stage (Dance Floor)] | August 21, 2019 | Still In Use    | 2019 Model. Was originally supposed to get 2.0 in around 2017-2018. Upgraded to 2021 Model in April 2023. |
-| [Video Wall]                       | April 2023      | Still In Use    | Added in April 2023.                                                                                      |
-
 ## History
 
 ***14308 Dale Mabry Hwy, Tampa, FL*** was a Corporate Owned Chuck E. Cheese Pizza location that would open up on July 1st, 1991, with Games 91' being the 1st showtape played at the store. This location was located in Paramount Plaza in its own little area of the plaza surrounded by mini shops to the left &amp; right of the building, the entrance was inside of the plaza with the back of the building being where most of the space is at for the location. In fact, this location was only 0.7 miles away from Pizza Time Theatre that opened in Tampa a few years back Tampa, FL (13210 N Dale Mabry Hwy)|Tampa, FL (13210 N Dale Mabry Hwy) &amp; 1.1 miles away from ShowBiz Pizza Place that used to be located in Tampa, FL (12707 Dale Mabry Hwy)|Tampa, FL (12707 Dale Mabry Hwy) which was besides a Kmart.
@@ -287,14 +280,3 @@ On October 3rd the location reopened with CEC 2.0 Remodel which removed everythi
 |---------------------------------------------------------------------------------|----------------------------------|
 | [Link](https://foursquare.com/v/chuck-e-cheese/4b23e570f964a5204b5c24e3/photos) | 2011-2013 CEC Tampa, FL Gallery  |
 | [Link](http://www.shutterblog.com/birthdayboy.html)                             | Birthday Party (August 29, 2003) |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                   |
-|--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | 1991               | Owned by a Private Collector.                                                                                 |
-| [Guest Star / Helen Henny (Cyberamic)] | 1991               | Owned by a Private Collector.                                                                                 |
-| [Mr. Munch (Cyberamic)]               | 1991               | Owned by a Private Collector.                                                                                 |
-| [Jasper T. Jowls (Cyberamic)]         | 1991/1993          | Original Bot unknown, replaced with bot from Lakeland, FL (3558 US Hwy 98), now owned by a Private Collector. |
-| [Pasqually (Cyberamic)]              | 1991               | Owned by a Private Collector.                                                                                 |
-| Wink (Animatronic)\|Wink (Cyberamic)                         | 1991               | Owned by a Private Collector.                                                                                 |

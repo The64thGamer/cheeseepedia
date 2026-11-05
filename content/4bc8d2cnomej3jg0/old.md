@@ -4,10 +4,6 @@
 
 This was the only known location to open without the Pizza Time Players. It instead had the Family Album, which was produced from 1983-1984. This location also had the very last of this stage, being removed in late 1990 when they closed and relocated to 1245 Bald Hill Rd.
 
-| Stage                                  | Installed | Removed   | Notes                                                                                                                            |
-|----------------------------------------|-----------|-----------|----------------------------------------------------------------------------------------------------------------------------------|
-| [Family Album] | June 1984 | Late 1990 | First CEC in Rhode Island. Only known CEC to open with a Family Album. Final Family Album to be removed, which was in late 1990. |
-
 ## History
 
 Warwick opened in June 1984 (day unknown) as the very first CEC in Rhode Island. This location, however, did not have a [Balcony Stage], but rather a [Family Album]. Not much is known about this location or where it was located, but we do know it was located in a Parking Lot. This location was one of many that did not receive the 1988 remodel for unknown reasons. Warwick then relocated in late 1990 (month and day unknown) to ***[Warwick, RI (1245 Bald Hill Rd)]***, marking its closure and the extinction of the Family Album. It was unknown where the building was at, so the history after 1990 is unknown.

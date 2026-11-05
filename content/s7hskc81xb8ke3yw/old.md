@@ -4,19 +4,6 @@
 
 Gastonia opened on November 27th, 2005 with a Studio C Beta, 16m in a freestanding building. When the store opened, they had the 2005 Update of the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative like all other stores opening at the time. In 2010, Gastonia would receive an expansion which relocated the Showroom to the new part of the store, converting the original Showroom into an expanded Gameroom. This store would become the last Studio C Beta in North Carolina after [Concord, NC (7970 Lyles Lane)] would receive the 2.0 Remodel in March 2023. As of May 2025, Gastonia no longer has the 16m Studio C Beta
 
-## Stages
-
-| Stage              | Installed     | Removed | Notes                                                                                           |
-|--------------------|---------------|---------|-------------------------------------------------------------------------------------------------|
-| Studio C Beta, 16m | November 2005 | Removed | One of 3 installed in North Carolina (4 in the Carolinas) (Only 16m Installation in the state). |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts |
-|------------------------------------------------------------|---------------|-------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A           | Removed.    |
-| [Pizza Time Clock (Animatronic)]   | N/A           | Removed.    |
-
 ## Videos
 
 TODO

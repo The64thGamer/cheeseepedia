@@ -8,33 +8,6 @@ Naperville opened its doors on April 4th, 1983, with a Rock-afire Explosion show
 
 Naperville opened with the Rock afire Explosion in April 1983. Unfortunately, there are hardly photos or videos to exist of Naperville with the Rock afire, or as a ShowBiz in general. In 1991, Naperville received [Concept Unification], converting the Rock afire into Munch’s Make-Believe Band. In 2000, Naperville removed the 3-Stage for the Studio C Alpha stage. The store relocated in March 2015.
 
-| Stage                                               | Installed  | Removed    | Notes                                                                      |
-|-----------------------------------------------------|------------|------------|----------------------------------------------------------------------------|
-| [Classic Stage]             | April 1983 | 1991       | 11th ShowBiz Pizza Store to open in Illinois.                              |
-| [Concept Unification Stage (3-Stage)] | 1991       | 2000       | One of 10 ShowBiz Pizza stores in Illinois to undergo Concept Unification. |
-| Studio C (1997)\|Studio C Alpha                     | 2000       | March 2015 | One of 4 Alphas in Illinois.                                               |
-
-## Animatronics
-
-| Character                                                                 | Serial     | Status               |
-|---------------------------------------------------------------------------|------------|----------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-82 1-1  | \|Unknown/Destroyed. |
-| [Dook Larue (Animatronic)]                        | 10-82 2-1  | \|Unknown/Destroyed. |
-| [Fatz Geronimo (Animatronic)]                     | 10-82 3-1  | \|Unknown/Destroyed. |
-| [Beach Bear (Animatronic)]                        | 10-82 4-1  | Unknown/Destroyed.   |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-82 5-1  | \|Unknown/Destroyed. |
-| [Billy Bob (Animatronic)]                         | 10-82 6-1  | Unknown/Destroyed.   |
-| [Looney Bird (Animatronic)]                       | 10-82 7-1  | Unknown/Destroyed.   |
-| [Choo Choo (Animatronic)]                         | 10-82 8-1  | Unknown/Destroyed.   |
-| [Sun (Animatronic)]                               | 10-82 10-1 | Unknown/Destroyed.   |
-| [Moon (Animatronic)]                              | 10-82 11-1 | Unknown/Destroyed.   |
-| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed.   |
-| [Wink]                                            | N/A        | Unknown/Destroyed.   |
-| [Chuck E Cheese 32m (Animatronic)]                | Unknown    | Destroyed.           |
-| [Bird (Animatronic)]                              | N/A        | Destroyed.           |
-| [Pizza Time Clock (Animatronic)]                  | N/A        | Destroyed.           |
-| [Pizza Phone (Animatronic)]                       | N/A        | Destroyed.           |
-
 ## Videos
 
 | Link                                        | Description                                                                                               | Date                |

@@ -1,43 +1,71 @@
 {
-    "title": "Fresno, CA (7809 N Blackstone Ave)",
-    "storeNumber": "",
-    "startDate": "2002-09-24",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2002-09-24"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2024-02-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2002-09-24",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2024-02-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "36.84790692",
-        "-119.7933948"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "TEMe8rldHjVnPtbocWjv.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Fresno, CA (7809 N Blackstone Ave)",
+  "storeNumber": "",
+  "startDate": "2002-09-24",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2002-09-24"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-02-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2002-09-24",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-02-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Studio C Beta, 32m",
+      "s": "2002-09-00",
+      "e": "2024-02-00",
+      "desc": "One of many installed in California."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2024-02-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "36.84790692",
+    "-119.7933948"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "TEMe8rldHjVnPtbocWjv.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1??",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    }
+  ]
 }

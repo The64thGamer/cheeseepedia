@@ -8,34 +8,12 @@ Austin (Burnet) opened its doors on January 28th, 1982, as the fifth ShowBiz Piz
 
 Originally, Austin (Burnet) featured a Rock-Afire Explosion, as all other ShowBiz locations did. Unfortunately, there are some photos but no videos to exist of Austin (Burnet) with the Rock afire, or as a ShowBiz in general. Austin (Burnet) got Concept Unification sometime in 1991. In October 2006, they removed the 3-Stage for their closure.
 
-| Stage                                               | Intalled     | Removed      | Notes                                                                |
-|-----------------------------------------------------|--------------|--------------|----------------------------------------------------------------------|
-| [Classic Stage]             | January 1982 | 1991         | 5th ShowBiz Pizza store to open in Texas.                            |
-| [Concept Unification Stage (3-Stage)] | 1991         | October 2006 | One of 17 ShowBiz locations in Texas to receive Concept Unification. |
-
 ## Arcade Machines
 
 ### Identified Machines
 
 - [Chuck E Cheese's Sketch Book]
 - [Chuck E Cheese's Memory Match]
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts        |
-|---------------------------------------------------------------------------|---------------|--------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-81 1-4      | Unknown/Destroyed. |
-| [Dook Larue (Animatronic)]                        | 7-81 2-4      | Unknown/Destroyed. |
-| [Fatz Geronimo (Animatronic)]                     | 7-81 3-4      | Unknown/Destroyed. |
-| [Beach Bear (Animatronic)]                        | 7-81 4-4      | Unknown/Destroyed. |
-| [Mitzi Mozzarella (Animatronic)]                  | 7-81 5-4      | Unknown/Destroyed. |
-| [Billy Bob (Animatronic)]                         | 7-81 6-4      | Unknown/Destroyed. |
-| [Looney Bird (Animatronic)]                       | 7-81 7-4      | Unknown/Destroyed. |
-| [Choo Choo (Animatronic)]                         | 7-81 8-4      | Unknown/Destroyed. |
-| [Sun (Animatronic)]                               | 7-81 10-4     | Unknown/Destroyed. |
-| [Moon (Animatronic)]                              | 7-81 11-4     | Unknown/Destroyed. |
-| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed. |
-| [Wink]                                            | N/A           | Unknown/Destroyed. |
 
 ## Videos
 

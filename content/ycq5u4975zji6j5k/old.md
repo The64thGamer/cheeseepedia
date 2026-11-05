@@ -8,23 +8,6 @@ Mentor opened on July 20th, 1998. Mentor would be the second to last new store t
 
 Originally, when this store opened it featured Chuck in his tuxedo suit. It was later replaced with Cool Chuck, and then Avenger clothing.
 
-| Stage                                                      | Installed    | Removed      | Condition                                                                                                                                                                             |
-|------------------------------------------------------------|--------------|--------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [1-Stage]                          | July 1998    | May 13, 2023 | Good condition until removal. Movements like Chucks eyelids and Munches hands stopped working after a while, along with miscellaneous less noticeable movements such as Jaspers eyes. |
-| [Chuck E Live Stage (Dance Floor)] | May, 14 2024 | Still in Use |                                                                                                                                                                                       |
-| [Video Wall]                       | May 2024     | Still in Use |                                                                                                                                                                                       |
-
-## Animatronics
-
-| Animatronic                                                  | Serial Number | Whereabouts                                                                            |
-|--------------------------------------------------------------|---------------|----------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | N/A           | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Guest Star / Helen Henny (Cyberamic)] | N/A           | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Mr. Munch (Cyberamic)]               | N/A           | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Jasper T. Jowls (Cyberamic)]         | N/A           | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Pasqually (Cyberamic)]              | N/A           | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Wink (Cyberamic)]                   | N/A           | Removed. Saved by a private collector on May 14, 2024.                                 |
-
 ## Videos
 
 | Link                                                                                                                                    | Filming Date    | Publish Date |

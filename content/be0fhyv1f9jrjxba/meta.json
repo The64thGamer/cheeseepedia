@@ -1,44 +1,91 @@
 {
-    "title": "Middletown, NJ (1107 Route 35)",
-    "storeNumber": "",
-    "startDate": "1994-07-25",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1994-07-25"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2024-06-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1994-07-25",
-            "e": "2024-06-02",
-            "desc": "1-Stage w/ Turntable"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2024-06-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "40.39686952",
-        "-74.11000663"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "wzOC3iZW0Clzol5cO4zE.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Middletown, NJ (1107 Route 35)",
+  "storeNumber": "",
+  "startDate": "1994-07-25",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1994-07-25"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-06-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1994-07-25",
+      "e": "2024-06-02",
+      "desc": "1-Stage w/ Turntable"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-06-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Dance Floor",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Video Wall",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.39686952",
+    "-74.11000663"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "wzOC3iZW0Clzol5cO4zE.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    }
+  ]
 }

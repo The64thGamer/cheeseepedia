@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "1979-12-26",
   "endDate": "1984-00-00",
-  
   "remodels": [
     {
       "n": "PTT Standard Layout",
@@ -168,6 +167,27 @@
       "e": "1984-00-00",
       "l": "N/A",
       "desc": "Bought by Bonnie Collins for the 'King Lion' restaurant."
+    },
+    {
+      "n": "Clapper Board (Cyberamic)",
+      "s": "1979-12-00",
+      "e": "1985-01-00",
+      "l": "Unknown",
+      "desc": "Unknown. Sold In Auction."
+    },
+    {
+      "n": "Dolli Dimples (Cabaret)",
+      "s": "1979-12-00",
+      "e": "1985-01-00",
+      "l": "Unknown",
+      "desc": "Unknown. Sold In Auction"
+    },
+    {
+      "n": "Helen Henny (Lounge)",
+      "s": "1979-12-00",
+      "e": "1985-01-00",
+      "l": "Unknown",
+      "desc": "Unknown. Sold In Auction.; Huntington Beach, CA (15511 Edwards St) Confirmed."
     }
   ],
   "sqft": "9450",

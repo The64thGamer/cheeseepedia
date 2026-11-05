@@ -4,16 +4,6 @@
 
 Joplin opened with a Studio C Cappa, the first ever. They never recieved 2.0.
 
-| Stage                                    | Installed | Removed    |
-|------------------------------------------|-----------|------------|
-| [Studio C Cappa] | 2003      | April 2024 |
-
 ## History
 
 Joplin opened in 2003. It is not known how the 2011 Joplin Tornado affected the store. However, judging by the storm path, damage from the storm is unlikely. The store opened with a Studio C Cappa, the first ever installed in a location. They never received the 2.0 update and closed on March 30, 2024.
-
-## Animatronics
-
-| Animatronic                                                | **Serial / Manufacturing Date** | Whereabouts       |
-|------------------------------------------------------------|---------------------------------|-------------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A                             | Unknown/Destroyed |

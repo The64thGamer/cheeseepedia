@@ -1,30 +1,95 @@
 {
-    "title": "Irving, TX (1707 Market Pl Blvd 200)",
-    "storeNumber": "",
-    "startDate": "2015-07-00",
-    "endDate": "2026-06-00",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2015-07-00"
-        }
-    ],
-    "stages": [],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "32.920617",
-        "-96.969959"
-    ],
-    "citations": [],
-    "contributors": [
-        "sudo-trans-pony"
-    ],
-    "downloadLinks": [],
-    "pageThumbnailFile": "Boig0fjJ8j51Gv4AhiGx.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Irving, TX (1707 Market Pl Blvd 200)",
+  "storeNumber": "",
+  "startDate": "2015-07-00",
+  "endDate": "2026-06-00",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2015-07-00"
+    }
+  ],
+  "stages": [],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.920617",
+    "-96.969959"
+  ],
+  "citations": [],
+  "contributors": [
+    "sudo-trans-pony"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Boig0fjJ8j51Gv4AhiGx.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 1-13",
+      "desc": "In use.; Used to program 3-Stage shows"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 5-13",
+      "desc": "In use.; Used to program 3-Stage shows"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 3-13",
+      "desc": "In use.; Used to program 3-Stage shows"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 4-13",
+      "desc": "In use.; Used to program 3-Stage shows"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 2-13",
+      "desc": "In use.; Used to program 3-Stage shows"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 10-20",
+      "desc": "In use.; Installed in Fall 2018. Originally came from Houston, TX (5535 Weslayan St). Masks replaced in 2019"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "|1-82 11-20",
+      "desc": "1-82 11-20; In use."
+    },
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used to be in use.; Formerly used to program Studio C shows."
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used to be in use.; Formerly used to program Studio C shows"
+    }
+  ]
 }

@@ -10,10 +10,6 @@ This location opened with the [Galaxy Stage], which was a test stage only instal
 
 ## Animatronics
 
-| Animatronic                                                | Serial  | Whereabouts                                 |
-|------------------------------------------------------------|---------|---------------------------------------------|
-| [Chuck E Cheese 16m (Animatronic)] | Unknown | Unknown, Likely Destroyed or Used for Parts |
-
 TODO
 
 ## Videos

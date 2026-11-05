@@ -1,11 +1,5 @@
 ***8 Orange Plaza Lane*** was a *Chuck E. Cheese's* that opened on December 17, 2002 with a [Studio C Beta], and closed on October 22, 2017 due to leasing issues.(1)(2)
 
-## Stages
-
-| Stage                                   | Installed     | Removed       | Notes              |
-|-----------------------------------------|---------------|---------------|--------------------|
-| [Studio C Beta] | December 2002 | November 2017 | Single Screen Beta |
-
 ## History
 
 TODO

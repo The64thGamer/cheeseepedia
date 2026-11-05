@@ -8,24 +8,6 @@ Canton opened in an unnamed shopping center with a [Chuck E.'s House (Rocker Sta
 
 When Canton first opened, the location opened with [Chuck E.'s House (Rocker Stage)] which was the only one installed in the state which was located on the left side wall. In 1993/1994, it was converted into a [2-Stage], moving the show to the back wall. They would have the 2-Stage until August 2022 when it was removed for a 2021 Model Dance Floor &amp; Video Wall. As of April 2023, Canton still has their 2021 model Dance Floor &amp; Video Wall.
 
-| Stage                         | Installed   | Removed      |
-|-------------------------------|-------------|--------------|
-| Chuck E.'s House/Rocker Stage | May 1988    | 1993/1994    |
-| 2-Stage                       | 1993/1994   | August 2022  |
-| Dance Floor + Video Wall      | August 2022 | Still in use |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing date | Status   |
-|--------------------------------------------------------------|--------------------|----------|
-| [Chuck E. Cheese (Cyberamic)]      | 1980s              | Unknown. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1980s              | Unknown. |
-| [Mr. Munch (Cyberamic)]               | 1980s              | Unknown. |
-| [Jasper T. Jowls (Cyberamic)]         | 1980s              | Unknown. |
-| [Pasqually (Cyberamic)]              | 1980s              | Unknown. |
-| [Singing Flowers (Cyberamic)]        | 1988               | Unknown. |
-| [Wink (Cyberamic)]                   | 1993/1994          | Unknown. |
-
 ## Videos
 
 | Link                                                | Description                                                                                                                        | Filming Date      | Published Date    |

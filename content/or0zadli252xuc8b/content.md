@@ -56,32 +56,6 @@ Hugs and Tugs are baby bear twins, under the care of their beloved Grams, that a
 
 ### Dunia Fantasi
 
-| Animatronic      | Manufacturing Date | Status  |
-|------------------|--------------------|---------|
-| Cheer Bear       | 1986               | Unknown |
-| Funshine Bear    | 1986               | Unknown |
-| Tenderheart Bear | 1986               | Unknown |
-| Bedtime Bear     | 1986               | Unknown |
-| Grumpy Bear      | 1986               | Unknown |
-| Friend Bear      | 1986               | Unknown |
-| Care Meter       | 1986               | Unknown |
-| Flowers          | 1986               | Unknown |
-
-### Dorney Park
-
-| Animatronic      | Manufacturing Date | Status    |
-|------------------|--------------------|-----------|
-| Cheer Bear       | 1987               | Destroyed |
-| Funshine Bear    | 1987               | Destroyed |
-| Tenderheart Bear | 1987               | Destroyed |
-| Bedtime Bear     | 1987               | Destroyed |
-| Grumpy Bear      | 1987               | Destroyed |
-| Friend Bear      | 1987               | Destroyed |
-| Care Meter       | 1987               | Destroyed |
-| Flowers          | 1987               | Destroyed |
-
-### Dunia Fantasi
-
 ### Dorney Park
 
 ## Videos

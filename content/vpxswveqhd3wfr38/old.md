@@ -1,14 +1,5 @@
 ***Charlotte, NC (7701 Pineville-Matthews Rd), Store #64*** (Commonly referred to as the ***Pineville*** location) was a [ShowBiz Pizza Place] store that opened on October 20th, 1982, which is currently operating to this day as a [Chuck E Cheese's]. It was the first ShowBiz Pizza to open in the state of North Carolina, and the second to open in the Carolinas overall. This location has the last 3-Stage in the state, as well as being the **last** 3-Stage in existence, after [Billings, MT (100 24th St)] was removed for 2.0 on July 28th, 2024.   In May of 2024, Pineville had been chosen as one of five Chuck E. Cheese locations to be designated as a [CEC Legacy Locations], receiving a variant of the [CEC 2.0 Remodel Program] in June of that year.https://www.reddit.com/r/chuckecheese/comments/1d1iq2g/comment/l5wec8e/
 
-## Stages
-
-| Stage                                               | Installed       | Removed      | Notes                                                                                                                                                                                                            |
-|-----------------------------------------------------|-----------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Classic Stage]             | October 1982    | 1991         | First ShowBiz Pizza Place in North Carolina.                                                                                                                                                                     |
-| [Concept Unification Stage (3-Stage)] | 1991            | Still in Use | One of six North Carolina ShowBiz stores to undergo Concept Unification. Last 3-Stage in operation and last complete 3-Stage. Preserved in-store following the 2.0 remodel as the company's official 3-stage(1). |
-| Dance Floor                                         | June 11th, 2024 | Still in Use | Model 2021                                                                                                                                                                                                       |
-| Video Wall                                          | June 13th, 2024 | Still in Use |                                                                                                                                                                                                                  |
-
 ## History
 
 Pineville opened its doors on October 20th, 1982, at the *Carmel Commons Shopping Center* with a [Rock-afire Explosion] show, being the second ShowBiz in the Carolinas following [Charleston, SC (1610 Sam Rittenburg Blvd)]. It was originally a franchise-owned store, under the ownership of 'Adventure Restaurant Corporation,' which owned other ShowBiz locations in the area during the time. Like many other ShowBiz locations, it had a typical layout seen in many other stores and would eventually receive the 1988 remodel. Although very little documentation exists back in the ShowBiz days, it can be determined that Pineville was one of several locations to receive an Uncle Klunk show package (and a Santa Claus retrofit package as well) sometime after opening with the few photos available online and what would remain of the 'Abombination' drop-down sign mechanic slot on stage right. Pineville received the [SPT 1980's Remodel Program], though it's unclear if their Rock-afire acquired the ShowBiz Pizza Campground update.
@@ -205,21 +196,3 @@ In May 2024, CEC Entertainment announced Pineville's selection as a [CEC Legacy 
 | [Link](https://www.youtube.com/watch?v=usPzKBvKJfE)      | First YouTube upload of the Legacy 2.0. Remodel.                                                                                                  | June 11th, 2024    | June 11th, 2024    |
 | [Link](https://www.youtube.com/watch?v=gEoDp0edNfc)      | [Laurel, MD (936 Fairlawn Ave)]'s Pizzacam at Pineville upon arrival.                                                     | June 18, 2024      | June 18, 2024      |
 | [Link](https://www.youtube.com/watch?v=l4EklhIpl10)      | A tour of the store in Summer 2024 by the Sets, Streets, &amp; Eats YouTube channel.                                                              | Summer 2024        | July 14, 2024      |
-
-## Animatronics
-
-| Animatronic                                                               | Serial     | Whereabouts                                                                                                 |
-|---------------------------------------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-23  | In store.                                                                                                   |
-| [Dook Larue (Animatronic)]                        | 1-82 2-23  | In store.                                                                                                   |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-23  | In store.                                                                                                   |
-| [Beach Bear (Animatronic)]                        | 1-82 4-23  | In store.                                                                                                   |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-23  | In store.                                                                                                   |
-| [Billy Bob (Animatronic)]                         | 1-82 6-23  | Unknown.                                                                                                    |
-| [Looney Bird (Animatronic)]                       | 1-82 7-23  | Disassembled.                                                                                               |
-| [Looney Bird (Animatronic)]                       | 10-82 7-40 | In store. Previously from [Laurel, MD (936 Fairlawn Ave)].(5)                       |
-| [Choo Choo (Animatronic)]                         | 1-82 8-23  | Unknown. Custom replica produced in March 2022.                                                             |
-| [Sun (Animatronic)]                               | 1-82 10-23 | In store. Currently using mask from [Columbia, SC (1775 Burning Tree Dr)] location. |
-| [Moon (Animatronic)]                              | 1-82 11-23 | In store.                                                                                                   |
-| [Antioch (Animatronic)]                           | N/A        | Unknown.                                                                                                    |
-| [Wink]                                            | N/A        | In store.                                                                                                   |

@@ -13,13 +13,3 @@ Construction of the location within the Sangertown Square Mall was recorded as e
 ### Closure
 
 Operations winded down in 1985 due to poor sales amidst the company's filing for Chapter 11 Bankruptcy and pressures on the franchisee from competitor [ShowBiz Pizza Place] (2).
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts |
-|--------------------------------------------------------------|--------------------|-------------|
-| [Chuck E. Cheese (Cyberamic)]                                   |                    | Destroyed   |
-| [Guest Star / Helen Henny (Cyberamic)] |                    | Destroyed   |
-| [Mr. Munch (Cyberamic)]               |                    | Destroyed   |
-| [Pasqually (Cyberamic)]              |                    | Destroyed   |
-| [Jasper T. Jowls (Cyberamic)]         |                    | Destroyed   |

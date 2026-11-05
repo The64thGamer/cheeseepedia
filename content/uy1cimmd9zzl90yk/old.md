@@ -8,13 +8,6 @@ Overland Park, KS opened its doors on September 29th, 1980 as the first store in
 
 Originally when the store opened, they had a Rock-Afire Explosion, they were the 3rd RAE installed, and had the 'Beta' bots, which had hollow frames, unlike the later ones, which have solid frames. In around 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters.
 
-| Stage                                                      | Installed      | Removed      | Notes                                                                           |
-|------------------------------------------------------------|----------------|--------------|---------------------------------------------------------------------------------|
-| [Classic Stage]                    | September 1980 | 1991-1992    | First ShowBiz Pizza in Kansas.                                                  |
-| [Concept Unification Stage (3-Stage)]        | 1991-1992      | 2000         | One of two Kansas locations to receive Concept Unification.                     |
-| Studio C Beta                                              | 2000           | 2017         | Only animatronic show in Overland Park. One of first five Studio C Beta stages. |
-| [Chuck E Live Stage (Dance Floor)] | 2017           | Still in Use | 2019 Model. Only remaining ShowBiz Pizza in Kansas. First of the 7 2.0's.       |
-
 ## Arcade Machines
 
 ### Skill
@@ -94,34 +87,6 @@ Originally when the store opened, they had a Rock-Afire Explosion, they were the
 - Generic Fire Truck Ride
 
 ## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts         |
-|---------------------------------------------------------------------------|---------------|---------------------|
-| Beta Rolfe DeWolfe                                                        | 7-80 1-3      | Destroyed           |
-| Beta Dook Larue                                                           | 7-80 2-3      | Destroyed           |
-| Beta Fatz Geronimo                                                        | 7-80 3-3      | Destroyed           |
-| Beta Beach Bear                                                           | 7-80 4-3      | Destroyed           |
-| Beta Mitzi Mozzarella                                                     | 7-80 5-3      | Destroyed           |
-| Beta Billy Bob                                                            | 7-80 6-3      | Destroyed           |
-| Beta Looney Bird                                                          | 7-80 7-3      | Destroyed           |
-| Beta Choo Choo                                                            | 7-80 8-3      | Destroyed           |
-| Beta Sun                                                                  | 7-80 10-3     | Destroyed           |
-| Beta Moon                                                                 | 7-80 11-3     | Destroyed           |
-| Beta Antioch                                                              | N/A           | Destroyed           |
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-2      | Unknown / Destroyed |
-| [Dook Larue (Animatronic)]                        | 4-81 2-2      | Unknown / Destroyed |
-| [Fatz Geronimo (Animatronic)]                     | 4-81 3-2      | Unknown / Destroyed |
-| [Beach Bear (Animatronic)]                        | 4-81 4-2      | Unknown / Destroyed |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-2      | Unknown / Destroyed |
-| [Billy Bob (Animatronic)]                         | 4-81 6-2      | Unknown / Destroyed |
-| [Looney Bird (Animatronic)]                       | 4-81 7-2      | Unknown / Destroyed |
-| [Choo Choo (Animatronic)]                         | 4-81 8-2      | Unknown / Destroyed |
-| [Sun (Animatronic)]                               | 4-81 10-2     | Unknown / Destroyed |
-| [Moon (Animatronic)]                              | 4-81 11-2     | Unknown / Destroyed |
-| [Antioch (Animatronic)]                           | N/A           | Unknown / Destroyed |
-| [Wink]                                            | N/A           | Destroyed           |
-| [Chuck E Cheese 32m (Animatronic)]                | 0??           | Destroyed           |
-| Clock                                                                     | N/A           | Destroyed           |
 
 TODO
 

@@ -8,34 +8,6 @@ Springfield opened its doors on March 22nd, 1983 as the first and only ShowBiz P
 
 Originally when the store opened, they had a [Rock-afire Explosion], which was the only in New England that was in a ShowBiz. Around 1991, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. In October 2017, the stage was converted into a Cyberamic 3-Stage with Cyberamics from the now closed Burlington, MA location.
 
-| Stage                                               | Installed    | Removed      | Notes                                                                                 |
-|-----------------------------------------------------|--------------|--------------|---------------------------------------------------------------------------------------|
-| [Classic Stage]             | March 1983   | 1991         | Only ShowBiz Pizza location to ever open in New England.                              |
-| [Concept Unification Stage (3-Stage)] | 1991         | October 2017 |                                                                                       |
-| [Cyberamic 3-Stage]         | October 2017 | June 2020    | Animatronics from the [Burlington, MA (10 Wall St)] location. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial     | Whereabouts                                                                       |
-|---------------------------------------------------------------------------|------------|-----------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-82 1-4  | Owned by Private Collector.                                                       |
-| [Dook Larue (Animatronic)]                        | 10-82 2-4  | Unknown.                                                                          |
-| [Fatz Geronimo (Animatronic)]                     | 10-82 3-4  | Owned by Private Collector.                                                       |
-| [Beach Bear (Animatronic)]                        | 10-82 4-4  | Unknown.                                                                          |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-82 5-4  | Owned by Private Collector.                                                       |
-| [Billy Bob (Animatronic)]                         | 10-82 6-4  | Unknown.                                                                          |
-| [Looney Bird (Animatronic)]                       | 10-82 7-4  | Unknown.                                                                          |
-| [Choo Choo (Animatronic)]                         | 10-82 8-4  | Unknown.                                                                          |
-| [Sun (Animatronic)]                               | 10-82 10-4 | Owned by a private collector.                                                     |
-| [Moon (Animatronic)]                              | 10-82 11-4 | Destroyed.                                                                        |
-| [Antioch (Animatronic)]                           | N/A        | Destroyed.                                                                        |
-| [Wink]                                            | N/A        | Destroyed.                                                                        |
-| [Chuck E. Cheese (Cyberamic)]                                                | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
-| [Guest Star / Helen Henny (Cyberamic)]              | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
-| [Mr. Munch (Cyberamic)]                            | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
-| [Jasper T. Jowls (Cyberamic)]                      | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
-| [Pasqually (Cyberamic)]                           | Unknown    | Destroyed. Originally from [Burlington, MA (10 Wall St)]. |
-
 ## Videos
 
 | Link                                                                                       | Description                                                                                                                | Date Filmed       | Date Published    |

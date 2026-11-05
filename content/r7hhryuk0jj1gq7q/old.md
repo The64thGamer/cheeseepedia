@@ -1,4 +1,4 @@
-***Florence, Ky (7635 Mall Rd) #212/112*** originally opened on April 19, 1982 as a Pizza Time Theater with a [Balcony Stage].(1) and is currently a Chuck E. Cheese with a [Chuck E Live Stage (Dance Floor)]. The Florence, KY Pizza Time Theatre opened as a franchise under the Bernstein Restaurant Group. The location was sold to corporate on August 25, 2008.
+***Florence, Ky (7635 Mall Rd) #212/112*** originally opened on April 19, 1982 as a Pizza Time Theater with a [Balcony Stage].(1) and is currently a Chuck E. Cheese with a [Chuck E. Live Stage (Dance Floor)]. The Florence, KY Pizza Time Theatre opened as a franchise under the Bernstein Restaurant Group. The location was sold to corporate on August 25, 2008.
 
 ## Stages
 
@@ -12,15 +12,7 @@ Despite curtains being disabled in 2005 Florence would continue to use them for 
 
 In 2008 Chuck E.'s curtains would be disabled due to CEC Entertainment purchasing the store on August 25, 2008. Standardizing the store. In October/November 2010 Florence received the [CEC 2000's Remodel Program]. During the remodel the stage was relocated from the right wall to the store's back wall; The two buildings were switched around with the stage itself was rebuilt. Chuck E.'s curtains would also be re-installed despite not functioning for over 2 years by this point. This would also include the parts installed for the MMBB Curtains.
 
-In late 2017, the stage's old lightbulbs were replaced with LEDs, the TV was replaced with a flatscreen, and a small lightbox with a blue LED strip in it was added underneath aforementioned TV. (9) On March 31, 2022, Florence's 2-Stage was removed for its new [CEC 2.0 Remodel Program]. Replacing the stage with the 2021 [Chuck E Live Stage (Dance Floor)] and Video Wall.
-
-| Stage                                                      | Debuted        | Removed        |
-|------------------------------------------------------------|----------------|----------------|
-| [Balcony Stage]         | April 19, 1982 | 1988-1989      |
-| [Chuck E.'s House (Rocker Stage)]                  | 1988-1989      | 2002-2003      |
-| [2-Stage]                          | 2002-2003      | March 31, 2022 |
-| [Chuck E Live Stage (Dance Floor)] | March 31, 2022 | Still In Use   |
-| [Video Wall]                       | April 2022     | Still In Use   |
+In late 2017, the stage's old lightbulbs were replaced with LEDs, the TV was replaced with a flatscreen, and a small lightbox with a blue LED strip in it was added underneath aforementioned TV. (9) On March 31, 2022, Florence's 2-Stage was removed for its new [CEC 2.0 Remodel Program]. Replacing the stage with the 2021 [Chuck E. Live Stage (Dance Floor)] and Video Wall.
 
 ## History
 
@@ -38,7 +30,7 @@ On August 25, 2008, the store became a corporate-owned location. With this the s
 
 In Winter 2014 the store would receive another Game Package replacing/removing several older games. In April 2016, Florence would receive a Game Package with several games older games being sent to other stores in the district or destroyed. Later in 2016 the store would receive [Chuck E's Play Pass]. In 2017, the [Skytubes] would be removed.
 
-On March 14, 2022, Florence would begin its [CEC 2.0 Remodel Program]. This would involve removing all aspects of the [CEC 2000's Remodel Program]. During the remodel original Pizza Time Theatre bricks were briefly uncovered. On March 31, 2022 the 2-Stage would be removed and replaced with the 2021 [Chuck E Live Stage (Dance Floor)]. The Video Wall would be installed in April 2022. The store would have its grand re-opening on May 10, 2022, with a special appearance of Boardman, OH (521 Boardman Poland Rd) 2000s Helen Henny walkaround as part of the festivities.(17) On August 29, 2024, Florence will install its Trampoline Zone receiving new games in the weeks prior.
+On March 14, 2022, Florence would begin its [CEC 2.0 Remodel Program]. This would involve removing all aspects of the [CEC 2000's Remodel Program]. During the remodel original Pizza Time Theatre bricks were briefly uncovered. On March 31, 2022 the 2-Stage would be removed and replaced with the 2021 [Chuck E. Live Stage (Dance Floor)]. The Video Wall would be installed in April 2022. The store would have its grand re-opening on May 10, 2022, with a special appearance of Boardman, OH (521 Boardman Poland Rd) 2000s Helen Henny walkaround as part of the festivities.(17) On August 29, 2024, Florence will install its Trampoline Zone receiving new games in the weeks prior.
 
 ## Videos
 
@@ -57,24 +49,3 @@ On March 14, 2022, Florence would begin its [CEC 2.0 Remodel Program]. This woul
 | [Link](https://www.youtube.com/watch?v=dhSpJSqxkn0) | The Remodeling Process                                                 | March-April 2022   | May 15, 2022       |
 | [Link](https://www.youtube.com/watch?v=57E6YNtFHV0) | Documentation of Florence's history.                                   | May-June 2022      | June 3, 2022       |
 |                                                     |                                                                        |                    |                    |
-
-## Animatronics
-
-| Animatronic                                                  | Serial / Manufacturing Date | Whereabouts                                                                                                                                                      |
-|--------------------------------------------------------------|-----------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]        | 1982                        | Removed in 2000s for 2-Stage, mechs were sent to USS Nightmare (Owned by the same owners)                                                                        |
-| [Guest Star / Helen Henny (Cyberamic)] | 1982                        | \|Removed in 2000s for 2-Stage, body was sent to Eastgate to convert Rocker Helen into standard helen. head got sent to USS Nightmare (Owned by the same owners) |
-| [Mr. Munch (Cyberamic)]               | 1982                        | Removed in 2000s for 2-Stage, mechs were sent to USS Nightmare (Owned by the same owners)                                                                        |
-| [Jasper T. Jowls (Cyberamic)]         | 1982                        | Removed in 2000s for 2-Stage, mechs were sent to USS Nightmare (Owned by the same owners)                                                                        |
-| [Pasqually (Cyberamic)]              | 1982                        | Unknown/Destroyed.                                                                                                                                               |
-| [Warblettes (Cyberamic)]             | 1982                        | Unknown/Destroyed.                                                                                                                                               |
-| [Applause Board (Cyberamic)]         | 1982                        | Unknown/Destroyed.                                                                                                                                               |
-| [Drum Board (Cyberamic)]             | 1982                        | Unknown/Destroyed.                                                                                                                                               |
-| [Flag Wavers (Cyberamic)]            | 1982                        | Unknown/Destroyed.                                                                                                                                               |
-| [Singing Flowers (Cyberamic)]        | Late 1980's                 | Unknown/Destroyed.                                                                                                                                               |
-| \|[The King / King Kat (Lounge)]       | 1982                        | Unknown/Destroyed.                                                                                                                                               |
-| [Chuck E. Cheese (Cyberamic)]        | February 1982               | Privately Owned. Originally from [Hampton, VA (4027 W Mercury Blvd)]. Removed in March 2022.                                             |
-| [Guest Star / Helen Henny (Cyberamic)] | February 1982               | Privately Owned. Originally from [Hampton, VA (4027 W Mercury Blvd)]. Removed in March 2022.                                             |
-| [Mr. Munch (Cyberamic)]               | February 1982               | Privately Ownedd. Originally from [Hampton, VA (4027 W Mercury Blvd)]. Removed in March 2022.                                            |
-| [Jasper T. Jowls (Cyberamic)]         | February 1982               | Privately Owned. Originally from [Hampton, VA (4027 W Mercury Blvd)]. Removed in March 2022.                                             |
-| [Pasqually (Cyberamic)]              | February 1982               | Privately Owned. Originally from [Hampton, VA (4027 W Mercury Blvd)]. Removed in March 2022.                                             |

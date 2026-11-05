@@ -8,28 +8,6 @@ Dothan opened sometime in December 1983 as the eighth or ninth ShowBiz Pizza Pla
 
 Originally, Dothan featured a Rock-afire Explosion, as all other ShowBiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-afire Explosion into the 3-Stage. They would have the 3-Stage until the store's closure on April 23, 1998.
 
-| Stage                                               | Installed | Removed        | Notes                                                                |
-|-----------------------------------------------------|-----------|----------------|----------------------------------------------------------------------|
-| [Classic Stage]             | 1984      | 1991/1992      | 8th or 9th ShowBiz Pizza Place in Alabama.                           |
-| [Concept Unification Stage (3-Stage)] | 1991/1992 | April 22, 1998 | One of seven in the state of Alabama to undergo Concept Unification. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial     | Whereabouts         |
-|---------------------------------------------------------------------------|------------|---------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ?-8? 1-??  | Destroyed / Unknown |
-| [Dook Larue (Animatronic)]                        | ?-8? 2-??  | Destroyed / Unknown |
-| [Fatz Geronimo (Animatronic)]                     | ?-8? 3-??  | Destroyed / Unknown |
-| [Beach Bear (Animatronic)]                        | ?-8? 4-??  | Destroyed / Unknown |
-| [Mitzi Mozzarella (Animatronic)]                  | ?-8? 5-??  | Destroyed / Unknown |
-| [Billy Bob (Animatronic)]                         | ?-8? 6-??  | Destroyed / Unknown |
-| [Looney Bird (Animatronic)]                       | ?-8? 7-??  | Destroyed / Unknown |
-| [Choo Choo (Animatronic)]                         | ?-8? 8-??  | Destroyed / Unknown |
-| [Sun (Animatronic)]                               | ?-8? 10-?? | Destroyed / Unknown |
-| [Moon (Animatronic)]                              | ?-8? 11-?? | Destroyed / Unknown |
-| [Antioch (Animatronic)]                           | N/A        | Destroyed / Unknown |
-| [Wink]                                            | N/A        | Destroyed / Unknown |
-
 ## Videos
 
 | Link                               | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Filming Date |

@@ -1,4 +1,4 @@
-***1703 Central Park Ave, Store #65*3** is a Chuck E. Cheese that opened on September 3rd, 2022, with a [Chuck E Live Stage (Dance Floor)]
+***1703 Central Park Ave, Store #65*3** is a Chuck E. Cheese that opened on September 3rd, 2022, with a [Chuck E. Live Stage (Dance Floor)]
 
 ## History
 
@@ -13,10 +13,6 @@ On September 3rd, 2022 after 5 months of construction the Chuck E. Cheese had of
 ## Stage
 
 In leaked documents from 2021 relating to the construction of the new store it was shown that they were originally intended to get a Circle of Lights. Although those plans never came to fruition, they instead have the Video Wall and Dance Floor, but have a 2019 model with a frame.
-
-| Stage                    | INstalled      | Removed       |
-|--------------------------|----------------|---------------|
-| Dance Floor + Video Wall | September 2022 | Still in use. |
 
 ## Videos
 

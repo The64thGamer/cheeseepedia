@@ -26,7 +26,8 @@
     {
       "n": "Classic Stage",
       "s": "1981-10-21",
-      "e": "1984-01-08"
+      "e": "1984-01-08",
+      "desc": "Re-used at Miami, FL (19191 S Dixie Hwy)"
     },
     {
       "n": "2-Stage",
@@ -43,7 +44,14 @@
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2024-08-13",
-      "desc": "2019 Model"
+      "desc": "2019 Model",
+      "e": "2024-08-12"
+    },
+    {
+      "n": "Video Wall",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Eclipse Model"
     }
   ],
   "franchisees": [],
@@ -179,6 +187,13 @@
       "e": "2019-10-30",
       "l": "N/A",
       "desc": "Unknown"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
     }
   ],
   "sqft": "10,406",

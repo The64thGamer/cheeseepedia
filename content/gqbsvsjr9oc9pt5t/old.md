@@ -8,28 +8,6 @@ Memphis (Austin Peay) opened its doors on August 7th, 1983 as the 7th ShowBiz Pi
 
 Memphis (Austin Peay) originally featured a Rock-Afire Explosion, as all other ShowBiz locations did. Unfortunately, there are no photos or videos to exist of Memphis (Hickory Hill) with the Rock afire, or as a ShowBiz in general. In 1991, Memphis (Austin Peay) received [Concept Unification], converting the RockAfire Explosion into Munch’s Make Believe Band. In April 2013, Memphis (Austin Peay) removed the 3-Stage due to closure.
 
-| Stage                                               | Installed   | Removed      | Notes                                                                |
-|-----------------------------------------------------|-------------|--------------|----------------------------------------------------------------------|
-| [Classic Stage]             | August 1983 | 1991         | 7th ShowBiz Pizza Store in Tennessee.                                |
-| [Concept Unification Stage (3-Stage)] | 1991        | October 2020 | Underwent Concept Unification like every other ShowBiz in Tennessee. |
-
-## Animatronics
-
-| Character                                                                 | Serial     | Status                         |
-|---------------------------------------------------------------------------|------------|--------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ?-8? 1-??  | sent to (3649 Hickory Hill Rd) |
-| [Dook Larue (Animatronic)]                        | ?-8? 2-??  | sent to (3649 Hickory Hill Rd) |
-| [Fatz Geronimo (Animatronic)]                     | ?-8? 3-??  | sent to (3649 Hickory Hill Rd) |
-| [Beach Bear (Animatronic)]                        | ?-8? 4-??  | sent to (3649 Hickory Hill Rd) |
-| [Mitzi Mozzarella (Animatronic)]                  | ?-8? 5-??  | sent to (3649 Hickory Hill Rd) |
-| [Billy Bob (Animatronic)]                         | ?-8? 6-??  | Unknown/Destroyed              |
-| [Looney Bird (Animatronic)]                       | ?-8? 7-??  | Unknown/Destroyed              |
-| [Choo Choo (Animatronic)]                         | ?-8? 8-??  | Unknown/Destroyed              |
-| [Sun (Animatronic)]                               | ?-8? 10-?? | Destroyed                      |
-| [Moon (Animatronic)]                              | ?-8? 11-?? | Destroyed                      |
-| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed              |
-| [Wink]                                            | N/A        | Destroyed                      |
-
 ## Videos
 
 TODO

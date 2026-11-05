@@ -1,43 +1,88 @@
 {
-    "title": "Topeka, KS (2215 SW Wanamaker Rd)",
-    "storeNumber": "",
-    "startDate": "1990-12-00",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1980's Remodel Program",
-            "s": "1990-12-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-07-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Road Stage",
-            "s": "1990-11-26",
-            "e": "2022-07-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-07-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "39.02549917",
-        "-95.76423118"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Topeka, KS (2215 SW Wanamaker Rd)",
+  "storeNumber": "",
+  "startDate": "1990-12-00",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-12-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-07-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1990-11-26",
+      "e": "2022-07-00",
+      "desc": "1st Chuck E. Cheese in Kansas. One of 2 Road Stages in Kansas."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-07-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.02549917",
+    "-95.76423118"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
+  ]
 }

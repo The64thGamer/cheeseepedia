@@ -2,7 +2,7 @@
 
 ## Stages
 
-When this location opened, it had a prototype [Studio C Beta](1) that had one TV. It would stay like this until February 2022 when it would be replaced by the 2019 Model [Chuck E Live Stage (Dance Floor)].
+When this location opened, it had a prototype [Studio C Beta](1) that had one TV. It would stay like this until February 2022 when it would be replaced by the 2019 Model [Chuck E. Live Stage (Dance Floor)].
 
 ## History
 
@@ -13,20 +13,6 @@ Athens opened on April 10, 2000 with the major 90s remodel. It would remain like
 | Link                                                | Description | Filming / Published Date |
 |-----------------------------------------------------|-------------|--------------------------|
 | [link](https://www.youtube.com/watch?v=WV1C5SBE5Sw) | Store Tour  | 29 December 2024         |
-
-## Stages
-
-| Stages                  | Installed      | Removed      | Notes      |
-|-------------------------|----------------|--------------|------------|
-| Studio C Beta Prototype | April 10, 2000 | 2020's       | Had one TV |
-| Dance Floor             | 2020's         | Still in use |            |
-| Video Wall              | 2020's         | Still in use |            |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Wherabouts        |
-|------------------------------------------------------------|--------|-------------------|
-| [Chuck E Cheese 32m (Animatronic)] | N/A    | Unknown/Destroyed |
 
 ## Games
 

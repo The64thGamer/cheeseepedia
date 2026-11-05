@@ -6,9 +6,4 @@ TODO
 
 ## Stages
 
-Originally, the location featured a Studio C Beta. They would keep the stage until July 2023, due to their 2.0 remodel. They would replaced it with the [Chuck E Live Stage (Dance Floor)] + [Video Wall].
-
-| Stage                                                                                             | Installed | Removed      | Notes       |
-|---------------------------------------------------------------------------------------------------|-----------|--------------|-------------|
-| [Studio C Beta]                                                           | July 2006 | July 2023    | 16M Beta    |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | July 2023 | Still In Use | 2021 Model. |
+Originally, the location featured a Studio C Beta. They would keep the stage until July 2023, due to their 2.0 remodel. They would replaced it with the [Chuck E. Live Stage (Dance Floor)] + [Video Wall].

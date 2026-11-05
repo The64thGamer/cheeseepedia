@@ -8,33 +8,6 @@ Mishawaka opened on September 22nd, 1982, as part of an expansion of the shoppin
 
 Originally when the store opened, they had a Rock-Afire Explosion. In 1991 or 1992, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. In 2006, Mishawaka’s animatronics were swapped out with ones from the recently closed Joliet IL store. In 2018, the 3-Stage caught on fire and was removed in July 2019 when it would undergo the 2.0 remodel for the Dance Floor. They still have the Dance Floor to this very day.
 
-| Stage                                                      | Installed      | Removed      | Notes                                                                                   |
-|------------------------------------------------------------|----------------|--------------|-----------------------------------------------------------------------------------------|
-| [Classic Stage]                    | September 1982 | 1991         | 5th ShowBiz store to open in Indiana.                                                   |
-| [Concept Unification Stage (3-Stage)]        | 1991           | July 2019    | One of 7 ShowBiz stores in Indiana to get Concept Unification. Caught fire in Mid 2018. |
-| [Chuck E Live Stage (Dance Floor)] | July 2019      | Still In Use | 2019 Model.                                                                             |
-
 ## Animatronics
-
-| Animatronic                                                               | Serial Code | Whereabouts                                           |
-|---------------------------------------------------------------------------|-------------|-------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-16   | Unknown.                                              |
-| [Dook Larue (Animatronic)]                        | 1-82 2-16   | Unknown.                                              |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-16   | Unknown.                                              |
-| [Beach Bear (Animatronic)]                        | 1-82 4-16   | Unknown.                                              |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-16   | Unknown.                                              |
-| [Billy Bob (Animatronic)]                         | 1-82 6-16   | Unknown.                                              |
-| [Looney Bird (Animatronic)]                       | 1-82 7-16   | Unknown.                                              |
-| [Choo Choo (Animatronic)]                         | 1-82 8-16   | Unknown.                                              |
-| [Sun (Animatronic)]                               | 1-82 10-16  | Unknown if replaced with Joliet’s.                    |
-| [Moon (Animatronic)]                              | 1-82 11-16  | Unknown if replaced with Joliet’s.                    |
-| [Antioch (Animatronic)]                           | N/A         | Unknown.                                              |
-| [Wink]                                            | N/A         | Destroyed in fire.                                    |
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-82 1-23  | Originally from Joliet, IL, now owned by a collector. |
-| [Dook Larue (Animatronic)]                        | 10-82 2-23  | Originally from Joliet, IL, unknown after fire.       |
-| [Fatz Geronimo (Animatronic)]                     | 10-82 3-23  | Originally from Joliet, IL, unknown after fire.       |
-| [Beach Bear (Animatronic)]                        | 10-82 4-23  | Originally from Joliet, IL, now owned by a collector. |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-82 5-23  | Originally from Joliet, IL, now owned by a collector. |
-|                                                                           |             |                                                       |
 
 TODO

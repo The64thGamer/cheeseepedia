@@ -8,29 +8,6 @@ Southgate opened on June 17th, 1982 as the 1st ShowBiz Pizza Place in Michigan a
 
 Originally, Southgate featured a Rock-Afire Explosion, as all other ShowBiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage. Southgate would have the 3-Stage until in August 2019 when the 3-Stage was replaced with a 2019 Model Dance Floor as part of their 2.0 Remodel. Currently, as of August 2023, Southgate still has their 2019 Model Dance Floor.
 
-| Stage                                                      | Installed   | Removed      | Notes                                                                     |
-|------------------------------------------------------------|-------------|--------------|---------------------------------------------------------------------------|
-| [Classic Stage]                    | June 1982   | 1991         | 1st ShowBiz store to open in Michigan.                                    |
-| [Concept Unification Stage (3-Stage)]        | 1991        | August 2019  | One of 6 ShowBiz Pizza Stores in Michigan to undergo Concept Unification. |
-| [Chuck E Live Stage (Dance Floor)] | August 2019 | Still In Use | 3rd 2.0 in Michigan. 2019 Model.                                          |
-
-## Animatronics
-
-| Character                                                                 | Serial     | Status                        |
-|---------------------------------------------------------------------------|------------|-------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-81 1-8  | Owned by a Private Collector. |
-| [Dook Larue (Animatronic)]                        | 10-81 2-8  | Owned by a Private Collector. |
-| [Fatz Geronimo (Animatronic)]                     | 10-81 3-8  | Owned by a Private Collector. |
-| [Beach Bear (Animatronic)]                        | 10-81 4-8  | Owned by a Private Collector. |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-81 5-8  | Owned by a Private Collector. |
-| [Billy Bob (Animatronic)]                         | 10-81 6-8  | Unknown/Destroyed.            |
-| [Looney Bird (Animatronic)]                       | 10-81 7-8  | Unknown/Destroyed.            |
-| [Choo Choo (Animatronic)]                         | 10-81 8-8  | Unknown/Destroyed.            |
-| [Sun (Animatronic)]                               | 10-81 10-8 | Destroyed.                    |
-| [Moon (Animatronic)]                              | 10-81 11-8 | Destroyed.                    |
-| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed.            |
-| [Wink]                                            | N/A        | Owned by a Private Collector. |
-
 ## Videos
 
 |                                                     |                                  |             |                |

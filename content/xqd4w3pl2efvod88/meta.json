@@ -1,36 +1,72 @@
 {
-    "title": "Redwood City, CA (2541-43 El Camino Real)",
-    "storeNumber": "",
-    "startDate": "1999-12-28",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1999-12-28"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Alpha",
-            "s": "1999-12-28",
-            "e": "2026-07-05"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "37.47320667",
-        "-122.2179174"
-    ],
-    "citations": [],
-    "contributors": [
-        "TutorialTimeYt"
-    ],
-    "downloadLinks": [],
-    "pageThumbnailFile": "9vB3FPv8qRa_zkOkPzyS.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Redwood City, CA (2541-43 El Camino Real)",
+  "storeNumber": "",
+  "startDate": "1999-12-28",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1999-12-28"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "1999-12-28",
+      "e": "2026-07-05"
+    },
+    {
+      "n": "Studio C (1997)|Studio C Alpha",
+      "s": "1999-12-00",
+      "e": "0000-00-00",
+      "desc": "Opened on the same day as the Burbank, CA (930 N San Fernando Blvd) store."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "37.47320667",
+    "-122.2179174"
+  ],
+  "citations": [],
+  "contributors": [
+    "TutorialTimeYt"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "9vB3FPv8qRa_zkOkPzyS.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "030 (R&D 4698)",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

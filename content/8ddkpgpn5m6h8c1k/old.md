@@ -8,22 +8,6 @@ The location opened in December 1996 as a franchised location with the 2-Stage f
 
 Chesapeake (Sam's Circle) would open in December 1996 with the 2-Stage from the now closed Merced, CA Pizza Time Theatre which was closed sometime a year prior (which was the first 2-Stage to be installed in California, as well as being one of the first 2-Stages made). This is one of two locations to have Chuck's Red Base (The only other 2-Stage to have it was the San Antonio, TX (Walzem / Windcrest) (8220 Windsor Cross)|Windsor Cross location which closed in December 2005 with their 2-Stage). Around the early to mid 200s Chuck E's tux was removed and replaced with the cool chuck outfit. However, they did keep his red derby. Then during their [CEC 2000's Remodel Program] remodel. They would get the full avenger outfit. This was the last Prototype 2-Stage in existence after the closure of the [White Settlement, TX (7750 Scott St)] location during the COVID-19 pandemic. The show’s condition was not that good in 2015 with some of its Flow Controls messed up and messy cosmetics. Around 2018 / 2019 it got a minor restoration the stage would stay this way until mid 2022 when Chucks body turn broke along with a bunch of air leaks. Most of the Backdrop Lights and Flood Lights being broken. Munch's body turn would be stuck to the right for a little bit. Pasqually's mustaches was connected to one of his arms and his head turn had an air leak. Helen and Jasper were in the best condition until in June They would start the 2.0 remodel which ended up removing the animatronics.
 
-| Stage                             | Installed     | Removed        | Notes                                                                                                                                             |
-|-----------------------------------|---------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| [2-Stage] | December 1996 | July 11th 2023 | One of six 2-Stages installed in Virginia. Originally from [Merced, CA (721 W Olive Ave)]. Collected by SPT Distribution. |
-| Dance Floor + Video Wall          | June 2023     | Installed      | 2021 model.                                                                                                                                       |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                                                                     |
-|--------------------------------------------------------------|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
-| [Mr. Munch (Cyberamic)]               | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
-| [Jasper T. Jowls (Cyberamic)]         | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
-| [Pasqually (Cyberamic)]              | 1982/1983          | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
-| [Wink (Cyberamic)]                   | 1992               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Merced, CA (721 W Olive Ave)]. |
-
 ## Videos
 
 TODO

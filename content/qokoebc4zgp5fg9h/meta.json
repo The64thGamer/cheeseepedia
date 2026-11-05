@@ -1,34 +1,114 @@
 {
-    "title": "Abilene, TX (1874 S Clack St)",
-    "storeNumber": "",
-    "startDate": "1982-10-07",
-    "endDate": "1983-00-00",
-    "remodels": [
-        {
-            "n": "SPP Standard Layout",
-            "s": "1982-10-07"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1982-10-07",
-            "e": "1983-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "32.42503937",
-        "-99.78963403"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "6NlimnF3JKiTMAwsuwXD.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Abilene, TX (1874 S Clack St)",
+  "storeNumber": "",
+  "startDate": "1982-10-07",
+  "endDate": "1983-00-00",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1982-10-07"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-10-07",
+      "e": "1983-00-00",
+      "desc": "Show sent to Whitehall, PA (1000 Lehigh Valley Mall) after closure."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.42503937",
+    "-99.78963403"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "6NlimnF3JKiTMAwsuwXD.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 1-12",
+      "desc": "Sent to Whitehall, PA (1000 Lehigh Valley Mall), now at SPT Distribution."
+    },
+    {
+      "n": "Dook Larue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 2-12",
+      "desc": "Sent to Whitehall, PA (1000 Lehigh Valley Mall), now at SPT Distribution."
+    },
+    {
+      "n": "Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 3-12",
+      "desc": "Sent to Whitehall, PA (1000 Lehigh Valley Mall), now at SPT Distribution."
+    },
+    {
+      "n": "Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 4-12",
+      "desc": "Sent to Whitehall, PA (1000 Lehigh Valley Mall), now at SPT Distribution."
+    },
+    {
+      "n": "Mitzi Mozzarella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 5-12",
+      "desc": "Sent to Whitehall, PA (1000 Lehigh Valley Mall), now at SPT Distribution."
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 6-12",
+      "desc": "Sent to Whitehall, PA (1000 Lehigh Valley Mall), now Unknown."
+    },
+    {
+      "n": "Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 7-12",
+      "desc": "Sent to Whitehall, PA (1000 Lehigh Valley Mall), now Unknown."
+    },
+    {
+      "n": "Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 8-12",
+      "desc": "Sent to Whitehall, PA (1000 Lehigh Valley Mall), now Unknown."
+    },
+    {
+      "n": "Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 10-12",
+      "desc": "Sent to Whitehall, PA (1000 Lehigh Valley Mall), now Unknown."
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 11-12",
+      "desc": "Sent to Whitehall, PA (1000 Lehigh Valley Mall), now Unknown."
+    },
+    {
+      "n": "Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Whitehall, PA (1000 Lehigh Valley Mall), now Destroyed."
+    }
+  ]
 }

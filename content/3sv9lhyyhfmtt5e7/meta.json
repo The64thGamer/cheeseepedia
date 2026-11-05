@@ -17,17 +17,20 @@
     {
       "n": "Portrait Stage",
       "s": "1980-07-15",
-      "e": "1981-00-00"
+      "e": "1981-00-00",
+      "desc": "12th Chuck E. Cheese's location ever opened."
     },
     {
       "n": "Balcony Stage",
       "s": "1981-00-00",
-      "e": "1989-00-00"
+      "e": "1989-00-00",
+      "desc": "One of many installed in California."
     },
     {
       "n": "Chuck E.'s House Facade (C-Stage)",
       "s": "1989-00-00",
-      "e": "1992-07-00"
+      "e": "1992-07-00",
+      "desc": "One of many installed in California."
     }
   ],
   "franchisees": [

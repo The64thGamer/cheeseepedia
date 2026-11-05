@@ -17,25 +17,3 @@ After closure, the store was abandoned for a few weeks until it's entire shoppin
 ## Stages
 
 Originally when the store opened, they had a Rock-Afire Explosion. In around 1991, they would undergo Concept Unification, this was the process used to convert the RAE characters into the Chuck E. Cheese characters. It would remain until the store closed.
-
-| Stage                                               | Installed | Removed    | Notes                                                                 |
-|-----------------------------------------------------|-----------|------------|-----------------------------------------------------------------------|
-| [Classic Stage]             | July 1983 | 1991       | 11th ShowBiz Pizza store in California                                |
-| [Concept Unification Stage (3-Stage)] | 1991      | March 2006 | One of 8 ShowBiz stores in California to undergo Concept Unification. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts |
-|---------------------------------------------------------------------------|---------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | Unknown       | Destroyed   |
-| [Dook Larue (Animatronic)]                        | Unknown       | Destroyed   |
-| [Fatz Geronimo (Animatronic)]                     | Unknown       | Destroyed   |
-| [Beach Bear (Animatronic)]                        | Unknown       | Destroyed   |
-| [Mitzi Mozzarella (Animatronic)]                  | Unknown       | Destroyed   |
-| [Billy Bob (Animatronic)]                         | Unknown       | Unknown     |
-| [Looney Bird (Animatronic)]                       | Unknown       | Destroyed   |
-| [Choo Choo (Animatronic)]                         | Unknown       | Destroyed   |
-| [Sun (Animatronic)]                               | Unknown       | Destroyed   |
-| [Moon (Animatronic)]                              | Unknown       | Destroyed   |
-| [Antioch (Animatronic)]                           | N/A           | Destroyed   |
-| [Wink]                                            | N/A           | Destroyed   |

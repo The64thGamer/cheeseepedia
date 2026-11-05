@@ -2,7 +2,7 @@
 
 ## Stages
 
-Olathe, Kansas opened with the Studio C Alpha in May of 2002, before being replaced by the [Chuck E Live Stage (Dance Floor)] in August of 2017.
+Olathe, Kansas opened with the Studio C Alpha in May of 2002, before being replaced by the [Chuck E. Live Stage (Dance Floor)] in August of 2017.
 
 ## History
 

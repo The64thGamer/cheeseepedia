@@ -10,23 +10,6 @@ Columbus (Columbus Square) opened its doors in 1982 with a Balcony Stage show an
 
 ## Animatronics
 
-| Character                         | Serial | Status                        |
-|-----------------------------------|--------|-------------------------------|
-| [Chuck E. Cheese (Cyberamic)]       | N/A    | Retrofitted in December 1991. |
-| Pasqually (Cyberamic)             | N/A    | Retrofitted in December 1991. |
-| Mr. Munch (Cyberamic)             | N/A    | Retrofitted in December 1991. |
-| Jasper T. Jowls (Cyberamic)       | N/A    | Retrofitted in December 1991. |
-| Helen Henny (Cyberamic)           | N/A    | Retrofitted in December 1991. |
-| The King                          | N/A    | Unknown/Destroyed.            |
-| Waving Flags                      | N/A    | Unknown/Destroyed.            |
-| Warblettes                        | N/A    | Unknown/Destroyed.            |
-| Singing Flowers                   | N/A    | Unknown/Destroyed.            |
-| Marc (Chuck E. Cheese Retrofit)   | N/A    | Unknown/Destroyed.            |
-| Rita (Helen Henny Retrofit)       | N/A    | Unknown/Destroyed.            |
-| Ally (Mr. Munch Retrofit)         | N/A    | Unknown/Destroyed.            |
-| Fletch (Jasper T. Jowls Retrofit) | N/A    | Unknown/Destroyed.            |
-| Chops (Pasqually Retrofit)        | N/A    | Unknown/Destroyed.            |
-
 No photos exist.
 
 ## Videos

@@ -13,21 +13,3 @@ The location was purchased by Marc Glassman, owner of the Marc's Grocery Store c
 ### Closure
 
 Marc's Funtime would end up closing before 2003, with the original plaza being demolished to make way for a BJ's Wholesale Club. It is unknown what happened to the animatronics. Click would be kept on display at the Marc's location until 2016, when it was destroyed.
-
-## Animatronics
-
-| Animatronic                                                  | Manufactuer Date | Status                          |
-|--------------------------------------------------------------|------------------|---------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1981             | Retrofitted, 1986               |
-| [Guest Star / Helen Henny (Cyberamic)] | 1981             | Retrofitted, 1986               |
-| [Mr. Munch (Cyberamic)]               | 1981             | Retrofitted, 1986               |
-| [Jasper T. Jowls (Cyberamic)]         | 1981             | Retrofitted, 1986               |
-| [Pasqually (Cyberamic)]              | 1981             | Retrofitted, 1986               |
-| [Wink (Cyberamic)]                   | Unknown          | Kept on Display, Destroyed 2016 |
-| Clapper Board                                                | 1981             | Removed 2000's, Unknown         |
-| Flag Wavers                                                  | 1981             | Removed 2000's, Unknown         |
-| Marc (Chuck E. Cheese Retrofit)                              | 1987             | Removed 2000's, Unknown         |
-| Rita (Helen Henny Retrofit)                                  | 1987             | Removed 2000's, Unknown         |
-| Ally (Mr. Munch Retrofit)                                    | 1987             | Removed 2000's, Unknown         |
-| Fletch (Jasper T. Jowls Retrofit)                            | 1987             | Removed 2000's, Unknown         |
-| Chops (Pasqually Retrofit)                                   | 1987             | Removed 2000's, Unknown         |

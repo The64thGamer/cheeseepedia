@@ -16,40 +16,11 @@ Sometime around 2006-2007, Fresno on West Shaw remodeled to the 2005 update to t
 
 ### Present Day
 
-In around 2014-2016, The Interactive Console was removed. The exterior was repainted along with the rest of the plaza in 2014-2015. Around February of 2024, the store would receive the [CEC 2.0 Remodel Program], receiving the *Refresh* version, removing their stage and adding a [Chuck E Live Stage (Dance Floor)], which is how the store remains as of March 2024.
+In around 2014-2016, The Interactive Console was removed. The exterior was repainted along with the rest of the plaza in 2014-2015. Around February of 2024, the store would receive the [CEC 2.0 Remodel Program], receiving the *Refresh* version, removing their stage and adding a [Chuck E. Live Stage (Dance Floor)], which is how the store remains as of March 2024.
 
 ## Stages
 
 Originally, Fresno featured a Rock-Afire Explosion, as all other ShowBiz locations did, in around 1991, Fresno would undergo Concept Unification, turning the RAE into the 3-Stage. Fresno would have the 3-Stage until 1999-2000, when they would receive one of the first Studio Cs in California (Which was a Studio C Alpha). The store would eventually remove its stage in February 2024 in favor of receiving the 2.0 Remodel
-
-| Stage                                                      | Installed     | Removed       | Notes                                                                       |
-|------------------------------------------------------------|---------------|---------------|-----------------------------------------------------------------------------|
-| [Classic Stage]                    | July 1983     | 1991-1992     | 10th ShowBiz Pizza store to open in California.                             |
-| [Concept Unification Stage (3-Stage)]        | 1991-1992     | 2000          | One of 9 ShowBiz Pizza stores in California to undergo Concept Unification. |
-| Studio C (1997)\|Studio C Alpha                            | 2000          | February 2024 | Located on the same wall as the former 3-Stage.                             |
-| [Chuck E Live Stage (Dance Floor)] | February 2024 | Still In Use  | 2021 Model                                                                  |
-| [Video Wall]                       | February 2024 | Still In Use  | 2021 Model                                                                  |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts       |
-|------------------------------------------------------------|---------------|-------------------|
-| Chuck E. Cheese / Rolfe DeWolfe                            | ?-8? 1-?      | Unknown           |
-| Pasqually / Dook Larue                                     | ?-8? 2-?      | Unknown           |
-| Mr. Munch / Fatz Geronimo                                  | ?-8? 3-?      | Unknown           |
-| Jasper T. Jowls / Beach Bear                               | ?-8? 4-?      | Unknown           |
-| Helen Henny / Mitzi Mozzarella                             | ?-8? 5-?      | Unknown           |
-| Billy Bob                                                  | ?-8? 6-?      | Unknown           |
-| PizzaCam / Looney Bird                                     | ?-8? 7-?      | Unknown           |
-| Munch Jr. / Choo Choo                                      | ?-8? 8-?      | Unknown           |
-| Building / Sun                                             | ?-8? 10-?     | Unknown           |
-| Moon                                                       | ?-8? 11-?     | Unknown           |
-| Antioch                                                    | N/A           | Unknown           |
-| Wink                                                       | N/A           | Unknown           |
-| [Chuck E Cheese 32m (Animatronic)] | 116           | Unknown/Destroyed |
-| [Bird (Animatronic)]               | N/A           | Unknown/Destroyed |
-| [Pizza Time Clock (Animatronic)]   | N/A           | Unknown/Destroyed |
-| [Pizza Phone (Animatronic)]        | N/A           | Unknown/Destroyed |
 
 ## Galley
 

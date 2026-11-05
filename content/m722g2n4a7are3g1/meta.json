@@ -1,49 +1,117 @@
 {
-    "title": "Irving, TX (3903 W Airport Fwy)",
-    "storeNumber": "",
-    "startDate": "1988-09-27",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1980's Remodel Program",
-            "s": "1988-09-27"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2019-11-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Chuck E.'s House (Rocker Stage)",
-            "s": "1988-09-27",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "1-Stage",
-            "s": "1994-00-00",
-            "e": "2019-00-00",
-            "desc": "1-Stage w/ Turntable"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2019-11-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "32.83640352",
-        "-97.00265133"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "Irving_1_stage_full.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Irving, TX (3903 W Airport Fwy)",
+  "storeNumber": "",
+  "startDate": "1988-09-27",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1988-09-27"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2019-11-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Chuck E.'s House (Rocker Stage)",
+      "s": "1988-09-27",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "1-Stage",
+      "s": "1994-00-00",
+      "e": "2019-00-00",
+      "desc": "1-Stage w/ Turntable"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-11-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Dance Floor",
+      "s": "2019-11-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2021-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.83640352",
+    "-97.00265133"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "Irving_1_stage_full.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by private collector"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by private collector"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by private collector"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by private collector"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by private collector"
+    },
+    {
+      "n": "Birds (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

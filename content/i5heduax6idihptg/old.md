@@ -7,20 +7,3 @@ This store opened on July 1st, 1983 with a [Classic Stage] and the Rock-afire Ex
 ## History
 
 This store had it's grand opening on July 1st, 1983 as the 12th ShowBiz Pizza Place in Missouri to open. This store opened with most features, decorations, and style the other stores in the state had. They had a [Classic Stage] with the Rock-afire Explosion on the stage. Little information on the Rock-afire at this store has been found, as with this store in itself. Cape Girardeau would get [Concept Unification] sometime between 1990-1992, and would convert the [Classic Stage] into the 3-Stage with new cosmetics, fixtures, and Munch's Make Believe Band. Not much information exists of this era either. This store would close permanently without warning in 1998, and they would later be taken over by a Goodwill, with the exterior remaining likely the same. The shopping center the Chuck E. Cheese's was in would go through a massive exterior renovation in 2014-2015, redoing the exterior entirely. Goodwill remains open today. TODO
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts |
-|---------------------------------------------------------------------------|---------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-?? ?-?      | Unknown     |
-| [Dook Larue (Animatronic)]                        | 1-?? ?-?      | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | 1-?? ?-?      | Unknown     |
-| [Beach Bear (Animatronic)]                        | 1-?? ?-?      | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-?? ?-?      | Unknown     |
-| [Billy Bob (Animatronic)]                         | 1-?? ?-?      | Unknown     |
-| [Looney Bird (Animatronic)]                       | 1-?? ?-?      | Unknown     |
-| [Choo Choo (Animatronic)]                         | 1-?? ?-?      | Unknown     |
-| [Sun (Animatronic)]                               | 1-?? ?-?      | Unknown     |
-| [Moon (Animatronic)]                              | 1-?? ?-?      | Unknown     |
-| [Antioch (Animatronic)]                           | N/A           | Unknown     |
-| [Wink]                                            | N/A           | Unknown     |

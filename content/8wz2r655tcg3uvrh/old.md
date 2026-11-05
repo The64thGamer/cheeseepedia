@@ -8,19 +8,6 @@ TODO
 
 Originally when the store opened, they had a Studio C Alpha. They would have it for about 20 years, until November of 2019, when they received the 2.0 remodel. The 'Showroom' was relocated to a different corner of the location, and games now fill the old section where the stage was.
 
-| Stage          | Installed     | Removed       |
-|----------------|---------------|---------------|
-| Studio C Alpha | November 1999 | November 2019 |
-| Dance Floor    | November 2019 | Still In Use  |
-| Video Wall     | 2021-2024     | Still In Use  |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts |
-|------------------------------------------------------------|---------------|-------------|
-| [Chuck E Cheese 32m (Animatronic)] | Unknown       | Destroyed   |
-| Bird (Studio C)                                            | N/A           | Destroyed   |
-
 ## Arcade Machines &amp; Rides
 
 NOTE: This list is incomplete.

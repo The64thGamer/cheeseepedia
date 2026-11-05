@@ -1,53 +1,146 @@
 {
-    "title": "Greensboro, NC (702-A Pembroke Rd)",
-    "storeNumber": "",
-    "startDate": "1984-10-22",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-05-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-06-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1984-10-22"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1984-10-22",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-05-00",
-            "e": "2022-06-00",
-            "desc": "One of 6 3-Stages in North Carolina to undergo Concept Unification. Third-to-last 3-Stage in North Carolina from October 2020 until stage removal in June 2022. Was in Decent Condition. Chuck had Rockstar jeans and shoes, and Jasper had Beach Bear Guitar."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-06-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "36.08535612",
-        "-79.83286388"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "yYzzxZc9ahZUm69BE9SL.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Greensboro, NC (702-A Pembroke Rd)",
+  "storeNumber": "",
+  "startDate": "1984-10-22",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-05-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-06-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1984-10-22"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1984-10-22",
+      "e": "0000-00-00",
+      "desc": "5th ShowBiz Pizza Store to open in North Carolinas"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-05-00",
+      "e": "2022-06-00",
+      "desc": "One of 6 3-Stages in North Carolina to undergo Concept Unification. Third-to-last 3-Stage in North Carolina from October 2020 until stage removal in June 2022. Was in Decent Condition. Chuck had Rockstar jeans and shoes, and Jasper had Beach Bear Guitar."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-06-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2022-06-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model with Video Wall. First 2.0 in the state (3rd in the Carolinas after Greenville, SC (253 Congaree Rd) & North Charleston, SC (7258 Rivers Ave)|North Charleston which were in South Carolina)."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "36.08535612",
+    "-79.83286388"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "yYzzxZc9ahZUm69BE9SL.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 1-12",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 2-12",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 3-12",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 4-12",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 5-12",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 6-12",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 7-12",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 8-12",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 10-12",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-83 11-12",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    }
+  ]
 }

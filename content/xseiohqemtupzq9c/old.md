@@ -4,14 +4,6 @@
 
 This location opened as a ShowBiz Pizza Place with a [Classic Stage]. The location received [Concept Unification] in 1991. This location closed as a Chuck E. Cheese's Pizza on an unknown date. After this, the location was acquired by an FEC named *Billy Bob's*. The 3-Stage at the location underwent reverse Concept Unification and was reverted to a [Classic Stage]. Billy Bob's closed in 1995/1996. This location re-opened as a Chuck E. Cheese's in 1998. The show was completely replaced by a [Studio C Alpha], which was the first Studio C of any kind in the Carolinas. The show was removed on September 18th, 2023, for the 2.0 Remodel.
 
-| Stage                                                                                             | Installed      | Removed        | Notes                                                     |
-|---------------------------------------------------------------------------------------------------|----------------|----------------|-----------------------------------------------------------|
-| [Classic Stage]                                                           | August 1983    | 1991           | 2nd ShowBiz Pizza store to open in North Carolina.        |
-| 3-Stage                                                                                           | 1991           | 1995           | 6th to Last 3-Stage in North Carolina.                    |
-| [Classic Stage]                                                           | 1995           | 1995           | 3-Stage was turned back into a RAE sometime after CU      |
-| [Studio C Alpha]                                                          | November 1998  | September 2023 | First Studio C in the Carolinas. Last Alpha in the state. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | September 2023 | Still In Use   | 2021 Model.                                               |
-
 ## History
 
 This location opened as a ShowBiz Pizza Place in August 1983 and got Concept Unification in 1991. The [Concept Unification Stage (3-Stage)] show got turned back into a [Classic Stage] sometime after. This location closed in 1995. While it was closed the [Concept Unification Stage (3-Stage)] got removed and replaced with a [Studio C Alpha]. It reopens in November 1998 with the new [Studio C Alpha] show. Later on when this location got the Rockstar Chuck costume, they would use Avenger Chuck costume parts sometimes. This location closed during Covid-19 and reopened in October 2020. When reopening, they got rid of the old avenger costume and old showtapes. The show was slowly deteriorating over time, sometimes seeing slight improvement. 2.0 would begin on September 16th, 2023. Beginning by changing the Avenger Ticket Blaster to a Rockstar Ticket Blaster and removing parts of the stage. The show was removed on September 18th with the video wall being installed shortly after. The store would receive 18 new games and the Trampoline Zone during 2.0. On October 26th, the store would have it's grand reopening, with Pasqually making an appearance at the store.
@@ -57,26 +49,6 @@ Fayetteville NC opened in November 1998 as a Phase 3 location. This location lat
 ## Animatronics
 
 Fayetteville, NC started as a ShowBiz Pizza Place that got Concept Unification in 1991. sometime after it got turned back into the [Classic Stage] before closing in 1995. When it reopened in November 1998 the [Concept Unification Stage (3-Stage)] had been removed and replaced with a [Studio C Alpha]. The serials for the 3-Stage bots are still unknown, along with what happened to them between 1995 and 1998. The show has been removed as of September 18th 2023.
-
-| Animatronic                                                               | Serial      | Whereabouts                  | Notes                                                                             |
-|---------------------------------------------------------------------------|-------------|------------------------------|-----------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-82 1-30  | Destroyed / Unknown          |                                                                                   |
-| [Dook Larue (Animatronic)]                        | 10-82 2-30  | Owned by a Private Collector |                                                                                   |
-| [Fatz Geronimo (Animatronic)]                     | 10-82 3-30  | Destroyed / Unknown          |                                                                                   |
-| [Beach Bear (Animatronic)]                        | 10-82 4-30  | Owned by a Private Collector |                                                                                   |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-82 5-30  | Destroyed / Unknown          |                                                                                   |
-| [Billy Bob (Animatronic)]                         | 10-82 6-30  | Destroyed / Unknown          | Original animatronic used during the ShowBiz era                                  |
-| [Billy Bob (Animatronic)]                         | ?-8? 6-??   | Destroyed / Unknown          | Replacement of the original Billy Bob animatronic used during the Billy Bob's era |
-| [Looney Bird (Animatronic)]                       | 10-82 7-30  | Destroyed / Unknown          |                                                                                   |
-| [Choo Choo (Animatronic)]                         | 10-82 8-30  | Destroyed / Unknown          |                                                                                   |
-| [Sun (Animatronic)]                               | 10-82 10-30 | Destroyed / Unknown          |                                                                                   |
-| [Moon (Animatronic)]                              | 10-82 11-30 | Destroyed / Unknown          |                                                                                   |
-| [Antioch (Animatronic)]                           | N/A         | Destroyed / Unknown          |                                                                                   |
-| [Wink]                                            | N/A         | Destroyed / Unknown          |                                                                                   |
-| [Chuck E Cheese 32m (Animatronic)]                | 016         | Owned by a Private Collector |                                                                                   |
-| [Bird (Animatronic)]                              | N/A         | Owned by a Private Collector |                                                                                   |
-| [Pizza Time Clock (Animatronic)]                  | N/A         | Owned by a Private Collector |                                                                                   |
-| [Pizza Phone (Animatronic)]                       | N/A         | Owned by a Private Collector |                                                                                   |
 
 ## Trivia
 

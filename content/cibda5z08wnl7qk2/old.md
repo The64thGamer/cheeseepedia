@@ -4,14 +4,6 @@
 
 Shortly after opening, the [Classic Stage] was minorly updated to have a customized backdrop on center stage, then, later on, would also receive 'ShowBiz Pizza Campgrounds' before undergoing an early process of [Concept Unification] and receiving the [Concept Unification Prototype Stage] as a test show in sometime between 1989 and May 1990(1), and later received the finalized 3-Stage in June 1990(2). The 3-Stage would fall into disrepair in the mid-1990s and began being replaced with the [Awesome Adventure Machine] concept on August 11, 1996. By August 21, which is the initial in-store premiere. The Awesome Adventure Machine is believed to be the next big step for ShowBiz Pizza Time into the new millennium.(3) However, once completed, the show would ultimately end up in operation for only one year due to budget and technical concerns. The concept would be scrapped completely in favor of one of the first Studio C (1997)|Studio C shows. Although little is known of the location's Studio C, it has been discovered in January 2023 that the Studio C Chuck animatronic was relocated to [Moreno Valley, CA (23160 Sunnymead Blvd)] location post closure.
 
-| Stage                                                         | Installed        | Removed          |
-|---------------------------------------------------------------|------------------|------------------|
-| [Classic Stage]                       | January 1983     | Sometime in 1989 |
-| [Concept Unification Prototype Stage] | Sometime in 1989 | June 1990        |
-| [Concept Unification Stage (3-Stage)]           | June 1990        | August 1996      |
-| [Awesome Adventure Machine]           | August 1996      | 1997/1998        |
-| [Studio C Alpha]                      | 1997/1998        | December 2001    |
-
 ## History
 
 The Montfort ShowBiz Pizza Place opened on January 26th, 1983 as the 23rd corporate-owned store in the United States. The space the store would occupy initially was a Target Foods that was later converted to a Kroger grocery store, which is located next to Target T-13 (which opened in 1969) After Kroger's closure, the pizza establishment remained mostly unchanged, leaving the former Chuck E. Cheese's exterior as one of the only pieces of evidence of Kroger's existence.(4) On November 28, 1983, the location became the first of four SPPs to premiere the Showscan Theater for ShowBiz Pizza and Brock Hotel Corp executives.(5) The concept lasted until the merging of Pizza Time Theatre and ShowBiz Pizza Place, with a lack of funding being a possibility. On October 3, 1988, the location would be unified with CEC under the 1986 SPT Remodel Program|1986 remodel initiative and would remodel once again around 1993. This would also had the SPP logo flipped upside down. The former Sports Room present inside the ShowBiz would be converted into a regular dining space following the first major remodel. The location would also receive [Phase 1 (1994)] in 1995 and [Phase 2 (1997)] upgrades in 1997. It is unknown if they've ever received [Phase 3 (2000)]. In December 2001, the location relocated to [Dallas, TX (13364 Montfort Dr)], a free-standing location closer to a nearby mall, and left the building to be partially redeveloped by Target. The location was empty until 2010-2011 when Target bought the space for office and storage usage. Target would also replace the entrance's red doors with generic white doors and repaint parts of the exterior later on. The Showroom and kiddie area was left mostly intact although both areas are being used as storage now. The showroom still has what remains of Studio C, along with the dinner light fixtures still in the ceiling. The rest of the former Chuck E. Cheese's is currently used for Target office space. Currently, there are 2 exterior photos of it as a ShowBiz Pizza Place, and one as Chuck E. Cheese's.
@@ -67,28 +59,3 @@ Identified 1998 Machines
 | https://youtu.be/0QseidcG-Qo  | Last known video of the 3-Stage in operation | February 1996    |
 | https://youtu.be/0zqMGkGV9xc  | AAM installation                             | August 11, 1996  |
 | https://youtu.be/Or8yZUYdvxA  | Feature in 'Tokens To Ride'                  | 1998             |
-
-## Animatronics
-
-| Animatronic                                                               | Serial    | Whereabouts                                                                                 |
-|---------------------------------------------------------------------------|-----------|---------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-82 1-5  | Used for parts / Destroyed                                                                  |
-| [Dook Larue (Animatronic)]                        | 7-82 2-5  | Used for parts / Destroyed                                                                  |
-| [Fatz Geronimo (Animatronic)]                     | 7-82 3-5  | Used for parts / Destroyed                                                                  |
-| [Beach Bear (Animatronic)]                        | 7-82 4-5  | Used for parts / Destroyed                                                                  |
-| [Mitzi Mozzarella (Animatronic)]                  | 7-82 5-5  | Used for parts / Destroyed                                                                  |
-| [Billy Bob (Animatronic)]                         | 7-82 6-5  | Unknown                                                                                     |
-| [Looney Bird (Animatronic)]                       | 7-82 7-5  | Used for parts / Destroyed                                                                  |
-| [Choo Choo (Animatronic)]                         | 7-82 8-5  | Used for parts / Destroyed                                                                  |
-| [Sun (Animatronic)]                               | 7-82 10-5 | Used for parts / Destroyed                                                                  |
-| [Moon (Animatronic)]                              | 7-82 11-5 | Destroyed                                                                                   |
-| [Antioch (Animatronic)]                           | N/A       | Destroyed                                                                                   |
-| [Wink]                                            | N/A       | Destroyed                                                                                   |
-| [AAM Chuck E Cheese (Animatronic)]                | N/A       | Destroyed                                                                                   |
-| [Brain-I-Vac (Animatronic)]                       | N/A       | Destroyed                                                                                   |
-| [ORBIS (Animatronic)]                             | N/A       | Destroyed                                                                                   |
-| [Dusty (Animatronic)]                             | N/A       | Destroyed                                                                                   |
-| [Chuck E Cheese 32m (Animatronic)]                | 002       | Sent to [Moreno Valley, CA (23160 Sunnymead Blvd)], then destroyed. |
-| [Bird (Animatronic)]                              | N/A       | Unknown                                                                                     |
-| [Pizza Time Clock (Animatronic)]                  | N/A       | Destroyed                                                                                   |
-| [Pizza Phone (Animatronic)]                       | N/A       | Destroyed                                                                                   |

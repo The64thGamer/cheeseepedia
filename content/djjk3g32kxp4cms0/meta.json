@@ -1,49 +1,183 @@
 {
-    "title": "Chino, CA (5250 Philadelphia St)",
-    "storeNumber": "",
-    "startDate": "1988-12-30",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1980's Remodel Program",
-            "s": "1988-12-30"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-11-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Chuck E.'s House (Rocker Stage)",
-            "s": "1988-12-30",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "1994-05-02",
-            "e": "2022-11-18",
-            "desc": "One of many installed in California. Replaced by Dance Floor + Video Wall."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-11-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "34.03303392",
-        "-117.6922709"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "KzbV9PZLDueqHh2KjOhO.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Chino, CA (5250 Philadelphia St)",
+  "storeNumber": "",
+  "startDate": "1988-12-30",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1988-12-30"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-11-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Chuck E.'s House (Rocker Stage)",
+      "s": "1988-12-30",
+      "e": "1994-04-28",
+      "desc": "First of the 4 Rocker Stages in California."
+    },
+    {
+      "n": "2-Stage",
+      "s": "1994-05-02",
+      "e": "2022-11-18",
+      "desc": "One of many installed in California. Replaced by Chuck E. Live Stage (Dance Floor)."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-11-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Classic Stage",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Was going to be one of the few RAE in SoCal"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2022-11-22",
+      "e": "0000-00-00",
+      "desc": "2021 Model."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.03303392",
+    "-117.6922709"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "KzbV9PZLDueqHh2KjOhO.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Never Installed"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Never Installed"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Never Installed"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Never Installed"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Never Installed"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Never Installed"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Never Installed"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Never Installed"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Never Installed"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Never Installed"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Never Installed"
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "2022-11-18",
+      "l": "Unknown",
+      "desc": "Destroyed/Remains owned by mutiple YouTubers and private collectors."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "2022-11-18",
+      "l": "Unknown",
+      "desc": "Destroyed/Remains owned by mutiple YouTubers and private collectors."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "2022-11-18",
+      "l": "Unknown",
+      "desc": "Destroyed/Remains owned by Mutiple YouTubers And private collectors"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "2022-11-18",
+      "l": "Unknown",
+      "desc": "Destroyed/Remains owned by mutiple YouTubers and private collectors."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "2022-11-18",
+      "l": "Unknown",
+      "desc": "Destroyed/Remains owned by mutiple YouTubers private collectors."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "2022-11-18",
+      "l": "Unknown",
+      "desc": "Owned by CecFan15 On Youtube"
+    }
+  ]
 }

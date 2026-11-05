@@ -1,34 +1,99 @@
 {
-    "title": "Dickson City / Scranton, PA (1011 Scranton Carbondale)",
-    "storeNumber": "",
-    "startDate": "1983-08-00",
-    "endDate": "1984-00-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1983-08-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1983-08-00",
-            "e": "1984-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.4491801",
-        "-75.6633338"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "lAXenu7qC4LisfQ8LFoj.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Dickson City / Scranton, PA (1011 Scranton Carbondale)",
+  "storeNumber": "",
+  "startDate": "1983-08-00",
+  "endDate": "1984-00-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1983-08-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1983-08-00",
+      "e": "1984-00-00",
+      "desc": "Retrofitted when it was converted to Zach Periwinkles."
+    },
+    {
+      "n": "Retrofitted Balcony",
+      "s": "1984-00-00",
+      "e": "0000-00-00",
+      "desc": "Animatronics shipped to to Captain Good Times(1), and later Gillian's Wonderland Pier in 1992 to become Rocky & the Railroad Ramblers."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.4491801",
+    "-75.6633338"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "lAXenu7qC4LisfQ8LFoj.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Retrofitted, currently at Gillian's Wonderland Pier. Mask from The King / King Kat (Lounge)."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Retrofitted, currently at Gillian's Wonderland Pier."
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Retrofitted, currently at Gillian's Wonderland Pier. Head presumably from a spare Pasqually Cyberamic."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Retrofitted, currently at Gillian's Wonderland Pier."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Retrofitted, currently at Gillian's Wonderland Pier."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Clapper Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Mask used for Zach Periwinkles/Gillian's"
+    }
+  ]
 }

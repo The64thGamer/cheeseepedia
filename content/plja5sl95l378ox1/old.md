@@ -8,13 +8,6 @@ The store would post job listings during February &amp; March 1980. Kansas City 
 
 Originally when the store first opened as a ShowBiz Pizza Place, they had the [Wolf Pack 5], later, the Rock-afire [Classic Stage]. When they got Concept Unification, they kept the stage. It remained at the location until the Spring 2007 closure.
 
-| Stage                                                  | Installed   | Removed     |
-|--------------------------------------------------------|-------------|-------------|
-| [Wolf Pack 5](0)(3)(4)         | March 1980  | 1981        |
-| [Wolfman Showtape] Disco Room? | March 1980? | 1981?       |
-| [Classic Stage]                | 1981        | 1991/1992   |
-| [Concept Unification Stage (3-Stage)](5) | 1991/1992   | Spring 2007 |
-
 ## Animatronics
 
 | Name                                                                      | Produced  | Installed   | Serial Number | Removed   | Whereabouts                                                                                                                                                                                                                        | Notes                                                                            |

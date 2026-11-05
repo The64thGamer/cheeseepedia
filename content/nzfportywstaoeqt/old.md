@@ -8,28 +8,6 @@ Memphis (Hickory Hill) opened its doors on August 24th, 1982 as the 3rd ShowBiz 
 
 Memphis (Hickory Hill) opened with the Rock afire Explosion in April 1982. Unfortunately, there are no photos or videos to exist of Memphis (Hickory Hill) with the Rock afire, or as a ShowBiz in general. In 1991, Memphis (Hickory Hill) received [Concept Unification], converting the Rock afire into Munch’s Make Believe Band. In October 2020, Memphis (Hickory Hill) removed the 3-Stage because they closed due to the COVID-19 pandemic.
 
-| Stage                                               | Installed   | Removed      | Notes                                                                |
-|-----------------------------------------------------|-------------|--------------|----------------------------------------------------------------------|
-| [Classic Stage]             | August 1982 | 1991         | 3rd ShowBiz Pizza Store in Tennessee.                                |
-| [Concept Unification Stage (3-Stage)] | 1991        | October 2020 | Underwent Concept Unification like every other ShowBiz in Tennessee. |
-
-## Animatronics
-
-| Character                                                                 | Serial    | Status            |
-|---------------------------------------------------------------------------|-----------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-5  | Unknown/Destroyed |
-| [Dook Larue (Animatronic)]                        | 1-82 2-5  | Unknown/Destroyed |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-5  | Unknown/Destroyed |
-| [Beach Bear (Animatronic)]                        | 1-82 4-5  | Unknown/Destroyed |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-5  | Unknown/Destroyed |
-| [Billy Bob (Animatronic)]                         | 1-82 6-5  | Unknown/Destroyed |
-| [Looney Bird (Animatronic)]                       | 1-82 7-5  | Unknown/Destroyed |
-| [Choo Choo (Animatronic)]                         | 1-82 8-5  | Unknown/Destroyed |
-| [Sun (Animatronic)]                               | 1-82 10-5 | Unknown/Destroyed |
-| [Moon (Animatronic)]                              | 1-82 11-5 | Unknown/Destroyed |
-| [Antioch (Animatronic)]                           | N/A       | Unknown/Destroyed |
-| [Wink]                                            | N/A       | Unknown/Destroyed |
-
 ## Videos
 
 TODO

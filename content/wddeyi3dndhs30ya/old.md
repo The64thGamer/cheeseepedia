@@ -8,29 +8,6 @@ Portland opened on November 19th, 1982, as a Franchised Pizza Time Theatre. Port
 
 When Portland opened, it housed a Balcony Stage like most other Pizza Time Theatre at the time. Sometime in 1989/1990, they converted the Balcony Stage into Chuck E.’s House Facade (Keeping the Balcony Stage nameplates in the process). In around 1994, the 2-Stage was installed. By 2008, Helen's Early 90s Mask, Jasper's PTT mask, and some other older cosmetics were replaced by newer ones. They would keep the 2-Stage until October 12th, 2020, when the store was permanently closed.
 
-| Stage                           | Installed     | Removed      |
-|---------------------------------|---------------|--------------|
-| Balcony Stage                   | November 1982 | 1989/1990    |
-| Chuck E.'s House Facade (C-Stage)/C-Stage | 1989/1990     | 1994         |
-| 2-Stage                         | 1994          | October 2020 |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                                           |
-|--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1982               | Owned by a Private Collector with new cosmetics. Cosmetics from store were destroyed, but they're owned by another Private Collector. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1982               | Destroyed, Remains owned by LKD Animatronics and a Private Collector.                                                                 |
-| [Mr. Munch (Cyberamic)]               | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
-| [Jasper T. Jowls (Cyberamic)]         | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
-| [Pasqually (Cyberamic)]              | 1982               | Destroyed, Remains owned by LKD Animatronics.                                                                                         |
-| [Warblettes (Cyberamic)]             | 1982               | Unknown                                                                                                                               |
-| [Flag Wavers (Cyberamic)]                                     | 1982               | Unknown                                                                                                                               |
-| [Applause Board (Cyberamic)]         | 1982               | Unknown                                                                                                                               |
-| [Drum Board (Cyberamic)]             | 1982               | Unknown                                                                                                                               |
-| [Singing Flowers (Cyberamic)]        | 1989/1990          | Unknown                                                                                                                               |
-| [Dolli Dimples (Cabaret)]            | 1982               | Unknown                                                                                                                               |
-| [Wink]                               | 1993/1994          | Destroyed.                                                                                                                            |
-
 ## Videos
 
 | Link                                       | Description                                                                                   | Filming Date      | Published Date    |

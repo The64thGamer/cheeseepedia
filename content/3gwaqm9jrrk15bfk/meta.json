@@ -1,43 +1,94 @@
 {
-    "title": "Valencia, CA (25955 North The Old Rd)",
-    "storeNumber": "",
-    "startDate": "1998-03-04",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1998-03-04"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-01-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1998-03-04",
-            "e": "2023-01-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-01-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "34.39125347",
-        "-118.5763864"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "__LGWcxiFbLDW1KzJ8hO.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Valencia, CA (25955 North The Old Rd)",
+  "storeNumber": "",
+  "startDate": "1998-03-04",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1998-03-04"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-01-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1998-03-04",
+      "e": "2023-01-00",
+      "desc": "Third to last 1-stage installed"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-01-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2023-01-00",
+      "e": "0000-00-00",
+      "desc": "2021 model with video wall"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "34.39125347",
+    "-118.5763864"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "__LGWcxiFbLDW1KzJ8hO.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/destroyed. Sent to Pasadena, CA and removed in their 2.0 Remodel."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/destroyed"
+    }
+  ]
 }

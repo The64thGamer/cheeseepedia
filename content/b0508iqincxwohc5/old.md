@@ -16,13 +16,7 @@ The Blue Screen was replaced by the Ticket Background with the light up Ticket B
 
 ### Dark Age (2015-2018)
 
-Starting in 2015, the new tech at the time wasn’t really caring for the stage, things like head spinning, air leaks, teeth falling off, and the bot not being aired up were happening. In 2017, the bot was aired down and his teeth were missing for 3 months until it was aired up again. From December 2017-early 2018 the bot's mouth kept opening and shutting randomly while his back was stuck leaning and his mask was slowly falling apart. But things went back to good condition when the tech got fired and Doug become the stage tech in late 2018 and fix and got Chuck E back to working order. Sadly in 2022, Doug passed away, being replaced with a new tech named Ben, who then worked on Chuck E and got him a new mask that didn't have teeth, but teeth were added a month later. On June 24th, 2024, the stage would be removed in favor of a [Video Wall] and [Chuck E Live Stage (Dance Floor)].
-
-| Stage                                                      | Installed | Removed       |
-|------------------------------------------------------------|-----------|---------------|
-| [Studio C Beta]                    | July 2003 | June 24, 2024 |
-| [Chuck E Live Stage (Dance Floor)] | June 2024 | In Use.       |
-| [Video Wall]                       | June 2024 | In Use.       |
+Starting in 2015, the new tech at the time wasn’t really caring for the stage, things like head spinning, air leaks, teeth falling off, and the bot not being aired up were happening. In 2017, the bot was aired down and his teeth were missing for 3 months until it was aired up again. From December 2017-early 2018 the bot's mouth kept opening and shutting randomly while his back was stuck leaning and his mask was slowly falling apart. But things went back to good condition when the tech got fired and Doug become the stage tech in late 2018 and fix and got Chuck E back to working order. Sadly in 2022, Doug passed away, being replaced with a new tech named Ben, who then worked on Chuck E and got him a new mask that didn't have teeth, but teeth were added a month later. On June 24th, 2024, the stage would be removed in favor of a [Video Wall] and [Chuck E. Live Stage (Dance Floor)].
 
 ## History
 
@@ -30,7 +24,7 @@ Construction for this location started around late 2002-early 2003, with this lo
 
 ### Remodels
 
-Originally when the store opened, they had the [SPT 1990's Remodel Program] until they remodeled in Spring-Summer 2012 to the 2010 Update of the CEC 2005 Remodel, which it had until on June 24, 2024, when the store received the [CEC 2.0 Remodel Program], removing the stage to replace it with a [Chuck E Live Stage (Dance Floor)] and [Video Wall], which it still has to this day.
+Originally when the store opened, they had the [SPT 1990's Remodel Program] until they remodeled in Spring-Summer 2012 to the 2010 Update of the CEC 2005 Remodel, which it had until on June 24, 2024, when the store received the [CEC 2.0 Remodel Program], removing the stage to replace it with a [Chuck E. Live Stage (Dance Floor)] and [Video Wall], which it still has to this day.
 
 ## Videos
 
@@ -40,10 +34,3 @@ Originally when the store opened, they had the [SPT 1990's Remodel Program] unti
 | [Link](https://www.youtube.com/watch?v=6mvsVc1QLWM) | A video showing inside of the [Chuck E Cheese 16m (Animatronic)] bot at the location.                                         | May 12th, 2019      |
 | [Link](https://www.youtube.com/watch?v=VcWkE3Pq-og) | A showroom tour in 2019.                                                                                                                              | December 26th, 2019 |
 | [Link](https://youtu.be/gEZZkjNtOHI)                | A store tour of this store in 2021                                                                                                                    | May 17th, 2021      |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts |
-|------------------------------------------------------------|--------|-------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A    | Destroyed   |
-| [Pizza Time Clock (Animatronic)])  | N/A    | Destroyed   |

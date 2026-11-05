@@ -1,34 +1,120 @@
 {
-    "title": "Daytona Beach, FL (1300 W International Sp)",
-    "storeNumber": "",
-    "startDate": "1982-01-00",
-    "endDate": "1984-00-00",
-    "remodels": [
-        {
-            "n": "PTT Standard Layout",
-            "s": "1982-01-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Balcony Stage",
-            "s": "1982-01-00",
-            "e": "1984-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "29.127476",
-        "-81.21031"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "UyrlynUOW1AjBUVY8W18.avif",
-    "type": "Locations",
-    "tags": [
-        "Pizza Time Theatre"
-    ]
+  "title": "Daytona Beach, FL (1300 W International Sp)",
+  "storeNumber": "",
+  "startDate": "1982-01-00",
+  "endDate": "1984-00-00",
+  "remodels": [
+    {
+      "n": "PTT Standard Layout",
+      "s": "1982-01-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "s": "1982-01-00",
+      "e": "1984-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "29.127476",
+    "-81.21031"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "UyrlynUOW1AjBUVY8W18.avif",
+  "type": "Locations",
+  "tags": [
+    "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, owned by a private collector."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, owned by a private collector."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, owned by a private collector."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, owned by a private collector."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, owned by a private collector."
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, owned by a private collector."
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, owned by a private collector."
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, owned by a private collector."
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, owned by a private collector."
+    },
+    {
+      "n": "Dolli Dimples (Cabaret)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, owned by a private collector."
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, now at the Volo Auto Museum."
+    },
+    {
+      "n": "Four Little Shavers (Ice Cream Emporium)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1981",
+      "desc": "Auctioned, now at the Volo Auto Museum."
+    }
+  ]
 }

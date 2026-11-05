@@ -8,30 +8,6 @@ Philadelphia (Roosevelt) opened its doors on August 8th, 1982, in the Northeast 
 
 When Philadelphia (Roosevelt) opened, it housed a Balcony Stage like the other Pizza Time Theatres that opened at the time. Unfortunately, there are no videos or photos to exist of Philadelphia (Roosevelt) back then. Sometime between 1989 and 1990, they installed Chuck E.’s House Facade, otherwise known as the [Chuck E.'s House Facade (C-Stage)]. This location would get a 2-Stage installed in the mid 90's. In August 2019, the 2-Stage was destroyed in a flood, and then their 2-Stage was removed for the Dance Floor and COL Monitor due to the low celling height. In 2021, they received the 2.0 remodel, keeping the Dance Floor &amp; COL Monitor.
 
-| Stage                                                                    | Installed   | Removed      | Notes                                                                                                                                      |
-|--------------------------------------------------------------------------|-------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------|
-| Balcony Stage                                                            | August 1982 | 1989/1990    | 2nd Pizza Time Theatre to open in Pennsylvania.                                                                                            |
-| Chuck E.'s House Facade (C-Stage)                                                  | 1989/1990   | 1993/1994    | One of 4 installed in Pennsylvania.                                                                                                        |
-| 2-Stage                                                                  | 1993/1994   | August 2019  | One of 7/8 2-Stages installed in Pennsylvania. Relocated to a different part of the store during the 2005 Update. Destroyed in 2019 flood. |
-| [Chuck E Live Stage (Dance Floor)] + COL Monitor | August 2019 | Still in Use | 2019 Model. Has a COL TV Monitor.                                                                                                          |
-
-## Animatronics
-
-| Character                                                    | Manufacturing Date | Serial Number | Status                                                                                                                                                                        |
-|--------------------------------------------------------------|--------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | 1981/1982          | Unknown       | Destroyed in 2019 flood. Jeans sent to [Levittown, PA (1283 E Lincoln Hwy)]. Shirt sent to [Philadelphia, PA (9 Snyder Ave)]. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1981/1982          | Unknown       | Destroyed in 2019 flood. Mask sent to [Levittown, PA (1283 E Lincoln Hwy)].                                                                           |
-| [Mr. Munch (Cyberamic)]               | 1981/1982          | Unknown       | Destroyed in 2019 flood.                                                                                                                                                      |
-| [Jasper T. Jowls (Cyberamic)]         | 1981/1982          | Unknown       | Destroyed in 2019 flood. Hat sent to [Levittown, PA (1283 E Lincoln Hwy)].                                                                            |
-| [Pasqually (Cyberamic)]              | 1981/1982          | Unknown       | Destroyed in 2019 flood.                                                                                                                                                      |
-| [Warblettes (Cyberamic)]             | 1981/1982          | Unknown       | Unknown / Destroyed                                                                                                                                                           |
-| [Flag Wavers (Cyberamic)]                                     | 1981/1982          | Unknown       | Unknown / Destroyed                                                                                                                                                           |
-| [Applause Board (Cyberamic)]         | 1981/1982          | Unknown       | Unknown / Destroyed                                                                                                                                                           |
-| [Drum Board (Cyberamic)]             | 1981/1982          | Unknown       | Unknown / Destroyed                                                                                                                                                           |
-| [The King / King Kat (Lounge)]         | 1981/1982          | Unknown       | Unknown / Destroyed                                                                                                                                                           |
-| [Singing Flowers (Cyberamic)]        | 1989/1990          | Unknown       | Unknown / Destroyed                                                                                                                                                           |
-| [Wink (Cyberamic)]                   | 1993/1994          | Unknown       | Unknown/Destroyed. Removed when the Showroom was relocated during the 2005 Update.                                                                                            |
-
 ## Videos
 
 TODO

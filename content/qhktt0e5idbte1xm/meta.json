@@ -1,43 +1,94 @@
 {
-    "title": "Rockford, IL (3600 E State St)",
-    "storeNumber": "",
-    "startDate": "1988-10-30",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1980's Remodel Program",
-            "s": "1988-10-30"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-06-12"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Chuck E.'s House (Rocker Stage)",
-            "s": "1988-10-30",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-06-12",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "42.26550922",
-        "-89.04240238"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "AbgacyvkD8mwdgtjeeYx.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Rockford, IL (3600 E State St)",
+  "storeNumber": "",
+  "startDate": "1988-10-30",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1988-10-30"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-06-12"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Chuck E.'s House (Rocker Stage)",
+      "s": "1988-10-30",
+      "e": "2022-06-00",
+      "desc": "First of 3 Rocker Stages in Tinley Park, IL (16090 S Harlem Ave)Streamwood, IL (990 S Barrington Rd). Last Rocker to be removed."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-06-12",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2022-06-00",
+      "e": "0000-00-00",
+      "desc": "2021 model."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.26550922",
+    "-89.04240238"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "AbgacyvkD8mwdgtjeeYx.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS). Originally from Loves Park, IL (6505 N 2nd St)."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS). Originally from Loves Park, IL (6505 N 2nd St)."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS). Originally from Loves Park, IL (6505 N 2nd St)."
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS). Originally from Loves Park, IL (6505 N 2nd St)."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1981-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS). Originally from Loves Park, IL (6505 N 2nd St)."
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "1988-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    }
+  ]
 }

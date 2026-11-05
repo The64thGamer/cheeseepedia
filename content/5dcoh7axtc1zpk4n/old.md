@@ -34,20 +34,7 @@ Just like nearly all other stores by then, Durham received the new Navori system
 
 ## Stages and Animatronics
 
-| Stage                             | Installed  | Removed      | Notes                                                                                         |
-|-----------------------------------|------------|--------------|-----------------------------------------------------------------------------------------------|
-| [1-Stage] | March 1994 | Still in use | Last of five Mini Unit 1-Stages ever installed. Last Cyberamic stage in the Southeast region. |
-
 Durham opened up with a Mini Unit 1-Stage, and was the last of its kind, sporting the finalized stage appearance, albeit condensed, with the characters being mere inches away from each other.
-
-| Animatronic                                                  | Serial No. | Whereabouts | Notes                         |
-|--------------------------------------------------------------|------------|-------------|-------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 2030       | In-store    | Eyelids are stuck at the top  |
-| [Guest Star / Helen Henny (Cyberamic)] | N/A        | In-store    | Missing eyelids               |
-| [Mr. Munch (Cyberamic)]               | N/A        | In-store    | Low mouth flows               |
-| [Jasper T. Jowls (Cyberamic)]         | N/A        | In-store    | Eyelids stay up during shows. |
-| [Pasqually (Cyberamic)]              | N/A        | In-store    | Arms barely work              |
-| [Wink (Cyberamic)]                   | N/A        | In-store    | Operational                   |
 
 ## Arcade Machines
 

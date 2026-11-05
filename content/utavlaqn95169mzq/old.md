@@ -15,27 +15,7 @@ Macsway Avenue opened with a Rock-afire Explosion show and converted to Munch's 
 
 In 2020, during the store closure, the stage would be demolished during closure, with all of the animatronic characters being stripped for spare parts. But a large chunk of the 3-Stage would be left in-store, from the backdrops to the curtain valance. As of now, it is still left behind mainly untouched, except for a few parts that went to other locations.
 
-| Stage                                               | Installed    | Removed   | Notes:                                                                                             |
-|-----------------------------------------------------|--------------|-----------|----------------------------------------------------------------------------------------------------|
-| [Classic Stage]             | January 1982 | 1991-1992 | 4th ShowBiz to open in Ohio.                                                                       |
-| [Concept Unification Stage (3-Stage)] | 1991-1992    | June 2020 | One of Four ShowBiz locations in Ohio to receive Concept Unification. 2nd to last 3-Stage in Ohio. |
-
 ## Animatronics
-
-| Character                                                                 | Serial | Whereabouts                          |
-|---------------------------------------------------------------------------|--------|--------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | N/A    | Dismantled for parts, left in store. |
-| [Dook Larue (Animatronic)]                        | N/A    | Dismantled for parts, left in store. |
-| [Fatz Geronimo (Animatronic)]                     | N/A    | Dismantled for parts, left in store. |
-| [Beach Bear (Animatronic)]                        | N/A    | Dismantled for parts, left in store. |
-| [Mitzi Mozzarella (Animatronic)]                  | N/A    | Dismantled for parts, left in store. |
-| [Mitzi Mozzarella (Animatronic)]                  | N/A    | Unknown.                             |
-| [Looney Bird (Animatronic)]                       | N/A    | Unknown.                             |
-| [Choo Choo (Animatronic)]                         | N/A    | Unknown.                             |
-| [Sun (Animatronic)]                               | N/A    | Unknown.                             |
-| [Moon (Animatronic)]                              | N/A    | Left in store.                       |
-| [Antioch (Animatronic)]                           | N/A    | Unknown.                             |
-| [Wink]                                            | N/A    | Unknown.                             |
 
 [1986](http://showbizpizza.com/photos/spp/oh_parma/index.html)
 

@@ -25,9 +25,3 @@ A Chuck E. Cheese's restaurant had not existed in Volusia County, the Daytona Be
 | https://www.youtube.com/watch?v=GdVYUMjSdvg  | Shocking video: Chuck E. Cheese in Port Orange destroyed by Tropical Storm Ian                       | October 1, 2022          |
 | https://www.youtube.com/watch?v=DPpL4qs7Oqs  | Chuck-E-Cheese I’m Port Orange Florida destroyed by Hurricane Ian. Roof caves in. See aerial footage | October 27, 2022         |
 | https://www.youtube.com/watch?v=SkQgvRY3PIU  | Port Orange Chuck E. Cheese is COMING BACK after it was DESTROYED!                                   | February 7, 2023         |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts                                                                                                                                                                                                        |
-|------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 155           | Survived Hurricane Ian. Head mechanisms and avenger hat owned by private collector. Body and body cosmetics completely destroyed by demolition team. From [Dallas, TX (13364 Montfort Dr)] |

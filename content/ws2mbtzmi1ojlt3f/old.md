@@ -36,19 +36,6 @@ On January 14, 2021 around 4:15 PM, the San Diego PD and SWAT teams barricaded a
 | [link](https://www.youtube.com/watch?v=FHYytj8v1x4) | 'El Guitariesta            | September 24, 2022       |
 | [link](https://www.youtube.com/watch?v=UP--vqhl0YQ) | Store Tour                 | February 13, 2023        |
 
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                                                              |
-|--------------------------------------------------------------|--------------------|------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | 1992/1993          | Sent to [National City, CA (1143 Highland Ave)], then destroyed. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1992/1993          | Sent to National City, then destroyed.                                                   |
-| [Mr. Munch (Cyberamic)]               | 1992/1993          | Sent to National City, then destroyed.                                                   |
-| [Jasper T. Jowls (Cyberamic)]         | 1992/1993          | Sent to National City, then destroyed.                                                   |
-| [Pasqually (Cyberamic)]              | 1992/1993          | Sent to National City, then destroyed.                                                   |
-| [Wink (Cyberamic)]                   | 1992/1993          | Destroyed                                                                                |
-| [Chuck E Cheese 16m (Animatronic)]   | 2003-2004          | Destroyed (removed on 6/13/2023)                                                         |
-| [Pizza Time Clock (Animatronic)]     | 2003-2004          | Destroyed (removed on 6/13/2023)                                                         |
-
 ## Games
 
 | Game                               | Installed     | Removed       | Location                           |

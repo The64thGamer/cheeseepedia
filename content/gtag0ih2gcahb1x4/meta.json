@@ -1,33 +1,84 @@
 {
-    "title": "Hicksville, NY (Delco Plaza 11-15 Hanover Place)",
-    "storeNumber": "",
-    "startDate": "1994-01-24",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1994-01-24"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1994-01-24"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "40.7619835",
-        "-73.519559"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "5Ihy63wH74oZdUfsnU48.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Hicksville, NY (Delco Plaza 11-15 Hanover Place)",
+  "storeNumber": "",
+  "startDate": "1994-01-24",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1994-01-24"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1994-01-24",
+      "desc": "Perfect condition. Preserved as the company's official 1-Stage following the 2.0 remodel."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-06-13",
+      "e": "0000-00-00",
+      "desc": "2019 Model."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.7619835",
+    "-73.519559"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "5Ihy63wH74oZdUfsnU48.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "In store."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "In store."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1361.",
+      "desc": "In store."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1422.",
+      "desc": "In store."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "In store."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "In store."
+    }
+  ]
 }

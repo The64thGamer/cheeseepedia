@@ -22,17 +22,3 @@ Don Schulte would run the race in a Chuck E. Cheese mascot costume, clocking in 
 ### Auction
 
 The location would hold a closing auction on February 8, 1986, at 10AM.(0) The auction would sell 'Video Games, Kiddie Rides, Amusements, Cyberamics System, Like-New Restaurant Equipment'. An unknown buyer would confirm to have bought Chuck E. Cheese, Helen Henny, Pasqually, Munch, heads of Madam Oink, Harmony Howlette, and Dolli Dimples, a Cyberamics Control Center, a box of controller cards, signage, the Clapper Board, and the Band Board. These would later go up for auction again in the 2010's. *80's Girl / Kobun37* would get the Chuck E. Cheese Cyberamic, and the rest sent with Damon E. Breland.(1)
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                 |
-|--------------------------------------------------------------|--------------------|-----------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1981               | Owned by 80's Girl /Kobun37 |
-| [Guest Star / Helen Henny (Cyberamic)] | 1981               | Owned by Damon E. Breland   |
-| [Mr. Munch (Cyberamic)]               | 1981               | Owned by Damon E. Breland   |
-| [Jasper T. Jowls (Cyberamic)]         | 1981               | Owned by Damon E. Breland   |
-| [Pasqually (Cyberamic)]              | 1981               | Owned by Damon E. Breland   |
-| [Drum Board (Cyberamic)]             | 1981               | Owned by Damon E. Breland   |
-| [Applause Board (Cyberamic)]         | 1981               | Owned by Damon E. Breland   |
-| [Warblettes (Cyberamic)]             | 1981               | Unknown                     |
-| [Dolli Dimples (Cabaret)]            | 1981               | Unknown                     |

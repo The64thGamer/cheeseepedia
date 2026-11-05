@@ -21,7 +21,7 @@ Hi, I'm CECBowlingGreen / Brennan, I am fan of Chuck E. Cheese and have been for
 5.  Studio C Alpha Beta Mix|Studio C Alpha / Beta Mix
 6.  [Circles of Light], no bot and 16m versions
 7.  [1-Stage] (La Mesa's stage condition was bad so thats why so low)
-8.  [Chuck E Live Stage (Dance Floor)] (I like the 2021 Models better, the older ones suck)
+8.  [Chuck E. Live Stage (Dance Floor)] (I like the 2021 Models better, the older ones suck)
 
 ## All Chuck E. Cheese Stages I Have Seen And Their Totals
 
@@ -32,7 +32,7 @@ Hi, I'm CECBowlingGreen / Brennan, I am fan of Chuck E. Cheese and have been for
 - [Studio C Beta] (4, all 32M Betas)
 - [Studio C Cappa] (1)
 - [Circles of Light] (3, one being a 16M COL))
-- [Chuck E Live Stage (Dance Floor)] (5)
+- [Chuck E. Live Stage (Dance Floor)] (5)
 
 ## Locations I Have Been To And Their Current Stage
 
@@ -64,7 +64,7 @@ Arkansas:
 
 Illinois:
 
-- Villa Park, [Chuck E Live Stage (Dance Floor)] (Studio C Beta when I went) (Went in Summer 2018)
+- Villa Park, [Chuck E. Live Stage (Dance Floor)] (Studio C Beta when I went) (Went in Summer 2018)
 
 California:
 

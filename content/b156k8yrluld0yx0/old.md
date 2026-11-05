@@ -34,15 +34,3 @@ The only arcades listed would be from the 1986 auction, which may differ than th
 - Skee Ball (x9)
 
 Children's rides also incluuded: Covered Wagon, Noah's Ark, Bulldozer, Motorcycle, Frog, Racer, Scout Ball, Helicopter, Horse, and a mini Merry Go Round.
-
-## Animatronics
-
-| Animatronic                                                  | Serial | Whereabouts                                          |
-|--------------------------------------------------------------|--------|------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | ???    | Sold at Auction in 1986, unknown current wearabouts. |
-| [Guest Star / Helen Henny (Cyberamic)] | ???    | Sold at Auction in 1986, unknown current wearabouts. |
-| [Mr. Munch (Cyberamic)]               | ???    | Sold at Auction in 1986, unknown current wearabouts. |
-| [Pasqually (Cyberamic)]              | ???    | Sold at Auction in 1986, unknown current wearabouts. |
-| [Jasper T. Jowls (Cyberamic)]         | ???    | Sold at Auction in 1986, unknown current wearabouts. |
-| [Warblettes (Cyberamic)]             | ???    | Sold at Auction in 1986, unknown current wearabouts. |
-| (Unknown Lounge or Cabaret Cyberamic)                        | ???    | Sold at Auction in 1986, unknown current wearabouts. |

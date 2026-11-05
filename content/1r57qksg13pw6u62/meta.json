@@ -44,32 +44,44 @@
     {
       "n": "Chuck E. Cheese (Cyberamic)",
       "s": "1993-09-06",
-      "e": "2026-08-31"
+      "e": "2026-08-31",
+      "desc": "In store."
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
       "s": "1993-09-06",
-      "e": "2026-08-31"
+      "e": "2026-08-31",
+      "desc": "In store."
     },
     {
       "n": "Mr. Munch (Cyberamic)",
       "s": "1993-09-06",
-      "e": "2026-08-31"
+      "e": "2026-08-31",
+      "desc": "In store."
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
       "s": "1993-09-06",
-      "e": "2026-08-31"
+      "e": "2026-08-31",
+      "desc": "In store."
     },
     {
       "n": "Pasqually (Cyberamic)",
       "s": "1993-09-06",
-      "e": "2026-08-31"
+      "e": "2026-08-31",
+      "desc": "In store."
     },
     {
       "n": "Wink (Animatronic)",
       "s": "1993-09-06",
       "e": "2026-08-31"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "In store."
     }
   ]
 }

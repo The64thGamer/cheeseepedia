@@ -8,33 +8,6 @@ Chattanooga opened on October 19th, 1982 as the 4th ShowBiz Pizza store in Tenne
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations had. In around 1991, Chattanooga would undergo Concept Unification, turning the RAE into Munch's Make Believe Band. In 2006-2007, the 3-Stage was removed for the Beta. In September 2019, Saginaw received 2.0 and the Beta was removed for the Dance Floor. Between 2021 and 2023, The Video Wall was added to the location.
 
-| Stage                                                      | Installed      | Removed        | Notes                                                                                                                |
-|------------------------------------------------------------|----------------|----------------|----------------------------------------------------------------------------------------------------------------------|
-| [Classic Stage]                    | October 1982   | 1991           | 4th ShowBiz Pizza store to open in Tennessee. All Eight ShowBiz locations in Tennessee was converted to stage below. |
-| [Concept Unification Stage (3-Stage)]        | 1991           | 2006-2007      | One of eight Tennessee locations to get Concept Unification.                                                         |
-| [Studio C Beta], 16m               | 2006-2007      | September 2019 | Only Beta 16m in Tennessee                                                                                           |
-| [Chuck E Live Stage (Dance Floor)] | September 2019 | Still in use   | 2019 Model.                                                                                                          |
-| Video Wall                                                 | 2021-2023      | Still in use   |                                                                                                                      |
-
-## Animatronics
-
-| Animatronic                                                                                       | Serial Number | Whereabouts        |
-|---------------------------------------------------------------------------------------------------|---------------|--------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)]                         | 4-82 1-1      | Unknown/Destroyed  |
-| [Dook Larue (Animatronic)]                                                | 4-82 2-1      | Unknown/Destroyed  |
-| [Fatz Geronimo (Animatronic)]                                             | 4-82 3-1      | Unknown/Destroyed  |
-| [Beach Bear (Animatronic)]                                                | 4-82 4-1      | Unknown/Destroyed  |
-| [Mitzi Mozzarella (Animatronic)]                                          | 4-82 5-1      | Unknown/Destroyed  |
-| [Billy Bob (Animatronic)]                                                 | 4-82 6-1      | Unknown/Destroyed  |
-| [Looney Bird (Animatronic)]                                               | 4-82 7-1      | Unknown/Destroyed  |
-| [Choo Choo (Animatronic)]                                                 | 4-82 8-1      | Unknown/Destroyed  |
-| [Sun (Animatronic)]                                                       | 4-82 10-1     | Unknown/Destroyed  |
-| [Moon (Animatronic)]                                                      | 4-82 11-1     | Unknown/Destroyed  |
-| [Antioch (Animatronic)]                                                   | N/A           | Unknown/Destroyed  |
-| [Wink]                                                                    | N/A           | Unknown/Destroyed. |
-| [Chuck E Cheese 16m (Animatronic)]                                        | N/A           | Unknown/Destroyed. |
-| [Pizza Time Clock (Animatronic)](https://chuckepedia.com/wiki/Pizza_Time_Clock_%28Animatronic%29) | N/A           | Unknown/Destroyed. |
-
 ## Videos
 
 | Link | Description | Footage Date | Upload Date |

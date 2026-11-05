@@ -1,34 +1,65 @@
 {
-    "title": "Ann Arbor, MI (2655 Oak Valley Dr)",
-    "storeNumber": "",
-    "startDate": "2000-11-02",
-    "endDate": "2020-12-02",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2000-11-02"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Alpha",
-            "s": "2000-11-02",
-            "e": "2020-12-02"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "42.24621377",
-        "-83.76971763"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "RFqhTtN94N4RiQc2spY_.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Ann Arbor, MI (2655 Oak Valley Dr)",
+  "storeNumber": "",
+  "startDate": "2000-11-02",
+  "endDate": "2020-12-02",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2000-11-02"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "2000-11-02",
+      "e": "2020-12-02",
+      "desc": "32M Beta from October 2000 until June 2020. 16M Beta from June to December 2020."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.24621377",
+    "-83.76971763"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "RFqhTtN94N4RiQc2spY_.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed; Replaced in June 2020"
+    },
+    {
+      "n": "Chuck E. Cheese 16M (Studio C)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed; Came from Muskegon, Michigan, which closed in June 2020."
+    },
+    {
+      "n": "Parrot (Animatronic)|Bird (Studio C)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    }
+  ]
 }

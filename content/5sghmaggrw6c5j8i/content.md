@@ -96,7 +96,7 @@ These concepts also bleed into the section of the survey on the Chuck E. Fan Clu
 
 ### Nanuet Chosen
 
-[Nanuet, NY (250 West Route 59)] was chosen in May of 2024 to be the second store to keep its animatronic(s). The store had a [Studio C Beta]. The store would also be confirmed to be receiving a [Chuck E Live Stage (Dance Floor)].
+[Nanuet, NY (250 West Route 59)] was chosen in May of 2024 to be the second store to keep its animatronic(s). The store had a [Studio C Beta]. The store would also be confirmed to be receiving a [Chuck E. Live Stage (Dance Floor)].
 
 ### Springfield, Charlotte, & Hicksville Chosen
 

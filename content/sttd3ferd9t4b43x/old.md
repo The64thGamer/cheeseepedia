@@ -8,13 +8,6 @@ Carson's Pizza Time Theatre opened in 1983 (month and date unknown) with a [Balc
 
 Carson at first had a Balcony Stage. Not much is known about it, and it was replaced with the C-Stage in 1989/1990. The C-Stage was then replaced with the 2-Stage in 1995/1996. The 2-Stage remained up until the January 2014 closure. The new store's stage was a bot-less Circles of Light, and the stage is still operational.
 
-| Stage                                              | Installed                   | Removed      |
-|----------------------------------------------------|-----------------------------|--------------|
-| [Balcony Stage] | 1983                        | 1989/1990    |
-| [Chuck E.'s House Facade (C-Stage)]   | 1989/1990                   | 1995/1996    |
-| [2-Stage]                  | 1995/1996                   | January 2014 |
-| [Circles of Light]         | January 2014 (at new store) | Still in use |
-
 ## Videos
 
 | Link                                                       | Description                                                                                       | Filming Date        |
@@ -24,16 +17,3 @@ Carson at first had a Balcony Stage. Not much is known about it, and it was repl
 ## Animatronics
 
 The characters would be sent to [West Hills, CA (22940 Van Owen St)] following the closure where they would then be dismantled to use as parts for the [Road Stage], with two masks being sent to [Garden Grove, CA (13101 Harbor Blvd)]. Various cosmetic and mech pieces from Carson are now under private ownership.
-
-| Animatronic                                                  | Whereabouts                                                                                            |
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | Destroyed. Head mech, jaw, and feet owned by a private collector.                                      |
-| [Guest Star / Helen Henny (Cyberamic)] | Destroyed. Mask and dress owned by a private collector.                                                |
-| [Mr. Munch (Cyberamic)]               | Destroyed. Mask and body fur owned by a private collector.                                             |
-| [Jasper T. Jowls (Cyberamic)]         | Destroyed. Mask sent to [Garden Grove, CA (13101 Harbor Blvd)], now destroyed. |
-| [Pasqually (Cyberamic)]              | Destroyed. Mask sent to [Garden Grove, CA (13101 Harbor Blvd)], now destroyed. |
-| [Warblettes (Cyberamic)]             | Unknown/Destroyed                                                                                      |
-| [Flag Wavers (Cyberamic)]                                     | Unknown/Destroyed                                                                                      |
-| [Clapper Board (Cyberamic)]                                    | Unknown/Destroyed                                                                                      |
-| [Singing Flowers (Cyberamic)]        | Unknown/Destroyed                                                                                      |
-| [Wink]                               | Unknown/Destroyed                                                                                      |

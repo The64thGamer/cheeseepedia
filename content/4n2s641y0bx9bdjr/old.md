@@ -12,25 +12,7 @@ In 2006, Knoxville would remodel to the 2005 Update of the 2003 'Cool Chuck' Rec
 
 ### 2.0 Remodel (April 2022- Present)
 
-Starting in around April 2022, the Knoxville CEC would start it's 2017 2.0 Remodel Program|2.0 Remodel, this means removing all old artwork, redoing the exterior, painting all the walls white and gray, getting new carpet, removing the animatronic stage show and replacing it with a 2021 model [Chuck E Live Stage (Dance Floor)] and [Video Wall]. In around late April/ early May, they would remove their 1-Stage, being the last Munch's Make-Believe Band stage in the state of Tennessee, after [Madison, TN (2070 Gallatin Pike)] removed their 3 stage in late April.
-
-## Stages
-
-| Stage                                                                   | Installed      | Removed        | Notes                                                              |
-|-------------------------------------------------------------------------|----------------|----------------|--------------------------------------------------------------------|
-| [1-Stage]                                       | March 23, 1998 | April/May 2022 | Only 1-Stage installed in Tennessee, Last MMBB stage in the state. |
-| [Chuck E Live Stage (Dance Floor)] + Video Wall | April/May 2022 | Still In Use   | 2021 Model.                                                        |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                   |
-|--------------------------------------------------------------|--------------------|-------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | Unknown            | Owned by a Private Collector. |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Owned by a Private Collector. |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Owned by a Private Collector. |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Owned by a Private Collector. |
-| [Pasqually (Cyberamic)]              | Unknown            | Owned by a Private Collector. |
-| [Wink (Cyberamic)]                   | Unknown            | Owned by a Private Collector. |
+Starting in around April 2022, the Knoxville CEC would start it's 2017 2.0 Remodel Program|2.0 Remodel, this means removing all old artwork, redoing the exterior, painting all the walls white and gray, getting new carpet, removing the animatronic stage show and replacing it with a 2021 model [Chuck E. Live Stage (Dance Floor)] and [Video Wall]. In around late April/ early May, they would remove their 1-Stage, being the last Munch's Make-Believe Band stage in the state of Tennessee, after [Madison, TN (2070 Gallatin Pike)] removed their 3 stage in late April.
 
 ## Videos
 

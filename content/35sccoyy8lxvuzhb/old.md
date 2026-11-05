@@ -4,12 +4,6 @@
 
 The store originally opened with the Balcony Stage as shown on the November 1st, 1987 and September 11th, 1988 footage. In 1989, the Balcony Stage was replaced with the C-Stage, or Chuck E.'s House Facade (C-Stage). The walls that formerly contained the Warblettes and Drum Boards would remain throughout the remodels and were converted into artifact shelves during its 1990s remodel. In 1993/1994, the Chuck E.'s House Facade (C-Stage) would be removed and replaced with a 2-Stage. The Pasqually Cyberamic would also receive 3-stage Pasqually shoes at some point before it's removal.
 
-| Stage                                              | Installed  | Removed     | Notes |
-|----------------------------------------------------|------------|-------------|-------|
-| [Balcony Stage] | March 1983 | 1989        |       |
-| [Chuck E.'s House Facade (C-Stage)]   | 1989       | 1993/1994   |       |
-| [2-Stage]                  | 1993/1994  | August 2016 |       |
-
 |                                                              |                        |                                                                                                               |
 |--------------------------------------------------------------|------------------------|---------------------------------------------------------------------------------------------------------------|
 | **Animatronic**                                              | **Manufacturing Date** | **Whereabouts**                                                                                               |
@@ -50,18 +44,3 @@ On August 8, 2016, the store permanently closed. In 2018 the interior was comple
 | https://youtu.be/DAr7BTBH6ss                | Store Tour                                                                  | November 3rd, 2016                                                          |
 | https://youtu.be/n9-6kPmZM50                | Clip of the location after closure                                          | August 7th, 2017                                                            |
 | https://youtu.be/RVpRYKjrYjU                | Clip of 'Lots Furniture &amp; More' being built.                            | July 11th, 2018                                                             |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                                                                                   |
-|--------------------------------------------------------------|--------------------|---------------------------------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown            | Destroyed                                                                                                     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Destroyed, hand frame owned by collector                                                                      |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Destroyed; mask sent to [Glen Burnie, MD (6637 Governor Ritchie Hwy)], then destroyed |
-| [Pasqually (Cyberamic)]              | Unknown            | Destroyed                                                                                                     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Destroyed                                                                                                     |
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown                                                                                                       |
-| [Flag Wavers (Cyberamic)]            | Unknown            | Unknown                                                                                                       |
-| [Applause Board (Cyberamic)]         | Unknown            | Unknown                                                                                                       |
-| [Drum Board (Cyberamic)]             | Unknown            | Unknown                                                                                                       |
-| [Wink (Cyberamic)]                   | Unknown            | Unknown                                                                                                       |

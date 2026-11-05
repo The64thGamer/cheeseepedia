@@ -1,59 +1,201 @@
 {
-    "title": "Dallas, TX (13125 Montfort Dr)",
-    "storeNumber": "",
-    "startDate": "1983-01-26",
-    "endDate": "2001-12-00",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1990-06-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1983-01-26"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1983-01-26",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Prototype Stage",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1990-06-00",
-            "e": "1996-08-11",
-            "desc": "Was the first ever 3-Stage to undergo Concept Unification. First of 17 3-Stages in Texas to undergo Concept Unification from 1990 to 1992. Replaced the Concept Unification Prototype Stage. This 3-Stage was later replaced by the one and only Awesome Adventure Machine in August 1996."
-        },
-        {
-            "n": "Awesome Adventure Machine",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Studio C Alpha",
-            "s": "0000-00-00",
-            "e": "2001-12-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "32.92602377",
-        "-96.81312848"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "hvvce3dD95y0lLYLe3AU.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Dallas, TX (13125 Montfort Dr)",
+  "storeNumber": "",
+  "startDate": "1983-01-26",
+  "endDate": "2001-12-00",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1990-06-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1983-01-26"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-01-26",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Prototype Stage",
+      "s": "0000-00-00",
+      "e": "1990-06-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1990-06-00",
+      "e": "1996-08-11",
+      "desc": "Was the first ever 3-Stage to undergo Concept Unification. First of 17 3-Stages in Texas to undergo Concept Unification from 1990 to 1992. Replaced the Concept Unification Prototype Stage. This 3-Stage was later replaced by the one and only Awesome Adventure Machine in August 1996."
+    },
+    {
+      "n": "Awesome Adventure Machine",
+      "s": "1996-08-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "2001-12-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.92602377",
+    "-96.81312848"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "hvvce3dD95y0lLYLe3AU.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 1-5",
+      "desc": "Used for parts / Destroyed"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 2-5",
+      "desc": "Used for parts / Destroyed"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 3-5",
+      "desc": "Used for parts / Destroyed"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 4-5",
+      "desc": "Used for parts / Destroyed"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 5-5",
+      "desc": "Used for parts / Destroyed"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 6-5",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 7-5",
+      "desc": "Used for parts / Destroyed"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 8-5",
+      "desc": "Used for parts / Destroyed"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 10-5",
+      "desc": "Used for parts / Destroyed"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-82 11-5",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "AAM Chuck E Cheese (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Brain-I-Vac (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "ORBIS (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Dusty (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "002",
+      "desc": "Sent to Moreno Valley, CA (23160 Sunnymead Blvd), then destroyed."
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed"
+    }
+  ]
 }

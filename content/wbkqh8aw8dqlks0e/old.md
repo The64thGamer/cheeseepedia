@@ -16,34 +16,11 @@ In 2005, the store received the 2005 Remodel which involved the removal of Showr
 
 ### Present Day
 
-Roanoke featured a 3-Stage with Pizzacam (Later Retro-Cam) &amp; Building (Behind Helen and wasn't not functioning before removal). This store was the last location in the state of Virginia to have the Pizzacam animatronic. In July 2022, the store remodeled to 2.0 which involved the removal of the 3-Stage for a Dance Floor &amp; Video Wall. In around August 2022, the stage was removed. On September 17th, 2022, Roanoke hosted their Grand Reopening(1), therefore ending the process. As of February 2023, Roanoke still has the 2.0 Remodel and 2021 Dance Floor + Video Wall.
+Roanoke featured a 3-Stage with Pizzacam (Later Retro-Cam) &amp; Building (Behind Helen and wasn't not functioning before removal). This store was the last location in the state of Virginia to have the Pizzacam animatronic. In July 2022, the store remodeled to 2.0 which involved the removal of the 3-Stage for a Dance Floor &amp; Video Wall. In around August 2022, the stage was removed. On September 17th, 2022, Roanoke hosted their Grand Reopening(1), therefore ending the process. As of February 2023, Roanoke still has the 2.0 Remodel and 2021 Chuck E. Live Stage (Dance Floor).
 
 ## Stages
 
 Originally, Roanoke featured a Rock-Afire Explosion, as all other ShowBiz locations did, in around 1991, they would undergo Concept Unification, turning the RAE into the 3-Stage, they would have the 3-Stage until around August 2022; In August 2022, they would replace the 3-Stage with a Dance Floor and Video Wall, as part of their 2.0 remodel, they were the 2nd to last 3-Stage in Virginia. As of February 2023, they still have this remodel.
-
-| Stage                                                                   | Installed   | Removed      | Notes                                       |
-|-------------------------------------------------------------------------|-------------|--------------|---------------------------------------------|
-| [Classic Stage]                                 | June 1983   | 1991         | 1st ShowBiz to open in Virginia.            |
-| [Concept Unification Stage (3-Stage)]                     | 1991        | August 2022  | One of five to undergo Concept Unification. |
-| [Chuck E Live Stage (Dance Floor)] + Video Wall | August 2022 | Still In Use | 2021 Model.                                 |
-
-## Animatronics
-
-| Animatronic                                                               | Serial      | Whereabouts |
-|---------------------------------------------------------------------------|-------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-82 1-18  | Destroyed   |
-| [Dook Larue (Animatronic)]                        | 10-82 2-18  | Destroyed   |
-| [Fatz Geronimo (Animatronic)]                     | 10-82 3-18  | Destroyed   |
-| [Beach Bear (Animatronic)]                        | 10-82 4-18  | Destroyed   |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-82 5-18  | Destroyed   |
-| [Billy Bob (Animatronic)]                         | 10-82 6-18  | Unknown     |
-| [Looney Bird (Animatronic)]                       | 10-82 7-18  | Destroyed   |
-| [Choo Choo (Animatronic)]                         | 10-82 8-18  | Destroyed   |
-| [Sun (Animatronic)]                               | 10-82 10-18 | Destroyed   |
-| [Moon (Animatronic)]                              | 10-82 11-18 | Destroyed   |
-| [Antioch (Animatronic)]                           | N/A         | Destroyed   |
-| [Wink]                                            | N/A         | Destroyed   |
 
 ## Videos
 

@@ -8,26 +8,6 @@ San Bernardino opened its doors in December 1981 with a Balcony Stage show. It w
 
 San Bernardino opened with the Balcony Stage in December 1981. Unfortunately, there are no photos or no videos to exist of San Bernardino with the Balcony Stage, or as a PTT in general. The only one photo is the outside, but it is turned away and has Chuck E. playing his drums next to a Burger King that closed somewhere between the mid-late 90's and became a Jose's Mexican Food Restaurant. In 1988/1989, San Bernardino removed their Balcony Stage for, the C-Stage or Chuck E.'s House Facade (C-Stage). In 1993/1994, San Bernardino removed the C-Stage or Chuck E.'s House Facade (C-Stage) for the 2-Stage. In June 2020, the location closed due to the bankruptcy and the COVID-19 Pandemic.
 
-| Stage                                              | Installed     | Removed   | Notes                                |
-|----------------------------------------------------|---------------|-----------|--------------------------------------|
-| [Balcony Stage] | December 1981 | 1988-1989 | One of many installed in California. |
-| [Chuck E.'s House Facade (C-Stage)]   | 1988-1989     | 1993/1994 | One of many installed in California. |
-| [2-Stage]                  | 1993/1994     | June 2020 | One of many installed in California. |
-
 ## Animatronics
-
-| Character                                                    | Serial | Status                                                  |
-|--------------------------------------------------------------|--------|---------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | N/A    | Unknown/Destroyed.                                      |
-| [Guest Star / Helen Henny (Cyberamic)] | N/A    | Owned by a private collector.                           |
-| [Mr. Munch (Cyberamic)]               | N/A    | Unknown/Destroyed. Valves owned by a private collector. |
-| [Jasper T. Jowls (Cyberamic)]         | N/A    | Owned by a private collector.                           |
-| [Pasqually (Cyberamic)]              | N/A    | Owned by a private collector.                           |
-| [Warblettes (Cyberamic)]             | N/A    | Unknown/Destroyed.                                      |
-| [Flag Wavers (Cyberamic)]                                     | N/A    | Unknown/Destroyed.                                      |
-| [Applause Board (Cyberamic)]         | N/A    | Unknown/Destroyed.                                      |
-| [Drum Board (Cyberamic)]             | N/A    | Unknown/Destroyed.                                      |
-| [Singing Flowers (Cyberamic)]        | N/A    | Unknown/Destroyed.                                      |
-| [Wink (Cyberamic)]                   | N/A    | Owned by a private collector.                           |
 
 W.I.P

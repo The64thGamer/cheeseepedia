@@ -6,12 +6,6 @@ This location originally opened up with Phase 3 and had the Cool Chuck outfit, a
 
 ## Stages
 
-| Stage                                                      | Installed | Removed       | Note                            |
-|------------------------------------------------------------|-----------|---------------|---------------------------------|
-| Studio C Beta, 32M                                         | June 2001 | July 8, 2024  | Only 32M Beta in Massachusetts. |
-| [Chuck E Live Stage (Dance Floor)] | July 2024 | Still in use. |                                 |
-| [Video Wall]                       | July 2024 | Still in use. |                                 |
-
 [2001-2002](https://www.showbizpizza.com/photos/cec/ma_everett/index.html) MassLive Promotional Photo (June 2024) (1)
 
 ## Videos
@@ -22,10 +16,3 @@ This location originally opened up with Phase 3 and had the Cool Chuck outfit, a
 | https://www.youtube.com/watch?v=N202sZCT4sk&amp;t=229s | April 2013 Segment 1   | May 18, 2013      |
 | https://www.youtube.com/watch?v=VR6HQkrac7Q            | January 2012 Segment 1 | February 28, 2012 |
 |                                                        |                        |                   |
-
-## Animatronics
-
-| Animatronic                                                | Manufacturing Date | Serial Number | Wherabouts                                                                                                                    |
-|------------------------------------------------------------|--------------------|---------------|-------------------------------------------------------------------------------------------------------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 2001               | Unknown       | Unknown, Likely Destroyed. Head replaced with [Burlington, NJ (2497 Burlington-Mount Holly Rd)] head. |
-| [Pizza Time Clock (Animatronic)]   | 2001               | Unknown       | Listed on eBay.(2)                                                                                                            |

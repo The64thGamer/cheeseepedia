@@ -8,22 +8,6 @@ Cherry Hill opened on August 25, 1992 with a [2-Stage]. The store would receive 
 
 Sometime around 2009-2010, Chuck E. would get the Avenger hat and shirt. The hat was removed in 2013. Jasper and Helen received new masks in late 2014. Chuck E. received the Rockstar shirt in early 2015 and finally the jeans in March 2017. It would remain like this until August 2023, when they received the 2.0 remodel and removed the 2-Stage.
 
-| Stage                                                                                             | Installed   | Removed      |
-|---------------------------------------------------------------------------------------------------|-------------|--------------|
-| [2-Stage]                                                                 | August 1992 | August 2023  |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | August 2023 | Still in Use |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Status                                                   |
-|--------------------------------------------------------------|--------------------|----------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown            | Some parts, including snout, owned by Private Collector. |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown                                                  |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown                                                  |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown                                                  |
-| [Pasqually (Cyberamic)]              | Unknown            | Unknown                                                  |
-| [Wink (Cyberamic)]                   | 1992               | Owned by Private Collector                               |
-
 ## Arcade Machines
 
 ### Skill

@@ -8,11 +8,6 @@ The store would open with the SPT 1992/1993 Remodel Program, later updating the 
 
 This store opened housing a Studio C Beta (Beta) with a 16 movement Garner Holt Productions Chuck E. Cheese Animatronic wearing the 'Cool Chuck' outfit this outfit would be partially replaced with the 'Avenger Chuck' shirt sometime in the late 2000's - Early 2010's (the hat also being replaced sometime in the early 2010's as well), the curtains became disabled in fall of 2011 and the TV's also got replaced with 3 LG TV's of the same size that they still have to this day. the 'Cool' shorts and rest of the 'Avenger' outfit would be replaced sometime around 2015-16, because of the exterior sign change. The bluescreen and camera were removed sometime in 2013 (replaced with a Ticket Blaster mural) along with dim lighting, the 'STUDIO C' sign was moved to above the TV's following the removal of the bluescreen and camera. In August of 2024, the bot was replaced with another 16m bot in better condition than the previous one. The new bot also has full Avenger attire including the hat.
 
-| Stage                                   | Installed     | Removed      | Notes                                                                                                          |
-|-----------------------------------------|---------------|--------------|----------------------------------------------------------------------------------------------------------------|
-| [Studio C Beta] | December 2003 | Still in use | Kept in-store throughout the retro store 2.0 remodel. One of the last 2 animatronics of any kind in the state. |
-| Dance Floor                             | June 2024     | Still in use | 2019 model                                                                                                     |
-
 ## Animatronics
 
 |                                                            |               |                                                                      |

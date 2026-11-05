@@ -1,49 +1,94 @@
 {
-    "title": "Deptford, NJ (1500 Almonesson Rd)",
-    "storeNumber": "",
-    "startDate": "1991-11-12",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1991-11-12"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-12-14"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Road Stage",
-            "s": "1991-11-12",
-            "e": "1995-00-00"
-        },
-        {
-            "n": "1-Stage",
-            "s": "1995-00-00",
-            "e": "2022-12-13",
-            "desc": "1-Stage w/ 2-Stage props"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-12-14",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "39.82532117",
-        "-75.10387053"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "2k6MZy_sgnfaddOZlazQ.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Deptford, NJ (1500 Almonesson Rd)",
+  "storeNumber": "",
+  "startDate": "1991-11-12",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1991-11-12"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-12-14"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-11-12",
+      "e": "1995-00-00",
+      "desc": "One of two installed in New Jersey. First location in New Jersey with a MMBB Stage of any kind as Union, NJ (1660 US-22) was a Chuck E.'s House Facade (C-Stage) at the time Deptford opened."
+    },
+    {
+      "n": "1-Stage",
+      "s": "1995-00-00",
+      "e": "2022-12-13",
+      "desc": "1-Stage w/ 2-Stage props"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-12-14",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.82532117",
+    "-75.10387053"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "2k6MZy_sgnfaddOZlazQ.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1991-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    }
+  ]
 }

@@ -1,40 +1,70 @@
 {
-    "title": "Spokane, WA (10007 N Nevada St)",
-    "storeNumber": "",
-    "startDate": "2000-03-00",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2000-03-00"
-        },
-        {
-            "n": "Low Volume Store Initiative",
-            "s": "0000-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Alpha",
-            "s": "2000-03-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "47.74759772",
-        "-117.3974622"
-    ],
-    "citations": [
-        "Employee Correspondance",
-        "https://www.reddit.com/r/chuckecheese/comments/1s04js5/lets_talk_about_this_mess_of_a_statement_from/"
-    ],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "d0SMLdPsnwGAYBqPaWzd.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Spokane, WA (10007 N Nevada St)",
+  "storeNumber": "",
+  "startDate": "2000-03-00",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2000-03-00"
+    },
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "0000-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "2000-03-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "47.74759772",
+    "-117.3974622"
+  ],
+  "citations": [
+    "Employee Correspondance",
+    "https://www.reddit.com/r/chuckecheese/comments/1s04js5/lets_talk_about_this_mess_of_a_statement_from/"
+  ],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "d0SMLdPsnwGAYBqPaWzd.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "075",
+      "desc": "Still in Use"
+    },
+    {
+      "n": "Parrot",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Still in Use"
+    },
+    {
+      "n": "Clock",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Still in Use"
+    },
+    {
+      "n": "Pizza Phone",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Still in Use"
+    }
+  ]
 }

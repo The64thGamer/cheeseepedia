@@ -14,12 +14,6 @@ The store would then open in November 1991 at an unknown day as one of two North
 
 Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby outfit. Also, the stage featured no curtains like any other Road Stage from when it was first installed. Up and Down curtains were added by 1998. In the Early 2000's this was replaced with the Cool Chuck outfit. By the Late 2000's, Chuck's outfit was replaced with the Avenger outfit. After the 2000's and into the 2010's, Chuck was then given Pasqually's eyebrows and the Wink's eye was then broken and tilted. This is the last location with the Road Stage style Helen mask. The store's stage would later fall under disrepair by 2022. In March/April 2024, Pasqually’s jaw would fall out. In June 2024, the Road Stage was removed. Charlotte then began their [CEC 2.0 Remodel Program], obtaining their dance floor and video wall within a couple days. Their Road Stage was the last one in the entire United States, as the final Road Stage in existence is at the [Mississauga, Ontario, Canada (4141 Dixie Rd)] location.
 
-| Stage       | Installed     | Removed      | Notes                                                       |
-|-------------|---------------|--------------|-------------------------------------------------------------|
-| Road Stage  | November 1991 | June 2, 2024 | Last remaining Road Stage in the entire U.S before removal. |
-| Dance Floor | June 6, 2024  | Still in use |                                                             |
-| Video Wall  | June 4, 2024  | Still in use |                                                             |
-
 ## Arcade Machines
 
 ### Skill
@@ -87,15 +81,6 @@ Like all Road Stages when they first opened, Chuck wore his Tuxedo &amp; Derby o
 - Circus Toss
 
 ## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Status                                                                                 |
-|--------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | N/A                | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Guest Star / Helen Henny (Cyberamic)] | N/A                | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Mr. Munch (Cyberamic)]               | N/A                | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Jasper T. Jowls (Cyberamic)]         | N/A                | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Pasqually (Cyberamic)]              | N/A                | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Wink (Cyberamic)]                   | 1991               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
 
 [2021](https://www.flickr.com/photos/ryanrules/albums/72157718998472949)
 

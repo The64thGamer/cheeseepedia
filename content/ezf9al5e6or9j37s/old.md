@@ -8,11 +8,6 @@ Sunrise opened on April 16th, 1991, as a corporate-owned location. Sunrise opene
 
 Like all Road Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. Up and Down curtains were added by the Late 90's. In the Early 2000's, this was replaced with the Cool Chuck outfit. By the Late 2000's, Chuck's outfit was replaced with the Avenger outfit. The stage was removed in June 2022 for the 2.0 Remodel and Dance Floor. As of August 2023, Sunrise still has the Dance Floor and 2.0 Remodel.
 
-| Stage                    | Installed  | Removed      |
-|--------------------------|------------|--------------|
-| Road Stage               | April 1991 | June 2022    |
-| Dance Floor + Video Wall | June 2022  | Still in use |
-
 ## Arcade Machines
 
 ### Skill
@@ -69,17 +64,6 @@ Like all Road Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. Up a
 - Pirate's Hook
 - Angel Carousel
 - Hit Music
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Status     |
-|--------------------------------------------------------------|--------------------|------------|
-| [Chuck E. Cheese (Cyberamic)]         | N/A                | Destroyed. |
-| [Guest Star / Helen Henny (Cyberamic)] | N/A                | Destroyed. |
-| [Mr. Munch (Cyberamic)]               | N/A                | Destroyed. |
-| [Jasper T. Jowls (Cyberamic)]         | N/A                | Destroyed. |
-| [Pasqually (Cyberamic)]              | N/A                | Destroyed. |
-| [Wink (Cyberamic)]                   | N/A                | Destroyed. |
 
 ## Videos
 

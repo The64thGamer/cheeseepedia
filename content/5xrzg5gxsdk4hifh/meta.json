@@ -1,45 +1,181 @@
 {
-    "title": "Milwaukee, WI (7401 Good Hope Rd)",
-    "storeNumber": "",
-    "startDate": "1981-06-17",
-    "endDate": "1995-00-00",
-    "remodels": [
-        {
-            "n": "SPP Standard Layout",
-            "s": "1981-06-17"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1981-06-17",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E.'s House (Rocker Stage)",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "1-Stage",
-            "s": "1994-00-00",
-            "e": "1995-00-00",
-            "desc": "1-Stage w/ Turntable"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "43.14574937",
-        "-88.00367783"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Milwaukee, WI (7401 Good Hope Rd)",
+  "storeNumber": "",
+  "startDate": "1981-06-17",
+  "endDate": "1995-00-00",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1981-06-17"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-06-17",
+      "e": "1985-00-00",
+      "desc": "1st ShowBiz to open in Wisconsin. Show sent to Raleigh, NC (3501-131 Capital Blvd) where it underwent Concept Unification around 3 years after the store's opening."
+    },
+    {
+      "n": "Chuck E.'s House (Rocker Stage)",
+      "s": "1988-00-00",
+      "e": "1994-00-00",
+      "desc": "One of three installed in Wisconsin, also one of three installed in a former ShowBiz Pizza Place."
+    },
+    {
+      "n": "1-Stage",
+      "s": "1994-00-00",
+      "e": "1995-00-00",
+      "desc": "1-Stage w/ Turntable"
+    },
+    {
+      "n": "Balcony Stage",
+      "s": "1985-00-00",
+      "e": "1988-00-00",
+      "desc": "One of the 4 installed in Wisconsin. Last Balcony Stage to be installed in the state."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "43.14574937",
+    "-88.00367783"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 1-2",
+      "desc": "Sent to Raleigh, NC (3501-131 Capital Blvd), Now Destroyed."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 2-2",
+      "desc": "Sent to Raleigh, NC (3501-131 Capital Blvd), Now Destroyed."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 3-2",
+      "desc": "Sent to Raleigh, NC (3501-131 Capital Blvd), Now Destroyed."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 4-2",
+      "desc": "Sent to Raleigh, NC (3501-131 Capital Blvd), Now Destroyed."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 5-2",
+      "desc": "Sent to Raleigh, NC (3501-131 Capital Blvd), Now Destroyed."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 6-2",
+      "desc": "Sent to Raleigh, NC (3501-131 Capital Blvd), Now Unknown."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 7-2",
+      "desc": "Sent to Raleigh, NC (3501-131 Capital Blvd), Now Destroyed."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 8-2",
+      "desc": "Sent to Raleigh, NC (3501-131 Capital Blvd), Now Unknown."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 10-2",
+      "desc": "Sent to Raleigh, NC (3501-131 Capital Blvd), Now Unknown."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 11-2",
+      "desc": "Sent to Raleigh, NC (3501-131 Capital Blvd), Now Unknown."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Raleigh, NC (3501-131 Capital Blvd), Now Destroyed."
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1980s",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1980s",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1980s",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1980s",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1980s",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1994",
+      "desc": "Unknown."
+    }
+  ]
 }

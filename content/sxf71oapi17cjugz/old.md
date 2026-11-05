@@ -1,13 +1,5 @@
 ***Altoona, PA (3415 Pleasant Valley Blvd)*** ***Store #3165/449*** was a ShowBiz Pizza Place that opened on November 23, 1983, with a Rock-Afire Explosion, and is still open to this day with the 2.0 remodel. Altoona is also the second last store to have 'Chuck E. Cheese's Pizza' on the building, although it is on a small sign under the main façade of the building.
 
-## Stages
-
-| Stage                                               | Installed     | Removed      | Notes                                                                                                                                                                                                                   |
-|-----------------------------------------------------|---------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Classic Stage]             | November 1983 | 1991/1992    | 5th SPP to open in Pennsylvania.                                                                                                                                                                                        |
-| [Concept Unification Stage (3-Stage)] | 1991/1992     | May 13, 2024 | Last 3-Stage in Pennsylvania and the Northeast United States before removal. Second-to-last 3 stage to be removed (the last being [Billings, MT (100 24th St)]). Stage was in decent condition. |
-| Dance Floor + Video Wall                            | May 2024      | Still in use |                                                                                                                                                                                                                         |
-
 ## History
 
 ### 1982-2000
@@ -34,20 +26,3 @@ Currently, as of August 2024, the location still has the 2.0 Remodel and the Dan
 | [Link](https://www.youtube.com/watch?v=mUVJAHJuaJQ) | A video titled 'Chuck E Cheese Band - Golgotha (the characters shown with latex masks)' | 2011         | Aug 16, 2012   |
 | [Link](https://www.youtube.com/watch?v=thG1UCs1zNc) | A tour of the store a month prior to remodeling.                                        | April 2024   | Apr 28, 2024   |
 | [Link](https://www.youtube.com/watch?v=BB75k44saaU) | Final Performance of the 3-Stage before removal                                         | May 12, 2024 | May 13, 2024   |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts       |
-|---------------------------------------------------------------------------|---------------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-83 1-2      | Sent to corporate |
-| [Dook Larue (Animatronic)]                        | 1-83 2-2      | Sent to corporate |
-| [Fatz Geronimo (Animatronic)]                     | 1-83 3-2      | Sent to corporate |
-| [Beach Bear (Animatronic)]                        | 1-83 4-2      | Sent to corporate |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-83 5-2      | Sent to corporate |
-| [Billy Bob (Animatronic)]                         | 1-83 6-2      | Unknown           |
-| [Looney Bird (Animatronic)]                       | 1-83 7-2      | Unknown           |
-| [Choo Choo (Animatronic)]                         | 1-83 8-2      | Unknown           |
-| [Sun (Animatronic)]                               | 1-83 10-2     | Unknown           |
-| [Moon (Animatronic)]                              | 1-83 11-2     | Unknown           |
-| [Antioch (Animatronic)]                           | N/A           | Unknown           |
-| [Wink]                                            | N/A           | Sent to corporate |

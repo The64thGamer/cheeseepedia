@@ -1,34 +1,79 @@
 {
-    "title": "West Palm Beach, FL (4646 Okeechobee Blvd)",
-    "storeNumber": "",
-    "startDate": "1990-12-18",
-    "endDate": "2004-12-00",
-    "remodels": [
-        {
-            "n": "SPT 1980's Remodel Program",
-            "s": "1990-12-18"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Road Stage",
-            "s": "1990-12-18",
-            "e": "2004-12-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "26.70500192",
-        "-80.11451788"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "n5oDAsBhcH_r040SjeSN.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "West Palm Beach, FL (4646 Okeechobee Blvd)",
+  "storeNumber": "",
+  "startDate": "1990-12-18",
+  "endDate": "2004-12-00",
+  "remodels": [
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1990-12-18"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1990-12-18",
+      "e": "2004-12-00",
+      "desc": "Third and final Road Stage Prototype Installed (Excluding Corporate). One of 4 Prototypes produced. Converted into the finalized Road Stage in 1991/1992."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "26.70500192",
+    "-80.11451788"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "n5oDAsBhcH_r040SjeSN.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown.; Removed after a Hurricane."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown.; Removed after a Hurricane."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown.; Removed after a Hurricane."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown.; Removed after a Hurricane."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown.; Removed after a Hurricane."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown.; Added when converted to finalized Road Stage"
+    }
+  ]
 }

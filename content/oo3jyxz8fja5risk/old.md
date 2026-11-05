@@ -41,9 +41,3 @@ On April 27th, 2011, the store would be destroyed by an EF5 tornado which hit th
 - Chuck E. Cheese's Coloring Book
 - Tik Tak Clock
 - Amutec Space Copter
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts |
-|------------------------------------------------------------|---------------|-------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A           | Destroyed   |

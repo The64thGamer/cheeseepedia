@@ -4,27 +4,6 @@
 
 TODO
 
-## Stages
-
-| Stage                   | Installed     | Removed   | Notes                                |
-|-------------------------|---------------|-----------|--------------------------------------|
-| Balcony Stage           | December 1983 | 1989/1990 | One of the many installed in Canada. |
-| Chuck E.'s House Facade (C-Stage) | 1989/1990     | 1995      | One of the 4 installed in Canada.    |
-
-## Animatronics
-
-| Character                                                    | Manufacturing Date | Status  |
-|--------------------------------------------------------------|--------------------|---------|
-| [Warblettes (Cyberamic)]             | Unknown            | Unknown |
-| [Mr. Munch (Cyberamic)]               | Unknown            | Unknown |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown            | Unknown |
-| [Chuck E. Cheese (Cyberamic)]         | Unknown            | Unknown |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown            | Unknown |
-| [Pasqually (Cyberamic)]              | Unknown            | Unknown |
-| [Flag Wavers (Cyberamic)]                                     | Unknown            | Unknown |
-| [Applause Board (Cyberamic)]         | Unknown            | Unknown |
-| [Drum Board (Cyberamic)]             | Unknown            | Unknown |
-
 ## Videos
 
 | Link | Description | Filming Date | https://youtu.be/vp8xXinHro8?si=xbLY05I\_BSVExib2 | Footage of the interior, showcasing the game rooms, C-stage and King | 1990 |

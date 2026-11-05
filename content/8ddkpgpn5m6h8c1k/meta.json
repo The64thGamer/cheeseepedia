@@ -1,44 +1,88 @@
 {
-    "title": "Chesapeake, VA (1528 Sam's Circle)",
-    "storeNumber": "",
-    "startDate": "1996-12-00",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1996-12-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2023-06-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "2-Stage",
-            "s": "1996-12-00",
-            "e": "2023-07-11",
-            "desc": "One of six 2-Stages installed in Virginia. Originally from Merced, CA (721 W Olive Ave). Replaced by Dance Floor + Video Wall. Last 2-Stage in the state."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2023-06-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "36.77001777",
-        "-76.25345383"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "fhYTvIo9lJKBWiVHEoTt.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Chesapeake, VA (1528 Sam's Circle)",
+  "storeNumber": "",
+  "startDate": "1996-12-00",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1996-12-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2023-06-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "2-Stage",
+      "s": "1996-12-00",
+      "e": "2023-07-11",
+      "desc": "One of six 2-Stages installed in Virginia. Originally from Merced, CA (721 W Olive Ave). Replaced by Chuck E. Live Stage (Dance Floor). Last 2-Stage in the state."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2023-06-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "36.77001777",
+    "-76.25345383"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "fhYTvIo9lJKBWiVHEoTt.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS). Originally from Merced, CA (721 W Olive Ave)."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS). Originally from Merced, CA (721 W Olive Ave)."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS). Originally from Merced, CA (721 W Olive Ave)."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS). Originally from Merced, CA (721 W Olive Ave)."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS). Originally from Merced, CA (721 W Olive Ave)."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1992-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS). Originally from Merced, CA (721 W Olive Ave)."
+    }
+  ]
 }

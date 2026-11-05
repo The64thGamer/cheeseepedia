@@ -8,17 +8,6 @@ This location opened on November 11, 2002, down the highway from the old Pizza T
 
 This location opened with a Studio C Beta 32M, the newest stage shows for Chuck E. Cheese’s at that time, featuring the 32-movement Chuck E. Cheese animatronic created by Garner Holt Productions. Though this stage would only have one screen instead of all three. Sometime after receiving the 2015 Remodel, they would remove the TV frame and blue screen.
 
-| Stage                                                      | Installed     | Removed      | Note                             |
-|------------------------------------------------------------|---------------|--------------|----------------------------------|
-| [Studio C Beta]                    | November 2002 | January 2023 | One of few Single Screen stages. |
-| [Chuck E Live Stage (Dance Floor)] | January 2023  | Still In Use | 2021 Model.                      |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts |
-|------------------------------------------------------------|--------|-------------|
-| [Chuck E Cheese 32m (Animatronic)] | 176    | Unknown     |
-
 ## Videos
 
 https://www.youtube.com/watch?v=aiubcLo3bCg

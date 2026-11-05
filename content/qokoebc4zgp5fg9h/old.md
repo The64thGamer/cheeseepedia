@@ -4,26 +4,6 @@
 
 Abilene opened with a Rock-afire Explosion. After the location's closure in 1983, their show was later sent to [Whitehall, PA (1000 Lehigh Valley Mall)] for their grand opening in December. Abilene's show went under Concept Unification in around 1991, retrofitting the Rock-afire Explosion to Munch's Make Believe Band. In September 2010, their 3-Stage would be removed for the first [Concept Unification 1-Stage]. In July 2023, Whitehall received the [CEC 2.0 Remodel Program], resulting in the removal of their CU 1-Stage. Whitehall's CU 1-Stage would be salvaged by corporate, and is now at the [ShowBiz Pizza Time Distribution Center (Topeka, KS)].
 
-| Stage                                   | Installed    | Removed   | Notes                                                                                         |
-|-----------------------------------------|--------------|-----------|-----------------------------------------------------------------------------------------------|
-| [Classic Stage] | October 1982 | Late 1983 | Show sent to [Whitehall, PA (1000 Lehigh Valley Mall)] after closure. |
-
 ## History
 
 Abilene opened on October 7, 1982 with a Rock-afire Explosion [Classic Stage]. Sadly, very little information on Abilene's ShowBiz Pizza is extremely hard to find, so no videos or photos have resurfaced as of today. In Late 1983 (month and day unknown, likely November), the location closed after a little over a year of operation. The building remains vacant today or has been taken up by a business. One notable thing about the location is that their stage was sent to the soon to be opened [Whitehall, PA (1000 Lehigh Valley Mall)] store, which would have their opening in December. As of July 2023, that store still operates under the CEC banner, and is currently getting the 2.0 remodel as of July 12.
-
-## Animatronics
-
-| Animatronic      | Serial Number | Whereabouts                                                                                         |
-|------------------|---------------|-----------------------------------------------------------------------------------------------------|
-| Rolfe DeWolfe    | 1-82 1-12     | Sent to [Whitehall, PA (1000 Lehigh Valley Mall)], now at SPT Distribution. |
-| Dook Larue       | 1-82 2-12     | Sent to [Whitehall, PA (1000 Lehigh Valley Mall)], now at SPT Distribution. |
-| Fatz Geronimo    | 1-82 3-12     | Sent to [Whitehall, PA (1000 Lehigh Valley Mall)], now at SPT Distribution. |
-| Beach Bear       | 1-82 4-12     | Sent to [Whitehall, PA (1000 Lehigh Valley Mall)], now at SPT Distribution. |
-| Mitzi Mozzarella | 1-82 5-12     | Sent to [Whitehall, PA (1000 Lehigh Valley Mall)], now at SPT Distribution. |
-| Billy Bob        | 1-82 6-12     | Sent to [Whitehall, PA (1000 Lehigh Valley Mall)], now Unknown.             |
-| Looney Bird      | 1-82 7-12     | Sent to [Whitehall, PA (1000 Lehigh Valley Mall)], now Unknown.             |
-| Choo Choo        | 1-82 8-12     | Sent to [Whitehall, PA (1000 Lehigh Valley Mall)], now Unknown.             |
-| Sun              | 1-82 10-12    | Sent to [Whitehall, PA (1000 Lehigh Valley Mall)], now Unknown.             |
-| Moon             | 1-82 11-12    | Sent to [Whitehall, PA (1000 Lehigh Valley Mall)], now Unknown.             |
-| Antioch          | N/A           | Sent to [Whitehall, PA (1000 Lehigh Valley Mall)], now Destroyed.           |

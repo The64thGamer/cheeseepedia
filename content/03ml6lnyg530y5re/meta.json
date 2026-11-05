@@ -1,49 +1,177 @@
 {
-    "title": "Lynnwood, WA (3717 196th St Suite 100)",
-    "storeNumber": "",
-    "startDate": "1986-08-00",
-    "endDate": "2023-07-23",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-00-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1986-08-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1986-08-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-00-00",
-            "e": "2023-07-23",
-            "desc": "Only 3-Stage to undergo Concept Unification in Washington State. Was in Very Poor Condition. 3-Stage animatronics replaced with recycled Cyberamics from Spokane, WA (2301 W Wellesley Ave) in 2000 during the stage's conversion into the first ever Cyberamic 3-Stage. Cyberamic 3-Stage animatronics now at SPT Distribution."
-        },
-        {
-            "n": "Cyberamic 3-Stage",
-            "s": "0000-00-00",
-            "e": "2023-07-23"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "47.826349",
-        "-122.29243"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "6ZAPV6xJHoYLskaKKgmF.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Lynnwood, WA (3717 196th St Suite 100)",
+  "storeNumber": "",
+  "startDate": "1986-08-00",
+  "endDate": "2023-07-23",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1986-08-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1986-08-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-00-00",
+      "e": "2023-07-23",
+      "desc": "Only 3-Stage to undergo Concept Unification in Washington State. Was in Very Poor Condition. 3-Stage animatronics replaced with recycled Cyberamics from Spokane, WA (2301 W Wellesley Ave) in 2000 during the stage's conversion into the first ever Cyberamic 3-Stage. Cyberamic 3-Stage animatronics now at SPT Distribution."
+    },
+    {
+      "n": "Cyberamic 3-Stage",
+      "s": "2000-00-00",
+      "e": "2023-07-23"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "47.826349",
+    "-122.29243"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "6ZAPV6xJHoYLskaKKgmF.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 1-17",
+      "desc": "Replaced with Cyberamics in 2000, now destroyed."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 2-17",
+      "desc": "Replaced with Cyberamics in 2000, now destroyed."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 3-17",
+      "desc": "Replaced with Cyberamics in 2000, now destroyed."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 4-17",
+      "desc": "Replaced with Cyberamics in 2000, now destroyed."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 5-17",
+      "desc": "Replaced with Cyberamics in 2000, now destroyed."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 6-17",
+      "desc": "Destroyed during Concept Unification."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 7-17",
+      "desc": "Removed, now destroyed."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 8-17",
+      "desc": "Removed, now destroyed."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 10-17",
+      "desc": "Removed, now destroyed."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-82 11-17",
+      "desc": "Removed, now destroyed."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed during Concept Unification."
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Replaced with Wink (Cyberamic), now destroyed."
+    },
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown.",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Taken to ShowBiz Pizza Time Distribution Center (Topeka, KS)"
+    }
+  ]
 }

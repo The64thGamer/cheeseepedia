@@ -12,7 +12,7 @@ After Dover, Delaware opened on December 27th, 2002, no more test Small-Town CEC
 
 ### Legacy
 
-While very obscure, the Small-Town Studio C Prototype concept (the no animatronic portion specifically) would later be seen in the [Circles of Light], which debuted in August 2012, and the [Chuck E Live Stage (Dance Floor)], which debuted in May 2015, although the COL was installed with or without animatronics (the animatronic figures being Studio C [Chuck E. Cheese 32m (Animatronic)] or [Chuck E. Cheese 16m (Animatronic)]), the Chuck E. Live Stage was (and still is) the only CEC stage to never have animatronics, despite the different designs manufactured since 2015. The Circles of Light was produced until around 2021, and the Chuck E. Live Stage is still being produced for 2.0 locations as of 2023.
+While very obscure, the Small-Town Studio C Prototype concept (the no animatronic portion specifically) would later be seen in the [Circles of Light], which debuted in August 2012, and the [Chuck E. Live Stage (Dance Floor)], which debuted in May 2015, although the COL was installed with or without animatronics (the animatronic figures being Studio C [Chuck E. Cheese 32m (Animatronic)] or [Chuck E. Cheese 16m (Animatronic)]), the Chuck E. Live Stage was (and still is) the only CEC stage to never have animatronics, despite the different designs manufactured since 2015. The Circles of Light was produced until around 2021, and the Chuck E. Live Stage is still being produced for 2.0 locations as of 2023.
 
 ### Nomenclature
 

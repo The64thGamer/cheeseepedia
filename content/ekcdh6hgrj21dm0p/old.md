@@ -3,26 +3,3 @@
 ## History
 
 Cherry Hill SPP opened in January 1985. It had a Rock-afire Explosion, and most likely had the standard store layout like all other SPP locations had. Sadly, very little information on Cherry Hill's ShowBiz Pizza is extremely hard to find, so no videos or photos have resurfaced as of today. This location didn't last very long, as it would closed on an unknown date in 1986. After closure, the store most likely held an auction, and sold off everything.
-
-## Stage
-
-| Stage                                   | Installed    | Removed | Notes                                                                                                                    |
-|-----------------------------------------|--------------|---------|--------------------------------------------------------------------------------------------------------------------------|
-| [Classic Stage] | January 1985 | 1986    | One of three ShowBiz Pizza's opened in New Jersey. Only NJ SPP location to not be rebranded as a *FunTime Pizza Circus*. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial | Whereabouts       |
-|---------------------------------------------------------------------------|--------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | N/A    | Unknown/Destroyed |
-| [Dook Larue (Animatronic)]                        | N/A    | Unknown/Destroyed |
-| [Fatz Geronimo (Animatronic)]                     | N/A    | Unknown/Destroyed |
-| [Beach Bear (Animatronic)]                        | N/A    | Unknown/Destroyed |
-| [Mitzi Mozzarella (Animatronic)]                  | N/A    | Unknown/Destroyed |
-| [Billy Bob (Animatronic)]                         | N/A    | Unknown/Destroyed |
-| [Looney Bird (Animatronic)]                       | N/A    | Unknown/Destroyed |
-| [Choo Choo (Animatronic)]                         | N/A    | Unknown/Destroyed |
-| [Sun (Animatronic)]                               | N/A    | Unknown/Destroyed |
-| [Moon (Animatronic)]                              | N/A    | Unknown/Destroyed |
-| [Antioch (Animatronic)]                           | N/A    | Unknown/Destroyed |
-|                                                                           |        |                   |

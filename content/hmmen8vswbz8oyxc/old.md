@@ -4,16 +4,6 @@
 
 Monroe opened with a Studio C Beta. They never received 2.0.
 
-| Stage         | Installed | Removed   |
-|---------------|-----------|-----------|
-| Studio C Beta | July 2011 | July 2024 |
-
 ## History
 
 Monroe opened in 2011. In May 2021, Monroe reopened after being closed in January 2021. Featuring an almost different selection of Arcade Games.In Late 2023, Monroe completely replaced its coins with cards followed by the removal of the animatronic from the stage. They never received the 2.0 remodel and closed on July 2024 (Unknown Day). As of today the building has been cleared out by Reese Hayes Construction, this includes the stage being taken out as well as other cec related items.
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts                     |
-|------------------------------------------------------------|--------|---------------------------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A    | Unknown, most likely destroyed. |

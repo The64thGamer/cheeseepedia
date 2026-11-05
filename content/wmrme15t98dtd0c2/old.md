@@ -8,18 +8,6 @@ Paramus (275 Route 4 West) opened as a relocation to the [Paramus, NJ (221 South
 
 When Paramus (275 Route 4 West) opened, they housed a Studio C Beta, 16m (One of three in New Jersey) and was the last Studio C store to open in the state of New Jersey. When the store opened, Chuck has his Avenger outfit. In the Mid-Late 2010's, it would be replaced with the Rockstar outfit. As of July 2023, the Beta has been removed and replaced with a Dance Floor and Video Wall.
 
-| Stage                                                                                             | Debuted           | Removed       | Notes                                                                                                              |
-|---------------------------------------------------------------------------------------------------|-------------------|---------------|--------------------------------------------------------------------------------------------------------------------|
-| Studio C 2000\|Studio C Beta, 16m                                                                 | December 26, 2011 | July 25, 2023 | One of three 16m Betas installed in New Jersey. One of four Betas installed in New Jersey (Mays Landing is a 32m). |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | July 25, 2023     | Still in use  | 2021 Model.                                                                                                        |
-
-## Animatronics
-
-| Animatronic                                                | Manufacturing Date | Serial Number | Whereabouts       |
-|------------------------------------------------------------|--------------------|---------------|-------------------|
-| [Chuck E Cheese 16m (Animatronic)] | 2011               | N/A           | Destroyed         |
-| [Pizza Time Clock (Animatronic)]   | 2011               | N/A           | Unknown/Destroyed |
-
 ## Videos
 
 More will be added soon

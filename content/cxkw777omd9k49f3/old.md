@@ -11,21 +11,3 @@ Daytona Beach opened with the [Four Little Shavers (Ice Cream Emporium)], Dolli 
 ## History
 
 Daytona Beach opened in January 1982 with a Balcony Stage and the 1981 remodel. Unfortunately, not much information is known about this store at all. The store would later close in 1984 due to underperformance and the bankruptcy. The site would be passed down to multiple businesses, until finally becoming a Sky Zone Trampoline Park in 2016, along with a mall redevelopment. As of September 2023, the Sky Zone is still operational.
-
-## Animatronics
-
-| Animatronic                                                        | Serial / Manufacturing Date | Whereabouts                              |
-|--------------------------------------------------------------------|-----------------------------|------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                         | 1981                        | Auctioned, owned by a private collector. |
-| [Guest Star / Helen Henny (Cyberamic)]       | 1981                        | Auctioned, owned by a private collector. |
-| [Mr. Munch (Cyberamic)]                     | 1981                        | Auctioned, owned by a private collector. |
-| [Jasper T. Jowls (Cyberamic)]               | 1981                        | Auctioned, owned by a private collector. |
-| [Pasqually (Cyberamic)]                    | 1981                        | Auctioned, owned by a private collector. |
-| [Warblettes (Cyberamic)]                   | 1981                        | Auctioned, owned by a private collector. |
-| [Flag Wavers (Cyberamic)]                                           | 1981                        | Auctioned, owned by a private collector. |
-| [Applause Board (Cyberamic)]               | 1981                        | Auctioned, owned by a private collector. |
-| [Drum Board (Cyberamic)]                   | 1981                        | Auctioned, owned by a private collector. |
-| [Dolli Dimples (Cabaret)]                  | 1981                        | Auctioned, owned by a private collector. |
-| [The King / King Kat (Lounge)]               | 1981                        | Auctioned, now at the Volo Auto Museum.  |
-| [Four Little Shavers (Ice Cream Emporium)] | 1981                        | Auctioned, now at the Volo Auto Museum.  |
-|                                                                    |                             |                                          |

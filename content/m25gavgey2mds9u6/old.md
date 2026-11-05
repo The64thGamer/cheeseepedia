@@ -8,19 +8,6 @@ Wyomissing first opened as a freestanding building near the Broadcasting Square 
 
 Wyomissing opened with the Studio C Alpha stage. Their Studio C Alpha stage changed since the 2000s though. The outfit on the Chuck E. Cheese animatronic was likely the late night outfit when this store first debuted, and was replaced with the later Cool and Avenger outfit later in the 2000s and in the early 2010s. The Bird and Pizza Phone prop bots were removed from the stage between May 2022 and 2023. The apple TV on Chuck E.'s desk was red before store closure, but it's unknown if it was always like that.
 
-| Stage                                    | Debuted             | Removed              | Notes                                                                             |
-|------------------------------------------|---------------------|----------------------|-----------------------------------------------------------------------------------|
-| [Studio C Alpha] | December 20th, 2000 | September 15th, 2024 | One of four installed in Pennsylvania. Last animatronic of any kind in the state. |
-
-## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts                  |
-|------------------------------------------------------------|---------------|------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 115           | Destroyed                    |
-| [Bird (Animatronic)]               | N/A           | Removed from stage, unknown. |
-| [Pizza Time Clock (Animatronic)]   | N/A           | Unknown.                     |
-| [Pizza Phone (Animatronic)]        | N/A           | Removed from stage, unknown. |
-
 ## Videos
 
 TODO

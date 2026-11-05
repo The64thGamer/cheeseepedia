@@ -8,20 +8,7 @@ This location opened on December 15th, 1999, as a Chuck E Cheese's in the Park C
 
 This location opened with a Studio C Alpha and currently has his Avenger outfit. The stage was removed on May 27, 2024 in favor of the store's 2.0 Remodel.
 
-| Stage                                                      | Installed     | Removed      | Notes                                                                                                                                    |
-|------------------------------------------------------------|---------------|--------------|------------------------------------------------------------------------------------------------------------------------------------------|
-| [Studio C Alpha]                   | December 1999 | May 27, 2024 | First Studio C ever installed in Pennsylvania. One of four installed in the state, one of the last two currently installed in the state. |
-| [Chuck E Live Stage (Dance Floor)] | May 2024      | In Use.      |                                                                                                                                          |
-| [Video Wall]                       | May 2024      | In Use.      |                                                                                                                                          |
-
 ## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts                   |
-|------------------------------------------------------------|---------------|-------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 059           | Unknown                       |
-| [Bird (Animatronic)]               | N/A           | Owned by a private collector. |
-| [Pizza Time Clock (Animatronic)]   | N/A           | Unknown                       |
-| [Pizza Phone (Animatronic)]        | N/A           | Unknown                       |
 
 TODO
 

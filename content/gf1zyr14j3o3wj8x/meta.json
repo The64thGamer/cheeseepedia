@@ -1,49 +1,170 @@
 {
-    "title": "Arlington Heights, IL (955 W Dundee Rd)",
-    "storeNumber": "",
-    "startDate": "1981-10-07",
-    "endDate": "2015-12-06",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-00-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1981-10-07"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1981-10-07",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-00-00",
-            "e": "1998-00-00",
-            "desc": "One of 10 3-Stages in Illinois to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
-        },
-        {
-            "n": "Studio C Alpha",
-            "s": "0000-00-00",
-            "e": "2015-12-06"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "42.13721112",
-        "-87.99548188"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "7_oF8_8jOWJKehiF8PKv.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Arlington Heights, IL (955 W Dundee Rd)",
+  "storeNumber": "",
+  "startDate": "1981-10-07",
+  "endDate": "2015-12-06",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1981-10-07"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-10-07",
+      "e": "1991-00-00",
+      "desc": "3rd ShowBiz Pizza store to open in Illinois."
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-00-00",
+      "e": "1998-00-00",
+      "desc": "One of 10 3-Stages in Illinois to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "2015-12-06"
+    },
+    {
+      "n": "Studio C (1997)|Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "2015-12-06",
+      "desc": "One of four installed in Illinois. First Studio C in the State."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.13721112",
+    "-87.99548188"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "7_oF8_8jOWJKehiF8PKv.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 1-14",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 2-14",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 3-14",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 4-14",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 5-14",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 6-14",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 7-14",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 8-14",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 10-14",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 11-14",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Chuck E. Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Pizza Time Clock",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Pizza Phone",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    }
+  ]
 }

@@ -7,7 +7,3 @@ Not much is currently known about this location, other than it opened on August 
 ## Stages
 
 York opened and closed with a Balcony Stage, and had some unknown cabaret acts. After closure, their fate is unknown.
-
-| Stage         | Installed   | Removed       | Notes                                   |
-|---------------|-------------|---------------|-----------------------------------------|
-| Balcony Stage | August 1983 | February 1984 | 5th Pizza Time Theatre in Pennsylvania. |

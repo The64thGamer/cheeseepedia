@@ -1,34 +1,72 @@
 {
-    "title": "La Mesa, CA (5500 Grossmont Center Dr)",
-    "storeNumber": "",
-    "startDate": "1993-08-02",
-    "endDate": "2024-12-29",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1993-08-02"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1993-08-02",
-            "e": "2024-12-29"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "32.7759934",
-        "-117.0144044"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "qyh5vz20LG3HKxlmnHE6.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "La Mesa, CA (5500 Grossmont Center Dr)",
+  "storeNumber": "",
+  "startDate": "1993-08-02",
+  "endDate": "2024-12-29",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-08-02"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-08-02",
+      "e": "2024-12-29",
+      "desc": "Very poor condition"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.7759934",
+    "-117.0144044"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "qyh5vz20LG3HKxlmnHE6.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Currently In Use"
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Currently In Use"
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Currently In Use"
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Currently In Use"
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Currently In Use"
+    }
+  ]
 }

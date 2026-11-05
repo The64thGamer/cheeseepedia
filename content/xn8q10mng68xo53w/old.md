@@ -8,22 +8,6 @@ Wichita opened its doors on December 16th, 1991, a year after the opening of [To
 
 Wichita premiered with a Road Stage, as did other CEC locations between 1990 and 1992. Initially, there were no curtains (which was common in the early years of Road Stages), though Wichita later received theirs in the late 1990's (and were removed after 2005). The Chuck E. Cheese Cyberamic first wore a tuxedo, then was given Cool Chuck clothes, and finally Avenger clothing. The Road Stage remained until Wichita's 2.0. remodel in September 2022.
 
-| Stage                                                                                             | Installed      | Removed        | Notes                                                                  |
-|---------------------------------------------------------------------------------------------------|----------------|----------------|------------------------------------------------------------------------|
-| [Road Stage]                                                   | December 1991  | September 2022 | 2nd Chuck E. Cheese in Kansas. 1 of 2 Road Stages installed in Kansas. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | September 2022 | Still In Use   | 2021 Model.                                                            |
-
-## Animatronics
-
-| Animatronic                                                  | Serial | Whereabouts                                   |
-|--------------------------------------------------------------|--------|-----------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]         | 1980s  | Owned by a Private Collector                  |
-| [Guest Star / Helen Henny (Cyberamic)] | 1980s  | Owned by a Private Collector                  |
-| [Mr. Munch (Cyberamic)]               | 1980s  | Owned by a Private Collector/Wayfinder\_triko |
-| [Jasper T. Jowls (Cyberamic)]         | 1980s  | Owned by a Private Collector                  |
-| [Pasqually (Cyberamic)]              | 1980s  | Owned by a Private Collector                  |
-| [Wink (Cyberamic)]                   | 1991   | Unknown/Destroyed                             |
-
 ## Videos
 
 | Link                                              | Description                                                                                       | Published/ Filmed Date |

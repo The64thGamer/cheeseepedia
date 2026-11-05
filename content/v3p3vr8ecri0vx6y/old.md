@@ -7,25 +7,3 @@ Asheville opened on July 20th, 1984 (3 days before the well-known [Wilmington, N
 ## Stages
 
 Originally, Asheville featured a Rock-Afire Explosion, as all other ShowBiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage. It was removed on March 15th, 1996, when the store was closed permanently.
-
-| Stage                                               | Installed | Removed    | Notes                                                                    |
-|-----------------------------------------------------|-----------|------------|--------------------------------------------------------------------------|
-| [Classic Stage]             | July 1984 | 1991/1992  | 3rd ShowBiz to open in North Carolina.                                   |
-| [Concept Unification Stage (3-Stage)] | 1991/1992 | March 1996 | One of Six North Carolina ShowBiz Stores to undergo Concept Unification. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial    | Whereabouts                   |
-|---------------------------------------------------------------------------|-----------|-------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-83 1-8  | Owned by a Private Collector. |
-| [Dook Larue (Animatronic)]                        | 1-83 2-8  | Unknown                       |
-| [Fatz Geronimo (Animatronic)]                     | 1-83 3-8  | Unknown                       |
-| [Beach Bear (Animatronic)]                        | 1-83 4-8  | Unknown                       |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-83 5-8  | Unknown                       |
-| [Billy Bob (Animatronic)]                         | 1-83 6-8  | Unknown                       |
-| [Looney Bird (Animatronic)]                       | 1-83 7-8  | Unknown                       |
-| [Choo Choo (Animatronic)]                         | 1-83 8-8  | Unknown                       |
-| [Sun (Animatronic)]                               | 1-83 10-8 | Unknown                       |
-| [Moon (Animatronic)]                              | 1-83 11-8 | Unknown                       |
-| [Antioch (Animatronic)]                           | N/A       | Unknown                       |
-| [Wink]                                            | N/A       | Unknown                       |

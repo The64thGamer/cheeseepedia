@@ -36,4 +36,4 @@ The regular Studio C show contains one Chuck E. Animatronic and video monitors.
 * Small-Town Studio C: 6 left as of January 2026
 * Remnants of the original prototype Studio C Show Remain in the programming room of the [Chuck E. Cheese's Corporate Office].
 * The oldest operating Studio C location is the Redwood City, CA location as of January 2026, opening in December 1999.
-* Studio C is no longer programmed as of September 19, 2022, as the Chuck E. Cheese Halloween Boo-Tacular Show 2022 has started playing. this also applies to Studio C HD stages, which are the [Galaxy Stage], [Circles of Light], and [Chuck E Live Stage (Dance Floor)].
+* Studio C is no longer programmed as of September 19, 2022, as the Chuck E. Cheese Halloween Boo-Tacular Show 2022 has started playing. this also applies to Studio C HD stages, which are the [Galaxy Stage], [Circles of Light], and [Chuck E. Live Stage (Dance Floor)].

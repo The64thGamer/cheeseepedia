@@ -8,18 +8,7 @@ Bradenton opened on March 3rd, 1999, with a Studio C Alpha. Bradenton would remo
 
 Originally when the store opened, they had a Studio C Alpha. In April 2023, they remodeled to 2.0 and got the 2021 Model of Dance Floor and Video wall. As of today, they still have the Dance Floor. In 2002, Bradenton got an entire new mask for Chuck, which is very uncommon for Studio C stores. The snout, head shell, and fur was replaced, but retained the original ears and eyebrows. When Bradenton received the new mask, the fur was not trimmed, making it so that the tech had to do it himself, resulting in the fur not looking correct. In the mid 2000’s, Bradenton received the Cool Chuck outfit, and Bird got custom fur and feathers, making him fluffier and more colorful than usual. In 2010, Bradenton received the full Avenger outfit. Sometime around 2012, Bradenton would take the camera originally used inside of the Bluescreen camera and put it on the lighting truss closest to the Bluescreen area, making it a camera for the Ticket Blaster. After the Orlando I-Drive store remodeled, Bradenton would receive and install their Pizza Phone, Clock, and Bird.
 
-| Stage                                                                                             | Installed        | Removed         | Note        |
-|---------------------------------------------------------------------------------------------------|------------------|-----------------|-------------|
-| [Studio C Alpha]                                                          | March 3rd, 1999  | April 9th, 2023 |             |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | April 10th, 2023 | Still In Use    | 2021 Model. |
-
 ## Animatronics
-
-| Animatronic                                                | Serial Number | Whereabouts                        |
-|------------------------------------------------------------|---------------|------------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 033           | Destroyed                          |
-| [Bird (Animatronic)]               | N/A           | Destroyed, replaced with I-Drive’s |
-| [Pizza Phone (Animatronic)]        | N/A           | Destroyed, replaced with I-Drive’s |
 
 TODO
 

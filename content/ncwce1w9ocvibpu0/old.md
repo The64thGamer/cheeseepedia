@@ -1,23 +1,8 @@
 ***Mays Landing, NJ (4215 Black Horse Pike), Store #518*** is a *Chuck E. Cheese* that opened on December 27, 2001 with a [Studio C Beta], and is still open to this day with the [CEC 2.0 Remodel Program].
 
-## Stage
-
-| Stage                                                                                             | Installed     | Removed        | Notes                       |
-|---------------------------------------------------------------------------------------------------|---------------|----------------|-----------------------------|
-| [Studio C Beta]                                                           | December 2001 | May 27th, 2024 | Only 32M Beta in New Jersey |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | May 2024      | Still in Use   | 2021 Model                  |
-
 ## History
 
 On May 26th, 2024, Mays Landing began their [CEC 2.0 Remodel Program] renovations. The Studio C Beta and other 2015 fixtures were removed the following night on May 27th. The location reopened in July 2024, and is still open today.
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts                              |
-|------------------------------------------------------------|--------|------------------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 156    | Destroyed. Remains owned by NickGT50.(1) |
-| [Pizza Time Clock (Animatronic)]   | N/A    | Owned by a Private Collector             |
-|                                                            |        |                                          |
 
 ## Arcade Machines
 

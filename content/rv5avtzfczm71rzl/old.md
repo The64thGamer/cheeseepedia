@@ -12,14 +12,7 @@ On the afternoon of December 30, 2021, people inside the location had to evacuat
 
 ### 2.0 Remodel
 
-Superior was closed for the [CEC 2.0 Remodel Program]. The Studio C Beta was removed in favor of a [Chuck E Live Stage (Dance Floor)] and a [Video Wall]. The Grand Reopening Event took place on May 5th, 2022. As of September 2023, Superior still has the 2.0 Remodel.
-
-## Stages
-
-| Stage                                                                                             | Installed     | Removed      | Notes      |
-|---------------------------------------------------------------------------------------------------|---------------|--------------|------------|
-| [Studio C Beta]                                                           | December 2003 | January 2022 | 16M Beta   |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | Spring 2022   | Still in Use | 2021 Model |
+Superior was closed for the [CEC 2.0 Remodel Program]. The Studio C Beta was removed in favor of a [Chuck E. Live Stage (Dance Floor)] and a [Video Wall]. The Grand Reopening Event took place on May 5th, 2022. As of September 2023, Superior still has the 2.0 Remodel.
 
 ## Arcade Machines
 

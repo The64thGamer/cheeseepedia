@@ -2,37 +2,11 @@
 
 ## History
 
-Green Bay opened on October 28th, 1982 as the fourth ShowBiz Pizza Place in Wisconsin, after Madison which opened 3 months prior which is July 7th &amp; Milwaukee (Good Hope Rd &amp; S 27th St, both opened a year prior in June 17th and August 27th, 1981, respectively) and as a corporate-owned store. Green Bay originally featured the Rock-afire Explosion, as all other ShowBiz locations did. they would have it for a few years, until around 1991, when they would receive the 1988 remodel, receiving Concept Unification, where the Rock-afire Explosion characters were changed to the Chuck E. Cheese characters, and removing all SPP decor for newer decor. In the mid 1990s, Green Bay received a minor remodel removing older CU decor for the Record Posters and Colored Chase Lights. In the year of Fall 2000, they would receive the Phase 3 remodel replacing the 3-Stage with a Studio C Beta, 32m, removing older decor for newer decor, and adding SkyTubes. Green Bay would receive the 2005 remodel in 2008-2009 removing older decor for newer decor, and removed the Showroom Walls. The Toddler Zone was also removed during this remodel. Green Bay would remain like this until September 2021, when they would receive the 2.0 remodel, this involved removing the Studio C Beta, 32m stage and replacing it with a [Chuck E Live Stage (Dance Floor)]. The store's Grand Reopening was on November 10th, 2021(1). As of March 2023, Green Bay still has the 2.0 remodel and Dance Floor + Video Wall.
+Green Bay opened on October 28th, 1982 as the fourth ShowBiz Pizza Place in Wisconsin, after Madison which opened 3 months prior which is July 7th &amp; Milwaukee (Good Hope Rd &amp; S 27th St, both opened a year prior in June 17th and August 27th, 1981, respectively) and as a corporate-owned store. Green Bay originally featured the Rock-afire Explosion, as all other ShowBiz locations did. they would have it for a few years, until around 1991, when they would receive the 1988 remodel, receiving Concept Unification, where the Rock-afire Explosion characters were changed to the Chuck E. Cheese characters, and removing all SPP decor for newer decor. In the mid 1990s, Green Bay received a minor remodel removing older CU decor for the Record Posters and Colored Chase Lights. In the year of Fall 2000, they would receive the Phase 3 remodel replacing the 3-Stage with a Studio C Beta, 32m, removing older decor for newer decor, and adding SkyTubes. Green Bay would receive the 2005 remodel in 2008-2009 removing older decor for newer decor, and removed the Showroom Walls. The Toddler Zone was also removed during this remodel. Green Bay would remain like this until September 2021, when they would receive the 2.0 remodel, this involved removing the Studio C Beta, 32m stage and replacing it with a [Chuck E. Live Stage (Dance Floor)]. The store's Grand Reopening was on November 10th, 2021(1). As of March 2023, Green Bay still has the 2.0 remodel and Chuck E. Live Stage (Dance Floor).
 
 ## Stages
 
-Originally, Green Bay featured a Rock-afire Explosion, as all other ShowBiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-afire Explosion into the 3-Stage. Green Bay would have the 3-Stage until the Fall of 2000, when they would receive one of the first Studio C Betas (along with [Birmingham, AL (500 Old Town Rd)]). When the stage was first installed, The Bot had the late night outfit. Until the Early to Mid 2000's when they would replace it with the Cool Chuck Outfit. In the late 2000's-early 2010's, they would replace it with the Avenger outfit, until around 2014, when they would put the Rockstar Jeans on Chuck E., Green Bay was the first to have The Rockstar Jeans and they would keep the Avenger shirt until they removed the stage. In September 2021, Green Bay would replace their Beta with a Dance Floor and Video Wall, as part of their 2.0 remodel. It was the only Studio C Beta in Wisconsin. As of March 2023, Green Bay still has the 2.0 Remodel and Dance Floor + Video Wall.
-
-| Stage                                                                                             | Installed      | Removed        | Notes                                                  |
-|---------------------------------------------------------------------------------------------------|----------------|----------------|--------------------------------------------------------|
-| [Classic Stage]                                                           | October 1982   | 1991           | 4th ShowBiz to open in Wisconsin.                      |
-| [Concept Unification Stage (3-Stage)]                                               | 1991           | Fall 2000      | One of three to undergo Concept Unification.           |
-| Studio C Beta, 32m                                                                                | Fall 2000      | September 2021 | One of first 5 Betas installed. Only one in Wisconsin. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | September 2021 | Still In Use   | 2021 Model.                                            |
-
-## Animatronics
-
-| Animatronic                                                               | Serial     | Whereabouts        |
-|---------------------------------------------------------------------------|------------|--------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-28  | Unknown/Destroyed. |
-| [Dook Larue (Animatronic)]                        | 1-82 2-28  | Unknown/Destroyed. |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-28  | Unknown/Destroyed. |
-| [Beach Bear (Animatronic)]                        | 1-82 4-28  | Unknown/Destroyed. |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-28  | Unknown/Destroyed. |
-| [Billy Bob (Animatronic)]                         | 1-82 6-28  | Unknown/Destroyed. |
-| [Looney Bird (Animatronic)]                       | 1-82 7-28  | Unknown/Destroyed. |
-| [Choo Choo (Animatronic)]                         | 1-82 8-28  | Unknown/Destroyed. |
-| [Sun (Animatronic)]                               | 1-82 10-28 | Unknown/Destroyed. |
-| [Moon (Animatronic)]                              | 1-82 11-28 | Unknown/Destroyed. |
-| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed. |
-| [Wink]                                            | N/A        | Unknown/Destroyed. |
-| [Chuck E Cheese 32m (Animatronic)]                | Unknown    | Destroyed.         |
-| [Pizza Time Clock (Animatronic)]                  | N/A        | Destroyed.         |
+Originally, Green Bay featured a Rock-afire Explosion, as all other ShowBiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-afire Explosion into the 3-Stage. Green Bay would have the 3-Stage until the Fall of 2000, when they would receive one of the first Studio C Betas (along with [Birmingham, AL (500 Old Town Rd)]). When the stage was first installed, The Bot had the late night outfit. Until the Early to Mid 2000's when they would replace it with the Cool Chuck Outfit. In the late 2000's-early 2010's, they would replace it with the Avenger outfit, until around 2014, when they would put the Rockstar Jeans on Chuck E., Green Bay was the first to have The Rockstar Jeans and they would keep the Avenger shirt until they removed the stage. In September 2021, Green Bay would replace their Beta with a Dance Floor and Video Wall, as part of their 2.0 remodel. It was the only Studio C Beta in Wisconsin. As of March 2023, Green Bay still has the 2.0 Remodel and Chuck E. Live Stage (Dance Floor).
 
 ## Videos
 

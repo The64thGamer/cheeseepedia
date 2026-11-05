@@ -8,20 +8,6 @@ This place was originally Bullwinkle’s Family Food N’ Fun Restaurant that op
 
 This location opened up on August 31st, 1991, as one of two Road Stages installed in Canada (The other is [Mississauga, Ontario, Canada (4141 Dixie Rd)], which is still operating as of December 2022). This store would remain open for almost 3 years until it closed sometime in 1994. After closure, the stage would be removed and installed at the [Calgary, Alberta, Canada (2770 32nd Ave)] to replace the store's [Chuck E.'s House (Rocker Stage)] and remained there until its closure in October 2003.
 
-| Stage                                           | Installed   | Removed | Notes                                                                                                                                                                                     |
-|-------------------------------------------------|-------------|---------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Road Stage] | August 1991 | 1994    | One of two Road Stages installed in Canada. Later reinstalled at [Calgary, Alberta, Canada (2770 32nd Ave)] to replace [Chuck E.'s House (Rocker Stage)]. |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Status                                                                        | whereabouts   |
-|--------------------------------------------------------------|--------------------|-------------------------------------------------------------------------------|---------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1980s              | Reused at [Calgary, Alberta, Canada (2770 32nd Ave)]. | saved in 2003 |
-| [Guest Star / Helen Henny (Cyberamic)] | 1980's             | Reused at [Calgary, Alberta, Canada (2770 32nd Ave)]. | saved in 2003 |
-| [Mr. Munch (Cyberamic)]               | 1980s              | Reused at [Calgary, Alberta, Canada (2770 32nd Ave)]. | saved in 2003 |
-| [Jasper T. Jowls (Cyberamic)]         | 1980s              | Reused at [Calgary, Alberta, Canada (2770 32nd Ave)]. | saved in 2003 |
-| [Pasqually (Cyberamic)]              | 1980s              | Reused at [Calgary, Alberta, Canada (2770 32nd Ave)]. | saved in 2003 |
-
 ## Videos
 
 | Link                                                      | Title                                      | Description                                                          | Filming Date  |

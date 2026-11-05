@@ -8,33 +8,7 @@ Fort Wayne opened its doors on May 19th, 1982 with a Rock-afire Explosion show. 
 
 Fort Wayne opened with the Rock afire Explosion in May 1982. Unfortunately, there are some photos but no videos to exist of Fort Wayne with the Rock afire, or as a ShowBiz in general. In 1991-1992, Fort Wayne received [Concept Unification], converting the Rock afire into Munch’s Make Believe Band. In December 1998, Fort Wayne removed the 3-Stage for the Studio C Alpha stage. In October 2022, Fort Wayne started the 2.0 Remodel, removing the Studio C Alpha stage and adding a Dance Floor.
 
-| Stage                                                                                             | Installed     | Removed       | Notes                                                                      |
-|---------------------------------------------------------------------------------------------------|---------------|---------------|----------------------------------------------------------------------------|
-| [Classic Stage]                                                           | May 1982      | 1991 or 1992  | Third ShowBiz Pizza store to open in Indiana                               |
-| [Concept Unification Stage (3-Stage)]                                               | 1991 or 1992  | December 1998 | One of 7 ShowBiz Pizza stores in Indiana to receive Concept Unification.   |
-| Studio C (1997)\|Studio C Alpha                                                                   | December 1998 | October 2022  | One of 4 Studio C Alphas installed in Indiana. Last 32m show in the state. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | October 2022  | Still In Use  | 2021 Model.                                                                |
-
 ## Animatronics
-
-| Character                                                                 | Serial Number | Status            |
-|---------------------------------------------------------------------------|---------------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-81 1-2     | Unknown/Destroyed |
-| [Dook Larue (Animatronic)]                        | 10-81 2-2     | Unknown/Destroyed |
-| [Fatz Geronimo (Animatronic)]                     | 10-81 3-2     | Unknown/Destroyed |
-| [Beach Bear (Animatronic)]                        | 10-81 4-2     | Unknown/Destroyed |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-81 5-2     | Unknown/Destroyed |
-| [Billy Bob (Animatronic)]                         | 10-81 6-2     | Unknown/Destroyed |
-| [Looney Bird (Animatronic)]                       | 10-81 7-2     | Unknown/Destroyed |
-| [Choo Choo (Animatronic)]                         | 10-81 8-2     | Unknown/Destroyed |
-| [Sun (Animatronic)]                               | 10-81 10-2    | Unknown/Destroyed |
-| [Moon (Animatronic)]                              | 10-81 11-2    | Unknown/Destroyed |
-| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed |
-| [Wink]                                            | N/A           | Unknown/Destroyed |
-| Chuck E. Cheese (32m)                                                     | 022           | Destroyed         |
-| Parrot (Animatronic)                                                      | N/A           | Destroyed         |
-| Pizza Phone                                                               | N/A           | Destroyed         |
-| Pizza Time Clock                                                          | N/A           | Destroyed         |
 
 TODO
 

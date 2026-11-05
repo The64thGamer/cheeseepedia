@@ -8,35 +8,7 @@ Grand Rapids opened on June 6th, 1983 in the Eastbrook Mall (now called the Shop
 
 Originally, Grand Rapids featured a Rock-Afire Explosion, as all other ShowBiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-Afire Explosion into the 3-Stage. Grand Rapids would have the 3-Stage until sometime in 1999/2000 when the 3-Stage was replaced with a Studio C Alpha. In around the Mid 2000's, Chuck 's Late Night Tuxedo would be replaced with the Cool Chuck outfit. By 2012, that was replaced with the Avenger outfit. Chuck's cap would be removed in September 2013. In July 2023, Grand Rapids would remove their Studio C Alpha as they received the 2.0 remodel.
 
-| Stage                                                                                             | Installed | Removed   | Notes                                                                     |
-|---------------------------------------------------------------------------------------------------|-----------|-----------|---------------------------------------------------------------------------|
-| [Classic Stage]                                                           | June 1983 | 1991      | Possibily the 12th and last ShowBiz to open in Michigan.                  |
-| [Concept Unification Stage (3-Stage)]                                               | 1991      | 1999/2000 | One of 6 ShowBiz Pizza Stores in Michigan to undergo Concept Unification. |
-| Studio C (1997)\|Studio C Alpha                                                                   | 1999/2000 | July 2023 | One of 6 Studio C Alphas installed in Michigan.                           |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | July 2023 | In Use    |                                                                           |
-
 [2001](https://www.showbizpizza.com/photos/cec/mi_grandrapids/index.html)
-
-## Animatronics
-
-| Character                                                                 | Serial     | Status             |
-|---------------------------------------------------------------------------|------------|--------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ?-8? 1-??  | Unknown/Destroyed. |
-| [Dook Larue (Animatronic)]                        | ?-8? 2-??  | Unknown/Destroyed. |
-| [Fatz Geronimo (Animatronic)]                     | ?-8? 3-??  | Unknown/Destroyed. |
-| [Beach Bear (Animatronic)]                        | ?-8? 4-??  | Unknown/Destroyed. |
-| [Mitzi Mozzarella (Animatronic)]                  | ?-8? 5-??  | Unknown/Destroyed. |
-| [Billy Bob (Animatronic)]                         | ?-8? 6-??  | Unknown/Destroyed. |
-| [Looney Bird (Animatronic)]                       | ?-8? 7-??  | Unknown/Destroyed. |
-| [Choo Choo (Animatronic)]                         | ?-8? 8-??  | Unknown/Destroyed. |
-| [Sun (Animatronic)]                               | ?-8? 10-?? | Unknown/Destroyed. |
-| [Moon (Animatronic)]                              | ?-8? 11-?? | Unknown/Destroyed. |
-| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed. |
-| [Wink]                                            | N/A        | Unknown/Destroyed. |
-| [Chuck E Cheese 32m (Animatronic)]                | 072        | Destroyed          |
-| [Bird (Animatronic)]                              | N/A        | Destroyed          |
-| [Pizza Time Clock (Animatronic)]                  | N/A        | Destroyed          |
-| [Pizza Phone (Animatronic)]                       | N/A        | Destroyed          |
 
 ## Videos
 

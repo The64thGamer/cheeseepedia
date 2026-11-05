@@ -7,9 +7,3 @@ This location opened on December 19, 2012 in the Marketplace At The Grove shoppi
 ## Stages
 
 This location opened with a Circles Of Light, 16m, and was the first COL in California. By June 2022, the Chuck E. animatronic was in disrepair, with only the movements in his body working (arm movements, body movements, and head movements) and the movements in his face (mouth, eye turns, and eyelid movement) being broken. In early 2024, the animatronic was removed for a Dance Floor during the San Diego store's 2.0 refresh remodel, while keeping the Circles of Light itself. They were the last Circles Of Light in California to have an animatronic after the [Los Angeles, CA (2706 Wilshire Blvd)] location closed back on September 13, 2020.
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts |
-|------------------------------------------------------------|--------|-------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A    | Destroyed.  |

@@ -10,23 +10,6 @@ Brockton opened in Spring 1993 (Date Unknown) in the Westgate Mall (Brockton) wi
 
 After it's closure as CEC, it would then become part of a Best Buy store which opened not long after the CEC's closure. Best Buy would remain open until February 27th, 2021 when it would be permanently closed. in Mid May 2021, the store would be reopened as Best Buy outlet. As of March 2023, the space is still Best Buy Outlet.
 
-## Stages
-
-| Stage                             | Installed   | Removed    | Notes                                                                                                                                                  |
-|-----------------------------------|-------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [2-Stage] | Spring 1993 | April 2003 | One of five installed in Massachusetts. Only one in the state and New England without Pasqually's Brick Wall. First New England 2-Stage to be removed. |
-
-## Animatronics
-
-| Animatronics                                                 | Manufacturing Date | Status            |
-|--------------------------------------------------------------|--------------------|-------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1992-1993          | Unknown/Destroyed |
-| [Guest Star / Helen Henny (Cyberamic)] | 1992-1993          | Unknown/Destroyed |
-| [Mr. Munch (Cyberamic)]               | 1992-1993          | Unknown/Destroyed |
-| [Jasper T. Jowls (Cyberamic)]         | 1992-1993          | Unknown/Destroyed |
-| [Pasqually (Cyberamic)]              | 1992-1993          | Unknown/Destroyed |
-| [Wink (Cyberamic)]                   | 1992-1993          | Unknown/Destroyed |
-
 ## Videos
 
 | Link                                 | Description                                                             | Filming Date      |

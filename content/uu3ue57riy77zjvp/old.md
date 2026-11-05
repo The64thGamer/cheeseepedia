@@ -6,11 +6,7 @@ In December 2021, an article was published by PR Newswire with the title of 'Chu
 
 ## Stages
 
-When the Lusail location first opened, they featured a [Chuck E Live Stage (Dance Floor)] and Video Wall, with the Dance Floor being a 2021 Model. As of January 2023, they still have the Dance Floor and Video Wall.
-
-| Stage                                                                   | Installed    | Removed      | Note       |
-|-------------------------------------------------------------------------|--------------|--------------|------------|
-| [Chuck E Live Stage (Dance Floor)] + Video Wall | October 2022 | Still in Use | 2021 Model |
+When the Lusail location first opened, they featured a [Chuck E. Live Stage (Dance Floor)] and Video Wall, with the Dance Floor being a 2021 Model. As of January 2023, they still have the Dance Floor and Video Wall.
 
 ## YouTube Videos
 

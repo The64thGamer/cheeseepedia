@@ -8,29 +8,6 @@ TODO
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations did. They would have it for a few years, until around 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. In September 2018, they remodeled to 2.0, removing the 3-Stage for a 2017 Model Dance Floor.
 
-| Stage                                                      | Installed      | Removed        | Notes                                                           |
-|------------------------------------------------------------|----------------|----------------|-----------------------------------------------------------------|
-| [Classic Stage]                    | March 1983     | Around 1991    | One of six ShowBiz locations to open in Pennsylvania.           |
-| [Concept Unification Stage (3-Stage)]        | Around 1991    | September 2018 | One of three Pennsylvania locations to get Concept Unification. |
-| [Chuck E Live Stage (Dance Floor)] | September 2018 | Still In Use   | 2017 Model                                                      |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts |
-|---------------------------------------------------------------------------|---------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-82 1-22     | Unknown     |
-| [Dook Larue (Animatronic)]                        | 7-82 2-22     | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | 7-82 3-22     | Unknown     |
-| [Beach Bear (Animatronic)]                        | 7-82 4-22     | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | 7-82 5-22     | Unknown     |
-| [Billy Bob (Animatronic)]                         | 7-82 6-22     | Unknown     |
-| [Looney Bird (Animatronic)]                       | 7-82 7-22     | Unknown     |
-| [Choo Choo (Animatronic)]                         | 7-82 8-22     | Unknown     |
-| [Sun (Animatronic)]                               | 7-82 10-22    | Unknown     |
-| [Moon (Animatronic)]                              | 7-82 11-22    | Unknown     |
-| [Antioch (Animatronic)]                           | N/A           | Unknown     |
-| [Wink]                                            | N/A           | Unknown     |
-
 ## Videos
 
 TODO

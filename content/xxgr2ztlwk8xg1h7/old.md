@@ -25,20 +25,3 @@ Whitehall opened its doors on December 16th, 1983 as the last ShowBiz Pizza stor
 | [Link](https://youtu.be/65BNJXxsovg)                                                  | 'My Family' from [Chuck E Cheese's Show 3 2019] being performed on Whitehall's CU 1-Stage.                                                                       | August 2, 2020     | July 18, 2023  |
 | [Link](https://youtu.be/gbzNcthjwbs)                                                  | 'Barbara the Barnyard Barber' from [Chuck E Cheese's Show 2 2020] being performed on Whitehall's CU 1-Stage.                                                     | August 2, 2020     | July 18, 2023  |
 | [Link](https://youtu.be/iqOwBhXoFL8)                                                  | 'Out of this World' from [Chuck E Cheese's Show 5 2016] being performed on Whitehall's CU 1-Stage. The 2020 Social Distancing ad can also be seen in this video. | August 2, 2020     | July 18, 2023  |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                                                                                                                                                      |
-|---------------------------------------------------------------------------|---------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-12     | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Abilene, TX (1874 S Clack St)]. |
-| [Dook Larue (Animatronic)]                        | 1-82 2-12     | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Abilene, TX (1874 S Clack St)]. |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-12     | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Abilene, TX (1874 S Clack St)]. |
-| [Beach Bear (Animatronic)]                        | 1-82 4-12     | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Abilene, TX (1874 S Clack St)]. |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-12     | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)]. Originally from [Abilene, TX (1874 S Clack St)]. |
-| [Billy Bob (Animatronic)]                         | 1-82 6-12     | Unknown. Originally from [Abilene, TX (1874 S Clack St)].                                                                                |
-| [Looney Bird (Animatronic)]                       | 1-82 7-12     | Unknown. Originally from [Abilene, TX (1874 S Clack St)].                                                                                |
-| [Choo Choo (Animatronic)]                         | 1-82 8-12     | Unknown. Originally from [Abilene, TX (1874 S Clack St)].                                                                                |
-| [Sun (Animatronic)]                               | 1-82 10-12    | Unknown. Originally from [Abilene, TX (1874 S Clack St)].                                                                                |
-| [Moon (Animatronic)]                              | 1-82 11-12    | Unknown. Originally from [Abilene, TX (1874 S Clack St)].                                                                                |
-| [Antioch (Animatronic)]                           | N/A           | Unknown. Originally from [Abilene, TX (1874 S Clack St)].                                                                                |
-| [Wink]                                            | N/A           | Destroyed.                                                                                                                                                       |

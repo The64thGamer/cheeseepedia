@@ -7,8 +7,3 @@ Honolulu opened with the [CEC 2000's Remodel Program] remodel or the 2005 "cool 
 ## Stages
 
 This location opened with a [Studio C Beta] 16m and is still in use despite it not being programmed.
-
-| Animatronics                                               | Serial Number | Whereabouts   |
-|------------------------------------------------------------|---------------|---------------|
-| [Chuck E Cheese 16m (Animatronic)] | N/A           | Still in use. |
-| [Pizza Time Clock (Animatronic)]   | N/A           | Still in use. |

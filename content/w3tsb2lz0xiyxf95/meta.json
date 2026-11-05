@@ -1,57 +1,185 @@
 {
-    "title": "Fresno, CA (3117 W Shaw Ave)",
-    "storeNumber": "",
-    "startDate": "1983-07-18",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification",
-            "s": "0000-00-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1983-07-18"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1983-07-18",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "0000-00-00",
-            "e": "2000-00-00",
-            "desc": "One of 10 3-Stages in California to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
-        },
-        {
-            "n": "Studio C Alpha",
-            "s": "0000-00-00",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "0000-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "36.80582377",
-        "-119.8486323"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "amY20O92CaHSDzDLpYbu.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Fresno, CA (3117 W Shaw Ave)",
+  "storeNumber": "",
+  "startDate": "1983-07-18",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1983-07-18"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1983-07-18",
+      "e": "0000-00-00",
+      "desc": "10th ShowBiz Pizza store to open in California."
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "0000-00-00",
+      "e": "2000-00-00",
+      "desc": "One of 10 3-Stages in California to undergo Concept Unification. One of many 3-Stages replaced with a Studio C Alpha."
+    },
+    {
+      "n": "Studio C Alpha",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-02-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Studio C (1997)|Studio C Alpha",
+      "s": "2000-00-00",
+      "e": "2024-02-00",
+      "desc": "Located on the same wall as the former 3-Stage."
+    },
+    {
+      "n": "Video Wall",
+      "s": "2024-02-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "36.80582377",
+    "-119.8486323"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "amY20O92CaHSDzDLpYbu.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese / Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 1-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pasqually / Dook Larue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 2-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mr. Munch / Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 3-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls / Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 4-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Helen Henny / Mitzi Mozzarella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 5-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 6-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "PizzaCam / Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 7-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Munch Jr. / Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 8-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Building / Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 10-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 11-?",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "116",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    }
+  ]
 }

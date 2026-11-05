@@ -18,16 +18,6 @@ TODO
 
 The store opened on April 8, 2004 with a Studio C Beta stage, which would be kept until the location received the 2.0 remodel in September 2019.
 
-| Stage                                   | Installed  | Removed        |
-|-----------------------------------------|------------|----------------|
-| [Studio C Beta] | April 2004 | September 2019 |
-
-## Animatronic
-
-| Character                                                   | Serial | Status   |
-|-------------------------------------------------------------|--------|----------|
-| [Chuck E. Cheese 16m (Animatronic)] | N/A    | Unknown. |
-
 ## Videos
 
 | Link                                                       | Description                                 | Date Filmed                | Date Published |

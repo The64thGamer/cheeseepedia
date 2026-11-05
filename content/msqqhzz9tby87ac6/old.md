@@ -8,32 +8,6 @@ Oklahoma City (Expressway) opened on January 27th, 1982, with a Rock-Afire Explo
 
 Originally when the store opened, they had a Rock-Afire Explosion, as all other ShowBiz locations did. They would have it for a few years, until 1991, when they would undergo Concept Unification, this was the process used to turn the RAE into the CEC characters. Unfortunately, there are no exterior and interior photos or videos of Oklahoma City (Expressway) when it was ShowBiz. In 2006, the 3-Stage was removed for the Studio C Beta stage. In Fall 2021, the Studio C Beta was removed for the Dance Floor and Video Wall.
 
-| Stage                                                                                             | Installed    | Removed      | Notes                                                                        |
-|---------------------------------------------------------------------------------------------------|--------------|--------------|------------------------------------------------------------------------------|
-| [Classic Stage]                                                           | January 1982 | 1991         | 3rd ShowBiz Pizza store to open in Oklahoma.                                 |
-| [Concept Unification Stage (3-Stage)]                                               | 1991         | 2006         | One of three ShowBiz Pizza stores in Oklahoma to receive Concept Unification |
-| [Studio C Beta], 16m                                                      | 2006         | Fall 2021    | Last Studio C in Oklahoma                                                    |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | Fall 2021    | Still in use | 2021 Model.                                                                  |
-
-## Animatronics
-
-| Character                                                                 | Serial     | Status            |
-|---------------------------------------------------------------------------|------------|-------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-19  | Unknown/Destroyed |
-| [Dook Larue (Animatronic)]                        | 4-81 2-19  | Unknown/Destroyed |
-| [Fatz Geronimo (Animatronic)]                     | 4-81 3-19  | Unknown/Destroyed |
-| [Beach Bear (Animatronic)]                        | 4-81 4-19  | Unknown/Destroyed |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-19  | Unknown/Destroyed |
-| [Billy Bob (Animatronic)]                         | 4-81 6-19  | Unknown/Destroyed |
-| [Looney Bird (Animatronic)]                       | 4-81 7-19  | Unknown/Destroyed |
-| [Choo Choo (Animatronic)]                         | 4-81 8-19  | Unknown/Destroyed |
-| [Sun (Animatronic)]                               | 4-81 10-19 | Unknown/Destroyed |
-| [Moon (Animatronic)]                              | 4-81 11-19 | Unknown/Destroyed |
-| [Antioch (Animatronic)]                           | N/A        | Unknown/Destroyed |
-| [Wink]                                            | N/A        | Unknown/Destroyed |
-| [Chuck E Cheese 16m (Animatronic)]                | Unknown    | Destroyed         |
-| [Pizza Time Clock (Animatronic)]                  | N/A        | Destroyed         |
-
 ## Videos
 
 {| class='wikitable' |+ !Link !Description !Published Date !Date taken |- | [Link](https://www.youtube.com/watch?v=QD2ozsdSTNI&t=570s) |Footage of Oklahoma City as a Rock Afire Explosion |November 27, 2019 |November 30, 1987

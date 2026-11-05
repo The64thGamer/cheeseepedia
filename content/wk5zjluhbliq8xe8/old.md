@@ -6,9 +6,4 @@ W.I.P
 
 ## Stages
 
-| Stage                             | Installed     | Removed    | Notes                                                                         |
-|-----------------------------------|---------------|------------|-------------------------------------------------------------------------------|
-| [2-Stage] | December 1992 | 2010-2011  | 7/8 2 Stages installed in Pennsylvania. Converted to 1-Stage in 2010 or 2011. |
-| [1-Stage] | 2010-2011     | April 2018 |                                                                               |
-
 W.I.P

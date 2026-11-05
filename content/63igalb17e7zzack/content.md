@@ -37,14 +37,3 @@ There are more locations than what is known. It is known that one arcade was ins
 ## Taxidermy Animatronics
 
 Some Chuck's Arcades have animatronics displayed in a glass case. They stand on a wooden base with the character's name on a Pizza Time Theatre-styled plate by their feet. The mechanisms inside were altered to make the characters have the right arm waving and the other by their side (besides Jasper's left arm).
-
-| Animatronic                                                 | Location             | Debute Date           | Original Location                                                                                          |
-| ----------------------------------------------------------- | -------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------- |
-| [Pasqually (Cyberamic)]                   | Rockingham Park Mall | June 2025             | Unknown                                                                                                    |
-| [Chuck E. Cheese (Cyberamic)]             | Mall of Georgia      | June 27, 2025         | Unknown                                                                                                    |
-| [Helen Henny (Cyberamic)]                 | Pheasant Lane Mall   | August/September 2025 | Unknown, relocated from the Trumbull Mall location in August/September 2025 originally installed June 2025 |
-| [Chuck E. Cheese (Cyberamic)]             | Ward Parkway Center  | July 2025             | [Bellevue, WA (2239 148th Ave)][21]                                           |
-| [Jasper T. Jowls (Cyberamic)]             | Cielo Vista Mall     | July 3, 2025          | Unknown                                                                                                    |
-| [Pasqually (Cyberamic)] (with drumsticks) | Tyrone Square Mall   | July 2025             | Unknown                                                                                                    |
-| [Jasper T. Jowls (Cyberamic)]             | Eastview Mall        | July 2025             | [Rockford, IL (3600 E State St)][22]                                          |
-| [Mr. Munch (Cyberamic)]                   | Brea Simon Center    | August 23, 2025       | [Bellevue, WA (2239 148th Ave)]                                                          |

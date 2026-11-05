@@ -1,34 +1,43 @@
 {
-    "title": "Monroe, LA (3731 Pecanland Mall Dr)",
-    "storeNumber": "",
-    "startDate": "2011-07-09",
-    "endDate": "2024-07-00",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2011-07-09"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Beta",
-            "s": "2011-07-09",
-            "e": "2024-07-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "32.49755087",
-        "-92.07413078"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "whFdFJyl_gecjEShTAMP.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Monroe, LA (3731 Pecanland Mall Dr)",
+  "storeNumber": "",
+  "startDate": "2011-07-09",
+  "endDate": "2024-07-00",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2011-07-09"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Beta",
+      "s": "2011-07-09",
+      "e": "2024-07-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "32.49755087",
+    "-92.07413078"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "whFdFJyl_gecjEShTAMP.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown, most likely destroyed."
+    }
+  ]
 }

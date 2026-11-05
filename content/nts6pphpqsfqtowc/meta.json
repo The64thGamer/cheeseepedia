@@ -1,39 +1,85 @@
 {
-    "title": "Melrose Park, IL (1315 W North Ave)",
-    "storeNumber": "",
-    "startDate": "1991-09-24",
-    "endDate": "2012-08-00",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1991-09-24"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Road Stage",
-            "s": "1991-09-24",
-            "e": "1994-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "1994-00-00",
-            "e": "2012-08-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "41.90690732",
-        "-87.84847078"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "z6CjwtReqjI7AfUxDLzV.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Melrose Park, IL (1315 W North Ave)",
+  "storeNumber": "",
+  "startDate": "1991-09-24",
+  "endDate": "2012-08-00",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1991-09-24"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-09-24",
+      "e": "1994-00-00",
+      "desc": "One of 2 installed in Illinois."
+    },
+    {
+      "n": "2-Stage",
+      "s": "1994-00-00",
+      "e": "2012-08-00",
+      "desc": "One of 5 installed in Illinois."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "41.90690732",
+    "-87.84847078"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "z6CjwtReqjI7AfUxDLzV.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed. Mask sent to West Allis, WI (2990 South 108th Ave)."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed. Mask sent to West Allis, WI (2990 South 108th Ave)."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed. Eyelids seen at Tinley Park, IL (16090 S Harlem Ave) as parts."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1991-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    }
+  ]
 }

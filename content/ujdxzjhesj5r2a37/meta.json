@@ -1,34 +1,114 @@
 {
-    "title": "Hattiesburg, MS (6428 US 49)",
-    "storeNumber": "",
-    "startDate": "1984-07-26",
-    "endDate": "1986-00-00",
-    "remodels": [
-        {
-            "n": "SPP Standard Layout",
-            "s": "1984-07-26"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1984-07-26",
-            "e": "1986-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "31.34441262",
-        "-89.33136088"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "1tEuYu_we2mvY7n6DS27.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Hattiesburg, MS (6428 US 49)",
+  "storeNumber": "",
+  "startDate": "1984-07-26",
+  "endDate": "1986-00-00",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1984-07-26"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1984-07-26",
+      "e": "1986-00-00",
+      "desc": "Final ShowBiz Pizza to open in Mississippi."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "31.34441262",
+    "-89.33136088"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "1tEuYu_we2mvY7n6DS27.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 1-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 2-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 3-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 4-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 5-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 6-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 7-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 8-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 10-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 11-??",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    }
+  ]
 }

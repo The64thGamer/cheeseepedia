@@ -8,25 +8,6 @@ Harrisburg opened on June 29, 1992 as a franchised-owned Chuck E. Cheese's Pizza
 
 Like all 2-Stages at the time, Chuck wore his Tuxedo &amp; Derby outfit. In 2001, the 2-Stage was replaced with the Studio C Beta, 32m. The stage was removed in August 2022 for a Dance Floor and Video Wall during their 2.0 Remodel. As of February 2023, Harrisburg still has the 2021 Model Dance Floor and Video Wall and 2.0 Remodel.
 
-| Stage                                                                                             | Installed   | Removed      | Notes                                                                                                |
-|---------------------------------------------------------------------------------------------------|-------------|--------------|------------------------------------------------------------------------------------------------------|
-| [2-Stage]                                                                 | June 1992   | Spring 2001  | One of 7/8 2-Stages installed in Pennsylvania.                                                       |
-| Studio C Beta                                                                                     | Spring 2001 | August 2022  | One of four Studio C Betas in Pennsylvania (One of three 32m installations). Had reflective mirrors. |
-| [Chuck E Live Stage (Dance Floor)] + [Video Wall] | August 2022 | Still in use | 2021 Model. 2nd 2021 2.0 in the state.                                                               |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Serial   | Status             |
-|--------------------------------------------------------------|--------------------|----------|--------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | 1992               | Unknown. | Unknown/Destroyed. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1992               | Unknown. | Unknown/Destroyed. |
-| [Mr. Munch (Cyberamic)]               | 1992               | Unknown. | Unknown/Destroyed. |
-| [Jasper T. Jowls (Cyberamic)]         | 1992               | Unknown. | Unknown/Destroyed. |
-| [Pasqually (Cyberamic)]              | 1992               | Unknown. | Unknown/Destroyed. |
-| [Wink (Cyberamic)]                   | 1992               | Unknown. | Unknown/Destroyed. |
-| [Chuck E Cheese 32m (Animatronic)]   | 2001               | 127      | Destroyed/Saved.   |
-| [Pizza Time Clock (Animatronic)]     | 2001               | N/A      | Destroyed.         |
-
 ## Videos
 
 | Link                                                                                      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             | Filming Date      |

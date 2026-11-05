@@ -16,27 +16,7 @@ Fort Collins was one of the first three locations to permanently close due to th
 
 Fort Collins originally had the Classic Stage featuring the Rock-afire Explosion, like many other ShowBiz Pizza Places during the early-to-mid 1980s. In 1991, the Classic Stage went under the Concept Unification process, and retrofitted the Rock-afire band into Munch's Make Believe Band, and changing it into a 3-Stage. This stage would remain at this store until they closed. The stage assets and parts would be thrown out, along with the store's wall art, but Chuck E's mask was obtained by a Fort Collins pizza restaurant named Totally 80s Pizza.
 
-| Stage                                               | Installed        | Removed                                  | Notes  |
-|-----------------------------------------------------|------------------|------------------------------------------|--------|
-| [Classic Stage]             | February 9, 1982 | 1991                                     | To do. |
-| [Concept Unification Stage (3-Stage)] | 1991             | April 13, 2020, Last 3-Stage in Colorado | To do. |
-
 ## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                               |
-|---------------------------------------------------------------------------|---------------|-------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-81 1-3      | Unknown, mask owned by Totally 80s Pizza. |
-| [Dook Larue (Animatronic)]                        | 7-81 2-3      | Unknown.                                  |
-| [Fatz Geronimo (Animatronic)]                     | 7-81 3-3      | Unknown.                                  |
-| [Beach Bear (Animatronic)]                        | 7-81 4-3      | Unknown.                                  |
-| [Mitzi Mozzarella (Animatronic)]                  | 7-81 5-3      | Unknown.                                  |
-| [Billy Bob (Animatronic)]                         | 7-81 6-3      | Unknown.                                  |
-| [Looney Bird (Animatronic)]                       | 7-81 7-3      | Unknown.                                  |
-| [Choo Choo (Animatronic)]                         | 7-81 8-3      | Unknown.                                  |
-| [Sun (Animatronic)]                               | 7-81 10-3     | Unknown.                                  |
-| [Moon (Animatronic)]                              | 7-81 11-3     | Unknown.                                  |
-| [Antioch (Animatronic)]                           | N/A           | Unknown.                                  |
-| [Wink]                                            | N/A           | Unknown.                                  |
 
 [Fort Collins in 1999](https://www.showbizpizza.com/photos/cec/co_ftcollins/index.html)
 

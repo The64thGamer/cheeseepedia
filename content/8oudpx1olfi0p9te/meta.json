@@ -1,34 +1,49 @@
 {
-    "title": "Kelso, WA (351 Three Rivers Dr)",
-    "storeNumber": "",
-    "startDate": "2004-12-22",
-    "endDate": "2014-04-06",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2004-12-22"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Cappa",
-            "s": "2004-12-22",
-            "e": "2014-04-06"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "46.13843542",
-        "-122.9018667"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Kelso, WA (351 Three Rivers Dr)",
+  "storeNumber": "",
+  "startDate": "2004-12-22",
+  "endDate": "2014-04-06",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2004-12-22"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Cappa",
+      "s": "2004-12-22",
+      "e": "2014-04-06"
+    },
+    {
+      "n": "Small-Town Studio C",
+      "s": "2004-12-00",
+      "e": "2014-04-00",
+      "desc": "37th store opened with Small-Town Studio C."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "46.13843542",
+    "-122.9018667"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to Tucson, AZ (6125 E Speedway Blvd), now destroyed."
+    }
+  ]
 }

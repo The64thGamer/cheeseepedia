@@ -1,53 +1,139 @@
 {
-    "title": "Madison, TN (2070 Gallatin Pike)",
-    "storeNumber": "",
-    "startDate": "1982-06-15",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "1991-00-00"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-04-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1982-06-15"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1982-06-15",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "1991-00-00",
-            "e": "2022-04-00",
-            "desc": "One of 8 3-Stages in Tennessee to get Concept Unification. Last 3-Stage in Tennessee from October 2020 until stage removal in April 2022. Was in Good Condition. Chuck had rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, Stage had colored Wink &amp; black Pizzacam."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-04-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "36.30245777",
-        "-86.69446438"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "nfbd8JwsZq5N1vkhBGaZ.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Madison, TN (2070 Gallatin Pike)",
+  "storeNumber": "",
+  "startDate": "1982-06-15",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "1991-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-04-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1982-06-15"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-06-15",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "1991-00-00",
+      "e": "2022-04-00",
+      "desc": "One of 8 3-Stages in Tennessee to get Concept Unification. Last 3-Stage in Tennessee from October 2020 until stage removal in April 2022. Was in Good Condition. Chuck had rare 'Cool Chuck' outfit, Jasper had Beach Bear Guitar, Stage had colored Wink &amp; black Pizzacam."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-04-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "36.30245777",
+    "-86.69446438"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "nfbd8JwsZq5N1vkhBGaZ.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese/Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 1-11",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Pasqually the Chef/Dook LaRue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 2-11",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Mr Munch/Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 3-11",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls/Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 4-11",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Helen Henny/ Mitzi Mozzerella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 5-11",
+      "desc": "Destroyed."
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 6-11",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Pizzacam/Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 7-11",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Munch Jr/ Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 8-11",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Building/Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 10-11",
+      "desc": "Owned by a private collector."
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "10-81 11-11",
+      "desc": "Partially Destroyed/Remains owned by a private collector."
+    },
+    {
+      "n": "Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
+  ]
 }

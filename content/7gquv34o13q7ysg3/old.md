@@ -4,10 +4,6 @@
 
 Springfield opened with a [Balcony Stage]. However, nothing is known about this location at all, and after the closure, the bots were presumably auctioned in January 1984, and currently, the fates of the bots are unknown.
 
-| Stage                                              | Installed  | Removed       | Notes |
-|----------------------------------------------------|------------|---------------|-------|
-| [Balcony Stage] | April 1982 | December 1983 | N/A   |
-
 ## History
 
 Springfield opened on April 20, 1982 with a [Balcony Stage]. Unfortunately, there is basically no information on this store at all. The store closed on December 31, 1983 for unknown reasons. The store held an auction in January 1984, and as a result, the location was vacant. It was left like this way for multiple years, until Midnight Rodeo moved onto the space. As of August 2023, Midnight Rodeo occupies the space.

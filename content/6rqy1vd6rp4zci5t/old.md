@@ -4,10 +4,6 @@
 
 Streamwood opened with a bot-less Circles of Light stage. The stage still remains today.
 
-| Stage                                      | Installed | Removed      | Notes |
-|--------------------------------------------|-----------|--------------|-------|
-| [Circles of Light] | June 2014 | Still in use | N/A   |
-
 ## History
 
 In June 2014, Streamwood relocated here for larger space. The new location opened on June 6 of the same year. It has the 2013 update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative, which included 'Phase 5' decor and a bot-less Circles of Light stage. This location was left untouched except for new game packages. New Streamwood remains open to this day.

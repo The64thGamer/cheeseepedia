@@ -1,28 +1,37 @@
 {
-    "title": "Port Orange, FL (5539 S Williamson Blvd)",
-    "storeNumber": "",
-    "startDate": "2013-12-26",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2013-12-26"
-        }
-    ],
-    "stages": [],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "29.10794462",
-        "-81.03516003"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "iQ7CCaiJV9wtvPwJ7ygE.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Port Orange, FL (5539 S Williamson Blvd)",
+  "storeNumber": "",
+  "startDate": "2013-12-26",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2013-12-26"
+    }
+  ],
+  "stages": [],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "29.10794462",
+    "-81.03516003"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "iQ7CCaiJV9wtvPwJ7ygE.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "155",
+      "desc": "Survived Hurricane Ian. Head mechanisms and avenger hat owned by private collector. Body and body cosmetics completely destroyed by demolition team. From Dallas, TX (13364 Montfort Dr)"
+    }
+  ]
 }

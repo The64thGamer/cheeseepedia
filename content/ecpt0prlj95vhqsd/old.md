@@ -20,16 +20,7 @@
 
 ## Stages and Animatronics
 
-| Stage             | Installed | Removed      | Notes                                          |
-|-------------------|-----------|--------------|------------------------------------------------|
-| Studio C Beta 16m | June 2003 | Still in use | One of the earliest 16ms installed in a store. |
-
 The only changes the stage has received are removing the blue screen and its camera, the bot's outfit, and the removal of the Roboscans and Gemini.
-
-| Animatronic                                                | Serial | Whereabouts  | Notes                                            |
-|------------------------------------------------------------|--------|--------------|--------------------------------------------------|
-| [Chuck E Cheese 16m (Animatronic)] | 823    | Still in use | Full Rockstar outfit including walkaround shoes. |
-| [Pizza Time Clock (Animatronic)]   | N/A    | Still in use | Original clock,                                  |
 
 ## Store Fixtures
 

@@ -7,19 +7,3 @@ The store would open with a [Portrait / Shelf Stage] that lasted throughout the 
 ## History
 
 The location originally started as a Country Boy Market store, before being remodeled at the cost of $600,000 in 1980 into a Pizza Time Theatre. During the planning of the restaurant in April of 1980, it was announced to be opening around June 15th of that year.(2) This would later be pushed back to June 28th.(6) Tom Warnshius, a former manager of the Old Spaghetti Factory, would be the opening manager of the location.(5) The location would later close in May of 1985.(0)
-
-## Animatronics
-
-| Character                                                    | Serial Number | Status            |
-|--------------------------------------------------------------|---------------|-------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | Unknown       | Unknown/Destroyed |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown/Destroyed |
-| [Mr. Munch (Cyberamic)]               | Unknown       | Unknown/Destroyed |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown/Destroyed |
-| [Pasqually (Cyberamic)]              | Unknown       | Unknown/Destroyed |
-| [Warblettes (Cyberamic)]             | Unknown       | Unknown/Destroyed |
-| [Flag Wavers (Cyberamic)]                                     | Unknown       | Unknown/Destroyed |
-| [Applause Board (Cyberamic)]         | Unknown       | Unknown/Destroyed |
-| [Drum Board (Cyberamic)]             | Unknown       | Unknown/Destroyed |
-| [Dolli Dimples (Cabaret)]            | Unknown       | Unknown/Destroyed |
-| [The King / King Kat (Lounge)]         | Unknown       | Unknown/Destroyed |

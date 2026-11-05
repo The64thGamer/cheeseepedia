@@ -4,10 +4,6 @@
 
 This location opened with a Rock-afire Explosion stage. Not much is known about their history and was removed in the mid-80s when they closed.
 
-| Stage                    | Installed    | Removed   | Notes                   |
-|--------------------------|--------------|-----------|-------------------------|
-| The Rock-afire Explosion | January 1984 | 1984-1986 | 2nd ShowBiz in Arizona. |
-
 ## History
 
 Yuma opened on January 30, 1984 (date might not be correct) with a Rock-afire Explosion, Sadly, information on this location is very hard to find, as it was either undocumented or short lived. In the mid-80s (1984-1986, date completely unknown), the location shut its doors, leaving Phoenix and Mesa as the only 2 ShowBiz Pizzas in the state of Arizona. The location was later split into multiple businesses, and they are still there as of July 2023.

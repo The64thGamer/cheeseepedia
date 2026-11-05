@@ -7,14 +7,3 @@ The only stage this store had was the [1-Stage]. Little to no footage of this st
 ## History
 
 This store opened in the Oakland Pointe Center on September 20th, 1993 with a 1-Stage. This store also had the 1992 Major Remodel, which was new at the time. They would stay like this until they presumably got one of the [Phase 1 (1994)], [Phase 2 (1997)], or [Phase 3 (2000)] remodels. They would stay with the main base design they had until they closed in Summer 2008 for unknown reasons, presumably lease or something else. They would stay abandoned for a few months until they were converted into a culinary school branch of Dorsey Schools, a nearby business in the same center. They would close in 2019-2020. As of August 2023, the former space is vacant once again.
-
-## Animatronics
-
-| Animatronic                                                  | Serial | Whereabouts       |
-|--------------------------------------------------------------|--------|-------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | ???    | Unknown/Destroyed |
-| [Guest Star / Helen Henny (Cyberamic)] | ???    | Unknown/Destroyed |
-| [Mr. Munch (Cyberamic)]               | ???    | Unknown/Destroyed |
-| [Jasper T. Jowls (Cyberamic)]         | ???    | Unknown/Destroyed |
-| [Pasqually (Cyberamic)]              | ???    | Unknown/Destroyed |
-| [Wink (Cyberamic)]                   | ???    | Unknown/Destroyed |

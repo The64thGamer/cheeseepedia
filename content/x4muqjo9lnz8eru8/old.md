@@ -8,24 +8,6 @@ Tinley Park opened on January 31, 1989, as a merger store with one of three Rock
 
 Originally, the store opened with a Rocker Stage, which they had until the Mid 1990's until their first remodel. In 1994, it was converted into a 2-Stage which it had until it was removed on November 26, 2023, for the Dance Floor.
 
-| Stage                                                      | Installed           | Removed              | Notes                                                                                                               |
-|------------------------------------------------------------|---------------------|----------------------|---------------------------------------------------------------------------------------------------------------------|
-| [Chuck E.'s House (Rocker Stage)]                  | January 1989        | 1994                 | One of three Chuck E.’s Houses installed. Animatronics from an unknown Pizza Time Theatre that opened in 1982/1983. |
-| [2-Stage]                          | 1994                | November 26, 2023(1) | One of five 2-Stages installed in Illinois. Last Cyberamic show and the last 2- Stage in Illinois.                  |
-| [Chuck E Live Stage (Dance Floor)] | November 2023       | Still In Use         | 2021 model.                                                                                                         |
-| [Video Wall]                       | November 29th, 2023 | Still In Use         |                                                                                                                     |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing Date | Whereabouts                                                                            |
-|--------------------------------------------------------------|--------------------|----------------------------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | January 1982       | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Guest Star / Helen Henny (Cyberamic)] | January 13, 1982   | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Mr. Munch (Cyberamic)]               | January 1982       | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Jasper T. Jowls (Cyberamic)]         | January 1982       | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Pasqually (Cyberamic)]              | 1980s              | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-| [Wink (Cyberamic)]                   | 1994               | Taken to [ShowBiz Pizza Time Distribution Center (Topeka, KS)] |
-
 ## Videos
 
 | Link                                                | Description                                                                       | Filming Date |

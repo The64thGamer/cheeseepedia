@@ -4,10 +4,6 @@
 
 Abilene opened with a [Balcony Stage]. Barely info is known, and the bots were auctioned shortly after closure.
 
-| Stage         | Installed     | Removed |
-|---------------|---------------|---------|
-| Balcony Stage | November 1981 | 1984    |
-
 ## History
 
 Abilene opened on November 23, 1981, with a [Balcony Stage]. It was located on the former Kmart Foods space, which closed in 1979/1980. Other than this, there is nothing known about this store at all. The store closed in 1984 (month and day unknown) due to underperformance. The building was left vacant for a long period of time until the mid 2010s, when it was redeveloped.

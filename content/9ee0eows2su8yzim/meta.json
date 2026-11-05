@@ -1,49 +1,100 @@
 {
-    "title": "Tampa, FL (14308 Dale Mabry Hwy)",
-    "storeNumber": "",
-    "startDate": "1991-07-01",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1991-07-01"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2019-08-29"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Road Stage",
-            "s": "1991-07-01",
-            "e": "1995-00-00"
-        },
-        {
-            "n": "2-Stage",
-            "s": "1994-00-00",
-            "e": "2019-08-28",
-            "desc": "One of 4 installed in Florida. Replaced by Dance Floor."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2019-08-29",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "28.07526637",
-        "-82.50890098"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "k9HkefN8G7kJesuyLLeN.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Tampa, FL (14308 Dale Mabry Hwy)",
+  "storeNumber": "",
+  "startDate": "1991-07-01",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1991-07-01"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2019-08-29"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Road Stage",
+      "s": "1991-07-01",
+      "e": "1995-00-00",
+      "desc": "One of 6 installed in Florida."
+    },
+    {
+      "n": "2-Stage",
+      "s": "1994-00-00",
+      "e": "2019-08-28",
+      "desc": "One of 4 installed in Florida. Replaced by Dance Floor."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2019-08-29",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2023-04-00",
+      "e": "0000-00-00",
+      "desc": "Added in April 2023."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "28.07526637",
+    "-82.50890098"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "k9HkefN8G7kJesuyLLeN.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1991-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by a Private Collector."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1991-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by a Private Collector."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1991-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by a Private Collector."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Original Bot unknown, replaced with bot from Lakeland, FL (3558 US Hwy 98), now owned by a Private Collector."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1991-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by a Private Collector."
+    },
+    {
+      "n": "Wink (Animatronic)|Wink (Cyberamic)",
+      "s": "1991-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by a Private Collector."
+    }
+  ]
 }

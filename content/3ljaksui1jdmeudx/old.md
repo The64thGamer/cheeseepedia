@@ -8,28 +8,6 @@
 
 Originally when the store opened, they had a Rock-Afire Explosion like every other ShowBiz location. In 1990, they would become the third ever location to undergo Concept Unification, the process used to convert the RAE characters into the Chuck E. Cheese characters. This was one 17 ShowBiz Pizza stores in Texas to receive Concept Unification.
 
-| Stage                    | Installed | Removed     |
-|--------------------------|-----------|-------------|
-| The Rock-afire Explosion | July 1982 | 1990        |
-| 3-Stage                  | 1990      | Summer 2001 |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Code | Whereabouts               |
-|---------------------------------------------------------------------------|-------------|---------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-81 1-17  | Unknown                   |
-| [Dook Larue (Animatronic)]                        | 10-81 2-17  | Unknown                   |
-| [Fatz Geronimo (Animatronic)]                     | 10-81 3-17  | Unknown                   |
-| [Beach Bear (Animatronic)]                        | 10-81 4-17  | Unknown                   |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-81 5-17  | Owned by Gabriel Bartlett |
-| [Billy Bob (Animatronic)]                         | 10-81 6-17  | Unknown                   |
-| [Looney Bird (Animatronic)]                       | 10-81 7-17  | Unknown                   |
-| [Choo Choo (Animatronic)]                         | 10-81 8-17  | Unknown                   |
-| [Sun (Animatronic)]                               | 10-81 10-17 | Unknown                   |
-| [Moon (Animatronic)]                              | 10-81 11-17 | Unknown                   |
-| [Antioch (Animatronic)]                           | N/A         | Unknown                   |
-| [Wink]                                            | N/A         | Unknown                   |
-
 ## YouTube Videos
 
 | Link                                       | Description                                                     | Filming Date |

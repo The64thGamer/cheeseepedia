@@ -36,6 +36,26 @@
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2021-12-"
+    },
+    {
+      "n": "Rock-Afire Explosion",
+      "s": "1983-05-00",
+      "e": "1991-00-00"
+    },
+    {
+      "n": "3-Stage",
+      "s": "1991-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Studio C Beta, 32m",
+      "s": "0000-00-00",
+      "e": "2021-12-00"
+    },
+    {
+      "n": "Dance Floor",
+      "s": "2021-12-00",
+      "e": "0000-00-00"
     }
   ],
   "franchisees": [],
@@ -54,5 +74,105 @@
   "type": "Locations",
   "tags": [
     "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 1-??",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 2-??",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 3-??",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 4-??",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 5-??",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 6-??",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 7-??",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 8-??",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 10-??",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "?-8? 11-??",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown/Destroyed."
+    },
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Head Owned By Private Collector."
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed."
+    }
   ]
 }

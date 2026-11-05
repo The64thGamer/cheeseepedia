@@ -8,26 +8,4 @@ Flint opened on December 3rd, 1982, as the seventh ShowBiz Pizza Place in Michig
 
 Originally, Flint featured a Rock-afire Explosion, as all other ShowBiz locations did. In 1991, Flint would receive Concept Unification replacing the Rock-afire Explosion characters with Chuck E. Cheese characters. In June 2020, the location closed due to the bankruptcy and the 3-Stage was removed.
 
-| Stage                                               | Installed     | Removed   | Notes                                                                     |
-|-----------------------------------------------------|---------------|-----------|---------------------------------------------------------------------------|
-| [Classic Stage]             | December 1982 | 1991      | 7th ShowBiz Pizza to open in Michigan.                                    |
-| [Concept Unification Stage (3-Stage)] | 1991          | June 2020 | One of 6 ShowBiz Pizza stores in Michigan to undergo Concept Unification. |
-
-## Animatronics
-
-| Animatronic                                                                                                    | Serial | Whereabouts        |
-|----------------------------------------------------------------------------------------------------------------|--------|--------------------|
-| [Rolfe DeWolfe/Chuck E. Cheese](https://cheeseepedia.org/wiki/Rolfe_Dewolfe_&_Earl_Schmerle_%28Animatronic%29) | N/A    | Destroyed.         |
-| [Dook Larue/Pasqually](https://cheeseepedia.org/wiki/Dook_Larue_%28Animatronic%29)                             | N/A    | Destroyed.         |
-| [Fatz Geronimo/Mr. Munch](https://cheeseepedia.org/wiki/Fatz_Geronimo_%28Animatronic%29)                       | N/A    | Destroyed.         |
-| [Beach Bear/Jasper T. Jowls](https://cheeseepedia.org/wiki/Beach_Bear_%28Animatronic%29)                       | N/A    | Destroyed.         |
-| [Mitzi Mozzarella/Helen Henny](https://cheeseepedia.org/wiki/Mitzi_Mozzarella_%28Animatronic%29)               | N/A    | Destroyed.         |
-| [Billy Bob](https://cheeseepedia.org/wiki/Billy_Bob_%28Animatronic%29)                                         | N/A    | Unknown/Destroyed. |
-| [Looney Bird/Pizzacam](https://cheeseepedia.org/wiki/Looney_Bird_%28Animatronic%29)                            | N/A    | Destroyed.         |
-| [Choo Choo/Munch Jr.](https://cheeseepedia.org/wiki/Choo_Choo_%28Animatronic%29)                               | N/A    | Unknown/Destroyed. |
-| [Sun/Bulding](https://cheeseepedia.org/wiki/Sun_%28Animatronic%29)                                             | N/A    | Destroyed.         |
-| [Moon](https://cheeseepedia.org/wiki/Moon_%28Animatronic%29)                                                   | N/A    | Destroyed.         |
-| [Antioch](https://cheeseepedia.org/wiki/Antioch_%28Animatronic%29)                                             | N/A    | Unknown/Destroyed. |
-| Wink                                                                                                           | N/A    | Destroyed.         |
-
 ## Trivia

@@ -22,14 +22,3 @@ Pearl City would open in December 1994 (Date Unknown) with a 1-Stage with a turn
 | https://youtu.be/VzOEHQ289K0?si=nJcEiZx-zyk-A1U8  | The standard live show                 | 2022         |
 
 W.I.P
-
-## Animatronics
-
-| Animatronics                                                 | Manufacturing Date | Status            |
-|--------------------------------------------------------------|--------------------|-------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1994               | Destroyed         |
-| [Guest Star / Helen Henny (Cyberamic)] | 1994               | In Store.         |
-| [Mr. Munch (Cyberamic)]               | 1994               | In Store.         |
-| [Jasper T. Jowls (Cyberamic)]         | 1994               | In Store.         |
-| [Pasqually (Cyberamic)]              | 1994               | In Store.         |
-| [Wink (Cyberamic)]                   | 1994               | Unknown/Destroyed |

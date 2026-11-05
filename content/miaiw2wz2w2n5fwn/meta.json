@@ -13,7 +13,26 @@
     {
       "n": "Balcony Stage",
       "s": "1981-10-00",
-      "e": "1984-00-00"
+      "e": "1984-00-00",
+      "desc": "One of many installed in California. Building Demolished in 2000."
+    },
+    {
+      "n": "2-Stage",
+      "s": "1993-01-00",
+      "e": "1999-00-00",
+      "desc": "One of many installed in California. Building Demolished in 2000."
+    },
+    {
+      "n": "Studio C (1997)|Studio C Alpha",
+      "s": "1999-09-00",
+      "e": "2024-02-00",
+      "desc": "Moved to a new building in in 1999 due to plaza redevelopment."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2024-02-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model."
     }
   ],
   "franchisees": [],

@@ -4,11 +4,6 @@
 
 This store had a 1-Stage with side-to-side curtains. They also had the Helicopter Light, but the lights were burned out and it only spun towards the end of the stage's life. It has since been replaced by a 2021 Dance Floor. Upon it's removal, it was the last 1-Stage ever to feature side-to-side curtains, and the second to last 1-Stage to feature a Helicopter Light. It also was one of, if not the last 1-Stage to have the 'Tempo' Drum Cover for Pasqually.
 
-| Stage                                                                   | Installed      | Removed         | Notes                                                              |
-|-------------------------------------------------------------------------|----------------|-----------------|--------------------------------------------------------------------|
-| [1-Stage]                                       | September 1993 | August 23, 2022 | One of 2 1-Stages installed in Illinois; was the last 1-Stage, and |
-| [Chuck E Live Stage (Dance Floor)] + Video Wall | August 2022    | Still In Use    | 2021 Model                                                         |
-
 ## History
 
 Before Chuck E. Cheese's, it is rumored that a Toy Store used to occupy the building. This location opened back on September 26, 1993 (Originally numbered 1730 W Fullerton Ave until 2003.) with a 1-Stage show and the SPT 1992/1993 Remodel Program|1992 Remodel. The store layout and stage were identical to most stores opening around that time. Despite being located near Downtown Chicago with the skyline in site, thus this store was not given the flagship store treatment. Like others stores at the time they went through the same phase packages in the 90s and 2000s. The walkaround Chuck E. at this location also had various outfits from the Basketball outfit to the Red Shirt outfit. In the 2000s, the store panted some of their walls green, the reason is unknown but other stores in the area also got the same treatment too. Chuck E's Tuxedo was replaced by the cool chuck outfit, and then received an Avenger Hat later on. This store received the [CEC 2000's Remodel Program] in 2008/09 and the store was expanded to the right. The TV behind Munch on the stage was removed shortly after alongside Helen's flower on her wrist. In 2011, Pasqually received a Modern Mask, Helen had her hair changed and Chuck E. recived his Avenger Outfit and had his Latex feet replaced. In 2014, the entire store was recarpeted. Chuck's mask was replaced with the one from the Streamwood, Illinois location. Around this time would also be when the games started to decline in matienance as they kept alot of the older games which were starting to age and haven't been switched out yet. In 2016, the Skytubes were removed, and more kiddie games were added to that area, and in June/July 2017 the store switched over to play pass while also getting a new game package. Around this time would also be when the show started to decline as it was more neglected than usual, several misshapes happened like when Chuck's body turn broke and was stuck facing backwards and had his pants down, Pasqually's Mustache falling off, Chuck's Left ear coming loose, and Chuck having his eye turned back. In Early 2018 the store got another new game package installed. In 2020 just before the lockdown, Helen and Jasper’s masks and Chuck’s snout and jaw were replaced with the ones from Skokie, IL. Munch also had his lower Jaw replaced with a PTT one. The Showroom chairs were also replaced with green benches from Skokie. In preparation of the stage's removal Munch's Cap was removed in July of 2022. In August of 2022, the store would receive the 2.0 remodel replacing the 1-Stage with a dance floor, ending its almost 29 Year run. However, parts of the animatronics like the heads and the valves were sent to the [Tinley Park, IL (16090 S Harlem Ave)] and [Milwaukee, WI (2701 S Chase Ave)] locations. As of April 2023, Chicago Fullerton is still open today.
@@ -31,16 +26,6 @@ A photo of this location's stage that was originally taken by the Chicago Tribun
 | [link](https://www.youtube.com/watch?v=JONp3NxlZC8)                          | never before seen video of Chuck E. Cheese Chicago 1-Stage during the 2.0 remodel behind the stage         | Filmed: 8\\21\\22 uploaded:10\\26\\23 |
 
 ## **Gallery**
-
-## Animatronics
-
-| Animatronic                 | Serial  | Whereabouts                                                                                                            | Notes |
-|-----------------------------|---------|------------------------------------------------------------------------------------------------------------------------|-------|
-| [Chuck E. Cheese (Cyberamic)]  | 1304    | Destroyed. Entire head and valves sent to [Tinley Park, IL (16090 S Harlem Ave)].              |       |
-| Helen Henny (Cyberamic)     | Unknown | Destroyed. Entire head sent to [Milwaukee, WI (2701 S Chase Ave)]. Valves sent to Tinley Park. |       |
-| Mr. Munch (Cyberamic)       | Unknown | Destroyed.                                                                                                             |       |
-| Jasper T. Jowls (Cyberamic) | 1326    | Destroyed. Entire head sent to Milwaukee. Shirt, jeans, and shoes sent to Tinley Park.                                 |       |
-| Pasqually (Cyberamic)       | Unknown | Destroyed. Entire head sent to Tinley Park.                                                                            |       |
 
 ## Walkarounds
 

@@ -4,18 +4,6 @@
 
 SLC opened with a [Circles of Light] with a 16m bot in October 2022 the bot would stop being supported. In July 2024 Salt Lake City would begin undergoing the 2.0 remodel and is to be replacing the 16m bot and the COL Stage with a dance floor and video wall. This remodel would make Utah offically bot-less. As of August 2024, the remodel has been near completed.
 
-## Stages
-
-| Stage                                      | Installed | Removed       | Notes                                                                          |
-|--------------------------------------------|-----------|---------------|--------------------------------------------------------------------------------|
-| [Circles of Light] | July 2013 | July 2024     | Updated design 2012-2014. Last Animatronic of any kind in Utah before removal. |
-| Dance Floor                                | July 2024 | Still in use. |                                                                                |
-| Video Wall                                 | July 2024 | Still in use. |                                                                                |
-
 ## Animatronics
-
-| Animatronic                                                | Manufacturing Date | Whereabouts      |
-|------------------------------------------------------------|--------------------|------------------|
-| [Chuck E Cheese 16m (Animatronic)] | Likely 2011-2012   | Likely Destroyed |
 
 \_\_INDEX\__

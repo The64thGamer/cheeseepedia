@@ -6,14 +6,7 @@ Lexington opened on December 1st, 1983 as the second ShowBiz Pizza Place in Kent
 
 ## Stages
 
-Originally, Lexington had a Rock-Afire Explosion, as all other ShowBiz Pizza Place's did, they would have it for a few years, until sometime in 1991, when they would undergo a process known as Concept Unification, this was to replace the RAE with the Chuck E. Cheese characters. They would have the [Concept Unification Stage (3-Stage)] until either 2006 or 2007, when they would replace it with a [Studio C Beta], 16m, this was the first and only [Studio C Beta] in Kentucky, as Louisville has a [Studio C Alpha], and Bowling Green had a [Studio C Cappa]. They would have the Beta until 2019, when they would undergo the 2.0 remodel, replacing the Studio C Beta with a [Chuck E Live Stage (Dance Floor)]. They were the second 2.0 in the state, after [Paducah, KY (5141 Hinkleville Rd)], which received 2.0 in 2018. Lexington would be the most recent 2.0 in Kentucky until March of 2022, when [Florence, KY (7635 Mall Rd)] would receive 2.0, and then [Bowling Green, KY (2625 Scottsville Rd)] received it in June of 2022, making Louisville the last non-2.0 store in Kentucky.
-
-| Stage                                                      | Installed     | Removed      |
-|------------------------------------------------------------|---------------|--------------|
-| [Classic Stage]                    | November 1983 | 1991         |
-| [Concept Unification Stage (3-Stage)]        | 1991          | 2006 or 2007 |
-| [Studio C Beta]                    | 2006 or 2007  | 2019         |
-| [Chuck E Live Stage (Dance Floor)] | 2019          | Still In Use |
+Originally, Lexington had a Rock-Afire Explosion, as all other ShowBiz Pizza Place's did, they would have it for a few years, until sometime in 1991, when they would undergo a process known as Concept Unification, this was to replace the RAE with the Chuck E. Cheese characters. They would have the [Concept Unification Stage (3-Stage)] until either 2006 or 2007, when they would replace it with a [Studio C Beta], 16m, this was the first and only [Studio C Beta] in Kentucky, as Louisville has a [Studio C Alpha], and Bowling Green had a [Studio C Cappa]. They would have the Beta until 2019, when they would undergo the 2.0 remodel, replacing the Studio C Beta with a [Chuck E. Live Stage (Dance Floor)]. They were the second 2.0 in the state, after [Paducah, KY (5141 Hinkleville Rd)], which received 2.0 in 2018. Lexington would be the most recent 2.0 in Kentucky until March of 2022, when [Florence, KY (7635 Mall Rd)] would receive 2.0, and then [Bowling Green, KY (2625 Scottsville Rd)] received it in June of 2022, making Louisville the last non-2.0 store in Kentucky.
 
 ## Videos
 
@@ -23,22 +16,3 @@ Originally, Lexington had a Rock-Afire Explosion, as all other ShowBiz Pizza Pla
 | https://www.youtube.com/watch?v=6N2n75xYW08 | Reopening event after 2.0                              | November 6, 2019       | November 6, 2019  |
 | https://www.youtube.com/watch?v=HTJziPFhia8 | A store tour from before this location got 2.0         | July 6, 2019           | July 6, 2019      |
 | https://www.youtube.com/watch?v=dktXRGuCYvE | Documentation on Lexington's history.                  | October-November 2022. | November 14, 2022 |
-
-## Animatronics
-
-| Animatronic                                                               | Serial     | Whereabouts |
-|---------------------------------------------------------------------------|------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ?-?? 1-??  | Destroyed   |
-| [Dook Larue (Animatronic)]                        | ?-?? 2-??  | Destroyed   |
-| [Fatz Geronimo (Animatronic)]                     | ?-?? 3-??  | Destroyed   |
-| [Beach Bear (Animatronic)]                        | ?-?? 4-??  | Destroyed   |
-| [Mitzi Mozzarella (Animatronic)]                  | ?-?? 5-??  | Destroyed   |
-| [Billy Bob (Animatronic)]                         | ?-?? 6-??  | Destroyed   |
-| [Looney Bird (Animatronic)]                       | ?-?? 7-??  | Destroyed   |
-| [Choo Choo (Animatronic)]                         | ?-?? 8-??  | Destroyed   |
-| [Sun (Animatronic)]                               | ?-?? 10-?? | Destroyed   |
-| [Moon (Animatronic)]                              | ?-?? 11-?? | Destroyed   |
-| [Antioch (Animatronic)]                           | ?-?/ 12-?? | Destroyed   |
-| [Wink]                                            | Unknown    | Destroyed   |
-| [Chuck E Cheese 16m (Animatronic)]                | Unknown    | Destroyed   |
-| [Pizza Time Clock (Animatronic)]                  | Unknown    | Destroyed   |

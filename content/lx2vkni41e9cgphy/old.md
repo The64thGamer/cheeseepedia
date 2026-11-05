@@ -4,30 +4,6 @@
 
 Richardson opened its doors on April 29th, 1982, with a Rock-Afire Explosion and was originally and formerly a corporate owned store. This store was known as being the only ShowBiz Pizza to be open next to a McDonald's. They would receive the 1988 remodel in the Late 80's removing old SPP decor, adding new decor, and changing Billy Bob's stage backdrop for the 'ShowBiz Pizza Campground' backdrop. In 1991, Richardson would undergo Concept Unification which removed the Rock-Afire Explosion for the 3-Stage. In the mid 90's, Richardson would remodel again, getting an exterior remodel, removing old CU decor for newer ones, and new booths. In the Late 90's they would receive the Phase 3 remodel removing the older decor, adding newer decor, removing old booths and games for newer ones, and SkyTubes. They would remain like this until their closure in November 2006. After they closed, they were abandoned for a short time until they were immediately taken over by a 'plaza', a beauty salon, and a car wash. Currently, as of February 2023, the 'plaza', beauty salon, and car wash are still there. In July 2006, Richardson would be one of the locations where Cheesevention III would be hosted.
 
-## Stages
-
-| Stage                                               | Installed  | Removed       | Notes                                                                   |
-|-----------------------------------------------------|------------|---------------|-------------------------------------------------------------------------|
-| [Classic Stage]             | April 1982 | 1991          | 9th ShowBiz Pizza store to open in Texas.                               |
-| [Concept Unification Stage (3-Stage)] | 1991       | November 2006 | One of 17 ShowBiz Pizza stores in Texas to receive Concept Unification. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts |
-|---------------------------------------------------------------------------|---------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 7-81 1-19     | Unknown     |
-| [Dook Larue (Animatronic)]                        | 7-81 2-19     | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | 7-81 3-19     | Unknown     |
-| [Beach Bear (Animatronic)]                        | 7-81 4-19     | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | 7-81 5-19     | Unknown     |
-| [Billy Bob (Animatronic)]                         | 7-81 6-19     | Unknown     |
-| [Looney Bird (Animatronic)]                       | 7-81 7-19     | Unknown     |
-| [Choo Choo (Animatronic)]                         | 7-81 8-19     | Unknown     |
-| [Sun (Animatronic)]                               | 7-81 10-19    | Unknown     |
-| [Moon (Animatronic)]                              | 7-81 11-19    | Unknown     |
-| [Antioch (Animatronic)]                           | N/A           | Unknown     |
-| [Wink]                                            | N/A           | Unknown     |
-
 ## Videos
 
 | Link                                                | Description                                                                                                                                          | Date Filmed       | Date Published     |

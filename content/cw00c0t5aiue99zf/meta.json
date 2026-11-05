@@ -1,64 +1,115 @@
 {
-    "title": "Edison, NJ (1120 Route 1)",
-    "storeNumber": "",
-    "startDate": "1993-09-20",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1993-09-20"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2022-10-04"
-        }
-    ],
-    "stages": [
-        {
-            "n": "1-Stage",
-            "s": "1993-09-20",
-            "e": "2022-10-04"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2022-10-04",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [
-        {
-            "n": "SkyTubes",
-            "s": "1994-00-00",
-            "e": "0000-00-00",
-            "desc": "Phase 1 (1994) -era. Seen in a 1994 store tour."
-        },
-        {
-            "n": "Chuck E. Cheese's Memory Match",
-            "s": "0000-00-00",
-            "e": "0000-00-00",
-            "desc": "Seen in a 1994 store tour."
-        },
-        {
-            "n": "Super Kixx",
-            "s": "0000-00-00",
-            "e": "0000-00-00",
-            "desc": "Seen in a 1994 store tour."
-        }
-    ],
-    "sqft": "",
-    "latitudeLongitude": [
-        "40.51850932",
-        "-74.36560448"
-    ],
-    "citations": [],
-    "contributors": [
-        "Front-Row-Joe"
-    ],
-    "downloadLinks": [],
-    "pageThumbnailFile": "YMpY8rVBuQi8juU8UCVr.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Edison, NJ (1120 Route 1)",
+  "storeNumber": "",
+  "startDate": "1993-09-20",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-09-20"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2022-10-04"
+    }
+  ],
+  "stages": [
+    {
+      "n": "1-Stage",
+      "s": "1993-09-20",
+      "e": "2022-10-04",
+      "desc": "One of six 1-Stages installed in New Jersey. 2nd to be removed, 1st to be removed in a 2.0 remodel, not by a closure like Paramus, NJ (221 South Dr) back in 2010. Installed on the back wall."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2022-10-04",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2022-10-05",
+      "e": "0000-00-00",
+      "desc": "2021 Model. Installed where Alley Rollers used to be. First 2.0 Store In New Jersey. Signature store with mural."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [
+    {
+      "n": "SkyTubes",
+      "s": "1994-00-00",
+      "e": "0000-00-00",
+      "desc": "Phase 1 (1994) -era. Seen in a 1994 store tour."
+    },
+    {
+      "n": "Chuck E. Cheese's Memory Match",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 1994 store tour."
+    },
+    {
+      "n": "Super Kixx",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Seen in a 1994 store tour."
+    }
+  ],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.51850932",
+    "-74.36560448"
+  ],
+  "citations": [],
+  "contributors": [
+    "Front-Row-Joe"
+  ],
+  "downloadLinks": [],
+  "pageThumbnailFile": "YMpY8rVBuQi8juU8UCVr.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Cyberamic mech including original cosmetics owned by a private collector/former cast member."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Cyberamic mech owned by a private collector."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Cyberamic mech including some original cosmetics owned by a private collector."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Cyberamic mech owned by a private collector."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Destroyed. Some of the remains owned by a private collector."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "1993-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Owned by a private collector."
+    }
+  ]
 }

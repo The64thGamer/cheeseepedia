@@ -1,38 +1,69 @@
 {
-    "title": "Bridgewater, NJ (600 Promenade Blvd)",
-    "storeNumber": "",
-    "startDate": "2000-02-07",
-    "endDate": "2024-04-07",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2000-02-07"
-        },
-        {
-            "n": "Low Volume Store Initiative",
-            "s": "2024-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Alpha",
-            "s": "2000-02-07",
-            "e": "2024-04-07"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "40.56585242",
-        "-74.55869008"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "mItk1hqHgHtZR2J8pOK3.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Bridgewater, NJ (600 Promenade Blvd)",
+  "storeNumber": "",
+  "startDate": "2000-02-07",
+  "endDate": "2024-04-07",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2000-02-07"
+    },
+    {
+      "n": "Low Volume Store Initiative",
+      "s": "2024-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "2000-02-07",
+      "e": "2024-04-07",
+      "desc": "Last Interactive Console in existence."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "40.56585242",
+    "-74.55869008"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "mItk1hqHgHtZR2J8pOK3.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "074 (R&D 2199)",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizza Phone (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

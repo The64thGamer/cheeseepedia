@@ -58,23 +58,6 @@ Cedar Rapids opened on November 26th, 1981 as the 3rd ShowBiz Pizza store in Iow
 - Smokin Token Extreme
 - Pharaoh's Treasure
 
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                                                                                                                          |
-|---------------------------------------------------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 4-81 1-12     | Sold on eBay, current status unknown.                                                                                                |
-| [Dook Larue (Animatronic)]                        | 4-81 2-12     | Owned by a private collector.                                                                                                        |
-| [Fatz Geronimo (Animatronic)]                     | 4-81 3-12     | Originally sold to CavitySam / Andrea, but supposedly she never got it shipped. Possibly re-listed for sale. Current status unknown. |
-| [Beach Bear (Animatronic)]                        | 4-81 4-12     | Owned by a private collector.                                                                                                        |
-| [Mitzi Mozzarella (Animatronic)]                  | 4-81 5-12     | Owned by a private collector.                                                                                                        |
-| [Billy Bob (Animatronic)]                         | 4-81 6-12     | Unknown/Destroyed.                                                                                                                   |
-| [Looney Bird (Animatronic)]                       | 4-81 7-12     | Unknown/Destroyed.                                                                                                                   |
-| [Choo Choo (Animatronic)]                         | 4-81 8-12     | Unknown/Destroyed.                                                                                                                   |
-| [Sun (Animatronic)]                               | 4-81 10-12    | Unknown/Destroyed.                                                                                                                   |
-| [Moon (Animatronic)]                              | 4-81 11-12    | Unknown/Destroyed.                                                                                                                   |
-| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed.                                                                                                                   |
-| [Wink]                                            | N/A           | Unknown/Destroyed.                                                                                                                   |
-
 ## Videos
 
 | Link                                 | Description                                                 | Footage Date        | Upload Date          |

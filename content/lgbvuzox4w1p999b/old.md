@@ -4,13 +4,6 @@
 
 As the Montfort Dr. Chuck E. Cheese debuted with Studio C Beta, the monitor area would be made smaller for reasons unknown and would have been majorly undocumented throughout its existence. Studio C would be replaced in 2010 with a more refined and short-lived Studio C concept called the [Star Stage]. The concept aimed to be a complex but simple counterpart to Studio C that also bought personality into the showroom. The Star Stage would be retired in 2012 and would be replaced with the [Circles of Light] in August. In September of that same year, the Chuck E. animatronic would be removed from the show to have its platform used for live performances. The animatronic would later be reused at the [Port Orange, FL (5539 S Williamson Blvd)] location on its Circles of Light. To accompany the Circles of Light show, a dance floor for live performances would be placed in the arcade in 2014.(1) The concept would later debut once again at the [Plano, TX (1604 Preston Rd)] store in 2015 as the main attraction in the showroom and would later replace over 300 animatronic shows from 2015 to now. As of current the Circles of Light remains now has the addition of the dance floor due to the store's 2.0 remodel.
 
-| Stage            | Installed     | Removed       |
-|------------------|---------------|---------------|
-| Studio C Beta    | December 2001 | April 2010    |
-| Star Stage       | April 2010    | August 2012   |
-| Circles of Light | August 2012   | Still in use. |
-| Dance Floor      | 2014          | Still in use. |
-
 ## History
 
 ### Remodels and Phases
@@ -99,15 +92,6 @@ On June 22, 2023, Montfort Dr. would be visited by David McKillips, President of
 | https://www.youtube.com/watch?v=gIgR\_3M\_WNw | Circles of Light and North Richland Hills Studio C Alpha performing Let's Be Friends                                           | July 2022                |
 | https://www.instagram.com/reel/Ct0FMtUJHQu/   | Characters leaving the showroom during the 2023 CEC Summer Concert Road Show\|Summer Concert Road Show                         | June 22, 2023            |
 | https://www.instagram.com/reel/Ct0HFYZJ4vT/   | Song of Summer being performed at the 2023 CEC Summer Concert Road Show\|Summer Concert Road Show                              | June 22, 2023            |
-
-## Animatronics
-
-| Animatronic                                                | Serial | Whereabouts                                                                                                   |
-|------------------------------------------------------------|--------|---------------------------------------------------------------------------------------------------------------|
-| [Chuck E Cheese 32m (Animatronic)] | 155    | Sent to [Port Orange, FL (5539 S Williamson Blvd)]; Destroyed in building demolition. |
-| [Pizza Time Clock (Animatronic)]   | N/A    | Destroyed in April 2010                                                                                       |
-| Star Stage Flowers (Animatronic)                           | N/A    | Destroyed in August 2012                                                                                      |
-| Star Stage Pasqually (Animatronic)                         | N/A    | Destroyed in August 2012                                                                                      |
 
 ## Walkarounds
 

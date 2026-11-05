@@ -26,23 +26,6 @@ This remodel, known as the 2005 Update to the '2003 'Cool Chuck' Reconfiguration
 
 This remodel would begin in April of 2022, and construction would end in June 2022 with the Grand Reopening on the 22nd(1). The major changes were a new game package, the removal of the 3-Stage, a video wall, and a interactive dance floor. This remodel is still there as of May 2023.
 
-## Animatronics
-
-| Character                     | Serial      | Status                                                    |
-|-------------------------------|-------------|-----------------------------------------------------------|
-| Chuck E. Cheese/Rolfe DeWolfe | 10-81 1-11  | Owned by a private collector.                             |
-| Pasqually the Chef/Dook LaRue | 10-81 2-11  | Destroyed.                                                |
-| Mr Munch/Fatz Geronimo        | 10-81 3-11  | Destroyed.                                                |
-| Jasper T. Jowls/Beach Bear    | 10-81 4-11  | Destroyed.                                                |
-| Helen Henny/ Mitzi Mozzerella | 10-81 5-11  | Destroyed.                                                |
-| Billy Bob                     | 10-81 6-11  | Unknown/Destroyed.                                        |
-| Pizzacam/Looney Bird          | 10-81 7-11  | Unknown/Destroyed.                                        |
-| Munch Jr/ Choo Choo           | 10-81 8-11  | Unknown/Destroyed.                                        |
-| Building/Sun                  | 10-81 10-11 | Owned by a private collector.                             |
-| Moon                          | 10-81 11-11 | Partially Destroyed/Remains owned by a private collector. |
-| Antioch                       | N/A         | Unknown/Destroyed.                                        |
-| Wink                          | N/A         | Destroyed.                                                |
-
 ## Videos
 
 | Link                                                   | Description                                                                                                                                 |

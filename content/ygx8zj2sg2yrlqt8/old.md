@@ -7,25 +7,3 @@ Bloomington opened its doors on April 1st, 1981 as the 16th ShowBiz Pizza store 
 ## Significance
 
 Bloomingdale is significant because even after closure and being turned into a different pizza restaurant in the 80s which has since closed, Bloomingdale's exterior had remained almost exactly the same as it was when it opened as a ShowBiz in 1981 until being demolished. The interior of the building, although being mostly gutted, still had some walls and rooms that were there during ShowBiz, such as the tech room in the front right corner of the building.
-
-## Stages
-
-| Stage                                   | Installed  | Removed       | Notes                                                             |
-|-----------------------------------------|------------|---------------|-------------------------------------------------------------------|
-| [Classic Stage] | April 1981 | November 1985 | 2nd ShowBiz Pizza store to open in Illinois. Whereabouts Unknown. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts |
-|---------------------------------------------------------------------------|---------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-80 1-10    | Unknown     |
-| [Dook Larue (Animatronic)]                        | 10-80 2-10    | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | 10-80 3-10    | Unknown     |
-| [Beach Bear (Animatronic)]                        | 10-80 4-10    | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-80 5-10    | Unknown     |
-| [Billy Bob (Animatronic)]                         | 10-80 6-10    | Unknown     |
-| [Looney Bird (Animatronic)]                       | 10-80 7-10    | Unknown     |
-| [Choo Choo (Animatronic)]                         | 10-80 8-10    | Unknown     |
-| [Sun (Animatronic)]                               | 10-80 10-10   | Unknown     |
-| [Moon (Animatronic)]                              | 10-80 11-10   | Unknown     |
-| [Antioch (Animatronic)]                           | N/A           | Unknown     |

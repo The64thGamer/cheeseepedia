@@ -8,29 +8,6 @@ Madison opened its doors on July 7th, 1982 as the third ShowBiz Pizza Place in W
 
 Madison opened with the Rock afire Explosion in July 1982. Unfortunately, there are some photos but no videos to exist of Madison with the Rock afire, or as a ShowBiz in general. In August of 1991, Madison received [Concept Unification], converting the Rock afire into Munch’s Make Believe Band. In July 2021, Madison received 2.0 and removed the 3-Stage for the Dance Floor.
 
-| Stage                                                      | Installed   | Removed        | Notes                                                                          |
-|------------------------------------------------------------|-------------|----------------|--------------------------------------------------------------------------------|
-| [Classic Stage]                    | July 1982   | August 1991    | 3rd ShowBiz to open in Wisconsin.                                              |
-| [Concept Unification Stage (3-Stage)]        | August 1991 | July 7th, 2021 | One of three ShowBiz Pizza stores in Wisconsin to undergo Concept Unification. |
-| [Chuck E Live Stage (Dance Floor)] | August 2021 | Still in use   | 2021 Model.                                                                    |
-
-## Animatronics
-
-| Character                                                                 | Serial      | Status                               |
-|---------------------------------------------------------------------------|-------------|--------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 10-81 1-14  | Destroyed                            |
-| [Dook Larue (Animatronic)]                        | 10-81 2-14  | Destroyed                            |
-| [Fatz Geronimo (Animatronic)]                     | 10-81 3-14  | Destroyed                            |
-| [Beach Bear (Animatronic)]                        | 10-81 4-14  | Destroyed                            |
-| [Mitzi Mozzarella (Animatronic)]                  | 10-81 5-14  | Destroyed                            |
-| [Billy Bob (Animatronic)]                         | 10-81 6-14  | Destroyed during Concept Unification |
-| [Looney Bird (Animatronic)]                       | 10-81 7-14  | Unknown/Destroyed                    |
-| [Choo Choo (Animatronic)]                         | 10-81 8-14  | Unknown/Destroyed                    |
-| [Sun (Animatronic)]                               | 10-81 10-14 | Destroyed                            |
-| [Moon (Animatronic)]                              | 10-81 11-14 | Destroyed                            |
-| [Antioch (Animatronic)]                           | N/A         | Unknown/Destroyed                    |
-| [Wink]                                            | N/A         | Destroyed                            |
-
 ## Videos
 
 | Link                                                                                                 | Description                  | Filming Date     |

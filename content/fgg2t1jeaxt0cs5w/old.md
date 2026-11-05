@@ -95,14 +95,3 @@ The current Pasadena location opened on October 14, 1993 with the [2-Stage] and 
 | https://www.youtube.com/watch?v=vyig4byb8JM&amp;t=85s |             | September 04 2023 |
 | https://www.youtube.com/watch?v=A4Q5IjS7SsE           |             | September 04 2023 |
 | https://www.youtube.com/watch?v=C8bHHzzvWjw           | Store Tour  | June 15 2024      |
-
-## Animatronics
-
-| Animatronic                                                  | Serial | Whereabouts                                                         |
-|--------------------------------------------------------------|--------|---------------------------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]                                   | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| [Guest Star / Helen Henny (Cyberamic)] | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| [Mr. Munch (Cyberamic)]               | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| [Jasper T. Jowls (Cyberamic)]         | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| [Pasqually (Cyberamic)]              | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |
-| [Wink (Cyberamic)]                   | N/A    | Unknown/Destroyed; Current Bot from Valencia. Original Bot Unknown. |

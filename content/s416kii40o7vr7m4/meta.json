@@ -17,23 +17,43 @@
     {
       "n": "Balcony Stage",
       "s": "1980-10-00",
-      "e": "0000-00-00"
+      "e": "1987-02-00",
+      "desc": "First location to open with a Balcony Stage"
     },
     {
       "n": "Chuck E.'s House (Rocker Stage)",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "1987-02-00",
+      "e": "1997-00-00",
+      "desc": "First Chuck E.'s House stage in a location"
     },
     {
       "n": "2-Stage",
       "s": "1997-00-00",
       "e": "2022-10-00",
-      "desc": "Replaced by Dance Floor + Video Wall. Last 2-Stage in the state."
+      "desc": "Replaced by Chuck E. Live Stage (Dance Floor). Last 2-Stage in the state."
     },
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "0000-00-00",
       "e": "2024-03-17"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2022-11-06",
+      "e": "2024-03-17",
+      "desc": "2019 model"
+    },
+    {
+      "n": "Classic Stage",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "desc": "Used in the Chuck E. Cheese's University"
+    },
+    {
+      "n": "Awesome Adventure Machine",
+      "s": "1996-07-00",
+      "e": "1996-08-00",
+      "desc": "Used in the Chuck E. Cheese's University, sent to the Dallas, TX (13125 Montfort Dr) location for final installation"
     }
   ],
   "franchisees": [],
@@ -52,5 +72,210 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to the store's backrooms after removal, now unknown after store closure."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to the store's backrooms after removal, now unknown after store closure."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to the store's backrooms after removal, now unknown after store closure."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to the store's backrooms after removal, now unknown after store closure."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to the store's backrooms after removal. Displayed with legs at the Salem, NH (99 Rockingham Park Blvd, E173) Chuck's Arcade in June 2025.(3)"
+    },
+    {
+      "n": "Warblettes (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Flag Wavers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Applause Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Drum Board (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Singing Flowers (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dolli Dimples (Cabaret)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "The Beagles Beach Bowzers (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "The King / King Kat (Lounge)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Surprises Singing Flowers (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Surprises Salad Bar (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Surprises Jack in the Box (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to the store's backrooms after removal, now unknown after store closure."
+    },
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University"
+    },
+    {
+      "n": "AAM Chuck E Cheese (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Used in the Chuck E. Cheese University, sent to the Dallas, TX (13125 Montfort Dr) location and subsequently destroyed"
+    }
   ]
 }

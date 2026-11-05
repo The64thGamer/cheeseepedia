@@ -8,27 +8,7 @@ Montgomery opened its doors on September 30th, 1982 as the fourth ShowBiz Pizza 
 
 Originally, Montgomery featured a Rock-afire Explosion, as all other ShowBiz locations did. In 1991, they would undergo Concept Unification, turning the Rock-afire Explosion into the 3-Stage. Montgomery would have the 3-Stage until August 2013 when the stage would be removed due to the store relocating.
 
-| Stage                                               | Installed      | Removed     | Notes                                                                    |
-|-----------------------------------------------------|----------------|-------------|--------------------------------------------------------------------------|
-| [Classic Stage]             | September 1982 | 1991        | 4th ShowBiz Pizza store to open in Alabama.                              |
-| [Concept Unification Stage (3-Stage)] | 1991           | August 2013 | One of 7 ShowBiz Pizza stores in Alabama to undergo Concept Unification. |
-
 ## Animatronics
-
-| Animatronics                                                              | Serial Number | Whereabouts        |
-|---------------------------------------------------------------------------|---------------|--------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | 1-82 1-18     | Unknown/Destroyed. |
-| [Dook Larue (Animatronic)]                        | 1-82 2-18     | Unknown/Destroyed. |
-| [Fatz Geronimo (Animatronic)]                     | 1-82 3-18     | Unknown/Destroyed. |
-| [Beach Bear (Animatronic)]                        | 1-82 4-18     | Unknown/Destroyed. |
-| [Mitzi Mozzarella (Animatronic)]                  | 1-82 5-18     | Unknown/Destroyed. |
-| [Billy Bob (Animatronic)]                         | 1-82 6-18     | Unknown/Destroyed. |
-| [Looney Bird (Animatronic)]                       | 1-82 7-18     | Unknown/Destroyed. |
-| [Choo Choo (Animatronic)]                         | 1-82 8-18     | Unknown/Destroyed. |
-| [Sun (Animatronic)]                               | 1-82 10-18    | Unknown/Destroyed. |
-| [Moon (Animatronic)]                              | 1-82 11-18    | Unknown/Destroyed. |
-| [Antioch (Animatronic)]                           | N/A           | Unknown/Destroyed. |
-| [Wink]                                            | N/A           | Unknown/Destroyed. |
 
 (W.I.P)
 

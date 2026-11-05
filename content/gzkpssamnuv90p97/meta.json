@@ -1,49 +1,149 @@
 {
-    "title": "Houston, TX (2220 FM 1960)",
-    "storeNumber": "",
-    "startDate": "1981-06-25",
-    "endDate": "2018-08-26",
-    "remodels": [
-        {
-            "n": "Concept Unification",
-            "s": "0000-00-00"
-        },
-        {
-            "n": "SPP Standard Layout",
-            "s": "1981-06-25"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1981-06-25",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Concept Unification Stage (3-Stage)",
-            "s": "0000-00-00",
-            "e": "2009-00-00",
-            "desc": "One of 17 3-Stages in Texas to receive Concept Unification. One of many 3-Stages replaced with a Studio C Beta. Munch had different organ and Jasper had Beach Bear guitar. One of many 3-Stages replaced with a Studio C Beta. Location relocated in 2018 to the current location as a 2.0 store with the Dance Floor."
-        },
-        {
-            "n": "Studio C Beta",
-            "s": "0000-00-00",
-            "e": "2018-08-26"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "30.00798112",
-        "-95.46439228"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "UqU34fuz1sC8Lbri4iOS.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Houston, TX (2220 FM 1960)",
+  "storeNumber": "",
+  "startDate": "1981-06-25",
+  "endDate": "2018-08-26",
+  "remodels": [
+    {
+      "n": "Concept Unification",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "SPP Standard Layout",
+      "s": "1981-06-25"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1981-06-25",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification Stage (3-Stage)",
+      "s": "0000-00-00",
+      "e": "2009-00-00",
+      "desc": "One of 17 3-Stages in Texas to receive Concept Unification. One of many 3-Stages replaced with a Studio C Beta. Munch had different organ and Jasper had Beach Bear guitar. One of many 3-Stages replaced with a Studio C Beta. Location relocated in 2018 to the current location as a 2.0 store with the Dance Floor."
+    },
+    {
+      "n": "Studio C Beta",
+      "s": "0000-00-00",
+      "e": "2018-08-26"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "30.00798112",
+    "-95.46439228"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "UqU34fuz1sC8Lbri4iOS.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese/Rolfe DeWolfe",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 1-4",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pasqually the Chef/Dook LaRue",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 2-4",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mr Munch/Fatz Geronimo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 3-4",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Jasper T. Jowls/Beach Bear",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 4-4",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Helen Henny/ Mitzi Mozzerella",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 5-4",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Billy Bob",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 6-4",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizzacam/Looney Bird",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 7-4",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Munch Jr/ Choo Choo",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 8-4",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Building/Sun",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 10-4",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Moon",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 11-4",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Antioch",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Wink",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Pizza Time Clock (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

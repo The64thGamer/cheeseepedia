@@ -14,19 +14,6 @@ The show is a listing of Chuck E.'s friends and their attributes, with Chuck E. 
 
 ['Me & My Friends - How To' | Chuck E. Dance](https://www.youtube.com/watch?v=GcMQWJYKTps)
 
-## Showtape Releases
-
-| Stage      | Showtape                                                                                   | Format        |
-|------------|--------------------------------------------------------------------------------------------|---------------|
-| Studio C   | Chuck E. Cheese's Show 1 2021 (Covid Update Promo)                                         | DVD + Floppy  |
-| Studio C   | Chuck E. Cheese's Show 1 2021 (Covid Update Promo)                                         | USB + MicroSD |
-| Studio C   | [Chuck E. Cheese's Show 4 2021 (International Fall Show ENG Promo)] | DVD + Floppy  |
-| Studio C   | [Chuck E. Cheese's Show 4 2021 (International Fall Show ENG Promo)] | USB + MicroSD |
-| Cyberamics | [Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)]         | DVD           |
-| 3-Stage    | [Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)]         | DVD           |
-| Studio C   | [Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)]         | DVD + Floppy  |
-| Studio C   | [Chuck E. Cheese's Show 1 2021 (Ryan FanFest Update Promo)]         | USB + MicroSD |
-
 ## Trivia:
 - It originally released with Show 1 2021 on Studio C/Weigl, but wasn't able to be played. It was then playable with the Show 1 2021 (Covid Promo Update), before finally being released across all stages with Show 1 2021 (Ryan's FanFest World Promo).
 

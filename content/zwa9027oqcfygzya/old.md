@@ -7,23 +7,3 @@ Appleton opened May 22, 1983 as ShowBiz Pizza Place in a unnamed shopping center
 ## Stages
 
 Originally when the store opened, they had a [Classic Stage] , as all other ShowBiz locations had, but it would only have it for 2 years as in November 1985, the location closed for unknown reasons.
-
-| Stage                | Installed    | Removed       |                                                |
-|----------------------|--------------|---------------|------------------------------------------------|
-| Rock-Afire Explosion | May 22, 1983 | November 1985 | Last ShowBiz Pizza Store to open in Wisconsin. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts |
-|---------------------------------------------------------------------------|---------------|-------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | Unknown       | Unknown     |
-| [Dook Larue (Animatronic)]                        | Unknown       | Unknown     |
-| [Fatz Geronimo (Animatronic)]                     | Unknown       | Unknown     |
-| [Beach Bear (Animatronic)]                        | Unknown       | Unknown     |
-| [Mitzi Mozzarella (Animatronic)]                  | Unknown       | Unknown     |
-| [Billy Bob (Animatronic)]                         | Unknown       | Unknown     |
-| [Looney Bird (Animatronic)]                       | Unknown       | Unknown     |
-| [Choo Choo (Animatronic)]                         | Unknown       | Unknown     |
-| [Sun (Animatronic)]                               | Unknown       | Unknown     |
-| [Moon (Animatronic)]                              | Unknown       | Unknown     |
-| [Antioch (Animatronic)]                           | N/A           | Unknown     |

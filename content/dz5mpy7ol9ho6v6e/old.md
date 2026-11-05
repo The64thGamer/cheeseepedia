@@ -2,28 +2,11 @@
 
 ## History
 
-Lowell opened May 27th, 1993, in Meadow Brook Center, with a [1-Stage]. The store would remain roughly similar to how it was when it opened for 19 years, updating the logo to the Thumb Chuck sign sometime between 1995 and 1998. In August 2012, Lowell would receive the [CEC 2000's Remodel Program], and expand into a former storefront to the left, rebuilding the stage in the process. This also included a major exterior remodel as well. The address would also be changed from 209 Plain St to 199 Plain St. Lowell started their 2.0 remodel in September 2023. The stage would be removed on the 17th, with the [Chuck E Live Stage (Dance Floor)] and [Video Wall] Wall being installed around the same time. On November 1, 2023, the store held its Grand Reopening, with [Helen Henny], [Mr Munch], and [Jasper T Jowls] making an appearance. The walkarounds would be from [Princeton, NJ (520 Nassau Park Blvd)]. On April 24, 2024, the store would receive the Trampoline Zone, and were fully setup a day later.
+Lowell opened May 27th, 1993, in Meadow Brook Center, with a [1-Stage]. The store would remain roughly similar to how it was when it opened for 19 years, updating the logo to the Thumb Chuck sign sometime between 1995 and 1998. In August 2012, Lowell would receive the [CEC 2000's Remodel Program], and expand into a former storefront to the left, rebuilding the stage in the process. This also included a major exterior remodel as well. The address would also be changed from 209 Plain St to 199 Plain St. Lowell started their 2.0 remodel in September 2023. The stage would be removed on the 17th, with the [Chuck E. Live Stage (Dance Floor)] and [Video Wall] Wall being installed around the same time. On November 1, 2023, the store held its Grand Reopening, with [Helen Henny], [Mr Munch], and [Jasper T Jowls] making an appearance. The walkarounds would be from [Princeton, NJ (520 Nassau Park Blvd)]. On April 24, 2024, the store would receive the Trampoline Zone, and were fully setup a day later.
 
 ## Stages
 
 Lowell would be the first 1-Stage to have a blank brick wall for Pasqually, as the other early 1-Stages would feature the 'Pasqually's Amateur Hour' Art. Lowell also features minor differences in the cityscape backdrops that were changed for later versions, such as the edges of the far corners of the buildings being all green instead of the standard red that most 1-Stages would receive. All 5 opening day masks were from [ShowBiz Pizza Time Corporate Office] Road Stage, designed by Jul Kamen. In 2001, Pasqually would receive a new mask. In 2002, Lowell would replace their side curtains with lift curtains. In the early 2000s, Helen received a new mask. Munch's hat would also be removed as early as 2001. Chuck got the Cool Chuck outfit in 2002. Helen later got her third new mask and Chuck got the Avenger cap by 2010. Chuck's mask was replaced in January 2012. In May 2012, Lowell removed their lift curtains. The stage would be rebuild during the CEC 2005 Remodel in August 2012. Chuck's khakis went missing for a period at this time, before being placed back on. The Avenger cap was removed in September 2013. In 2017, Jasper and Pasqually would receive new masks, and Chuck got a new snout and jaw. In April 2018, Lowell would receive stage parts from [Newington, NH (30 Fox Run Rd)], including Helen and Munch's masks, Munch's keyboard front, Pasqually's drum set, and Pasqually's shoes, which would be placed on Jasper, much like at Newington. In October 2021, Lowell's original Chuck, Helen, and Jasper top halves would be removed, and replaced with [Worcester, MA (50 Southwest Cutoff)] top halves. This would mark the final major change to the stage, as the stage would be removed along with [North Dartmouth, MA (412-418 State Rd)] in September 2023.
-
-| Stage                                                      | Installed      | Removed              | Notes                                         |
-|------------------------------------------------------------|----------------|----------------------|-----------------------------------------------|
-| [1-Stage]                          | May 1993       | September 17th, 2023 | One of 3 1-Stages installed in Massachusetts. |
-| [Chuck E Live Stage (Dance Floor)] | September 2023 | Still In Use         | 2019 Model                                    |
-| [Video Wall]                       | September 2023 | Still In Use         | 2021 Model                                    |
-
-## Animatronics
-
-| Animatronic                                                  | Manufacturing date | Status                                             |
-|--------------------------------------------------------------|--------------------|----------------------------------------------------|
-| [Chuck E. Cheese (Cyberamic)]      | 1993               | Top half replaced with Worcester, MA's. Destroyed. |
-| [Guest Star / Helen Henny (Cyberamic)] | 1993               | Top half replaced with Worcester, MA's. Destroyed. |
-| [Mr. Munch (Cyberamic)]               | 1993               | Destroyed.                                         |
-| [Jasper T. Jowls (Cyberamic)]         | 1993               | Top half replaced with Worcester, MA's. Destroyed. |
-| [Pasqually (Cyberamic)]              | 1993               | Destroyed.                                         |
-| [Wink (Cyberamic)]                   | 1993               | Destroyed.                                         |
 
 ## Videos
 

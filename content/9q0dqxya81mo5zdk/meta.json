@@ -1,44 +1,88 @@
 {
-    "title": "Dale City, VA (14085 Shoppers Best Way)",
-    "storeNumber": "",
-    "startDate": "1993-02-15",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "1993-02-15"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2018-00-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "2-Stage",
-            "s": "1993-02-00",
-            "e": "2018-03-00",
-            "desc": "One of six 2-Stages installed in Virginia. Replaced by Dance Floor."
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2018-00-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "38.64908232",
-        "-77.29963748"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "RJT6T9srfvZuDa8GolGh.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Dale City, VA (14085 Shoppers Best Way)",
+  "storeNumber": "",
+  "startDate": "1993-02-15",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-02-15"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2018-00-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "2-Stage",
+      "s": "1993-02-00",
+      "e": "2018-03-00",
+      "desc": "One of six 2-Stages installed in Virginia. Replaced by Dance Floor."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2018-00-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "38.64908232",
+    "-77.29963748"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "RJT6T9srfvZuDa8GolGh.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Poor; Destroyed."
+    },
+    {
+      "n": "Guest Star / Helen Henny (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Poor; Destroyed."
+    },
+    {
+      "n": "Mr. Munch (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Horrible; Destroyed."
+    },
+    {
+      "n": "Jasper T. Jowls (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Okay; Destroyed."
+    },
+    {
+      "n": "Pasqually (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Horrible; Destroyed."
+    },
+    {
+      "n": "Wink (Cyberamic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1992-1993",
+      "desc": "Destroyed."
+    }
+  ]
 }

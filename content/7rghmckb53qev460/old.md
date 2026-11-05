@@ -2,18 +2,11 @@
 
 ## History
 
-Brick opened on January 19th, 1993, as an expansion at the Brick Plaza Shopping Center with a [2-Stage]. It opened with the 1992 update of the 1988 remodel which has checkers around the store, the Blue and White awnings, ad some Record Posters and decor. The store would receive its first remodel around the Late 1990's which included the removal of the Ball Crawl for the Sky Tubes and the changing of the exterior logo. Brick would remain this way until 2007 when they would receive the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing the Showroom Walls, Balcony Seating, and removing the 2-Stage for the Studio C Beta, 16m. In around the Late 2000s-Early 2010s, a few elements from the 2005 update were removed which included the Dinner Lights and the sign above Kid Check. In 2013/2014, Brick replaced their exterior sign with the Rockstar logo. The store's exterior was remodeled in 2015 when the Brick Plaza Shopping Center underwent a major remodel. Sometime around May 2024, the store would receive its [CEC 2.0 Remodel Program], removing the stage for a [Chuck E Live Stage (Dance Floor)] and [Video Wall]. On July 25th, 2024, the location of this store had it's grand reopening event.
+Brick opened on January 19th, 1993, as an expansion at the Brick Plaza Shopping Center with a [2-Stage]. It opened with the 1992 update of the 1988 remodel which has checkers around the store, the Blue and White awnings, ad some Record Posters and decor. The store would receive its first remodel around the Late 1990's which included the removal of the Ball Crawl for the Sky Tubes and the changing of the exterior logo. Brick would remain this way until 2007 when they would receive the 2005 Update to the 2003 'Cool Chuck' Reconfiguration / Major Remodel Initiative removing the Showroom Walls, Balcony Seating, and removing the 2-Stage for the Studio C Beta, 16m. In around the Late 2000s-Early 2010s, a few elements from the 2005 update were removed which included the Dinner Lights and the sign above Kid Check. In 2013/2014, Brick replaced their exterior sign with the Rockstar logo. The store's exterior was remodeled in 2015 when the Brick Plaza Shopping Center underwent a major remodel. Sometime around May 2024, the store would receive its [CEC 2.0 Remodel Program], removing the stage for a [Chuck E. Live Stage (Dance Floor)] and [Video Wall]. On July 25th, 2024, the location of this store had it's grand reopening event.
 
 ## Stages
 
 When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxedo &amp; Derby was replaced with the Cool Chuck outfit. In 2007, the 2-Stage was removed for the Studio C Beta, 16m. Chuck's Cap was removed in September 2013. The stage would be removed around May of 2024 when the store received its 2.0 remodel.
-
-| Stage                                                      | Installed    | Removed  | Notes                                                                                                                                                       |
-|------------------------------------------------------------|--------------|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [2-Stage]                          | January 1993 | 2007     | One of three installed in New Jersey. Was installed at an angle.                                                                                            |
-| Studio C Beta, 16m                                         | 2007         | May 2024 | One of three 16m Betas installed in New Jersey. One of four Betas installed in New Jersey (Mays Landing is a 32m). Last Studio C conversion still in store. |
-| [Chuck E Live Stage (Dance Floor)] | May 2024     | In Use   |                                                                                                                                                             |
-| [Video Wall]                       | May 2024     | In Use   |                                                                                                                                                             |
 
 ## Arcade Machines
 
@@ -79,15 +72,5 @@ When Brick first opened, they received a 2-Stage. In the Early 2000's, the Tuxed
 |                              |                                                                                                                                                   |                    |
 
 ## Animatronics
-
-| Animatronic                                                  | Serial Number | Whereabouts |
-|--------------------------------------------------------------|---------------|-------------|
-| [Chuck E. Cheese (Cyberamic)]      | Unknown       | Unknown     |
-| [Guest Star / Helen Henny (Cyberamic)] | Unknown       | Unknown     |
-| [Mr. Munch (Cyberamic)]               | Unknown       | Unknown     |
-| [Jasper T. Jowls (Cyberamic)]         | Unknown       | Unknown     |
-| [Pasqually (Cyberamic)]              | Unknown       | Unknown     |
-| [Chuck E Cheese 16m (Animatronic)]   | N/A           | Unknown     |
-| [Pizza Time Clock (Animatronic)]     | N/A           | Unknown     |
 
 TODO

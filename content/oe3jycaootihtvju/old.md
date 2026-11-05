@@ -8,36 +8,6 @@ Fairview Heights opened on May 23, 1984 as a test ShowBiz Pizza Place, being onl
 
 At first, Fairview Heights had a RAE stage, as it was a ShowBiz at the time. Around when Concept Unification came around in 1991/1992, it was replaced by the [Concept Unification Stage (3-Stage)]. Between Winter 1997-Summer 2005, it was replaced by the [2-Stage] from the [Waukegan, IL (2211 Grand Ave)] store, which closed around the same time and was installed at Fairview Heights as a 1-Stage. In 2007, Chuck's tuxedo was replaced with the Cool Chuck outfit and the Avenger hat. In Fall 2013, the Avenger hat was removed. Around 2019, the stage was removed for a 2019 Model Dance Floor.
 
-| Stage                                                      | Installed               | Removed                 | Notes                                                                                 |
-|------------------------------------------------------------|-------------------------|-------------------------|---------------------------------------------------------------------------------------|
-| [Classic Stage]                    | May 1984                | 1991/1992               | Second-last SPP to open in Illinois.                                                  |
-| [Concept Unification Stage (3-Stage)]        | 1991/1992               | Winter 1997-Summer 2005 | One of 10 ShowBiz Pizza stores in Illinois to undergo Concept Unification.            |
-| [2-Stage]                          | Winter 1997-Summer 2005 | 2019                    | From [Waukegan, IL (2211 Grand Ave)]. Installed as a 1-Stage. |
-| [Chuck E Live Stage (Dance Floor)] | 2019                    | Still in use            | 2019 Model.                                                                           |
-
-## Animatronics
-
-| Animatronic                                                                                 | Serial    | Whereabouts                                                                      |
-|---------------------------------------------------------------------------------------------|-----------|----------------------------------------------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] / Chuck E. Cheese | ?-8? 1-?  | Replaced with 1-Stage, now unknown.                                              |
-| [Dook Larue (Animatronic)] / Pasqually                              | ?-8? 2-?  | Replaced with 1-Stage, now unknown.                                              |
-| [Fatz Geronimo (Animatronic)] / Mr. Munch                           | ?-8? 3-?  | Replaced with 1-Stage, now unknown.                                              |
-| [Beach Bear (Animatronic)] / Jasper T. Jowls                        | ?-8? 4-?  | Replaced with 1-Stage, now unknown.                                              |
-| [Mitzi Mozzarella (Animatronic)] / Helen Henny                      | ?-8? 5-?  | Replaced with 1-Stage, now unknown.                                              |
-| [Billy Bob (Animatronic)]                                           | ?-8? 6-?  | Unknown / Destroyed.                                                             |
-| [Looney Bird (Animatronic)] / Pizzacam                              | ?-8? 7-?  | Unknown / Destroyed.                                                             |
-| [Choo Choo (Animatronic)] / Munch Jr.                               | ?-8? 8-?  | Unknown / Destroyed.                                                             |
-| [Sun (Animatronic)] / Building                                      | ?-8? 9-?  | Unknown / Destroyed.                                                             |
-| [Moon (Animatronic)]                                                | ?-8? 10-? | Unknown / Destroyed.                                                             |
-| [Antioch (Animatronic)]                                             | N/A       | Unknown / Destroyed.                                                             |
-| [Wink]                                                              | N/A       | Owned by a private collector.                                                    |
-| [Chuck E. Cheese (Cyberamic)]                                                                  | N/A       | Originally from Waukegan, IL. Destroyed, cosmetics owned by a private collector. |
-| [Guest Star / Helen Henny (Cyberamic)]                                | N/A       | Originally from Waukegan, IL. Destroyed, cosmetics owned by a private collector. |
-| [Mr. Munch (Cyberamic)]                                              | N/A       | Originally from Waukegan, IL. Destroyed, cosmetics owned by a private collector. |
-| [Jasper T. Jowls (Cyberamic)]                                        | N/A       | Originally from Waukegan, IL. Owned by a private collector.                      |
-| [Pasqually (Cyberamic)]                                             | N/A       | Originally from Waukegan, IL. Destroyed, cosmetics owned by a private collector. |
-|                                                                                             |           |                                                                                  |
-
 ## Videos
 
 https://www.youtube.com/watch?v=gJZJlJW9xRY

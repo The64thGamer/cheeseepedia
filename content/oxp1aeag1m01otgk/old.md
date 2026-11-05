@@ -3,8 +3,3 @@
 ## Stages
 
 The store opened with a Studo C Beta 16M and is the last CEC in Calgary.
-
-| Stage         | Installed       | Removed      | Notes                |
-|---------------|-----------------|--------------|----------------------|
-| Studio C Beta | August 15, 2006 | Still in Use | Last CEC in Calgary. |
-|               |                 |              |                      |

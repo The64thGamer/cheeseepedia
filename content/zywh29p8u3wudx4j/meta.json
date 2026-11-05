@@ -1,34 +1,113 @@
 {
-    "title": "Topeka, KS (1301 SW Gage Blvd)",
-    "storeNumber": "",
-    "startDate": "1980-12-01",
-    "endDate": "1985-00-00",
-    "remodels": [
-        {
-            "n": "SPP Standard Layout",
-            "s": "1980-12-01"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1980-12-01",
-            "e": "1985-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "39.04120992",
-        "-95.72677743"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "pTJS5mhFi5y4Tvhlnx_k.avif",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Topeka, KS (1301 SW Gage Blvd)",
+  "storeNumber": "",
+  "startDate": "1980-12-01",
+  "endDate": "1985-00-00",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1980-12-01"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1980-12-01",
+      "e": "1985-00-00"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "39.04120992",
+    "-95.72677743"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "pTJS5mhFi5y4Tvhlnx_k.avif",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 1-6",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 2-6",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 3-6",
+      "desc": "In Storage"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 4-6",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 5-6",
+      "desc": "Owned by Sully.(7)"
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 6-6",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 7-6",
+      "desc": "In Storage"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 8-6",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 10-6",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-80 11-6",
+      "desc": "Unknown"
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown"
+    }
+  ]
 }

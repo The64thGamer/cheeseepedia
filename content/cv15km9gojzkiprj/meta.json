@@ -1,39 +1,119 @@
 {
-    "title": "Bradenton, FL (415 Cortez Rd)",
-    "storeNumber": "",
-    "startDate": "1982-03-25",
-    "endDate": "1986-00-00",
-    "remodels": [
-        {
-            "n": "SPP Standard Layout",
-            "s": "1982-03-25"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Classic Stage",
-            "s": "1982-03-25",
-            "e": "1986-00-00"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "27.46041552",
-        "-82.56718003"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [
-        {
-            "url": "https://ia600308.us.archive.org/31/items/6-15-1982-showbiz-pizza-place-plans-598-n-mccarran-5450/Floorplan%20Archive%20SHOWBIZ/Florida/BradentonSPP_text.pdf",
-            "label": "The original Store Layout (1982)"
-        }
-    ],
-    "pageThumbnailFile": "",
-    "type": "Locations",
-    "tags": [
-        "ShowBiz Pizza Place"
-    ]
+  "title": "Bradenton, FL (415 Cortez Rd)",
+  "storeNumber": "",
+  "startDate": "1982-03-25",
+  "endDate": "1986-00-00",
+  "remodels": [
+    {
+      "n": "SPP Standard Layout",
+      "s": "1982-03-25"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "s": "1982-03-25",
+      "e": "1986-00-00",
+      "desc": "9th ShowBiz Pizza store to open in Florida. Whereabouts Unknown."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "27.46041552",
+    "-82.56718003"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [
+    {
+      "url": "https://ia600308.us.archive.org/31/items/6-15-1982-showbiz-pizza-place-plans-598-n-mccarran-5450/Floorplan%20Archive%20SHOWBIZ/Florida/BradentonSPP_text.pdf",
+      "label": "The original Store Layout (1982)"
+    }
+  ],
+  "pageThumbnailFile": "",
+  "type": "Locations",
+  "tags": [
+    "ShowBiz Pizza Place"
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 1-13",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 2-13",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 3-13",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 4-13",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 5-13",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 6-13",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 7-13",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 8-13",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 10-13",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "7-81 11-13",
+      "desc": "Unknown."
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown."
+    }
+  ]
 }

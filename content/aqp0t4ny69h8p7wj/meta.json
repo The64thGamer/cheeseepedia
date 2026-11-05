@@ -1,43 +1,80 @@
 {
-    "title": "Methuen, MA (90 Pleasant Valley Rd)",
-    "storeNumber": "",
-    "startDate": "2000-08-28",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "SPT 1990's Remodel Program",
-            "s": "2000-08-28"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2024-07-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Alpha",
-            "s": "2000-08-28",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2024-07-00",
-            "desc": "2019 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "42.669491",
-        "-71.2559541"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "F0h4UXkAY3_bI3SaaLTE.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Methuen, MA (90 Pleasant Valley Rd)",
+  "storeNumber": "",
+  "startDate": "2000-08-28",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2000-08-28"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2024-07-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Alpha",
+      "s": "2000-08-28",
+      "e": "2024-07-08",
+      "desc": "One of two in New England, 2nd Studio C installed in the New England Region; First in Massachusetts."
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2024-07-00",
+      "desc": "2019 Model"
+    },
+    {
+      "n": "Video Wall",
+      "s": "2024-07-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model."
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "42.669491",
+    "-71.2559541"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "F0h4UXkAY3_bI3SaaLTE.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 32m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "102",
+      "desc": "Unknown, Likely Destroyed"
+    },
+    {
+      "n": "Parrot (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown, Likely Destroyed"
+    },
+    {
+      "n": "Clock",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown, Likely Destroyed"
+    },
+    {
+      "n": "Pizza Phone",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Unknown, Likely Destroyed"
+    }
+  ]
 }

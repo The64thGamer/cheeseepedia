@@ -1,43 +1,58 @@
 {
-    "title": "Ocala, FL (3500 SW College Rd)",
-    "storeNumber": "",
-    "startDate": "2005-02-14",
-    "endDate": "",
-    "remodels": [
-        {
-            "n": "CEC 2000's Remodel Program",
-            "s": "2005-02-14"
-        },
-        {
-            "n": "CEC 2.0 Remodel Program",
-            "s": "2021-10-00"
-        }
-    ],
-    "stages": [
-        {
-            "n": "Studio C Cappa",
-            "s": "2005-02-14",
-            "e": "0000-00-00"
-        },
-        {
-            "n": "Chuck E. Live Stage (Dance Floor)",
-            "s": "2021-10-00",
-            "desc": "2021 Model"
-        }
-    ],
-    "franchisees": [],
-    "attractions": [],
-    "sqft": "",
-    "latitudeLongitude": [
-        "29.15219657",
-        "-82.18186228"
-    ],
-    "citations": [],
-    "contributors": [],
-    "downloadLinks": [],
-    "pageThumbnailFile": "3Irip3nj0MBkWExBaIXv.avif",
-    "type": "Locations",
-    "tags": [
-        "Chuck E. Cheese's"
-    ]
+  "title": "Ocala, FL (3500 SW College Rd)",
+  "storeNumber": "",
+  "startDate": "2005-02-14",
+  "endDate": "",
+  "remodels": [
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "2005-02-14"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2021-10-00"
+    }
+  ],
+  "stages": [
+    {
+      "n": "Studio C Cappa",
+      "s": "2005-02-14",
+      "e": "2021-11-00"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor)",
+      "s": "2021-10-00",
+      "desc": "2021 Model"
+    },
+    {
+      "n": "Chuck E. Live Stage (Dance Floor) + Video Wall",
+      "s": "2021-11-00",
+      "e": "0000-00-00",
+      "desc": "2021 Model"
+    }
+  ],
+  "franchisees": [],
+  "attractions": [],
+  "sqft": "",
+  "latitudeLongitude": [
+    "29.15219657",
+    "-82.18186228"
+  ],
+  "citations": [],
+  "contributors": [],
+  "downloadLinks": [],
+  "pageThumbnailFile": "3Irip3nj0MBkWExBaIXv.avif",
+  "type": "Locations",
+  "tags": [
+    "Chuck E. Cheese's"
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E Cheese 16m (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "Unknown",
+      "desc": "Sent to West Palm Beach, FL. Removed in 2022, likely destroyed."
+    }
+  ]
 }

@@ -10,30 +10,6 @@ Fullerton, California opened its doors on December 17th, 1991, with a 3-Stage co
 
 After closure, Fullerton would remain vacant for a while until it was taken over by Five Below &amp; a Localhost Internet Cafe, keeping the exterior intact but fully gutting the store's interior. The store's Gemini light was sent to the [Orlando (East), FL (449 N Alafaya Trail)] location on their Studio C (1997)|Studio C Alpha, but it was removed in April 2023 during their 2.0 remodel. As of August 2023, Five Below &amp; a Localhost Internet Cafe is still in the building.
 
-## Stages
-
-| Stage         | Installed     | Removed       | Notes                                                                                                        |
-|---------------|---------------|---------------|--------------------------------------------------------------------------------------------------------------|
-| 3-Stage       | December 1991 | May 2007      | Show was from a stage that was from Creative Engineering, Inc.                                               |
-| Studio C Beta | May 2007      | November 2020 | Gemini sent to the [Orlando (East), FL (449 N Alafaya Trail)] location, now removed. |
-
-## Animatronics
-
-| Animatronic                                                               | Serial Number | Whereabouts                              |
-|---------------------------------------------------------------------------|---------------|------------------------------------------|
-| [Rolfe Dewolfe &amp; Earl Schmerle (Animatronic)] | ??-8? 1-?     | Unknown. From Creative Engineering, Inc. |
-| [Dook Larue (Animatronic)]                        | ??-8? 2-?     | Unknown. From Creative Engineering, Inc. |
-| [Fatz Geronimo (Animatronic)]                     | ??-8? 3-?     | Unknown. From Creative Engineering, Inc. |
-| [Beach Bear (Animatronic)]                        | ??-8? 4-?     | Unknown. From Creative Engineering, Inc. |
-| [Mitzi Mozzarella (Animatronic)]                  | ??-8? 5-?     | Unknown. From Creative Engineering, Inc. |
-| [Looney Bird (Animatronic)]                       | ??-8? 7-?     | Unknown. From Creative Engineering, Inc. |
-| [Choo Choo (Animatronic)]                         | ??-8? 8-?     | Unknown. From Creative Engineering, Inc. |
-| [Sun (Animatronic)]                               | ??-8? 10-?    | Unknown. From Creative Engineering, Inc. |
-| [Moon (Animatronic)]                              | ??-8? 11-?    | Unknown. From Creative Engineering, Inc. |
-| [Wink]                                            | N/A           | Unknown                                  |
-| [Chuck E Cheese 16m (Animatronic)]                | N/A           | Unknown                                  |
-| [Pizza Time Clock (Animatronic)]                  | N/A           | Unknown                                  |
-
 ## Videos
 
 | Link                                    | Description                                                                              | Filming Date        |
