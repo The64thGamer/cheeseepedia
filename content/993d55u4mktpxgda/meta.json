@@ -70,19 +70,7 @@
       "s": "2006/07-00-00"
     }
   ],
-  "stages": [
-    {
-      "n": "Studio C Alpha (1997)",
-      "s": "1999-03-29",
-      "e": "2015-01-00"
-    },
-    {
-      "n": "Studio C (1997)|Studio C Alpha",
-      "s": "1999-03-00",
-      "e": "2015-01-00",
-      "desc": "One of 3 Alphas in Arizona."
-    }
-  ],
+  "stages": [],
   "downloadLinks": [],
   "latitudeLongitude": [
     "33.63881082",

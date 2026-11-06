@@ -3,7 +3,6 @@
   "storeNumber": "",
   "startDate": "2025-09-25",
   "endDate": "",
-  
   "remodels": [
     {
       "n": "CEC 2.0 Remodel Program",
@@ -13,10 +12,6 @@
   "stages": [
     {
       "n": "Chuck E. Live Stage (Dance Floor)",
-      "s": "2025-09-25"
-    },
-    {
-      "n": "Video Wall",
       "s": "2025-09-25"
     }
   ],

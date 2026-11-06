@@ -408,13 +408,7 @@
       "s": "2025-06-28"
     }
   ],
-  "stages": [
-    {
-      "n": "Video Wall",
-      "s": "2023-06-20",
-      "e": "2026-01-06"
-    }
-  ],
+  "stages": [],
   "downloadLinks": [],
   "latitudeLongitude": [
     "38.96713327",

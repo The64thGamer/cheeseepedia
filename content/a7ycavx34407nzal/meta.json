@@ -3,7 +3,6 @@
   "storeNumber": "103",
   "startDate": "2000-02-02",
   "endDate": "",
-  
   "remodels": [
     {
       "n": "SPT 1990's Remodel Program",
@@ -28,10 +27,6 @@
       "n": "Chuck E. Live Stage (Dance Floor)",
       "s": "2023-08-00",
       "desc": "2021 Model"
-    },
-    {
-      "n": "Video Wall",
-      "s": "2023-08-00"
     }
   ],
   "franchisees": [],
