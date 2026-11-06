@@ -4,19 +4,21 @@ import App from './src/App';
 
 const VALID_ID = /^[a-z0-9]{8,32}$/;
 
-function trackView(id) {
-  if (!VALID_ID.test(id)) return;
-  fetch(`/track?p=${encodeURIComponent(id)}`).catch(() => {});
+function trackView(key) {
+  fetch(`/track?p=${encodeURIComponent(key)}`).catch(() => {});
 }
 
 export async function render(params, el) {
   if (params.get('page') === 'search') {
     solidRender(() => App({ type: 'search' }), el);
+    trackView('_search');
     return;
   }
 
   const path = (params.get('') || '').replace(/^\/+|\/+$/g, '');
   const meta = await fetchMeta(path);
   solidRender(() => App(meta), el);
-  trackView(path);
+
+  const key = path === '' ? '_home' : path;
+  if (key === '_home' || VALID_ID.test(key)) trackView(key);
 }
