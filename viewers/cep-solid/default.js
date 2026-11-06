@@ -5236,13 +5236,17 @@ function rc(e) {
 }
 //#endregion
 //#region index.jsx
-async function ic(e, t) {
+var ic = /^[a-z0-9]{8,32}$/;
+function ac(e) {
+	ic.test(e) && fetch(`/track?p=${encodeURIComponent(e)}`).catch(() => {});
+}
+async function oc(e, t) {
 	if (e.get("page") === "search") {
 		Ue(() => rc({ type: "search" }), t);
 		return;
 	}
-	let n = await Vr((e.get("") || "").replace(/^\/+|\/+$/g, ""));
-	Ue(() => rc(n), t);
+	let n = (e.get("") || "").replace(/^\/+|\/+$/g, ""), r = await Vr(n);
+	Ue(() => rc(r), t), ac(n);
 }
 //#endregion
-export { ic as render };
+export { oc as render };
