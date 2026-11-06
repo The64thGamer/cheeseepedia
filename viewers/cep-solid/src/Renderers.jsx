@@ -947,6 +947,8 @@ export function renderHeader() {
           Now at <strong><span id="StatArticles">????</span></strong> articles contributed by <strong><span id="StatContributors">???</span></strong> users.
           <br />
           Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
+          <br/>
+          <a href="/?v=cep-solid&page=search">Search Here!</a>
         </div>
       </div>
     </>
