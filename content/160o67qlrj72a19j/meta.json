@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese 1998",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=rHy6Ye9bpuI",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1998-02-15",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@mmaphotographer"
 }

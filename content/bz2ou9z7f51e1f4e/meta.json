@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Bandera - El Rey Guitarrista",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=98enq5RM6YE",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2022-09-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@gostapua"
 }

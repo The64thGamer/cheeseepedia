@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese September 2001 Show (4K 60FPS)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=akQPKIN68gU",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2001-09-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CECColumbusOH"
 }

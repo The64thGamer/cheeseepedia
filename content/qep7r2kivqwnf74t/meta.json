@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Gamin' Time - Chuck E. Cheese's Dallas, TX",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=S2RrMwdMNnA",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2017-07-22",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CECDallas"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Live! Do The Chuck E Dallas (Monfort)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=9h7dQJ5w7_w",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2014-06-17",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CECWestCoast"
 }

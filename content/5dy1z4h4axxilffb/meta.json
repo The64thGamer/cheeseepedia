@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Family Vision - Safetytip Shuffle",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=yH-gXByhmlk",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1986-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@pizzacam"
 }

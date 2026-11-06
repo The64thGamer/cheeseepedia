@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Waterbury - Born To Be Wild (September 2004)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=8VufUVYcKw0",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2004-10-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@chuckecheeseshows"
 }

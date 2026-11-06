@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Hicksville Update",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=RGGl8Nvi2cI",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2012-03-10",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@chuckecheeseshows"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese's Durham, NC - Birthday Star 2009",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=stc82NK174k",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2009-10-05",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@cheesecrawl"
 }

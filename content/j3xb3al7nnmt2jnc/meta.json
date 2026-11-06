@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Them Bones [Avenger Chuck E version]",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=cZg20k1laBs",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2012-10-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@chuckescorner"
 }

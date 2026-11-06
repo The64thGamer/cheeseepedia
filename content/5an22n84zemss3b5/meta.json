@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Going on a Picnic",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=GOQvLRjFzD0",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2006-08-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@cectechman"
 }

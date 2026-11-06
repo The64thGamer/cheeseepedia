@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "What Up (Video Remix)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=8IOT4p02hCQ",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2008-10-06",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@MattTheFranchize"
 }

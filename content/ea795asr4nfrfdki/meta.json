@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Beruang Madu",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=DzHz5gtRgMg",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1988-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ThemeParkJourney"
 }

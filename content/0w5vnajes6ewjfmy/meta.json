@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Malique's 2nd",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=AGmBmf9j7Hw",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2000-11-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@laciryl86"
 }

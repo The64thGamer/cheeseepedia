@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "it's STILL closed",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=JLdBhKEfmbI",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2015-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CinaBloom"
 }

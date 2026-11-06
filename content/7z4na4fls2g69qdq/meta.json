@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese - Play All You Can Play - Methuen MA - Show 1, 2022",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=KWf_zwl7CiE",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "0000-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@RPCECNorthEast"
 }

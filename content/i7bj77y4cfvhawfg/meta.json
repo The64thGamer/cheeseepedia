@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese's Cherry Hill, NJ Store Tour",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=6cmySYN6H2A",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2017-08-22",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Big_Chuck_Official"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese - Summer Of Fun Tour - Nashville Tennessee",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=VKl_mF5TBpc",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2021-06-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@hauntingstudios"
 }

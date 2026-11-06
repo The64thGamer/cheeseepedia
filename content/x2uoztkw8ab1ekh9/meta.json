@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese's Silver Spring, Maryland Now",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=n9-6kPmZM50",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2017-08-07",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Big_Chuck_Official"
 }

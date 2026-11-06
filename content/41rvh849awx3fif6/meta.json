@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "What happened here? :(",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=HrT3tFyTzX0",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2016-07-07",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@markcola4582"
 }

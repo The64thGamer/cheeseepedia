@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Barney - The Ride",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=FrkdmuMzNZE",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2007-11-23",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@bwware"
 }

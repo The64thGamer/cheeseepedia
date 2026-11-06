@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Springfield Birthday Extravaganza (2008)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=uwr8BTnfhbQ",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2009-01-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@chuckecheeseshows"
 }

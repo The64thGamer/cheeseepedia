@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese Gamer",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=oL5AM74tBU0",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2011-07-21",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@MStamp20"
 }

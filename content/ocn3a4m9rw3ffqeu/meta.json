@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese Fun",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=IZEadsjQcdQ",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2019-01-23",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@yancarlovideo196"
 }

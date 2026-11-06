@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Showroom Tour - Springfield PA",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=VayKDS_1Q5Q",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2012-01-26",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@chuckecheeseshows"
 }

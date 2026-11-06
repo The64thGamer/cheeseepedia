@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Inside of a 16 Movement Studio C Bot.",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=6mvsVc1QLWM",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2019-05-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@YoutubeUser487"
 }

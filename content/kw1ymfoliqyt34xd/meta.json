@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Naha Daiko at Chuck E Cheese",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=Qe1fJLe5jTw",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2006-09-06",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@bolohead1"
 }

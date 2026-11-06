@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Methuen April 2013 segment 1",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=MOw-I-HLnvc",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2013-06-17",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@chuckecheeseshows"
 }

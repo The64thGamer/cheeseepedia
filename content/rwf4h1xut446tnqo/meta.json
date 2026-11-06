@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese’s - Beaverton, Oregon Overview",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=U9Ctn-nGUpY",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2021-03-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@SmileAmericaCEC"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Munch's Make Believe Band",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=0gXhIMrloZE",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2010-07-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@AeroWinds2k9"
 }

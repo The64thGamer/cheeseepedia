@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Together We’ve got it - Chuck E. Cheese Studio C Alpha",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=4aFTxved0Hg",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2022-04-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@GallaRM"
 }

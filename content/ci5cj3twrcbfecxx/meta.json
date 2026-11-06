@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Gigglebees Part 1",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=MdWy5MS-mhg",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2005-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@rowsdower50"
 }

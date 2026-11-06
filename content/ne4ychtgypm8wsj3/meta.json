@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Rockville MD ''Goodbye''",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=veran9fI--g",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2011-05-14",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Big_Chuck_Official"
 }

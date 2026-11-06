@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Richmond's Birthday Party",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=bvh5BjhK_Cs",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2006-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Solana00"
 }

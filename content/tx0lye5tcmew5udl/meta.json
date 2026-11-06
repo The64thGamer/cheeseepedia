@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "CHUCK E. CHEESE 1992 PART 1",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=wWPcDXbf9ZE",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1992-04-16",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@tiltedtripodmedia"
 }

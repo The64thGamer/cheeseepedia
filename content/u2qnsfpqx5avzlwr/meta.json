@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Jasmine's 4th Birthday Party",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=nYMMcs3n8Q0",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2005-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@jjadkins"
 }

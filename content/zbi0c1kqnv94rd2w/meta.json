@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. World | Madison TN | Chuck E. Cheese’s | 3 Stage",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=ndSWKJKRBTg",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "0000-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@hauntingstudios"
 }

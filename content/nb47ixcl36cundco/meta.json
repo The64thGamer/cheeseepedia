@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese That’s What Makes You Beautiful",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=pX_gJ1n37WY",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2013-04-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@pixelchuck"
 }

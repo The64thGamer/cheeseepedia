@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Photonz at Chuck E Cheese",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=JfA2IkF4kh0",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2006-06-08",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CECSWF"
 }

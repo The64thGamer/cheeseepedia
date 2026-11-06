@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Vlogging With Cassie - Day 1 - Chuck E. Cheese",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=iE7QljBhWgA",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2012-05-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CassieMitchele"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Tour of Chuck E. Cheese’s Wilshire Blvd Los Angeles California",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=A04Qi4FJmGo",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2020-02-15",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ChucksterCEC"
 }

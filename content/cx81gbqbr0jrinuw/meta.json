@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese Aventura 2.0 Tour (Biscayne Blvd, Miami)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=l3o6VLN5ptU",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2022-12-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@evanthearcader"
 }

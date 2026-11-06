@@ -3767,6 +3767,7 @@ var Ma = /*#__PURE__*/ F("<div class=ResultCards>"), Na = /*#__PURE__*/ F("<div>
 			"Chuck E. Cheese's",
 			"Chuck's Arcade",
 			"Chuck E. Cheese Adventure World",
+			"Chuck E. Cheese Pizza",
 			"Discovery Zone",
 			"Peter Piper Pizza",
 			"TJ Hartford's Sports Grille",

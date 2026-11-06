@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Whatever happened to Wilbur the furry robot from Gigglebees?",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=uIwkmlHlb4M",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2012-03-06",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ZeppoBrothers"
 }

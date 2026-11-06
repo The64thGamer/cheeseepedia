@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Une seule journée à Mirapolis le 22 juillet 1990 par SAV",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=MFZUW8F_GHk",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1990-07-22",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@MirapolisFR"
 }

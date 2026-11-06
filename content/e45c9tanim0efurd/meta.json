@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "This Local Restaurant Haunted My Childhood",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=w2XEjFQAeWA",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2000-03-28",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ScottCramer"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese Lowell, MA: Lend a Helping Hand (Show 1 2019)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=1oqM2m-VlMs",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2019-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CECMaster"
 }

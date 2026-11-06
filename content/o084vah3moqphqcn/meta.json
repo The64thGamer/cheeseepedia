@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese’s - Columbia, SC Store Tour 2023",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=KdKm7QAroQw",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2023-01-07",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ChuckCentral"
 }

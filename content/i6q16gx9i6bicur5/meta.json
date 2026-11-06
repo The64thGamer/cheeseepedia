@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese - El Rey Guitarrista - Methuen MA - Show 1, 2022",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=1JS5ZE2DpK8",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "0000-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@RPCECNorthEast"
 }

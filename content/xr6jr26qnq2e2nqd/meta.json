@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese Mays Landing-2014",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=d2V7pOWUQu4",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2014-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ConnorCEC."
 }

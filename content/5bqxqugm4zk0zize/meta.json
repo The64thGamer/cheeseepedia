@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Viviana's Birthday Party at Chuck E. Cheese's",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=MDIiJo2OdXQ",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2007-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Embargoman"
 }

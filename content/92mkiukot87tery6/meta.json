@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Bell ''Jack And Jill''",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=f0cYFDLM2fw",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2012-03-31",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CECWestCoast"
 }

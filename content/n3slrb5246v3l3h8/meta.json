@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Warwick Update",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=wWd6Yj3YvJQ",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2012-11-23",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@chuckecheeseshows"
 }

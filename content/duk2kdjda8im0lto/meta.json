@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Tommy's Graduation 2003",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=fDhgv9QYuLE",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2003-06-13",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@justinmckaughan"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Let's Have a Party - Chuck E Cheese, Studio C Alpha",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=HrExK64NrQU",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2021-11-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@GallaRM"
 }

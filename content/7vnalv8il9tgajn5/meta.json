@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Rolfe's Make-Believe Band",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=tmS3_dRQchY",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2024-04-17",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@cheesecrawl"
 }

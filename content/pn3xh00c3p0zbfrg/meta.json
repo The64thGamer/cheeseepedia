@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Lawrence Home Videos (1994-1995)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=RR5HtrQQKsk",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1994-10-09",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@videos-iz7ix"
 }

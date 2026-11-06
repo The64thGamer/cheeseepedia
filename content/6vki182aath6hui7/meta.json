@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Insect exhibit",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=MGmgTBhpnX0",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2009-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@wdel"
 }

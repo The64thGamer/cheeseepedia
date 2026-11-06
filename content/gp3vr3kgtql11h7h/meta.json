@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuckie cheese",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=A3g2Qj2eBRY",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2007-01-15",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@pirateproductions22"
 }

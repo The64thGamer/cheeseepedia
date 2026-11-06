@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E's Place | Chuck E. Cheese's Kedzie Ave Chicago",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=bjo4ZANvl_w",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2017-07-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ShowBizMidwest"
 }

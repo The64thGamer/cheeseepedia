@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese 3-stage",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=JnC2JPcp50M",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "0000-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@showbizcec4985"
 }

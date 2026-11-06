@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "CEC- Visalia, CA",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=stR3wuehTOQ",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2009-12-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@MacTonight"
 }

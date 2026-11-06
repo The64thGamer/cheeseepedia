@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Furrever Friends Director Stu Sleppin Producer Bob Teeman",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=Mnbqiv6iwW0",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1987-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@StuSleppin"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "CEC Decatur AL Store Tour",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=s94FapCXGLw",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2018-03-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@logantraylor7180"
 }

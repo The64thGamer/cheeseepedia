@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese's (Community Based Program)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=NaogCaGxEaw",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2016-02-09",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Absaba"
 }

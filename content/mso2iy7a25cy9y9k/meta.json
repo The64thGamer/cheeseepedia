@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "No More Chuck E Cheese: Aftermath",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=S4nqebm43CI",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2011-09-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CinaBloom"
 }

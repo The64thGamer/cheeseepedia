@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "My Visit to Chuck E. Cheese's - April 30th 1997",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=3O7GeHt9ut0",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1997-04-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@BlueParadoxical"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "A trip to Chuck E Cheese in 1993",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=ybDrN4zOsnk",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2023-09-20",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@BryantFamilyHomeVideos"
 }

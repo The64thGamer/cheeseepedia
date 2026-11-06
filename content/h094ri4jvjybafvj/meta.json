@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Grammy Awards",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=ORdEB1qLjRA",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1988-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Pizzacam3"
 }

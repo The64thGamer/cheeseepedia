@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheeses Kent, WA",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=ktLezHHnHQo",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2008-05-19",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@myraseattle"
 }

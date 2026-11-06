@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "CEC TV Special - Newest Affiliates(1994)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=_1wiv1KNKjg",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1994-01-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@pizzacam"
 }

@@ -1,1 +1,0 @@
-The [Mickey Mouse Revue] being set up and programmed at Walt Disney World.

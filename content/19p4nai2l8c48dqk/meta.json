@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "New CEC Store located in Queens NY Howard Beach",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=ujHGt1TL8ls",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2021-01-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@cecny"
 }

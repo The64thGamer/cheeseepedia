@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "チャッキーチーズ",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=ohAxKy3xzVM",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2009-03-03",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@amakatamaiko"
 }

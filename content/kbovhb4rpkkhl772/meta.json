@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese is a Robot",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=N0CWS18FjPE",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2011-02-17",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@amishcar"
 }

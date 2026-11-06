@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Smile, You're On Camera...",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=0mMmsjdXKsg",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2006-02-04",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@jeericks"
 }

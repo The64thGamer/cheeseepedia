@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Dandy Bear",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=Kg16-10wH50",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2008-10-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@cielolindo79"
 }

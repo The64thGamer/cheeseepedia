@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Dickson City PA tour",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=fEBbYzmCyfY",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2022-03-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@RollerskateKyle"
 }

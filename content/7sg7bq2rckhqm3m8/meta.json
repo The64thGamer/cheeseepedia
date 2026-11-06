@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese - Colerain Store Tour 2015",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=FFPiT__2m0I",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2015-02-01",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ChuckEEntertainment"
 }

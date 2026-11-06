@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E cheese",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=iyLodGI8QaM",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2010-01-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@pelligui"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "youtube video #chuck-e-che",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=chuck-e-che",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "0000-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": ""
 }

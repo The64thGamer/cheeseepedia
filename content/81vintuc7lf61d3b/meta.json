@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese's (HQA9WJgwchk)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=HQA9WJgwchk",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2008-04-25",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@coloop"
 }

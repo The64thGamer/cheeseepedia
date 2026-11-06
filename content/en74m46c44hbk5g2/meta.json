@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Ross's B-Day Journal Entry",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=5jkSd7jbO4w",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2007-01-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@tallyhall"
 }

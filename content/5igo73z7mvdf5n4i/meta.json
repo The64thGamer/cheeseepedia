@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese's the Day It Closed - Cedar Rapids, IA",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=fsb9Uu3ivFc",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2013-11-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CaptainUnusual"
 }

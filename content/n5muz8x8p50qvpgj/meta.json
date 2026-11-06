@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese - Trampoline Zone Showcase | Patchogue, NY",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=mVcPDdtDAlQ",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2024-05-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CECPatchouge"
 }

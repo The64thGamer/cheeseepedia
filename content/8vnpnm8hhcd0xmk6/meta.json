@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "SPP Concept Unification Premiere Demo",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=WgHL-OZ8ybY",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1990-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Pizzacam3"
 }

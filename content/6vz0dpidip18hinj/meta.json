@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese Store Tour | Lexington, KY (Now 2.0)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=HTJziPFhia8",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2019-07-06",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@cyberamics"
 }

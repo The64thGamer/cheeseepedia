@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Helen Henny 1984",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=WcSHExDSFT8",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1984-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@payson1"
 }

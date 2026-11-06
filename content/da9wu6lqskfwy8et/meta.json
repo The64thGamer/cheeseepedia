@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E's Place 2017 - Deptford, NJ",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=puKR5EgIE1U",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2017-08-21",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Big_Chuck_Official"
 }

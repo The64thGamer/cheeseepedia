@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Up-Close of Decatur's Studio C Beta",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=nXINmDxCEN4",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2021-07-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@RetailThrone"
 }

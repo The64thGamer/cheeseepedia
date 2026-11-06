@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "The Greatest CEC Live Show of all time",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=mDSvGq0n5cc",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2017-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@LHydock"
 }

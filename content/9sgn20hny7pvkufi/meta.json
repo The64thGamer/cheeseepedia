@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "SML Movie: Jeffy's Birthday [REUPLOADED]",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=OiZGYZYFTlI",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2016-08-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@sml_reuploaded"
 }

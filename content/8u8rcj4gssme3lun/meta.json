@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese - Friendship Never Ends (Colerain, OH)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=f0ge-zJo3No",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2015-07-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ChuckEEntertainment"
 }

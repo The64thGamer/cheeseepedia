@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "When Chuck e cheese goes wrong",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=Z_2IcLmXKFo",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2007-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@rutgers15"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Gigglebee's Wilbur the Coyote Returns to Sioux Falls",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=Ba9UbujAU5k",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2017-05-31",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ksoosiouxfalls"
 }

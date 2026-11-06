@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Phantasialand 1978",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=PEMIYH_d2oU",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1978-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@stefaanlauwers2244"
 }

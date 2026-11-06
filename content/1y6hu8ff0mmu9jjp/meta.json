@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "My last video from the Chuck E. Cheese in Edison, NJ",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=jNv4QggONFE",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2022-10-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Big_Chuck_Official"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese’s Durham, NC Store Tour 2022",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=IdVF93EeWnE",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2022-11-26",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ChuckCentral"
 }

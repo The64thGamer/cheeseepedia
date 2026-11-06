@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Silver Spring, MD Update",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=RVpRYKjrYjU",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2018-07-11",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Big_Chuck_Official"
 }

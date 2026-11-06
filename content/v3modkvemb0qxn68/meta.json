@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese’s Store Tour - Charlotte, NC (Pineville Matthews Rd.)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=laOm3LW0o0g",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2022-12-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ChuckCentral"
 }

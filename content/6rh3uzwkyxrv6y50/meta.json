@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Store Tour! (Sports Arena, San Diego, California)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=qN1-dq_pnQ4",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2022-05-14",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@arcade_wizard"
 }

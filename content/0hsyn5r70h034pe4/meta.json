@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Con 2019 Video",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=sTuBneLdi5s",
   "citations": [
@@ -12,5 +12,6 @@
   "startDate": "2019-07-27",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@JupiterMutt"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Pasadena Update 9/2/2023",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=cOVfQCMU5-o",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2023-09-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@bvnbun"
 }

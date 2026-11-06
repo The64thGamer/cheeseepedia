@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "SML Movie: Scooter's Birthday!",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=w2Z3ysx58Vc",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2020-06-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@SMLVideos"
 }

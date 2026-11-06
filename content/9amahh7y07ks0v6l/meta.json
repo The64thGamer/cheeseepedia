@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Me & My Friends - Chuck E Cheese's Dallas, TX",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=T-mmYri9fJI",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2017-07-31",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CECDallas"
 }

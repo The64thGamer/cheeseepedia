@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "A clip of ''Do, Re, Mi'' - Chuck E. Cheese’s Durham, NC (July 30, 2023)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=ffs5Y2UN4Zg",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2023-07-30",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CheddarChuckE3956"
 }

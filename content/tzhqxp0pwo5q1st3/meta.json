@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Song Title - Visalia, CA Chuck E. Cheese 3 Stage Jun 2021",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=A9eKvgnoFsI",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2021-06-21",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@IDogFan41"
 }

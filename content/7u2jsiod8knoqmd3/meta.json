@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Showroom tour Chuck E. Cheese’s Lincoln Nebraska",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=PJGxEhF1TSI",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2019-07-29",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ShowbizNebraska"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "My Girls'' Birthday",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=_Z6VVcviU40",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2006-12-17",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@haddad2001"
 }

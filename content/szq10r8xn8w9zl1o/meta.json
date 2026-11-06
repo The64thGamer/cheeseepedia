@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese's - Animatronics (June 27th, 1993)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=WY_ZMwqL99c",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1993-06-27",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@DarrickPatrick"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese Plano Store Tour",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=WwaBXXkIaL0",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2016-02-06",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CECDallas"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Fun For All (Video Remix)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=xA_QyjFiqIQ",
   "citations": [
@@ -12,5 +12,6 @@
   "startDate": "2015-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@MattTheFranchize"
 }

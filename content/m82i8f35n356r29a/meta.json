@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese's - Remember That Time but it stops in the middle",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=wiRPrPtgLMc",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2017-01-15",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ChuckEEntertainment"
 }

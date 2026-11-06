@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Clock - The Ride",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=eahDswk6bVQ",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2007-11-23",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@bwware"
 }

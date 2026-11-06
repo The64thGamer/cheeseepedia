@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "FOUND VHS - Aaron's Tape - Redding CA 1999",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=QmQ_OPSQRFY",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1999-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@sourflesh8551"
 }

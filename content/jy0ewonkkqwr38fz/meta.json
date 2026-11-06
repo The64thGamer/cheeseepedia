@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese's Store Tour - Silver Spring MD",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=ewJhJz6tImU",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2016-08-14",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@Big_Chuck_Official"
 }

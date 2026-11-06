@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese's [[ Irving, TX 2015 ]]",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=ibS_eHBM42U",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2015-06-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@VegaThreeCEC"
 }

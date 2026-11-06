@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Birthdays 3",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=z1VDyYGYgrI",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1997-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@marcusfletcher5200"
 }

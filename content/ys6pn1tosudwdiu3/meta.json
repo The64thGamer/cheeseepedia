@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Where's Wilbur? What the Gigglebees coyote is up to now",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=7om1--4HR8w",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2019-07-18",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@ArgusLeaderMedia"
 }

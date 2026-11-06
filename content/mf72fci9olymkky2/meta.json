@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Danvers Birthday Star (2011)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=22E-5z7YVkQ",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2011-07-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@chuckecheeseshows"
 }

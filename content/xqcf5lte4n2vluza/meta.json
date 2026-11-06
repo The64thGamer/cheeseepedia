@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese's West Hills, CA Store Tour",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=5otQkkVQq2g",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2015-08-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@CECWestCoast"
 }

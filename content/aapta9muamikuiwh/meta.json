@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "John 1st birthday @ Chucky Cheese",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=l3hV_0uszMI",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1995-03-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@mydadishere"
 }

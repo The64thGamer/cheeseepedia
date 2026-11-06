@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "CEC Chuck E. Cheese",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=nnRyUYQjcMk",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2006-08-14",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@cectechman"
 }

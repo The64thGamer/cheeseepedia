@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese - Decatur, AL - Game On",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=UKSE4r7-FDU",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2022-04-02",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@superstarchuck6409"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "movie 19",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=wNm7JIrx46k",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1998-01-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@jazziheartsyou"
 }

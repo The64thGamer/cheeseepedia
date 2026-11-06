@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Family Vision-Howard Jones",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=ep2-5w4UpDo",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "0000-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@pizzacam"
 }

@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Edison's *NEW* Chuck E. Room",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=OPbV0u9l7j4",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2022-10-22",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@dr.ezofcec2567"
 }

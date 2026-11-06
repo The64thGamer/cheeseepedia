@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese 2002",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=_ZcAWTwkCNk",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2002-12-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@VadoArteaga"
 }

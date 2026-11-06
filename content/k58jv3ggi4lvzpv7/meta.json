@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "MIMI - RODJENDAN 2013",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=lR_Zx2_dH7Y",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2013-05-11",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@cevbv"
 }

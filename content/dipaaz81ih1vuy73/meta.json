@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese - Barbara The Barnyard Barber (Louisville, KY)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=kiIaDGSeecs",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2022-11-21",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@pizzatimemedia"
 }

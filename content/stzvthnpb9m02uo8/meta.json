@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Benjamin ride a bike at Chuck E. Cheese",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=mwbFsrAZg-4",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2011-03-25",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@LALAHULU"
 }

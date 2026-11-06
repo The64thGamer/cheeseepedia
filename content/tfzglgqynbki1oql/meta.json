@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese's Pizza: Citrus Heights CA From 1995",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=ssArIXTzZOI",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1995-11-12",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@thececfootageman"
 }

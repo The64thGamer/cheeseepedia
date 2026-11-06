@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E Cheese Warwick Birthday Star (2010)",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=zbWowcqjFko",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "2011-11-06",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@chuckecheeseshows"
 }

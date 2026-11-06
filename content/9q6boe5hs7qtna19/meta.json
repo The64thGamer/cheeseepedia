@@ -1,5 +1,5 @@
 {
-  "title": "",
+  "title": "Chuck E. Cheese's pizza: Fairfield California from 1998",
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=gpnXJztcwzM",
   "citations": [
@@ -11,5 +11,6 @@
   "startDate": "1998-00-00",
   "contributors": [
     "sudo-trans-pony"
-  ]
+  ],
+  "videoChannelHandle": "@thececfootageman"
 }
