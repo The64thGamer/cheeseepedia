@@ -17,7 +17,6 @@ export async function render(params, el) {
 
   if (params.get('page') === 'stats') {
     solidRender(() => App({ type: 'stats' }), el);
-    trackView('_stats');
     return;
   }
 

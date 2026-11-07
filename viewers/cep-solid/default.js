@@ -5395,7 +5395,7 @@ async function _c(e, t) {
 		return;
 	}
 	if (e.get("page") === "stats") {
-		Ue(() => mc({ type: "stats" }), t), gc("_stats");
+		Ue(() => mc({ type: "stats" }), t);
 		return;
 	}
 	let n = (e.get("") || "").replace(/^\/+|\/+$/g, ""), r = await Fr(n);
