@@ -184,22 +184,28 @@ export async function fetchThumbnailWLinkToArticle(meta) {
     const hasOwnPhoto = await new Promise((resolve) => {
       const probe = new Image();
       probe.onload = () => resolve(true);
-      probe.onerror = () => resolve(false);
-      probe.src = `/content/${link}/photo.avif`;
+      probe.onerror = () => {
+        const full = new Image();
+        full.onload = () => resolve(true);
+        full.onerror = () => resolve(false);
+        full.src = `/content/${link}/photo.avif`;
+      };
+      probe.src = `/content/${link}/lowphoto.avif`;
     });
     if (hasOwnPhoto) thumbnailFolderID = link;
   }
   if (!thumbnailFolderID) return null;
 
-  let altText = '';
-  const [md, old] = await Promise.all([
-    fetchContent(link).catch(() => ''),
-    fetchOld(link).catch(() => ''),
-  ]);
-  const source = await resolveBracketLinks(md || old || '');
-  altText = (
-    new DOMParser().parseFromString(marked.parse(source), 'text/html').body.textContent || ''
-  ).trim();
+  const loadAlt = async (img) => {
+    const [md, old] = await Promise.all([
+      fetchContent(link).catch(() => ''),
+      fetchOld(link).catch(() => ''),
+    ]);
+    const source = await resolveBracketLinks(md || old || '');
+    img.alt = (
+      new DOMParser().parseFromString(marked.parse(source), 'text/html').body.textContent || ''
+    ).trim();
+  };
 
   return (
     <a href={getFolderPath(link)}>
@@ -208,21 +214,25 @@ export async function fetchThumbnailWLinkToArticle(meta) {
           const low = `/content/${thumbnailFolderID}/lowphoto.avif`;
           const full = `/content/${thumbnailFolderID}/photo.avif`;
           img.onload = () => {
+            img.onload = null;
             const hi = new Image();
             hi.onload = () => (img.src = full);
             hi.src = full;
           };
-          img.onerror = () => (img.src = full);
+          img.onerror = () => {
+            img.onerror = null;
+            img.src = full;
+          };
           img.src = low;
+          loadAlt(img);
         }}
-        alt={altText}
+        alt=""
         loading="lazy"
         class=""
       />
     </a>
   );
 }
-
 const escapeRegex = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
 export function splitHighlight(text, words) {

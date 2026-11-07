@@ -1,1 +1,1 @@
-90's White Variant
+A set of Chuck E. Cheese Roll machines with a Munch Mouth arcade to the left.

@@ -1,5 +1,5 @@
 {
-  "title": "Tokyo, Japan",
+  "title": "???, Japan",
   "type": "Cancelled Locations",
   "tags": [
     "Chuck E. Cheese's"
@@ -7,10 +7,12 @@
   "startDate": "1999-00-00",
   "endDate": "1999-00-00",
   "contributors": [
-    "ShowBizMidwest"
+    "ShowBizMidwest",
+    "sudo-trans-pony"
   ],
   "citations": [
-    "[https://adage.com/article/news/chuck-e-cheese-heads-japan/12898](%22https://adage.com/article/news/chuck-e-cheese-heads-japan/12898%22)"
+    "https://adage.com/article/news/chuck-e-cheese-heads-japan/12898",
+    "This article hasn't currently been found, Adage is a second hand report."
   ],
   "latitudeLongitude": [
     "34.5776326",

@@ -115,7 +115,8 @@ OUT_TAGGED_BY = os.path.join(os.path.dirname(__file__), "..", "compiled-json/tag
 THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
 PHOTO_SIM_BITS = 16
 PHOTO_HASH_CACHE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/photo_hashes.json")
-OUT_REJECTED = os.path.join(os.path.dirname(__file__), "..", "compiled-json/rejected_videos.json")
+OUT_REJECTED = os.path.join(os.path.dirname(__file__), "..", "permanent-json/rejected_videos.json")
+OUT_FAILED_THUMBS = os.path.join(os.path.dirname(__file__), "..", "permanent-json/failed_thumbnails.json")
 MEDIA_TYPES = {"Photos", "Videos"}
 ID_ALPHABET = string.ascii_lowercase + string.digits
 PREFETCH = 3
@@ -804,6 +805,53 @@ def fetch_transcript(url):
             print(red(f"  subtitles exist but download failed: {err[-1] if err else 'unknown'}"), file=sys.stderr)
             return None
         return vtt_to_text(files[0].read_text(encoding="utf-8", errors="replace"))
+
+def load_failed_thumbnails():
+    try:
+        with open(OUT_FAILED_THUMBS, encoding="utf-8") as f:
+            return set(json.load(f))
+    except Exception:
+        return set()
+
+
+def save_failed_thumbnail(folder_id):
+    try:
+        data = set()
+        if os.path.exists(OUT_FAILED_THUMBS):
+            with open(OUT_FAILED_THUMBS, encoding="utf-8") as f:
+                data = set(json.load(f))
+        data.add(folder_id)
+        write_json(sorted(data), OUT_FAILED_THUMBS)
+    except Exception:
+        pass
+
+def load_rejected():
+    rejected = set()
+    for path in [OUT_REJECTED, OUT_FAILED_THUMBS]:
+        try:
+            with open(path, encoding="utf-8") as f:
+                rejected.update(json.load(f))
+        except Exception:
+            pass
+    return rejected
+
+
+def save_rejected(rejected):
+    write_json(sorted(rejected), OUT_REJECTED)
+
+
+def save_failed_thumbnail(vid):
+    try:
+        data = set()
+        if os.path.exists(OUT_FAILED_THUMBS):
+            with open(OUT_FAILED_THUMBS, encoding="utf-8") as f:
+                data = set(json.load(f))
+        data.add(vid)
+        write_json(sorted(data), OUT_FAILED_THUMBS)
+    except Exception:
+        pass
+
+
 def download_thumbnail(vid, dest):
     try:
         from PIL import Image
@@ -821,6 +869,7 @@ def download_thumbnail(vid, dest):
             return name
         except (urllib.error.URLError, OSError, ValueError, KeyError) as e:
             print(yellow(f"  thumbnail '{name}' failed: {e}"), file=sys.stderr)
+    save_failed_thumbnail(vid)
     return None
 
 def find_video_url(meta):
@@ -841,10 +890,13 @@ def process_video_articles():
     if not have_ytdlp:
         print(yellow("yt-dlp not found on PATH, skipping video transcripts"), file=sys.stderr)
 
+    failed_thumbs = load_failed_thumbnails()
     videos = with_url = 0
     for folder in sorted(Path(CONTENT_DIR).iterdir()):
         meta_path = folder / "meta.json"
         if not folder.is_dir() or not meta_path.exists():
+            continue
+        if folder.name in failed_thumbs:
             continue
         try:
             meta = json.loads(meta_path.read_text(encoding="utf-8"))
@@ -879,7 +931,11 @@ def process_video_articles():
                 continue
             print(cyan(f"Fetching thumbnail: {folder.name}"))
             used = download_thumbnail(vid, photo)
-            print(green(f"  saved photo.avif ({used})") if used else red("  all thumbnail sizes failed"))
+            if used:
+                print(green(f"  saved photo.avif ({used})"))
+            else:
+                print(red("  all thumbnail sizes failed"))
+                save_failed_thumbnail(folder.name)
 
     print(green(f"Video articles: {videos} found, {with_url} with a YouTube URL"))
 
@@ -1180,18 +1236,6 @@ def load_site_data():
             for name in failed[:10]:
                 print(red(f"  {name}"))
     return titles, video_ids, media_titles
-
-
-def load_rejected():
-    try:
-        with open(OUT_REJECTED, encoding="utf-8") as f:
-            return set(json.load(f))
-    except Exception:
-        return set()
-
-
-def save_rejected(rejected):
-    write_json(sorted(rejected), OUT_REJECTED)
 
 
 def matches_pattern(title, patterns):
