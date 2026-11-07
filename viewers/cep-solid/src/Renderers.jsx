@@ -1,6 +1,6 @@
 import { createResource, createSignal, createEffect, createMemo, untrack, Show, For, Switch, Match } from 'solid-js';
 import { searchPath, ResultList, loadSearchData, TagList, Pager, PAGE_SIZE } from './SearchPage';
-import { loadFolderIDToTitleMap, loadTypeToIDList, loadViewsMap, loadDiscourseNews, loadDiscourseRecent, loadRecentFanVideos, loadRecentOfficialVideos, loadTaggedByIDs, loadFolderIDToTags } from './GlobalJsonCache';
+import { loadUserSubmissions,loadFolderIDToTitleMap, loadTypeToIDList, loadViewsMap, loadDiscourseNews, loadDiscourseRecent, loadRecentFanVideos, loadRecentOfficialVideos, loadTaggedByIDs, loadFolderIDToTags } from './GlobalJsonCache';
 import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks, highlightText } from './GlobalFunctions';
 import { marked } from 'marked';
 import { fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll} from './GlobalFunctions';
@@ -63,7 +63,8 @@ function renderTaggedList(type, ids, data) {
   }
 }
 const FAVICON_BASE = '/viewers/cep-js/compiled-json/favicons';
-
+const plural = (n, unit) => `${n} ${unit}${n === 1 ? '' : 's'} ago`;
+const submissionStatus = (s) => (s.accepted === true ? 'Accepted' : s.accepted === false ? 'Rejected' : 'Pending');
 const stripProto = (s) => s.replace(/^https?:\/\/(www\.)?/, '');
 const faviconName = (d) => stripProto(d).replace(/[^\w\-.]/g, '_') + '.png';
 const isUrl = (s) => /^https?:\/\//i.test(s);
@@ -307,6 +308,140 @@ export function renderArticle(meta){
     default:
       return renderStandardArticle(meta);
     }
+}
+
+
+export function renderStatsPage() {
+  const load = async (name) => {
+    const res = await fetch(`/viewers/cep-js/compiled-json/${name}.json`);
+    return res.ok ? res.json() : [];
+  };
+
+  const [data] = createResource(async () => {
+    const [links, downloads, contributors, views] = await Promise.all([
+      load('citation_links'),
+      load('download_links'),
+      load('contributors'),
+      loadViewsMap(),
+    ]);
+
+    const homeMonths = Object.entries(views)
+      .map(([key, count]) => {
+        const m = key.match(/^_home_(\d{2})_(\d{2})$/);
+        return m && { year: 2000 + Number(m[2]), month: Number(m[1]), count };
+      })
+      .filter(Boolean)
+      .sort((a, b) => b.year - a.year || b.month - a.month);
+
+    return {
+      links,
+      downloads: await Promise.all(
+        downloads.map(async (dl) => ({
+          ...dl,
+          pageID: dl.pageTitle ? await fetchFolderIDFromTitle(dl.pageTitle) : null,
+        }))
+      ),
+      contributors: [...contributors].sort((a, b) => (b.count || 0) - (a.count || 0)),
+      homeMonths,
+      homeTotal: homeMonths.reduce((sum, h) => sum + h.count, 0),
+      searchTotal: views._search || 0,
+    };
+  });
+
+  const monthLabel = (h) =>
+    new Date(h.year, h.month - 1).toLocaleDateString(undefined, { month: 'long', year: 'numeric' });
+
+  return (
+    <>
+      <h1 class="article-title">Nerd Stuff</h1>
+      <div class="StatsPage">
+        <Show when={data()} fallback={<div>Loading stats…</div>}>
+          <Tabs
+            tabs={[
+              {
+                name: `Citations (${data().links.length.toLocaleString()})`,
+                content: () => (
+                  <>
+                    Every single citation on the site! We reccomend scraping this information and crawling all the sites for archival, you'll never know when this stuff will become lost!
+                    <div class="Citations">
+                      <For each={data().links}>
+                        {(link, i) => <Citation cite={typeof link === 'string' ? link : link.url} index={i()} />}
+                      </For>
+                    </div>
+                  </>
+                ),
+              },
+              {
+                name: `Downloads (${data().downloads.length.toLocaleString()})`,
+                content: () => (
+                  <>
+                    All downloads found across the site's articles.
+                    <table class="DownloadsTable">
+                      <thead>
+                        <tr>
+                          <th>Article</th>
+                          <th>Download</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <For each={data().downloads}>
+                          {(dl) => (
+                            <tr>
+                              <Show when={dl.pageID} fallback={dl.pageTitle}>
+                                <a href={getFolderPath(dl.pageID)}>{dl.pageTitle}</a>
+                              </Show>
+                              <td>
+                                <a href={dl.url} target="_blank" rel="noopener noreferrer">{dl.label || dl.url}</a>
+                              </td>
+                            </tr>
+                          )}
+                        </For>
+                      </tbody>
+                    </table>
+                  </>
+                ),
+              },
+              {
+                name: `Contributors (${data().contributors.length.toLocaleString()})`,
+                content: () => (
+                  <>
+                    Every single contributor on the site!
+                    <div class="ContributorsList">
+                      <For each={data().contributors}>
+                        {(c) => (
+                          <div class="ContributorsItem">
+                            <strong>{c.name}</strong> {c.count || 0}
+                          </div>
+                        )}
+                      </For>
+                    </div>
+                    </>
+                ),
+              },
+              {
+                name: 'Site Details',
+                content: () => (
+                  <>
+                    Additional info of the site idk where else to put.
+                    <div class="SiteDetails">
+                      <div><strong>Total home views:</strong> {data().homeTotal.toLocaleString()}</div>
+                      <div><strong>Total search views:</strong> {data().searchTotal.toLocaleString()}</div>
+                      <h3>Home views by month</h3>
+                      <ul>
+                        <For each={data().homeMonths}>
+                          {(h) => <li>{monthLabel(h)}: {h.count.toLocaleString()}</li>}
+                        </For>
+                      </ul>
+                    </div>
+                  </>
+                ),
+              },
+            ]}
+          />
+        </Show>
+      </div>
+    </>
+  );
 }
 
 export function renderManualCard({ link, thumbnailSrc, title, dateText, views, excerpt = title }) {
@@ -570,12 +705,36 @@ async function loadVideoCards(loader) {
   return Promise.all(metas.filter(Boolean).map((m) => renderStandardCard(m)));
 }
 
+
+function timeAgo(iso) {
+  const clean = iso.replace(/(\.\d{3})\d+/, '$1');
+  const stamp = /(Z|[+-]\d\d:\d\d)$/.test(clean) ? clean : `${clean}Z`;
+  const mins = Math.max(0, Math.floor((Date.now() - new Date(stamp).getTime()) / 60000));
+  if (mins < 1) return 'Just now';
+  if (mins < 60) return plural(mins, 'min');
+  const hours = Math.floor(mins / 60);
+  if (hours < 24) return plural(hours, 'hour');
+  return plural(Math.floor(hours / 24), 'day');
+}
+
+
 export function renderHome() {
   const [news] = createResource(loadDiscourseNews);
   const [recent] = createResource(loadDiscourseRecent);
   const [map] = createResource(fetchMapAll);
   const [officialVideos] = createResource(() => loadVideoCards(loadRecentOfficialVideos));
   const [fanVideos] = createResource(() => loadVideoCards(loadRecentFanVideos));
+  const [submissions] = createResource(async () => {
+  const list = [...(await loadUserSubmissions())].sort(
+    (a, b) => new Date(b.submittedAt) - new Date(a.submittedAt)
+  );
+  return Promise.all(
+    list.map(async (s) => ({
+      ...s,
+      pageID: s.title?.trim() ? await fetchFolderIDFromTitle(s.title.trim()) : null,
+    }))
+  );
+});
 
   return (
     <>
@@ -646,6 +805,26 @@ export function renderHome() {
             {
               name: 'Map',
               content: () => <Show when={!map.loading && map()}>{map()}</Show>,
+            },
+            {
+              name: 'Recent Changes',
+              content: () => (
+                <ul class="RecentChanges">
+                  <For each={submissions() || []}>
+                    {(s) => (
+                      <li class="RecentChangesItem">
+                        <strong>{s.username}</strong> -{' '}
+                        <Show when={s.pageID} fallback={s.title?.trim() || 'New Article'}>
+                          <a href={getFolderPath(s.pageID)}>{s.title.trim()}</a>
+                        </Show>
+                        <div class={`RecentChangesStatus ${submissionStatus(s).toLowerCase()}`}>
+                          {submissionStatus(s)} {timeAgo(s.submittedAt)}
+                        </div>
+                      </li>
+                    )}
+                  </For>
+                </ul>
+              ),
             }
           ]}
         />

@@ -12,7 +12,9 @@ On November 17th, Miraheze would lose all files to CEP, moving to a prior backup
 
 The site would continue to see improvements to its layout and functionality through plugins, alongside many more user contributions. The site would reach 1000 articles on July 4th, 2023. In May of 2024 CEP would be mentioned by *The Charlotte Ledger* in an article.
 
-In early September of 2024, plans would be made to move the wiki off of Mediawiki onto a statically generated site. This would allow the site's commit history to be backed up on Github, allow any user to backup and make local copies of the site, and let the design and layout of the site not be confined to Mediawiki's formatting. CEP would fully move over on September 24th, 2024. Many issues would arise with the move, particularly with retention of images in the migration, and issues with aquainting users to making articles through Github and Visual Studio Code.
+### Move to Hugo
+
+In early September of 2024, plans would be made to move the wiki off of Mediawiki onto a statically generated site. This would allow the site's commit history to be backed up on Github, allow any user to backup and make local copies of the site, and let the design and layout of the site not be confined to Mediawiki's formatting. CEP would fully move over on September 24th, 2024. Many issues would arise with the move, particularly with retention of images in the migration, and issues with acquainting users to making articles through Github and Visual Studio Code.
 
 By early December *Decap CMS* would be implemented on the wiki, allowing users a more easily accessible way to edit articles, now only requiring a GitHub account. 2025 would see constant iterations on the site's layout, improvements to Decap, and approval of moderators to accept article commits. Due to many issues with Decap's reliability, it was eventually discovered that a fork called Sveltia-CMS was soon to release that would hopefully alleviate the current problems, though the service was continually delayed for its launch throughout the year.
 
@@ -26,11 +28,17 @@ On October 15th, the Cheese-E-Pedia Forums are launched, planned to integrate di
 
 In late December 2025 to January 2026, the site would recieve many CSS changes, homepage graphs, and a new search engine. Throughout February the site would test using the GitHub API to do in-site editing and finally get rid of Decap, which would succeed near the end of the month. Tests would also begin for an alternate
 
+### Move to SPA (cep-js)
+
 On March 22nd the entire site would be overhauled and rewritten from scratch to remove Hugo and DecapCMS entirely in favor of being a Single Page Application with future potential 'viewers' of the same content, one being Theory Web. Theory Web was planned as a Five Nights at Freddy's variant of the site only showing FNaF articles and in a format as to write and share 'Theory' pages, which would not be seen in default CEP.
 
 On March 30th the CEP Discord Server would transfer ownership and be discontinued as an official CEP gathering space. Throughout the Summer contributions would dry up and no progress would be made to the site. Eventually the Theory Web portion of the site would also be discontinued. On July 12th the old article content from the September 2025 wipe would be restored.
 
 On July 14th the site would begin work on another rework of the editing system, going for a submission system that would use the CEP Forums Discourse API alongside commits to the server of the site for local manual merging. On August 16th the editor would become available for testing, with testing going smooth throughout the month. The new editor would replace the GitHub system by the end of the month, and contribution count would go back up significantly.
+
+### cep-solid
+
+On September 10th, a new branch of the SPA called 'cep-solid' would begin work, aiming to replace the main site viewer with one written in Solid-JS for a faster way to visually implement new sections across the site. This was done after frustration with adding a set of Steam Forum posts as a new article type on September 5th, and plans were to have further archives of social media posts have an easier way to be created in the site's code due to each requiring a custom layout to display all the quirks of their site's CSS and content. In October the alternative viewer would be advertised on the homepage for testing, with plans to finish by years end.
 
 ### Changes Timeline
 
@@ -157,6 +165,9 @@ On July 14th the site would begin work on another rework of the editing system, 
 * **August 16th-** The forums-based editor begins accepting commits. More changes are made to the edit page. The ability to create new pages is added. Users are now granted badges on the forum in relation to the ranks seen on user page.
 * **August 18th-** More badges are added to the forums for various things, alongside default badges being reskinned to a CEC/SPP/FNaF theme.
 * **August 30th-** The wiki hits 300 unique contributors
+* **September 5th-** A large chunk of Scott Cawthon's Steam forum posts are archived onto the site.
+* **September 10th-** A new viewer under the SPA is created called 'cep-solid', with plans to rewrite the site's main viewer in Solid-JS.
+* **September 24th-** The map is updated to display by remodels with custom rendered icons.
 
 ## History of CEC Information Before CEP
 

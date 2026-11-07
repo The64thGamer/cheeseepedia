@@ -15,6 +15,12 @@ export async function render(params, el) {
     return;
   }
 
+  if (params.get('page') === 'stats') {
+    solidRender(() => App({ type: 'stats' }), el);
+    trackView('_stats');
+    return;
+  }
+
   const path = (params.get('') || '').replace(/^\/+|\/+$/g, '');
   const meta = await fetchMeta(path);
   solidRender(() => App(meta), el);

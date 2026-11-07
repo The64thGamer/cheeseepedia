@@ -1,1 +1,0 @@
-Exterior of Stockton, CA, soon after opening.

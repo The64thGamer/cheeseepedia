@@ -1,98 +1,31 @@
-let titleToFolderIDMap = null;
-let FolderIDToTitleMap = null;
-let ViewsMap = null;
-let TypeToIDList = null;
-let DiscourseNews = null;
-let DiscourseRecent = null;
-let RecentFanVideos = null;
-let RecentOfficialVideos = null;
-let SortKeys = null;
-let TaggedByIDs = null;
-let FolderIDToTags = null;
+const cache = new Map();
 
-export async function loadFolderIDToTags() {
-  if (!FolderIDToTags) {
-    const res = await fetch('/viewers/cep-solid/compiled-json/folderIDToTags.json');
-    FolderIDToTags = await res.json();
+function loadJson(url) {
+  if (!cache.has(url)) {
+    const promise = fetch(url)
+      .then((res) => res.json())
+      .catch((err) => {
+        cache.delete(url);
+        throw err;
+      });
+    cache.set(url, promise);
   }
-  return FolderIDToTags;
-}
-export async function loadTaggedByIDs() {
-  if (!TaggedByIDs) {
-    const res = await fetch('/viewers/cep-solid/compiled-json/taggedByIDs.json');
-    TaggedByIDs = await res.json();
-  }
-  return TaggedByIDs;
+  return cache.get(url);
 }
 
-export async function loadSortKeys() {
-  if (!SortKeys) {
-    const res = await fetch('/viewers/cep-solid/compiled-json/sortKeys.json');
-    SortKeys = await res.json();
-  }
-  return SortKeys;
-}
+const SOLID = '/viewers/cep-solid/compiled-json/';
+const SOLIDPERM = '/viewers/cep-solid/permanent-json/';
+const JS = '/viewers/cep-js/compiled-json/';
 
-export async function loadRecentFanVideos() {
-  if (!RecentFanVideos) {
-    const res = await fetch('/viewers/cep-solid/compiled-json/recentfanvideos.json');
-    RecentFanVideos = await res.json();
-  }
-  return RecentFanVideos;
-}
-
-export async function loadRecentOfficialVideos() {
-  if (!RecentOfficialVideos) {
-    const res = await fetch('/viewers/cep-solid/compiled-json/recentofficialvideos.json');
-    RecentOfficialVideos = await res.json();
-  }
-  return RecentOfficialVideos;
-}
-
-export async function loadTitleToFolderIDMap() {
-  if (!titleToFolderIDMap) {
-    const res = await fetch('/viewers/cep-solid/compiled-json/titleToFolderIDMap.json');
-    titleToFolderIDMap = await res.json();
-  }
-  return titleToFolderIDMap;
-}
-
-export async function loadFolderIDToTitleMap() {
-  if (!FolderIDToTitleMap) {
-    const res = await fetch('/viewers/cep-solid/compiled-json/folderIDToTitleMap.json');
-    FolderIDToTitleMap = await res.json();
-  }
-  return FolderIDToTitleMap;
-}
-
-export async function loadViewsMap() {
-  if (!ViewsMap) {
-    const res = await fetch('/viewers/cep-js/compiled-json/views.json');
-    ViewsMap = await res.json();
-  }
-  return ViewsMap;
-}
-
-export async function loadTypeToIDList() {
-  if (!TypeToIDList) {
-    const res = await fetch('/viewers/cep-solid/compiled-json/typeToIDList.json');
-    TypeToIDList = await res.json();
-  }
-  return TypeToIDList;
-}
-
-export async function loadDiscourseNews() {
-  if (!DiscourseNews) {
-    const res = await fetch('/viewers/cep-js/compiled-json/DiscourseNews.json');
-    DiscourseNews = await res.json();
-  }
-  return DiscourseNews;
-}
-
-export async function loadDiscourseRecent() {
-  if (!DiscourseRecent) {
-    const res = await fetch('/viewers/cep-js/compiled-json/DiscourseRecent.json');
-    DiscourseRecent = await res.json();
-  }
-  return DiscourseRecent;
-}
+export const loadFolderIDToTags = () => loadJson(`${SOLID}folderIDToTags.json`);
+export const loadTaggedByIDs = () => loadJson(`${SOLID}taggedByIDs.json`);
+export const loadSortKeys = () => loadJson(`${SOLID}sortKeys.json`);
+export const loadRecentFanVideos = () => loadJson(`${SOLID}recentfanvideos.json`);
+export const loadRecentOfficialVideos = () => loadJson(`${SOLID}recentofficialvideos.json`);
+export const loadTitleToFolderIDMap = () => loadJson(`${SOLID}titleToFolderIDMap.json`);
+export const loadFolderIDToTitleMap = () => loadJson(`${SOLID}folderIDToTitleMap.json`);
+export const loadTypeToIDList = () => loadJson(`${SOLID}typeToIDList.json`);
+export const loadViewsMap = () => loadJson(`${JS}views.json`);
+export const loadDiscourseNews = () => loadJson(`${JS}DiscourseNews.json`);
+export const loadDiscourseRecent = () => loadJson(`${JS}DiscourseRecent.json`);
+export const loadUserSubmissions = () => loadJson(`${SOLIDPERM}user-submissions.json`);

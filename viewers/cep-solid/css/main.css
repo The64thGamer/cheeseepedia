@@ -911,6 +911,13 @@ select{
   border-radius: 0.2em;
 }
 
+.RecentChangesStatus.rejected {
+   color: var(--bad-link)
+  }
+.RecentChangesStatus.accepted {
+   color: var(--text)
+  }
+
 @keyframes fadeIn {
   from {
     opacity: 0;

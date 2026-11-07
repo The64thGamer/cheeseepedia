@@ -1,0 +1,1 @@
+Exterior of the building

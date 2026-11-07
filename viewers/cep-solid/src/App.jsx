@@ -1,4 +1,4 @@
-import { renderHeader, renderArticle, renderRandomCards, renderFooter } from './Renderers';
+import { renderHeader, renderArticle, renderRandomCards, renderFooter, renderStatsPage } from './Renderers';
 import { renderSearchPage } from './SearchPage';
 
 function App(meta) {
@@ -12,7 +12,7 @@ function App(meta) {
     <link rel="stylesheet" href="/viewers/cep-solid/css/mobile-modifiers.css" />
     <link rel="stylesheet" href="/viewers/cep-solid/css/theme-modifiers.css" />
     {renderHeader()}
-    {meta.type === 'search' ? renderSearchPage() : renderArticle(meta)}
+    {meta.type === 'search' ? renderSearchPage() : meta.type === 'stats' ? renderStatsPage() : renderArticle(meta)}
     {renderRandomCards()}
     {renderFooter()}
     </>
