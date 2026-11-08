@@ -16,8 +16,8 @@ const TABS = {
 const NAV_GROUPS = [
   { name: "Chuck E. Cheese FEC's", tags: ["Chuck E. Cheese's","Chuck's Arcade","Chuck E. Cheese Adventure World","Chuck E. Cheese Pizza",'Discovery Zone', 'Peter Piper Pizza', "TJ Hartford's Sports Grille","Monterey's"] },
   { name: "Pizza Time Theatre FEC's", tags: ['Pizza Time Theatre',"Charlie Cheese's Pizza Playhouse", "Zapp's Bar & Grill", "Atari Family Game Center", "Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園)","Pizza Show Biz"] },
-  { name: "ShowBiz Pizza Place / Creative Engineering FEC's", tags: ['ShowBiz Pizza Place',"Billy Bob's Wonderland", "Volo Auto Museum","Looney Bird's","X-Site","Hannah Banana","Circus Pizza","Pistol Pete's Pizza","Chimpy's Pizza Safari","Billy Bob's Pizza Circus & Skating Center","Billy Bob's Pizza Theatre","Gulliver's","Adventure Landing","Animal House Pizza","Odyssey Fun World","Magic City","Rock-afire Arcade Bar","Billy Bob's Pizzatron","Tweetsie Railroad","Strike & Spare","Coolwalla Carnival","Rock-afire Pizza","Okefenokee Swamp Park","Circus","Fun Time Pizza","Fun Station USA","FunTime Pizza Circus","Party on! Pizza","Flamingo Land","Pleasure Island","Tuns-A-Fun Pizza","Billie Joe's Ice Cream Parlor & Restaurant","Mega Maze","KizBiz Pizza & Showplace","Stageshow Pizza","Zones","Sports Plus","Playrobics","Playkids Korea","Tokyo Summerland","Club Hotel Eliat","Funderland","Showtime Pizza","Scandia Golf & Games","Benson's Wild Animal Farm"] },
-  { name: 'Other Family Entertainment Centers', tags: ["Celebration Station","Sgt. Singer's Pizza Circus","Captain Andy's Rivertowne","Captain Carnival","Paul E. Parrott","Major Magic's All Star Pizza Revue","Jungle Jim's International Market","Gigglebee's","Gadgets","Marc's Funtime Pizza Palace","Bugaboo Creek Steakhouse","Rainforest Cafe","Great Wolf Lodge"] },
+  { name: "ShowBiz Pizza Place / Creative Engineering FEC's", tags: ['ShowBiz Pizza Place',"Billy Bob's Wonderland", "Volo Auto Museum","Looney Bird's","X-Site","Hannah Banana","Circus Pizza","Pistol Pete's Pizza","Chimpy's Pizza Safari","Billy Bob's Pizza Circus & Skating Center","Billy Bob's Pizza Theatre","Gulliver's","Adventure Landing","Animal House Pizza","Odyssey Fun World","Magic City","Kansas City, MO (334 E 31st St)","Billy Bob's Pizzatron","Tweetsie Railroad","Strike & Spare","Coolwalla Carnival","Rock-afire Pizza","Okefenokee Swamp Park","Circus","Fun Time Pizza","Fun Station USA","FunTime Pizza Circus","Party on! Pizza","Flamingo Land","Pleasure Island","Tuns-A-Fun Pizza","Billie Joe's Ice Cream Parlor & Restaurant","Mega Maze","KizBiz Pizza & Showplace","Stageshow Pizza","Zones","Sports Plus","Playrobics","Playkids Korea","Tokyo Summerland","Club Hotel Eliat","Funderland","Showtime Pizza","Scandia Golf & Games","Benson's Wild Animal Farm"] },
+  { name: 'Other Family Entertainment Centers', tags: ["Celebration Station","Sgt. Singer's Pizza Circus","Captain Andy's Rivertowne","Captain Carnival","Paul E. Parrott","Major Magic's All Star Pizza Revue","Jungle Jim's International Market","Gigglebee's","Gadgets","Marc's Funtime Pizza Palace","Bugaboo Creek Steakhouse","Rainforest Cafe","Great Wolf Lodge","Bullwinkle's Family Food N' Fun","Oaks, PA (One American Treasure Way, 422 Business Center)"] },
   { name: 'Animatronic Manufacturers', tags: ['Fantasy Forest','Cyan Engineering','AVG Technologies','Creative Presentations', 'Animation World','Life Formations', 'Creative Engineering', 'Sally Corporation', "Jim Henson's Creature Shop", 'Walt Disney Imagineering', 'Setmakers',"AnimatedFX","Kinetix Group",'Advanced Animations', 'VP Animations', 'Hofmann Figuren', "KX International"] },
 ];
 const MAX_RANDOM_CARDS = 15;
@@ -422,11 +422,12 @@ export function renderStatsPage() {
                 name: 'Site Details',
                 content: () => (
                   <>
+                    <br/>
                     Additional info of the site idk where else to put.
                     <div class="SiteDetails">
-                      <div><strong>Total home views:</strong> {data().homeTotal.toLocaleString()}</div>
-                      <div><strong>Total search views:</strong> {data().searchTotal.toLocaleString()}</div>
-                      <h3>Home views by month</h3>
+                      <div><strong>Total Homepage Views:</strong> {data().homeTotal.toLocaleString()}</div>
+                      <div><strong>Total Searches:</strong> {data().searchTotal.toLocaleString()}</div>
+                      <h3>Homepage Views by Month</h3>
                       <ul>
                         <For each={data().homeMonths}>
                           {(h) => <li>{monthLabel(h)}: {h.count.toLocaleString()}</li>}
@@ -1106,7 +1107,6 @@ export function renderSplashText() {
     </div>
   );
 }
-
 export function renderHeader() {
   let file = LOGOS.standard;
   try {
@@ -1114,6 +1114,8 @@ export function renderHeader() {
     const c = JSON.parse(localStorage.getItem('cep-theme-custom') || 'null');
     file = (t === 'custom' && c?.['--logo']) ? c['--logo'] : (LOGOS[t] || LOGOS.standard);
   } catch {}
+
+  const onSearchPage = new URLSearchParams(window.location.search).get('page') === 'search';
 
   return (
     <>
@@ -1126,8 +1128,10 @@ export function renderHeader() {
           Now at <strong><span id="StatArticles">????</span></strong> articles contributed by <strong><span id="StatContributors">???</span></strong> users.
           <br />
           Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
-          <br/>
-          <a href="/?v=cep-solid&page=search">Search Here!</a>
+          <br />
+          {!onSearchPage && (
+            <button class="FakeSearchBar" onClick={() => (window.location.href = "/?v=cep-solid&page=search")}>Search...</button>
+          )}
         </div>
       </div>
     </>

@@ -2,7 +2,7 @@
   "title": "Maple Heights, OH (5376 Northfield Rd)",
   "storeNumber": "",
   "startDate": "1980-10-28",
-  "endDate": "1986-00-00",
+  "endDate": "1986-01-00",
   "remodels": [
     {
       "n": "PTT Standard Layout",
@@ -13,7 +13,7 @@
     {
       "n": "Portrait / Shelf Stage",
       "s": "1980-10-28",
-      "e": "1986-00-00"
+      "e": "1986-01-00"
     }
   ],
   "franchisees": [
@@ -25,16 +25,78 @@
     {
       "n": "Electronic Theatre Restaurants, Inc.",
       "s": "1981-12-00",
+      "e": "1986-01-00"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Space Invaders",
+      "desc": "",
+      "s": "1980-10-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Asteroids",
+      "desc": "",
+      "s": "1980-10-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Skeeball",
+      "desc": "",
+      "s": "1980-10-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Airplane",
+      "desc": "Kiddie-Ride",
+      "s": "1980-10-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pizza Time Theatre Musical Ferris Wheel",
+      "desc": "Kiddie-Ride",
+      "s": "1980-10-28",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Tractor",
+      "desc": "Kiddie-Ride",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Jet-ski",
+      "desc": "Kiddie-Ride",
+      "s": "1980-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Cheese Crawl",
+      "desc": "",
+      "s": "1980-10-28",
       "e": "0000-00-00"
     }
   ],
-  "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
     "41.41427902",
     "-81.53088383"
   ],
-  "citations": [],
+  "citations": [
+    "",
+    "https://www.newspapers.com/article/the-plain-dealer-maple-heights-newspaper/190966951/",
+    "https://clevelandmemory.contentdm.oclc.org/digital/collection/press/id/10628/rec/1",
+    "https://www.newspapers.com/article/the-cleveland-press-maple-heights-ptt-br/191166090/",
+    "https://www.newspapers.com/article/the-cleveland-press-maple-heights-ptt/191166043/",
+    "https://www.newspapers.com/article/the-plain-dealer/148728340/",
+    "https://www.newspapers.com/article/the-plain-dealer/155508969/",
+    "https://www.newspapers.com/article/the-plain-dealer/149002557/",
+    "https://www.newspapers.com/article/the-plain-dealer/149011762/",
+    "https://www.newspapers.com/article/the-akron-beacon-journal/42363467/",
+    "",
+    "https://cinematreasures.org/theaters/5730/photos/79741"
+  ],
   "contributors": [
     "Getretrofit"
   ],
@@ -47,70 +109,70 @@
   "animatronics": [
     {
       "n": "Chuck E. Cheese (Cyberamic)",
-      "s": "1980-11-00",
+      "s": "1980-10-28",
       "e": "1985-06-00",
       "l": "Unknown",
       "desc": "Unknown, Sold In Auction"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
-      "s": "1980-11-00",
+      "s": "1980-10-28",
       "e": "1985-06-00",
       "l": "Unknown",
       "desc": "Unknown, Sold In Auction"
     },
     {
       "n": "Pasqually (Cyberamic)",
-      "s": "1980-11-00",
+      "s": "1980-10-28",
       "e": "1985-06-00",
       "l": "Unknown",
       "desc": "Unknown, Sold In Auction; Used Door Opening Mechanisms."
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
-      "s": "1980-11-00",
+      "s": "1980-10-28",
       "e": "1985-06-00",
       "l": "Unknown",
       "desc": "Unknown, Sold In Auction; Used Madame Oink Cosmetics."
     },
     {
       "n": "Mr. Munch (Cyberamic)",
-      "s": "1980-11-00",
+      "s": "1980-10-28",
       "e": "1985-06-00",
       "l": "Unknown",
       "desc": "Unknown, Sold In Auction"
     },
     {
       "n": "Warblettes (Cyberamic)",
-      "s": "1980-11-00",
+      "s": "1980-10-28",
       "e": "1985-06-00",
       "l": "Unknown",
       "desc": "Unknown, Sold In Auction"
     },
     {
       "n": "Flag Wavers (Cyberamic)",
-      "s": "1980-11-00",
+      "s": "1980-10-28",
       "e": "1985-06-00",
       "l": "Unknown",
       "desc": "Unknown, Sold In Auction"
     },
     {
       "n": "Applause Board (Cyberamic)",
-      "s": "1980-11-00",
+      "s": "1980-10-28",
       "e": "1985-06-00",
       "l": "Unknown",
       "desc": "Unknown, Sold In Auction"
     },
     {
       "n": "Drum Board (Cyberamic)",
-      "s": "1980-11-00",
+      "s": "1980-10-28",
       "e": "1985-06-00",
       "l": "Unknown",
       "desc": "Unknown, Sold In Auction"
     },
     {
       "n": "Dolli Dimples (Cabaret)",
-      "s": "1980-11-00",
+      "s": "1980-10-28",
       "e": "1985-06-00",
       "l": "Unknown",
       "desc": "Unknown, Sold In Auction"

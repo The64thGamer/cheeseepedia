@@ -1,0 +1,1 @@
+The exterior of the [Mickey Mouse Revue] at Walt Disney World.

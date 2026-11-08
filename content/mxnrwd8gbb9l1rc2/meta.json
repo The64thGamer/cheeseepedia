@@ -1,0 +1,30 @@
+{
+  "title": "Kansas City, MO (334 E 31st St)",
+  "type": "Locations",
+  "pageThumbnailFile": "hxWIbHrkV_mAaAqYCoC2.avif",
+  "pageThumbnailVideo": "",
+  "downloadLinks": [],
+  "citations": [
+    "https://www.arcade-museum.com/location/Missouri/Rockafire-Arcade-Bar-Kansas-City-1976"
+  ],
+  "tags": [],
+  "startDate": "2018-05-00",
+  "endDate": "2019-03-00",
+  "recommend": false,
+  "latitudeLongitude": [
+    "39.0710016",
+    "-94.5802579"
+  ],
+  "credits": [],
+  "stages": [],
+  "remodels": [],
+  "franchisees": [],
+  "animatronics": [],
+  "fixtures": [],
+  "walkarounds": [],
+  "attractions": [],
+  "showtapeFormats": [],
+  "contributors": [
+    "sudo-trans-pony"
+  ]
+}

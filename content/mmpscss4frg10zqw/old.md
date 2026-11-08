@@ -33,7 +33,7 @@ On July 25, 2023 Northridge would start its [CEC 2.0 Remodel Program]. It was or
 - Golden Empire
 - Black Hole
 - Space Invaders Frenzy
-- Redhot|Redhot,
+- Red Hot,
 - Teeter Totter Castle
 - Birthday Party|Birthday Party,
 - Choppy Wood

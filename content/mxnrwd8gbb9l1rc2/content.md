@@ -1,0 +1,1 @@
+***Kansas City, MO (334 E 31st St)*** was the Rock-afire Arcade Bar featuring the [Rock-afire Explosion], which opened in May of 2018, and closed in March of 2019.

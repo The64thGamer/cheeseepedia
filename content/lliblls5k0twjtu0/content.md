@@ -37,7 +37,7 @@ Despite complaints from corporate employees, store employees, and the general co
 
 ### Delays
 
-Throughout the rest of the year, stores would slowly install their complete Navori systems. Rumors of the [Chuck E. Cheese Winter Winner-Land 2022 Show] being the final non-Navori show would begin, but delays in shipping more units, alongside stores not completing their installation, would require [Chuck E. Cheese Evergreen Show 2023] to have a physical media version created.
+Throughout the rest of the year, stores would slowly install their complete Navori systems. Rumors of the [Chuck E. Cheese Winter Winner-Land 2022] being the final non-Navori show would begin, but delays in shipping more units, alongside stores not completing their installation, would require [Chuck E. Cheese Evergreen Show 2023] to have a physical media version created.
 CEC would openly state Evergreen 2023 as the final physical show, but further delays would require [Chuck E. Cheese Spring Show 2023] to also unexpectantly receive a physical release. This would actually delay the show's launch from March 27, 2023, to April 3, 2023. The Spring Show would finally be the last physical released tape.
 
 ## Test Stores

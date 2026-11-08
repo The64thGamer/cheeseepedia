@@ -889,7 +889,7 @@ const allList = createMemo(() => [...typeGroups()].flatMap(([, list]) => list));
 
           <main class="SearchResults">
             <div class="SearchStatus">
-              <Show when={!base.loading} fallback="Searching…">
+              <Show when={!base.loading} fallback="Searching. . . Please be patient, your own PC/Phone is computing this not any server!">
                 {`${total()} result${total() === 1 ? '' : 's'}`}
               </Show>
             </div>

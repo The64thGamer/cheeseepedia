@@ -557,6 +557,20 @@ select{
   margin-bottom: 1rem;
 }
 
+.FakeSearchBar {
+  padding: 0.5rem 0.5rem;
+  border: 0.25rem solid;
+  border-color: var(--dark);
+  background-color: color-mix(in srgb, var(--text) 30%, transparent);
+  border-radius: 0.5em;
+  cursor: text;
+  color: var(--text);
+  width: 80%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
 .SearchBarField {
   position: relative;
   flex: 1;
@@ -989,6 +1003,10 @@ select{
 
   .s-input-row {
     padding: 1rem;
+  }
+
+  .SearchBar {
+    flex-direction: column;
   }
 
   .SearchLayout {

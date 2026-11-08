@@ -1,0 +1,1 @@
+Exterior of the building as a ShowBiz Pizza Place (December? 1987)

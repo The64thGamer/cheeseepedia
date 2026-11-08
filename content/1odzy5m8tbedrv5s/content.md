@@ -5114,7 +5114,7 @@
 
 {1:42:03} so they could play shows to modern songs.
 
-{1:42:07} Take, for example, The Rock-afire Arcade Bar
+{1:42:07} Take, for example, The Kansas City, MO (334 E 31st St)
 
 {1:42:07} in Kansas City, Missouri.
 

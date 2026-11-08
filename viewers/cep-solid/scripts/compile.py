@@ -71,7 +71,7 @@ FAN_CHANNELS = [
     "@GallaRM",
     "@animatronicswarehouse",
     "@cecadventures",
-    "@CASAnimatronics"
+    "@CASAnimatronics",
     "@Dawko",
     "@JonnyBlox"
 ]
@@ -105,6 +105,36 @@ DICT_TAG_FIELDS = ("remodels", "stages", "animatronics", "franchisees", "attract
 STRING_TAG_FIELDS = ("tags", "pages", "page")
 NO_TITLE_TAG_TYPES = {"videos", "photos", "reviews", "theories", "steam comment"}
 BRACKET_TAG_RE = re.compile(r"\[([^\[\]]+)\](?!\()")
+STATE_CODE_RE = re.compile(r", ([A-Z]{2})(?= \(|$)")
+US_STATES = {
+    "AL": "Alabama", "AK": "Alaska", "AZ": "Arizona", "AR": "Arkansas", "CA": "California",
+    "CO": "Colorado", "CT": "Connecticut", "DE": "Delaware", "DC": "District of Columbia",
+    "FL": "Florida", "GA": "Georgia", "HI": "Hawaii", "ID": "Idaho", "IL": "Illinois",
+    "IN": "Indiana", "IA": "Iowa", "KS": "Kansas", "KY": "Kentucky", "LA": "Louisiana",
+    "ME": "Maine", "MD": "Maryland", "MA": "Massachusetts", "MI": "Michigan", "MN": "Minnesota",
+    "MS": "Mississippi", "MO": "Missouri", "MT": "Montana", "NE": "Nebraska", "NV": "Nevada",
+    "NH": "New Hampshire", "NJ": "New Jersey", "NM": "New Mexico", "NY": "New York",
+    "NC": "North Carolina", "ND": "North Dakota", "OH": "Ohio", "OK": "Oklahoma", "OR": "Oregon",
+    "PA": "Pennsylvania", "RI": "Rhode Island", "SC": "South Carolina", "SD": "South Dakota",
+    "TN": "Tennessee", "TX": "Texas", "UT": "Utah", "VT": "Vermont", "VA": "Virginia",
+    "WA": "Washington", "WV": "West Virginia", "WI": "Wisconsin", "WY": "Wyoming",
+}
+COUNTRY_ALIASES = {"U.A.E.": "United Arab Emirates", "UAE": "United Arab Emirates"}
+COUNTRIES = [
+    "Argentina", "Australia", "Bahamas", "Bahrain", "Bolivia", "Brazil", "Canada", "Chile",
+    "China", "Colombia", "Costa Rica", "Dominican Republic", "Ecuador", "Egypt", "El Salvador",
+    "Guatemala", "Honduras", "Hong Kong", "India", "Indonesia", "Jamaica", "Japan", "Jordan",
+    "Kuwait", "Lebanon", "Malaysia", "Mexico", "Nicaragua", "Oman", "Pakistan", "Panama",
+    "Paraguay", "Peru", "Philippines", "Portugal", "Puerto Rico", "Qatar", "Saudi Arabia",
+    "Singapore", "South Korea", "Spain", "Taiwan", "Thailand", "Trinidad and Tobago", "Turkey",
+    "United Arab Emirates", "United Kingdom", "Uruguay", "Venezuela",
+]
+COUNTRY_NAMES = {c.lower(): c for c in COUNTRIES}
+COUNTRY_NAMES.update({a.lower(): c for a, c in COUNTRY_ALIASES.items()})
+COUNTRY_RE = re.compile(
+    r"(?<![A-Za-z])(" + "|".join(re.escape(k) for k in sorted(COUNTRY_NAMES, key=len, reverse=True)) + r")(?![A-Za-z])",
+    re.I,
+)
 OUT_RECENT_FAN_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentfanvideos.json")
 OUT_RECENT_OFFICIAL_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentofficialvideos.json")
 RECENT_VIDEOS_COUNT = 15
@@ -412,6 +442,16 @@ def read_body(folder):
     return ''
 
 
+def location_tags(title):
+    state = STATE_CODE_RE.search(title)
+    if state and state.group(1) in US_STATES:
+        return [US_STATES[state.group(1)], "United States"]
+    country = COUNTRY_RE.search(title)
+    if country:
+        return [COUNTRY_NAMES[country.group(1).lower()]]
+    return []
+
+
 def extract_meta_tags(fm):
     tags, seen = [], set()
 
@@ -433,6 +473,9 @@ def extract_meta_tags(fm):
     push(fm.get('type', ''))
     if (fm.get('type', '') or '').strip().lower() not in NO_TITLE_TAG_TYPES:
         push(fm.get('title', ''))
+    if (fm.get('type', '') or '').strip().lower() == 'locations':
+        for t in location_tags(fm.get('title', '') or ''):
+            push(t)
     date = fm.get('startDate', '') or ''
     year = date.split('-')[0] if date != '0000-00-00' else ''
     push(year if year and year != '0000' else 'Unknown Year')
@@ -449,16 +492,26 @@ def extract_body_tags(body):
 
 def build_tags():
     tag_idx, id_tags, canon = {}, {}, {}
+    entries, location_extras = [], {}
     for folder in sorted(Path(CONTENT_DIR).iterdir()):
         if not folder.is_dir():
             continue
         meta = read_meta(folder)
         if not meta:
             continue
+        entries.append((folder, meta))
+        if (meta.get('type') or '').strip().lower() == 'locations':
+            title = (meta.get('title') or '').strip().lower()
+            extras = location_tags(meta.get('title') or '')
+            if title and extras:
+                location_extras[title] = extras
+    for folder, meta in entries:
         seen = set()
         article_tags = extract_meta_tags(meta)
         if (meta.get('type') or '').strip().lower() not in NO_BODY_TAG_TYPES:
             article_tags += extract_body_tags(read_body(folder))
+        for tag in list(article_tags):
+            article_tags += location_extras.get(tag.lower(), [])
         for tag in article_tags:
             key = tag.lower()
             if key in seen:
