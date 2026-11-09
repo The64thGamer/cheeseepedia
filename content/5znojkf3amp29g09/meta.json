@@ -1,0 +1,35 @@
+{
+  "title": "Fargo, ND (Westgate Commons, 1500 13th Ave E, Ste E)",
+  "type": "Locations",
+  "pageThumbnailFile": "",
+  "pageThumbnailVideo": "",
+  "downloadLinks": [],
+  "citations": [],
+  "tags": [
+    "Chuck E. Cheese Adventure World"
+  ],
+  "startDate": "2026-00-00",
+  "endDate": "",
+  "recommend": false,
+  "latitudeLongitude": [
+    "46.862056732177734",
+    "-96.88417053222656"
+  ],
+  "credits": [],
+  "stages": [],
+  "remodels": [
+    {
+      "n": "CEC Adventure World Remodel Program",
+      "s": "2026-00-00"
+    }
+  ],
+  "franchisees": [],
+  "animatronics": [],
+  "fixtures": [],
+  "walkarounds": [],
+  "attractions": [],
+  "showtapeFormats": [],
+  "contributors": [
+    "sudo-trans-pony"
+  ]
+}

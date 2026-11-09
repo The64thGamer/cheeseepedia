@@ -1,0 +1,35 @@
+{
+  "title": "Plano, TX (801 W 15th St)",
+  "type": "Locations",
+  "pageThumbnailFile": "",
+  "pageThumbnailVideo": "",
+  "downloadLinks": [],
+  "citations": [],
+  "tags": [
+    "Chuck E. Cheese Adventure World"
+  ],
+  "startDate": "2026-12-00",
+  "endDate": "",
+  "recommend": false,
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "credits": [],
+  "stages": [],
+  "remodels": [
+    {
+      "n": "CEC Adventure World Remodel Program",
+      "s": "2026-12-00"
+    }
+  ],
+  "franchisees": [],
+  "animatronics": [],
+  "fixtures": [],
+  "walkarounds": [],
+  "attractions": [],
+  "showtapeFormats": [],
+  "contributors": [
+    "sudo-trans-pony"
+  ]
+}
