@@ -17,7 +17,8 @@ OFFICIAL_CHANNELS = [
     "@ChuckECheeseArabic",
     "@ChuckECheeseEspañol",
     "@Rockafiremovie",
-    "@animdude"
+    "@animdude",
+    "@SteelWoolStudios"
 ]
 
 #This list of channels is not an endorsement of any listed.
@@ -70,7 +71,19 @@ FAN_CHANNELS = [
     "@WatootsiJenkins",
     "@GallaRM",
     "@animatronicswarehouse",
+    "@anthonysadventures1977",
+    "@CECPizzaMunch",
+    "@arcade_wizard",
+    "@Outerlimitsgameplay",
+    "@cecbros.2335",
+    "@mmbbca3268",
+    "@CECWestCoast",
+    "@ShowbizSouth",
+    "@TheRadicalZoneSPT",
+    "@cecroadshows6449",
+    "@cheesecrawl",
     "@cecadventures",
+    "@Big_Chuck_Official",
     "@CASAnimatronics",
     "@Dawko",
     "@JonnyBlox"
@@ -179,7 +192,7 @@ REMODEL_PIN_MAP = {
     "Peter Piper Pizza 2.0 Remodel Program": "6",
     "Fun Spot Arcade Standard Layout": "7",
     "Charlie Cheese's Standard Layout": "8",
-    "CEC Adventure World Remodel Program": "9",
+    "CEC Adventure World 2.0 Remodel": "9",
     "Chuck E. Mouse's Pizza Paradise (出奇老鼠薄餅樂園) Standard Layout": "a",
     "2025 Chuck's Arcade Remodel": "b",
 }

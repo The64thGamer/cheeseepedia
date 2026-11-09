@@ -1,1 +1,1 @@
-The ***CEC Adventure World Remodel Program*** is the initial design created for Adventure World location.
+The ***CEC Adventure World 2.0 Remodel***, internally reffered to as the "Adventure World 2.0" design layout, is the remodel set for Adventure World retail locations and converting [Chuck E. Cheese's] stores.[1]
