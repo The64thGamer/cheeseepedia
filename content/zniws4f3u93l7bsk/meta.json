@@ -15,12 +15,32 @@
       "e": "1983-02-00"
     }
   ],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Asteroids",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Fire Truck - Atari",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Targ",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
   "sqft": "",
   "citations": [],
   "contributors": [
     "PizzaEntertainment",
-    "Getretrofit"
+    "Getretrofit",
+    "ThatRockHistorian76"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "1xtegbkp2dow888t.avif",

@@ -29,7 +29,13 @@
       "desc": "One of six 2-Stages installed in Virginia."
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "Family Entertainment Centers, Inc.",
+      "s": "1982-09-20",
+      "e": "0000-00-00"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
@@ -37,9 +43,11 @@
     "-77.07819373"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Getretrofit"
+  ],
   "downloadLinks": [],
-  "pageThumbnailFile": "CfJGWyC4tNOouezwK3sA.avif",
+  "pageThumbnailFile": "sfm55w8ii84dxabt.avif",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"

@@ -1,1 +1,1 @@
-***Penfield, NY (1900 Empire Blvd Ste. 720)*** is a Chuck E. Cheese Adventure World located at BayTowne Plaza that opened on November 11, 2026. This location should not be confused with [Penfield, NY (1614 Penfield Rd)], which was a Pizza Time Theatre that opened on March 17, 1982, and closed on September 16, 1996.
+***Penfield, NY (1900 Empire Blvd Ste. 720)***, referred to internally as ***Webster, NY***, is a [Chuck E. Cheese Adventure World] located at BayTowne Plaza that opened on November 11, 2026. 

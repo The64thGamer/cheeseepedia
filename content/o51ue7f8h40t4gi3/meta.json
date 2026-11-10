@@ -1,14 +1,14 @@
 {
-  "title": "Webster, NY (1900 Empire Blvd.)",
-  "type": "Locations",
+  "title": "o51ue7f8h40t4gi3",
+  "type": "Photos",
   "pageThumbnailFile": "",
   "pageThumbnailVideo": "",
   "downloadLinks": [],
   "citations": [],
   "tags": [
-    "Chuck E. Cheese Adventure World"
+    "Mickey Mouse Revue"
   ],
-  "startDate": "2026-11-12",
+  "startDate": "0000-00-00",
   "endDate": "0000-00-00",
   "recommend": false,
   "latitudeLongitude": [
@@ -17,12 +17,7 @@
   ],
   "credits": [],
   "stages": [],
-  "remodels": [
-    {
-      "n": "CEC Adventure World 2.0 Remodel",
-      "s": "2026-11-12"
-    }
-  ],
+  "remodels": [],
   "franchisees": [],
   "animatronics": [],
   "fixtures": [],
@@ -30,6 +25,6 @@
   "attractions": [],
   "showtapeFormats": [],
   "contributors": [
-    "sudo-trans-pony"
+    "ThatRockHistorian76"
   ]
 }

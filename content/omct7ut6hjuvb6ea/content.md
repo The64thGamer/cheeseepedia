@@ -1,0 +1,1 @@
+The curtains of the [Mickey Mouse Revue] at Walt Disney World.

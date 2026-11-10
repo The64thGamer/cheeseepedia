@@ -26,7 +26,7 @@ In December of 2025 the Arlington location would have its [Chuck E. Live Stage (
 
 ### 2026 Expansion
 
-On March 7th, 2026, a set of job listings would be found for an Adventure World planned at [Fargo, ND (Westgate Commons, 1500 13th Ave E, Ste E)] [19][29] On June 15th, another location at [Webster, NY (1900 Empire Blvd.)] would be found in city plans.[28][20][21] On July 21st, another location would be announced at [Plano, TX (801 W 15th St)].[27][26]
+On March 7th, 2026, a set of job listings would be found for an Adventure World planned at [Fargo, ND (Westgate Commons, 1500 13th Ave E, Ste E)] [19][29] On June 15th, another location at Penfield, NY (1900 Empire Blvd Ste. 720) would be found in city plans.[28][20][21] On July 21st, another location would be announced at [Plano, TX (801 W 15th St)].[27][26]
 
 In August, CEO Scott Drake would comment on the expansion, noting Adventure World being at the top of the agenda, and that he expects to open five or six more by January 2027.[30][31]
 
@@ -34,7 +34,7 @@ Throughout August and September of 2026, internal listings for the Adventure Wor
 
 > 5800 - [Arlington, TX (1536 W Interstate 20)]
 > 5801 - [Fargo, ND (Westgate Commons, 1500 13th Ave E, Ste E)]
-> 5802 - [Webster, NY (1900 Empire Blvd.)]
+> 5802 - Penfield, NY (1900 Empire Blvd Ste. 720)
 > 5803 - [Chandler, AZ (2770 E Germann Rd)]
 > 5804 - Los Angeles
 > 5805 -
@@ -66,4 +66,4 @@ The [Chandler, AZ (2770 E Germann Rd)] location would open on October 1st, 2026,
 
 By late October, more conversions of Chuck E. Cheese locations to Adventure Worlds would be in discussion.[2]
 
-[Webster, NY (1900 Empire Blvd.)] would open on November 12th, with the [Plano, TX (801 W 15th St)] would be set to open in December of 2026.[40][41]
+Penfield, NY (1900 Empire Blvd Ste. 720) would open on November 12th, with the [Plano, TX (801 W 15th St)] would be set to open in December of 2026.[40][41]

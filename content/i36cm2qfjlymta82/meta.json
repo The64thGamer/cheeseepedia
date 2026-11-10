@@ -6,11 +6,30 @@
   "remodels": [
     {
       "n": "PTT Standard Layout",
-      "s": "1982-02-00"
+      "s": "1982-02-17"
     }
   ],
-  "stages": [],
-  "franchisees": [],
+  "stages": [
+    {
+      "n": "Balcony Stage",
+      "desc": "Didn't Remove It When Receiving The Family Album",
+      "s": "1982-02-17",
+      "e": "1986-00-00"
+    },
+    {
+      "n": "Family Album",
+      "desc": "First Location To Have Them, Additional With The Balcony Stage",
+      "s": "1983-00-00",
+      "e": "1986-00-00"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Little Caesars Enterprises, Inc.",
+      "s": "1982-02-17",
+      "e": "0000-00-00"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
@@ -22,7 +41,7 @@
     "Getretrofit"
   ],
   "downloadLinks": [],
-  "pageThumbnailFile": "0ajilqtt48j6wzre.avif",
+  "pageThumbnailFile": "nm1mu7bp5joo0uh8.avif",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"

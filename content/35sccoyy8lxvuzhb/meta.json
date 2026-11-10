@@ -26,7 +26,13 @@
       "e": "2016-08-00"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "Family Entertainment Centers, Inc.",
+      "s": "1983-03-00",
+      "e": "1986-09-18"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
@@ -34,7 +40,9 @@
     "-76.94744148"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Getretrofit"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "2DodCtcR1lMw7NCISmfQ.avif",
   "type": "Locations",

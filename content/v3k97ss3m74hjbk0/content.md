@@ -8,7 +8,7 @@ A while later in August 1999, Chuck E. Cheese's advertisements began popping up 
 
 ### 2000's
 
-During the mid 2000s, Scottsdale would have their entrance doors replaced with older ones from the [Tucson, AZ (6130 E Speedway Blvd)] location, which was owned by the same people as Scottsdale[11]. Another change that most likely occurred around this time frame was the repainting of the interior walls by the entrance, menu board and Studio C stage, which were repainted in the same shade of purple that was being used for the then-active [CEC 2000's Remodel Program] [12].
+Perhaps during the mid 2000s, Scottsdale would have their entrance doors replaced with older ones from the [Tucson, AZ (6130 E Speedway Blvd)] location, which was owned by the same people as Scottsdale[11]. Another change that most likely occurred around this time frame was the repainting of the interior walls by the entrance, menu board and Studio C stage, which were repainted in the same shade of purple that was being used for the then-active [CEC 2000's Remodel Program] [12].
 
 Several photos from September 6, 2008 show a few of the games that they had, several different angles of the Show Room, and most notably their Studio C stage. With these pictures, we're able to tell that their Chuck E. bot wasn't in the best condition at the time, as his cap is shown to not be sitting on his head properly. Surprisingly, he was still wearing his Late Night attire by this point, albeit covered with a layer of dust around his shoulders[13]. The walkaround at the time was the Cool Chuck variant with the red cap and blue shirt. The only difference was the pants, which were a pair of jeans instead of the usual khaki shorts[14].
 
