@@ -1,0 +1,35 @@
+***Panama City, FL (4432 US-98)*** was a *Chuck E. Cheese's* location that opened on May 7, 1986[1] as a *ShowBiz Pizza Place* with a [Classic Stage], and closed as a *Chuck E. Cheese's* with a [Concept Unification Stage (3-Stage)] in Summer 2007[2].
+
+## History
+
+In June 1985, a restaurant called *The Frontier Club* closed, later being sold to Dr. Palep Rao, a local gastroenterologist and ShowBiz franchisee. After aquiring the building, which had previously been a home furnishings store that was modeled after an Amish barn, Rao began renovating it. The renovations began in late 1985 and later concluded in February 1986[3], consisting of the building being expanded and the addition of a pylon on one of the corners, which had a *Now Appearing* poster on it and was the front entrance[4][5]. Over said front entrance, a blue awning was added, with the nearby walls having orange, red and yellow stripes lining them. Lastly, on the side of the building facing the highway, a *ShowBiz Pizza Place* sign was installed[5].
+
+On May 7, 1986, the location would open for the very first time, featuring the [Classic Stage] in the Showroom, 60 games, and offering free tokens with any food order[1]. We have several photos from 1987, believed to be sometime in December, which for example show a bit of their game room, their kitchen and what their exterior looked like[6].
+
+At some point between the aforementioned photos being taken and August 1990[7], the location would receive the [SPT 1980's Remodel Program], which resulted in the addition of colored checkers, the replacement of older artwork around the store[7], and the exterior presumably being remodeled as well. The stripes would presumably be painted over and the *ShowBiz Pizza Place* logo would most likely be replaced with the then-new *ShowBiz Pizza* one. It's unknown if any checkers were added around the building, but it can be assumed that there was.
+
+### 1990's
+
+Sometime after June 21, 1991[3], the location would receive [Concept Unification], which revolved around replacing the [Classic Stage] with the [Concept Unification Stage (3-Stage)]. By June 28, 1991[3], the installation of the new stage would be completed along with the *ShowBiz Pizza* signage on the exterior presumably being replaced with the *Chuck E. Cheese's Pizza* branding. Lastly, as for artwork around the store, it was most likely replaced with artwork featuring the Chuck E. Cheese characters. Strangely, even after the store had rebranded, it continued to be billed as a *ShowBiz Pizza Place* from December 1991 until February 1992[3].
+
+In 1993, the location would presumably receive the [SPT 1990's Remodel Program], with the permits being issued on April 30 that same year[8]. Major changes would be made when this remodel took place, such as the addition of the Thumb Chuck logo on the entrance pylon along with windows on said pylon. The aforementioned Thumb Chuck logo would also be installed on the road sign, featuring white text reading *Chuck E. Cheese's* with a yellow and red gradient behind it underneath. The checkers around the building would also be painted over, both inside and presumably outside as well. Newer artwork would be added as well, such as the Pasqually Italy poster above the Pizza window[9]. The *Chuck E. Cheese's Pizza* signage would also be removed in exchange for three sets of windows that were added to the side of the building facing the highway, which would have red and yellow awnings installed above them. This also included the front entrance, with an L-shaped awning taking the place of the previous one[10]. This would be the last known major remodel that the location would receive.
+
+At an unknown date, though presumably at some point in the 90's, the location would have their Tux Chuck walkaround get stolen, with them possibly not getting a replacement from corporate either. Alongside this, more thefts would be done by employees at the location, such as tokens, uniforms and even wall art pieces. Some of these would later end up on Ebay[3].
+
+On December 6, 1999, the location would have a permit issued for another alteration, though of which kind specifically remains unknown[8].
+
+### 2000's
+
+By the 2000's, the characters would most likely all receive their plastic masks, with Chuck E. also likely getting his Cool Chuck attire somewhere around this time frame as well[11]. Additionally, the stage was in extremely bad condition, with footage from 2007 showing the characters' movements to be quite stiff[12]. According to the user Panama_man on Reddit, the reason behind the stage's condition was due to the location not having a technician to fix it[3].
+
+Judging by YouTube footage from 2007, Munch Jr. seems to have still been on the stage, while Pizzacam seems to have been removed at an unknown date, as he can't be seen in the brief glimpses of Stage Left that are shown[12]. The Building and Moon may have been removed as well, but this remains unknown.
+
+On April 21, 2006[8], a renovation permit would be issued, which is believed to have been the permit to install a new roof on the entrance pylon, which seemingly got rid of the arch-shaped top in order to install it judging by Google Street View[10]. The outlining on the pylon's corners would seemingly be removed as well, but that remains unconfirmed[8].
+
+By this point in time, the amount of games at the location had shrunk from 60 to 20 games. Their Skytubes were apparently also a narrow strand instead of the usual setup[3].
+
+### Closure
+
+In Summer 2007[2], the location would permanently close after 21 years in operation. While an official reason behind the closure seems to have never been given, it's rumored to have been due to drug usage and other things that were disliked by the store's customers. A while after closure on July 12, 2007, an auction advertisement would pop up in the Tallahassee Democrat newspaper, announcing that games and other pieces of equipment from the restaurant were on sale. The auction itself took place from Friday to Saturday at 10:am until the afternoon[2], with the animatronics seemingly being sold during the auction as well[3]. Another advertisement would show up on Friday, with no more known advertisements afterwards[13].
+
+After closure, the signage would surprisingly remain on both the building and the roadsign, with the building itself remaining intact throughout the rest of the year. A few months later on December 17, Rao would sell the property to Rajeshwer Hospitality LLC[8], who began demolition of the property in mid-January 2008[3], with EagleView imagery showing the demolished property in February and March that same year[14]. The hotel that would be built on the property, which was a Suburban Studios hotel[15], began construction in April 2008, eventually being finished the following year[3]. As of November 2026, the Suburban Studios hotel remains on the property.

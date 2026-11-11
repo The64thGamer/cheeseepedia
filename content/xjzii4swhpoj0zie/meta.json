@@ -5,12 +5,20 @@
   "endDate": "2007-00-00",
   "remodels": [
     {
-      "n": "Concept Unification",
-      "s": "1991-06-21"
-    },
-    {
       "n": "SPP Standard Layout",
       "s": "1986-05-07"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "Concept Unification",
+      "s": "1991-06-00"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "1993-00-00"
     }
   ],
   "stages": [
@@ -23,20 +31,177 @@
       "n": "Concept Unification Stage (3-Stage)",
       "s": "1991-06-21",
       "e": "2007-00-00",
-      "desc": "One of 7 3-Stages in Florida to undergo Concept Unification. Munch Jr. would remain until closure."
+      "desc": "One of 7 3-Stages in Florida to undergo Concept Unification. Chuck had full rare 'Cool Chuck' outfit and Munch Jr. would remain until closure."
     }
   ],
-  "franchisees": [],
-  "attractions": [],
+  "franchisees": [
+    {
+      "n": "Palep Naring Rao",
+      "s": "1986-05-07",
+      "e": "2007-00-00"
+    }
+  ],
+  "attractions": [
+    {
+      "n": "Donkey Kong",
+      "desc": "Seen in a photo from 1987, presumably December.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Super Pac-Man",
+      "desc": "Seen in a photo from 1987, presumably December.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Donkey Kong Junior",
+      "desc": "Seen in a photo from 1987, presumably December.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Yellow Hot Air Balloon",
+      "desc": "Seen in footage from August 1990.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Skee-Ball",
+      "desc": "Seen in footage from August 1990.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Ball Pit",
+      "desc": "Seen in footage from August 1990.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Green Locomotive",
+      "desc": "Seen in footage from August 1990.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Green Motorcycle",
+      "desc": "Seen in footage from August 1990.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Billy Bob Merry Go Round",
+      "desc": "Seen in footage from August 1990.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Helicopter",
+      "desc": "Seen in footage from August 1990.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Roadblasters",
+      "desc": "Seen in footage from August 1990.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Sega Turbo",
+      "desc": "Seen in footage from August 1990.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Whac-A-Mole",
+      "desc": "Seen in footage from August 1990.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Teenage Mutant Ninja Turtles",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Tekken",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pirate Ship",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pachinko",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Street Fighter",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Super Chexx",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Photo Ride (1997)",
+      "desc": "Seen in a YouTube video uploaded on March 26, 2007.",
+      "s": "0000-00-00",
+      "e": "2007-00-00"
+    },
+    {
+      "n": "Skytubes",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "2007-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese's Pow-Air Play",
+      "desc": "Purple variant, seen in a YouTube video uploaded on March 26, 2007.",
+      "s": "0000-00-00",
+      "e": "2007-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "30.17990077",
     "-85.71987083"
   ],
-  "citations": [],
-  "contributors": [],
+  "citations": [
+    "https://imgur.com/gallery/showbiz-pizza-panama-city-fl-ad-5-7-86-ig6e6nh",
+    "https://www.newspapers.com/newspage/250040974/",
+    "https://www.reddit.com/r/chuckecheese/comments/13hhg0e/do_you_have_info_on_the_panama_city_fl_4432_us98/",
+    "https://www.historicaerials.com/viewer",
+    "https://flickr.com/photos/201093882@N07/55083042162/in/album-72177720331921474",
+    "https://flickr.com/photos/201093882@N07/albums/72177720331921474/",
+    "https://www.youtube.com/watch?v=qAIxKRmBNG8",
+    "https://qpublic.schneidercorp.com/application.aspx?AppID=834&LayerID=15170&PageTypeID=4&PageID=6825&Q=1278586650&KeyValue=28248-000-000",
+    "https://www.youtube.com/watch?v=a4VnTeFEm4Q",
+    "https://earth.google.com/web/@30.18078932,-85.71845701,5.26571798a,0d,60y,313.13609573h,91.34956062t,0r/data=CgRCAggBIhoKFllMOTRsenpjcW9GeUh6YW5vSmw1SUEQAjIpCicKJQohMTBPV01ZWVRfMS05TjRwNWV6VUc0czNCd2x2VHlEWW9CIAE6AwoBMEICCABKCAjgjMv6BBAB?authuser=0",
+    "https://www.youtube.com/watch?v=OFxqkdeSCuA",
+    "https://www.youtube.com/watch?v=AZftLUYHtZc",
+    "https://www.newspapers.com/newspage/250041983/",
+    "https://qpublic.schneidercorp.com/application.aspx?AppID=834&LayerID=15170&PageTypeID=4&PageID=11893&KeyValue=28248-000-000",
+    "https://www.google.com/maps/place/Suburban+Studios+near+Panama+City+Beach/@30.1811282,-85.7197655,584m/data=!3m1!1e3!4m9!3m8!1s0x889386826da16235:0xed9c20cc9a517e3!5m2!4m1!1i2!8m2!3d30.181191!4d-85.718465!16s%2Fg%2F1tdry2k2?entry=ttu&g_ep=EgoyMDI2MTEwNC4wIKXMDSoASAFQAw%3D%3D"
+  ],
+  "contributors": [
+    "TheEntireShrekScript"
+  ],
   "downloadLinks": [],
-  "pageThumbnailFile": "C9hT86LnzknEpjuq_3om.avif",
+  "pageThumbnailFile": "PanamaCityFLCECExteriorBeforeClosureHQ1.avif",
   "type": "Locations",
   "tags": [
     "ShowBiz Pizza Place"
@@ -44,87 +209,145 @@
   "animatronics": [
     {
       "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
+      "s": "1986-05-07",
+      "e": "2007-00-00",
       "l": "??-8? 1-??",
       "desc": "Unknown."
     },
     {
       "n": "Dook Larue (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
+      "s": "1986-05-07",
+      "e": "2007-00-00",
       "l": "??-8? 2-??",
       "desc": "Unknown."
     },
     {
       "n": "Fatz Geronimo (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
+      "s": "1986-05-07",
+      "e": "2007-00-00",
       "l": "??-8? 3-??",
       "desc": "Unknown."
     },
     {
       "n": "Beach Bear (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
+      "s": "1986-05-07",
+      "e": "2007-00-00",
       "l": "??-8? 4-??",
       "desc": "Unknown."
     },
     {
       "n": "Mitzi Mozzarella (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
+      "s": "1986-05-07",
+      "e": "2007-00-00",
       "l": "??-8? 5-??",
       "desc": "Unknown."
     },
     {
       "n": "Billy Bob (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
+      "s": "1986-05-07",
+      "e": "1991-06-00",
       "l": "??-8? 6-??",
       "desc": "Owned by a private collector"
     },
     {
       "n": "Looney Bird (Animatronic)",
-      "s": "0000-00-00",
+      "s": "1986-05-07",
       "e": "0000-00-00",
       "l": "??-8? 7-??",
-      "desc": "Unknown."
+      "desc": "Unknown, possibly removed at some point before closure."
     },
     {
       "n": "Choo Choo (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
+      "s": "1986-05-07",
+      "e": "2007-00-00",
       "l": "??-8? 8-??",
       "desc": "Unknown."
     },
     {
       "n": "Sun (Animatronic)",
-      "s": "0000-00-00",
+      "s": "1986-05-07",
       "e": "0000-00-00",
       "l": "??-8? 10-??",
-      "desc": "Unknown."
+      "desc": "Unknown, possibly removed at some point before closure."
     },
     {
       "n": "Moon (Animatronic)",
-      "s": "0000-00-00",
+      "s": "1986-05-07",
       "e": "0000-00-00",
       "l": "??-8? 11-??",
-      "desc": "Unknown."
+      "desc": "Unknown, possibly removed at some point before closure."
     },
     {
       "n": "Antioch (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
+      "s": "1986-05-07",
+      "e": "1991-06-00",
       "l": "Unknown",
       "desc": "Unknown."
     },
     {
       "n": "Wink",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
+      "s": "1991-06-00",
+      "e": "2007-00-00",
       "l": "Unknown",
       "desc": "Unknown."
+    }
+  ],
+  "fixtures": [
+    {
+      "n": "Italy (1991 Postcard)",
+      "desc": "Seen in a YouTube video uploaded on March 26, 2007.",
+      "s": "0000-00-00",
+      "e": "2007-00-00"
+    },
+    {
+      "n": "Wizard Of Cheez (Parody Poster)",
+      "desc": "Seen in footage from August 1990.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Star Cap Thumb Logo (SPT Signage)",
+      "desc": "Remained on the building after closure.",
+      "s": "1993-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Salad Bar (SPT Signage)",
+      "desc": "",
+      "s": "1993-00-00",
+      "e": "2007-00-00"
+    },
+    {
+      "n": "Gifts & Prizes (SPT Signage)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "CEC Pop Art Head (CEC Décor)",
+      "desc": "Small versions, two seen in a photograph from November 6, 2006.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "walkarounds": [
+    {
+      "n": "Chuck 2005 (Costume Head)",
+      "desc": "Seemingly the toothless variant.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck Avenger Attire (Costume Outfit)",
+      "desc": "Only the shirt is known to have been used.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck 1991 (Costume Head)",
+      "desc": "Seen in a photograph.",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
     }
   ]
 }
