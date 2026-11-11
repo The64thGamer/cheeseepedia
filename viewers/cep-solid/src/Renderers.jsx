@@ -108,6 +108,33 @@ function Citation(props) {
   );
 }
 
+function FileChangeTags(props) {
+  return (
+    <Show when={props.files?.length}>
+      <div class="ResultTags">
+        <For each={props.files}>
+          {(f) => (
+            <span class={`ResultTag ChangeTag ${f.status}`}>
+              {f.name}
+              <Show when={f.add || f.del}>
+                {' ('}
+                <Show when={f.add}>
+                  <span class="ChangeAdd">+{f.add}</span>
+                </Show>
+                <Show when={f.add && f.del}>{' '}</Show>
+                <Show when={f.del}>
+                  <span class="ChangeDel">-{f.del}</span>
+                </Show>
+                {')'}
+              </Show>
+            </span>
+          )}
+        </For>
+      </div>
+    </Show>
+  );
+}
+
 function Citations(props) {
   return (
     <Show when={props.citations?.length}>
@@ -821,6 +848,7 @@ export function renderHome() {
                         <div class={`RecentChangesStatus ${submissionStatus(s).toLowerCase()}`}>
                           {submissionStatus(s)} {timeAgo(s.submittedAt)}
                         </div>
+                        <FileChangeTags files={s.files} />
                       </li>
                     )}
                   </For>

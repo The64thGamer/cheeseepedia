@@ -14,6 +14,8 @@ const TITLE_MAP_URL = '/viewers/cep-solid/compiled-json/titleToFolderIDMap.json'
 const RELATED_URL = '/viewers/cep-js/compiled-json/related.json';
 const SUBMIT_URL = '/submit';
 const LOGIN_URL = '/viewers/cep-editor/Login.html';
+const IMAGE_EXT = /\.(avif|jpe?g|png|webp|heic|heif)$/i;
+const IMAGE_ACCEPT = '.avif,.jpg,.jpeg,.png,.webp,.heic,.heif';
 
 const META_MAP = {
   title:              { type: 'line',     el: 'MetaTitle' },
@@ -111,6 +113,7 @@ let titlesLoaded = false;
 let RELATED = [];
 let relatedLoaded = false;
 let galleryFiles = [];
+let thumbUpload = null;
 
 async function loadSuggestions() {
   if (suggestionsLoaded) return;
@@ -269,6 +272,7 @@ export async function loadFolder(articleId) {
   scratch = {};
   firstValidFile = null;
   galleryFiles = [];
+  thumbUpload = null;
 
   await loadSuggestions();
   await loadTitles();
@@ -389,6 +393,12 @@ async function updateThumbnailPreview() {
   const input = document.getElementById('MetaThumbnail');
   if (!img || !input) return;
 
+  if (thumbUpload) {
+    img.src = URL.createObjectURL(thumbUpload.file);
+    img.style.display = '';
+    return;
+  }
+
   const name = input.value.trim();
   if (!name) { img.style.display = 'none'; img.src = ''; return; }
 
@@ -432,8 +442,73 @@ function initMetaFields() {
   if (thumbEl && !thumbEl.dataset.previewBound) {
     thumbEl.dataset.previewBound = '1';
     thumbEl.addEventListener('input', updateThumbnailPreview);
+    document.getElementById('ButtonThumbUpload').onclick = pickThumbImage;
+    document.getElementById('ButtonThumbRemove').onclick = removeThumbImage;
   }
+  refreshThumbUpload();
   updateThumbnailPreview();
+}
+
+function refreshThumbUpload() {
+  const active = !!thumbUpload;
+  document.getElementById('MetaThumbnail').disabled = active;
+  document.getElementById('ButtonThumbUpload').style.display = active ? 'none' : '';
+  document.getElementById('ButtonThumbRemove').style.display = active ? '' : 'none';
+}
+
+function pickThumbImage() {
+  const input = document.createElement('input');
+  input.type = 'file';
+  input.accept = IMAGE_ACCEPT;
+
+  input.onchange = () => {
+    const file = input.files[0];
+    if (!file || !IMAGE_EXT.test(file.name)) return;
+
+    thumbUpload = { id: randomId(), file, sent: false };
+    metaData.pageThumbnailFile = thumbUpload.id;
+    saveMetaData();
+    document.getElementById('MetaThumbnail').value = thumbUpload.id;
+    refreshThumbUpload();
+    updateThumbnailPreview();
+  };
+
+  input.click();
+}
+
+function removeThumbImage() {
+  thumbUpload = null;
+  metaData.pageThumbnailFile = '';
+  saveMetaData();
+  document.getElementById('MetaThumbnail').value = '';
+  refreshThumbUpload();
+  updateThumbnailPreview();
+}
+
+async function submitThumbUpload(key, clientId) {
+  const meta = blankMetaData();
+  meta.type = 'Photos';
+  meta.title = thumbUpload.id;
+  meta.tags = metaData.title ? [metaData.title] : [];
+  meta.startDate = '0000-00-00';
+
+  const zip = new JSZip();
+  zip.file('meta.json', JSON.stringify(meta, null, 2));
+  zip.file('content.md', '');
+  zip.file(thumbUpload.file.name, thumbUpload.file);
+  const blob = await zip.generateAsync({ type: 'blob' });
+
+  const res = await fetch(SUBMIT_URL, {
+    method: 'POST',
+    headers: {
+      'X-Api-Key': key,
+      'X-Client-Id': clientId,
+      'X-Article-Id': thumbUpload.id,
+      'Content-Type': 'application/zip',
+    },
+    body: blob,
+  });
+  return res.ok;
 }
 
 function attachSuggestions(input, list) {
@@ -781,11 +856,11 @@ function refreshPhotoButtons() {
 function replacePhoto() {
   const input = document.createElement('input');
   input.type = 'file';
-  input.accept = '.avif';
+  input.accept = IMAGE_ACCEPT;
 
   input.onchange = () => {
     const file = input.files[0];
-    if (!file || !/\.avif$/i.test(file.name)) return;
+    if (!file || !IMAGE_EXT.test(file.name)) return;
 
     scratch['photo.avif'] = file;
     if (!firstValidFile) firstValidFile = 'photo.avif';
@@ -841,12 +916,12 @@ function renderGallery() {
 function addGalleryImages() {
   const input = document.createElement('input');
   input.type = 'file';
-  input.accept = '.avif';
+  input.accept = IMAGE_ACCEPT;
   input.multiple = true;
 
   input.onchange = () => {
     for (const file of input.files) {
-      if (!/\.avif$/i.test(file.name)) continue;
+      if (!IMAGE_EXT.test(file.name)) continue;
       // photo.avif / lowphoto.avif are reserved for the article's own single
       // photo - gallery images always keep their real, original filename.
       if (file.name in FILE_MAP) continue;
@@ -892,6 +967,12 @@ async function submitZip() {
   }
 
   msg.textContent = 'Submitting...';
+
+  if (thumbUpload && !thumbUpload.sent) {
+    if (!(await submitThumbUpload(key, clientId))) { msg.textContent = 'Thumbnail image submit failed.'; return; }
+    thumbUpload.sent = true;
+  }
+
   const res = await fetch(SUBMIT_URL, {
     method: 'POST',
     headers: {
@@ -931,7 +1012,7 @@ function reuploadZip() {
     // gallery images saved under their own filenames - restore those too.
     galleryFiles = [];
     for (const entry of Object.values(zip.files)) {
-      if (entry.dir || entry.name in FILE_MAP || !/\.avif$/i.test(entry.name)) continue;
+      if (entry.dir || entry.name in FILE_MAP || !IMAGE_EXT.test(entry.name)) continue;
       scratch[entry.name] = await entry.async('blob');
       galleryFiles.push(entry.name);
     }

@@ -30,7 +30,7 @@
         </div>
         <div class="ParamGroup" data-types="Photos">
             <div class="ParamLabel">Images:</div>
-            <div class="ParamDesc">Only <strong>.avif</strong> files are permitted. You are allowed to upload multiple images, but be aware they are going to all be given the same description, dates, and tags. Unless they are very similar pictures, please submit them separately.</div>
+            <div class="ParamDesc">Accepted formats are <strong>.avif</strong>, <strong>.jpg</strong>, <strong>.png</strong>, <strong>.webp</strong> and <strong>.heic</strong>; they are converted to .avif when reviewed. You are allowed to upload multiple images, but be aware they are going to all be given the same description, dates, and tags. Unless they are very similar pictures, please submit them separately.</div>
             <br>
             <div id="MetaGalleryImages" class="MetaGallery"></div>
             <button id="ButtonAddGalleryImages" type="button">+ Add Images</button>
@@ -98,8 +98,10 @@
         </div>
         <div class="ParamGroup" data-types="Animatronics, Animatronic Shows, Animatronic Parts, Animatronic Preservation, Stage Variations, Walkarounds, Characters, Locations, Cancelled Locations, Showtapes, Showtape Formats, ShowBiz Pizza Programs, Family Vision, Live Shows, Puppets, Commercials, News Footage, Company Media, Movies, Transcriptions, Video Games, Menu Items, Tickets, Tokens, Documents, Events, Remodels and Initiatives, Retrofits, History, Arcades and Attractions, Companies/Brands, Animatronic Control Systems, Other Systems, Programming Systems, Simulators, Social Media and Websites, Ad Vehicles, In-Store Merchandise, Products, Employee Wear, Meta, Store Fixtures, User">
             <div class="ParamLabel">Article Thumbnail Photo:</div>
-            <div class="ParamDesc">This will be the title of an image on the site to use for the thumbnail, like <strong>photo(1).avif</strong></div>
+            <div class="ParamDesc">You can upload an image for the article using the button, otherwise for pre-existing photos you can type the title of an image on the site for the thumbnail, like <strong>5PLToGVLWCjdK3govUE4.avif</strong> (try that, and you'll see it displays the photo)</div>
             <input id="MetaThumbnail" class="Meta" type="text">
+            <button id="ButtonThumbUpload" type="button" title="Upload an image instead">⭱</button>
+            <button id="ButtonThumbRemove" type="button" title="Remove uploaded image" style="display:none">✕</button>
             <br>
             <img id="MetaThumbnailPreview" class="EditorImageThumbnail" style="display:none">
             <br><br>

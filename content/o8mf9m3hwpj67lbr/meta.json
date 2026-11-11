@@ -7,7 +7,8 @@
     "https://archive.org/search?query=creator%3A%22PTT1977%22"
   ],
   "tags": [
-    "Maple Heights, OH (5376 Northfield Rd)"
+    "Maple Heights, OH (5376 Northfield Rd)",
+    "Middleburg Heights, OH (6920 W 130th St)"
   ],
   "startDate": "0000-00-00",
   "endDate": "0000-00-00",
@@ -24,6 +25,7 @@
   "attractions": [],
   "showtapeFormats": [],
   "contributors": [
-    "sudo-trans-pony"
+    "sudo-trans-pony",
+    "Getretrofit"
   ]
 }

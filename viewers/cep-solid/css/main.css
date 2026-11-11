@@ -925,6 +925,26 @@ select{
   border-radius: 0.2em;
 }
 
+.ChangeTag {
+  color: var(--text);
+}
+
+.ChangeTag .ChangeAdd {
+  color: var(--good-link);
+}
+
+.ChangeTag .ChangeDel {
+  color: var(--bad-link);
+}
+
+.ChangeTag.added {
+  color: var(--good-link);
+}
+
+.ChangeTag.emptied {
+  color: var(--bad-link);
+}
+
 .RecentChangesStatus.rejected {
    color: var(--bad-link)
   }

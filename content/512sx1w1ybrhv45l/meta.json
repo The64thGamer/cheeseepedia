@@ -1,12 +1,14 @@
 {
-  "title": "km4nkrfyraeoc9nr",
+  "title": "512sx1w1ybrhv45l",
   "type": "Photos",
   "pageThumbnailFile": "",
+  "pageThumbnailVideo": "",
   "downloadLinks": [],
   "citations": [
     "https://archive.org/search?query=creator%3A%22PTT1977%22"
   ],
   "tags": [
+    "Middleburg Heights, OH (6920 W 130th St)",
     "Maple Heights, OH (5376 Northfield Rd)"
   ],
   "startDate": "0000-00-00",
@@ -21,9 +23,12 @@
   "remodels": [],
   "franchisees": [],
   "animatronics": [],
+  "fixtures": [],
+  "walkarounds": [],
   "attractions": [],
   "showtapeFormats": [],
   "contributors": [
+    "Getretrofit",
     "sudo-trans-pony"
   ]
 }
