@@ -85,6 +85,8 @@ FAN_CHANNELS = [
     "@cecadventures",
     "@Big_Chuck_Official",
     "@CASAnimatronics",
+    "@tylershannon4945",
+    "@Dmanswish",
     "@Dawko",
     "@JonnyBlox"
 ]
