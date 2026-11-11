@@ -478,5 +478,49 @@
         "status": "added"
       }
     ]
+  },
+  {
+    "username": "sudo-trans-pony",
+    "title": "3ve3wmyjlsx7agdu",
+    "submittedAt": "2026-11-11T13:57:27Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "sudo-trans-pony",
+    "title": "Character Wall Decal",
+    "submittedAt": "2026-11-11T13:57:28Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 1,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 33,
+        "del": 0
+      }
+    ]
   }
 ]

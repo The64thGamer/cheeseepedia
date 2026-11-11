@@ -1,0 +1,1 @@
+The ***Character Well Decal*** was an early [CEC 2.0 Remodel Program] decor that featured a set of 5 character decals placed over the showroom walls, stretched from the wainscoting to the ceiling. Each would have the rendered portion of the art on a separate fixture that would be placed over the decal, making for 5 unique signage pieces to complete the entire wall.[1][2]
