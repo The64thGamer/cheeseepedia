@@ -167,6 +167,8 @@ ID_ALPHABET = string.ascii_lowercase + string.digits
 PREFETCH = 3
 MAX_SUGGESTIONS = 8
 NO_BODY_TAG_TYPES = {"transcriptions", "videos"}
+TAG_OPEN = "Open/Operating/In Production"
+TAG_CLOSED = "Closed/Shut Down/Production Stopped"
 
 USE_COLOR = sys.stdout.isatty() and "NO_COLOR" not in os.environ
 if USE_COLOR and os.name == "nt":
@@ -494,6 +496,10 @@ def extract_meta_tags(fm):
     date = fm.get('startDate', '') or ''
     year = date.split('-')[0] if date != '0000-00-00' else ''
     push(year if year and year != '0000' else 'Unknown Year')
+    if (fm.get('type', '') or '').strip().lower() not in NO_TITLE_TAG_TYPES:
+        end = (fm.get('endDate') or '').strip()
+        if end != '0000-00-00':
+            push(TAG_OPEN if not end or end > datetime.date.today().isoformat() else TAG_CLOSED)
     return tags
 
 
@@ -522,11 +528,14 @@ def build_tags():
                 location_extras[title] = extras
     for folder, meta in entries:
         seen = set()
-        article_tags = extract_meta_tags(meta)
-        if (meta.get('type') or '').strip().lower() not in NO_BODY_TAG_TYPES:
+        kind = (meta.get('type') or '').strip().lower()
+        meta_tags = extract_meta_tags(meta)
+        article_tags = list(meta_tags)
+        if kind not in NO_BODY_TAG_TYPES:
             article_tags += extract_body_tags(read_body(folder))
-        for tag in list(article_tags):
-            article_tags += location_extras.get(tag.lower(), [])
+        if kind in ("photos", "videos"):
+            for tag in meta_tags:
+                article_tags += location_extras.get(tag.lower(), [])
         for tag in article_tags:
             key = tag.lower()
             if key in seen:
@@ -1253,7 +1262,7 @@ def repair_meta_file(folder):
 
 
 def load_site_data():
-    titles, video_ids, media_titles, unreadable = set(), set(), set(), []
+    titles, video_ids, media_titles, unreadable, dates = set(), set(), set(), [], {}
     for folder in Path(CONTENT_DIR).iterdir():
         if not folder.is_dir():
             continue
@@ -1265,6 +1274,7 @@ def load_site_data():
         title = meta.get("title")
         if isinstance(title, str) and title:
             titles.add(title)
+            dates[title] = (meta.get("startDate") or "", meta.get("endDate") or "")
             if meta.get("type") in MEDIA_TYPES:
                 media_titles.add(title)
         sources = [meta.get(THUMB_FIELD), title]
@@ -1287,6 +1297,7 @@ def load_site_data():
             title = meta.get("title")
             if isinstance(title, str) and title:
                 titles.add(title)
+                dates[title] = (meta.get("startDate") or "", meta.get("endDate") or "")
                 if meta.get("type") in MEDIA_TYPES:
                     media_titles.add(title)
             sources = [meta.get(THUMB_FIELD), title]
@@ -1303,7 +1314,7 @@ def load_site_data():
             print(red(f"Warning: {len(failed)} meta.json file(s) could not be repaired, so their videos can't be deduped:"))
             for name in failed[:10]:
                 print(red(f"  {name}"))
-    return titles, video_ids, media_titles
+    return titles, video_ids, media_titles, dates
 
 
 def matches_pattern(title, patterns):
@@ -1346,8 +1357,9 @@ def fetch_details(vid):
 
 
 class TagCompleter(Completer):
-    def __init__(self, tags):
+    def __init__(self, tags, dates):
         self.pairs = [(t.lower(), t) for t in tags]
+        self.dates = dates
 
     def get_completions(self, document, complete_event):
         text = document.text
@@ -1356,7 +1368,8 @@ class TagCompleter(Completer):
             return
         scored = [(0 if lower.startswith(q) else 1, len(t), t) for lower, t in self.pairs if q in lower]
         for _, _, t in heapq.nsmallest(MAX_SUGGESTIONS, scored):
-            yield Completion(t, start_position=-len(text))
+            start, end = self.dates.get(t, ("", ""))
+            yield Completion(t, start_position=-len(text), display=f"{t}  {start or '-'} / {end or '-'}")
 
 def ask_default_tags(session, completer, tag_lookup):
     tags = []
@@ -1451,10 +1464,10 @@ def add_fandom_videos():
     if not Path(CONTENT_DIR).is_dir():
         print(red(f"Content dir '{CONTENT_DIR}' not found"), file=sys.stderr)
         return
-    site_titles, existing, media_titles = load_site_data()
+    site_titles, existing, media_titles, site_dates = load_site_data()
     tag_titles = sorted(t for t in site_titles if not re.match(r"https?://", t, re.I) and not t.lower().endswith(".avif") and t not in media_titles)
     tag_lookup = {t.lower(): t for t in tag_titles}
-    completer = TagCompleter(tag_titles)
+    completer = TagCompleter(tag_titles, site_dates)
     rejected = load_rejected()
     session = PromptSession()
     executor = ThreadPoolExecutor(max_workers=PREFETCH)
@@ -1481,37 +1494,30 @@ def add_fandom_videos():
                 continue
             if OLDEST_FIRST:
                 pending.reverse()
-            futures = {}
+            futures = {v: executor.submit(fetch_details, v) for v in pending}
+            total = len(pending)
 
-            for i, vid in enumerate(pending):
-                if vid in rejected:
-                    continue
-                if matches_pattern(listing[vid], reject_patterns):
-                    auto_rejected += 1
-                    continue
-
-                for nxt in pending[i:i + PREFETCH]:
-                    if nxt not in futures and nxt not in rejected and not matches_pattern(listing[nxt], reject_patterns):
-                        futures[nxt] = executor.submit(fetch_details, nxt)
-
+            while pending:
+                vid = pending.pop(0)
+                i = total - len(pending)
                 details = futures.pop(vid).result()
                 if "error" in details:
-                    print(red(f"\n[{i + 1}/{len(pending)}] Could not load {vid}: {details['error']}"))
+                    print(red(f"\n[{i}/{total}] Could not load {vid}: {details['error']}"))
                     continue
                 if matches_pattern(details["title"], reject_patterns):
                     auto_rejected += 1
-                    print(yellow(f"\n[{i + 1}/{len(pending)}] Auto-rejected: {details['title']}"))
+                    print(yellow(f"\n[{i}/{total}] Auto-rejected: {details['title']}"))
                     continue
                 rule_tags = next((t for p, t in accept_rules if matches_pattern(details["title"], [p])), None)
                 if rule_tags is not None:
-                    print(green(f"\n[{i + 1}/{len(pending)}] Auto-accepted: {details['title']}"))
+                    print(green(f"\n[{i}/{total}] Auto-accepted: {details['title']}"))
                     print(green(f"  Saved to {CONTENT_DIR}/{save_video(details, list(rule_tags), site_titles)}"))
                     existing.add(vid)
                     saved += 1
                     auto_accepted += 1
                     continue
 
-                show_video(i + 1, len(pending), details)
+                show_video(i, total, details)
                 action, tags = ask_tags(session, completer, tag_lookup)
 
                 if action == "quit":
@@ -1520,8 +1526,16 @@ def add_fandom_videos():
                     continue
                 if action == "autoreject":
                     reject_patterns.append(tags[0])
-                    auto_rejected += 1
-                    print(yellow(f"  Auto-rejecting '{tags[0]}' for {handle} only."))
+                    kept = []
+                    for v in pending:
+                        if matches_pattern(listing[v], reject_patterns):
+                            futures.pop(v).cancel()
+                        else:
+                            kept.append(v)
+                    removed = len(pending) - len(kept) + 1
+                    pending[:] = kept
+                    auto_rejected += removed
+                    print(yellow(f"  Auto-rejected {removed} video(s) matching '{tags[0]}' for {handle} only."))
                     continue
                 if action == "reject":
                     rejected.add(vid)

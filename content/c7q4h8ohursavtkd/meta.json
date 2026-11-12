@@ -33,7 +33,9 @@
     "-96.79570708"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "sudo-trans-pony"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "DTWJNph5RlWCzJq9IGp8.avif",
   "type": "Locations",
@@ -68,6 +70,116 @@
       "e": "0000-00-00",
       "l": "Unknown",
       "desc": "Sent to Dearborn, MI (24399 Michigan Ave), currently Unknown."
+    }
+  ],
+  "fixtures": [
+    {
+      "n": "All You Can Play (1-Piece, Old Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2.0 Restrooms Sign (New Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2.0 Caution Wet Floor Sign (New Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2.0 Caution Wet Floor Sign (New Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2.0 Fire Alarm Control Panel Sign (New Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2.0 Circular Women's Restroom Sign (New Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2.0 Circular Men's Restroom Sign (New Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Thirst Station Message (Old Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "You Won! Prize Shop Sign (Old Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Choking Hazard Decal (Rockstar)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "2.0 Caution Wet Floor Sign (New Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Salad Bar Must Be Purchased Decal (New Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Salad Bar Must Be Purchased Decal (New Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pizzeria & Games Menu Board Ledge",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pizza Sizing Guide (Old Font)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "CEC 2.0 Logo Interior Sign (Small)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "High Five Word Wall (Old Font, 3-Piece)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Party Word Wall (Old Font, 3-Piece)",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
     }
   ]
 }

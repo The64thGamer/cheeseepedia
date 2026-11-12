@@ -25,6 +25,11 @@ const SORTS = [
   ['least-views', 'Least Views'],
 ];
 const SORT_KEYS = SORTS.map(([key]) => key);
+const TAG_MODES = [
+  ['or', 'OR Search'],
+  ['and', 'AND Search'],
+];
+const TAG_MODE_KEYS = TAG_MODES.map(([key]) => key);
 const DEFAULT_TYPE_COLOR = 'var(--primary)';
 const COLOR_GROUPS = {
   '#4a7bd1': [
@@ -324,11 +329,17 @@ function titleSearch(text, d) {
   return out;
 }
 
-async function runSearch({ tags, q }, d) {
+async function runSearch({ tags, q }, d, mode) {
   let ids = null;
   if (tags.length) {
-    const union = new Set(tags.flatMap((t) => d.tagMap[d.tagLookup[t.toLowerCase()]] || []));
-    ids = [...union];
+    const lists = tags.map((t) => d.tagMap[d.tagLookup[t.toLowerCase()]] || []);
+    ids =
+      mode === 'and'
+        ? lists.reduce((acc, list) => {
+            const set = new Set(list);
+            return acc.filter((id) => set.has(id));
+          })
+        : [...new Set(lists.flat())];
   }
 
   const text = q.trim();
@@ -740,6 +751,7 @@ export function renderSearchPage() {
   const [committed, setCommitted] = createSignal(readSearchURL());
   const [sort, setSort] = createSignal(loadKey('sSort', 'relevancy', (v) => SORT_KEYS.includes(v)));
   const [view, setView] = createSignal(loadKey('sResultView', RESULT_VIEW_KEYS[0], (v) => RESULT_VIEW_KEYS.includes(v)));
+  const [tagMode, setTagMode] = createSignal(loadKey('sTagMode', TAG_MODE_KEYS[0], (v) => TAG_MODE_KEYS.includes(v)));
   const [activeType, setActiveType] = createSignal('');
   const [quietType, setQuietType] = createSignal(null);
   const [page, setPage] = createSignal(0);
@@ -747,8 +759,8 @@ export function renderSearchPage() {
   const [data] = createResource(loadSearchData);
 
   const [base] = createResource(
-    () => (data() ? committed() : false),
-    (c) => runSearch(c, data())
+    () => (data() ? { ...committed(), mode: tagMode() } : false),
+    (c) => runSearch(c, data(), c.mode)
   );
 
   const pinned = createMemo(() =>
@@ -794,6 +806,7 @@ const allList = createMemo(() => [...typeGroups()].flatMap(([, list]) => list));
 
   createEffect(() => saveKey('sSort', sort()));
   createEffect(() => saveKey('sResultView', view()));
+  createEffect(() => saveKey('sTagMode', tagMode()));
 
   const onPop = () => setCommitted(readSearchURL());
   window.addEventListener('popstate', onPop);
@@ -844,6 +857,18 @@ const allList = createMemo(() => [...typeGroups()].flatMap(([, list]) => list));
                     {(key) => (
                       <option value={key} selected={view() === key}>
                         {key}
+                      </option>
+                    )}
+                  </For>
+                </select>
+              </label>
+              <label>
+                Tags:{' '}
+                <select id="sTagMode" onChange={(e) => setTagMode(e.target.value)}>
+                  <For each={TAG_MODES}>
+                    {([key, label]) => (
+                      <option value={key} selected={tagMode() === key}>
+                        {label}
                       </option>
                     )}
                   </For>

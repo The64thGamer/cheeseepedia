@@ -6,14 +6,14 @@
   "remodels": [
     {
       "n": "PTT Standard Layout",
-      "s": "1981-05-00"
+      "s": "1981-06-03"
     }
   ],
   "stages": [
     {
       "n": "Balcony Stage",
-      "s": "1981-05-00",
-      "e": "1986-00-00"
+      "s": "1981-06-03",
+      "e": "1986-09-00"
     }
   ],
   "franchisees": [
@@ -28,7 +28,86 @@
       "e": "0000-00-00"
     }
   ],
-  "attractions": [],
+  "attractions": [
+    {
+      "n": "Asteroids",
+      "desc": "",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Dozer",
+      "desc": "",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Head-On",
+      "desc": "",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Fire Truck - Atari",
+      "desc": "",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Night Rider ",
+      "desc": "",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Skee-Ball",
+      "desc": "",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Whac-A-Mole",
+      "desc": "",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Chuck E. Cheese Carousel",
+      "desc": "Kiddie-Rides",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Pizza Time Theatre Musical Ferris Wheel",
+      "desc": "Kiddie-Rides",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Cheese Crawl",
+      "desc": "Kiddie-Rides",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Ball Pit",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Helicopter",
+      "desc": "Kiddie-Rides",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    },
+    {
+      "n": "Jet-ski",
+      "desc": "Kiddie-Rides",
+      "s": "1981-06-03",
+      "e": "0000-00-00"
+    }
+  ],
   "sqft": "",
   "latitudeLongitude": [
     "41.37283617",
@@ -39,7 +118,7 @@
     "Getretrofit"
   ],
   "downloadLinks": [],
-  "pageThumbnailFile": "CV7UatCu6dLZTAYa6s89.avif",
+  "pageThumbnailFile": "owgvknhea4j43dn7.avif",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
@@ -47,56 +126,56 @@
   "animatronics": [
     {
       "n": "Chuck E. Cheese (Cyberamic)",
-      "s": "0000-00-00",
+      "s": "1981-06-03",
       "e": "0000-00-00",
       "l": "Unknown",
       "desc": "Retrofitted, 1986"
     },
     {
       "n": "Guest Star / Helen Henny (Cyberamic)",
-      "s": "0000-00-00",
+      "s": "1981-06-03",
       "e": "0000-00-00",
       "l": "Unknown",
       "desc": "Retrofitted, 1986"
     },
     {
       "n": "Mr. Munch (Cyberamic)",
-      "s": "0000-00-00",
+      "s": "1981-06-03",
       "e": "0000-00-00",
       "l": "Unknown",
       "desc": "Retrofitted, 1986"
     },
     {
       "n": "Jasper T. Jowls (Cyberamic)",
-      "s": "0000-00-00",
+      "s": "1981-06-03",
       "e": "0000-00-00",
       "l": "Unknown",
       "desc": "Retrofitted, 1986"
     },
     {
       "n": "Pasqually (Cyberamic)",
-      "s": "0000-00-00",
+      "s": "1981-06-03",
       "e": "0000-00-00",
       "l": "Unknown",
       "desc": "Retrofitted, 1986"
     },
     {
       "n": "Wink (Cyberamic)",
-      "s": "0000-00-00",
+      "s": "1981-06-03",
       "e": "0000-00-00",
       "l": "Unknown",
       "desc": "Kept on Display, Destroyed 2016"
     },
     {
       "n": "Clapper Board",
-      "s": "0000-00-00",
+      "s": "1981-06-03",
       "e": "0000-00-00",
       "l": "Unknown",
       "desc": "Removed 2000's, Unknown"
     },
     {
       "n": "Flag Wavers",
-      "s": "0000-00-00",
+      "s": "1981-06-03",
       "e": "0000-00-00",
       "l": "Unknown",
       "desc": "Removed 2000's, Unknown"
