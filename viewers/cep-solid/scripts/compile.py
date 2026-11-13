@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json, os, subprocess, sys, calendar, datetime
 from pathlib import Path
-import re, shutil, tempfile, html, io, heapq, secrets, string, sqlite3
+import re, shutil, tempfile, html, io, heapq, secrets, string, sqlite3, time
 import urllib.request, urllib.error, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 from itertools import zip_longest
@@ -153,6 +153,32 @@ COUNTRY_RE = re.compile(
 OUT_RECENT_FAN_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentfanvideos.json")
 OUT_RECENT_OFFICIAL_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentofficialvideos.json")
 RECENT_VIDEOS_COUNT = 15
+COMPILED_DIR = os.path.join(os.path.dirname(__file__), "..", "compiled-json")
+AVATAR_DIR = os.path.join(COMPILED_DIR, "avatars")
+NEWS_IMG_DIR = os.path.join(COMPILED_DIR, "images")
+NEWS_IMG_URL = "/viewers/cep-solid/compiled-json/images"
+BACKGROUND_DIR = os.path.join(COMPILED_DIR, "backgrounds")
+OUT_CONTRIBUTORS = os.path.join(COMPILED_DIR, "contributors.json")
+OUT_USER_PROFILES = os.path.join(COMPILED_DIR, "userProfiles.json")
+PROFILE_TTL_HOURS = 24
+BIO_PREVIEW_CHARS = 200
+OUT_STATS = os.path.join(COMPILED_DIR, "ExtraStatistics.json")
+OUT_NEWS = os.path.join(COMPILED_DIR, "DiscourseNews.json")
+OUT_RECENT_TOPICS = os.path.join(COMPILED_DIR, "DiscourseRecent.json")
+DISCOURSE = "https://forum.cheeseepedia.org"
+NEWS_CATEGORY_ID = 5
+NEWS_URL = f"{DISCOURSE}/c/news/{NEWS_CATEGORY_ID}/l/latest.json?order=created"
+LATEST_URL = f"{DISCOURSE}/latest.json?order=created"
+DISCOURSE_API_KEY = (os.environ.get("DISCOURSE_API_KEY") or "").strip()
+DISCOURSE_API_USER = (os.environ.get("DISCOURSE_API_USERNAME") or "system").strip()
+DISCOURSE_HEADERS = {"User-Agent": "Mozilla/5.0"}
+if DISCOURSE_API_KEY:
+    DISCOURSE_HEADERS["Api-Key"] = DISCOURSE_API_KEY
+    DISCOURSE_HEADERS["Api-Username"] = DISCOURSE_API_USER
+BADGE_TIERS = [
+    (1000, 123), (750, 122), (500, 121), (300, 120), (150, 119), (100, 118), (75, 117),
+    (50, 116), (25, 115), (10, 114), (5, 113), (2, 112), (1, 111),
+]
 THUMB_FIELD = "pageThumbnailVideo"
 THUMB_FILE_FIELD = "pageThumbnailFile"
 TAGGED_BY_TYPES = {"steam comment", "reviews", "videos", "photos", "transcriptions"}
@@ -249,6 +275,8 @@ def main():
     recent_official = build_recent_videos(True)
     write_json(recent_fan, OUT_RECENT_FAN_VIDEOS)
     write_json(recent_official, OUT_RECENT_OFFICIAL_VIDEOS)
+    stats = build_stats(len(tags))
+    write_json(stats, OUT_STATS)
 
     print(green(f'Wrote {len(title_to_id)} titles -> {OUT_TITLE_TO_ID}'))
     print(green(f'Wrote {len(id_to_title)} ids -> {OUT_ID_TO_TITLE}'))
@@ -259,7 +287,9 @@ def main():
     print(green(f'Wrote {len(id_tags)} articles with tags -> {OUT_ID_TO_TAGS}'))
     print(green(f'Wrote {len(recent_fan)} recent fan videos -> {OUT_RECENT_FAN_VIDEOS}'))
     print(green(f'Wrote {len(recent_official)} recent official videos -> {OUT_RECENT_OFFICIAL_VIDEOS}'))
+    print(green(f'Wrote stats: {stats["photos"]} photos, {stats["videos"]} videos, {stats["articles"]} other, {stats["contributors"]} contributors, {stats["tags"]} tags -> {OUT_STATS}'))
 
+    pull_discourse()
     build_map_pins()
 
     run_solid_build()
@@ -487,6 +517,7 @@ def extract_meta_tags(fm):
             continue
         for item in (val if isinstance(val, list) else [val]):
             push(tag_name(item))
+    push(fm.get('videoChannelHandle') or '')
     push(fm.get('type', ''))
     if (fm.get('type', '') or '').strip().lower() not in NO_TITLE_TAG_TYPES:
         push(fm.get('title', ''))
@@ -800,6 +831,366 @@ def build_map_pins():
 
     print(green(f"mapPins.json — {len(locations)} locations written"))
     print(dim(f"  locations with tracked remodels: {locations_with_remodels}"))
+
+def build_stats(tag_count):
+    counts = {"photos": 0, "videos": 0, "articles": 0}
+    contributors = set()
+    for folder in Path(CONTENT_DIR).iterdir():
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        if not meta:
+            continue
+        kind = (meta.get('type') or '').strip().lower()
+        if kind == 'user':
+            continue
+        counts[kind if kind in ("photos", "videos") else "articles"] += 1
+        for name in meta.get('contributors') or []:
+            if isinstance(name, str) and name.strip():
+                contributors.add(name.strip())
+    generated = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+    return {**counts, "contributors": len(contributors), "tags": tag_count, "generated": generated}
+
+
+def fetch_json(url):
+    with urllib.request.urlopen(url) as r:
+        return json.loads(r.read())
+
+
+def build_news_topic(t):
+    thumbs = t.get("thumbnails") or []
+    thumb = next((x for x in thumbs if x.get("max_width") == 400), None)
+    src = (thumb or {}).get("url") or t.get("image_url")
+    local = None
+    if src:
+        with urllib.request.urlopen(src) as r:
+            Path(NEWS_IMG_DIR, f"{t['id']}.jpg").write_bytes(r.read())
+        local = f"{NEWS_IMG_URL}/{t['id']}.jpg"
+    return {
+        "title": t["title"],
+        "image_url": local,
+        "views": t.get("views"),
+        "created_at": t.get("created_at"),
+        "url": f"{DISCOURSE}/t/{t['slug']}/{t['id']}",
+    }
+
+
+def pull_discourse():
+    if not DISCOURSE_API_KEY:
+        print(red("DISCOURSE_API_KEY is not set, skipping Discourse"), file=sys.stderr)
+        return
+    if ask("Pull/Modify Discourse"):
+        build_contributors()
+        build_discourse_news()
+
+
+def build_discourse_news():
+    shutil.rmtree(NEWS_IMG_DIR, ignore_errors=True)
+    os.makedirs(NEWS_IMG_DIR)
+
+    data = fetch_json(NEWS_URL)
+    news = [build_news_topic(t) for t in data.get("topic_list", {}).get("topics", [])]
+    write_json(news, OUT_NEWS)
+
+    data = fetch_json(LATEST_URL)
+    recent = []
+    for t in data.get("topic_list", {}).get("topics", []):
+        if t.get("category_id") == NEWS_CATEGORY_ID:
+            continue
+        entry = build_news_topic(t)
+        entry["category_id"] = t.get("category_id")
+        recent.append(entry)
+    write_json(recent, OUT_RECENT_TOPICS)
+    print(green(f"Wrote {len(news)} news topics -> {OUT_NEWS}"))
+    print(green(f"Wrote {len(recent)} recent non-news topics -> {OUT_RECENT_TOPICS}"))
+
+
+def avatar_filename(name):
+    return re.sub(r'[^\w\-.]', '_', name) + '.jpg'
+
+
+def discourse_get(url, timeout=10):
+    req = urllib.request.Request(url, headers=DISCOURSE_HEADERS)
+    return json.loads(urllib.request.urlopen(req, timeout=timeout).read())
+
+
+def discourse_get_retry(url, max_retries=6):
+    delay = 2
+    for attempt in range(1, max_retries + 1):
+        try:
+            return discourse_get(url, 15)
+        except urllib.error.HTTPError as e:
+            if e.code == 429 and attempt < max_retries:
+                retry_after = e.headers.get('Retry-After')
+                wait = float(retry_after) if retry_after else delay
+                print(yellow(f"    ! rate limited, waiting {wait:.0f}s (attempt {attempt}/{max_retries})..."))
+                time.sleep(wait)
+                delay *= 2
+                continue
+            raise
+
+
+def fetch_discourse_directory():
+    users, page = [], 0
+    while True:
+        data = discourse_get(f"{DISCOURSE}/directory_items.json?period=all&order=post_count&page={page}")
+        items = data.get('directory_items', [])
+        if not items:
+            break
+        users.extend(i['user'] for i in items if i.get('user'))
+        if not data.get('meta', {}).get('load_more_directory_items'):
+            break
+        page += 1
+    return users
+
+
+def fetch_discourse_admin_users():
+    all_users, page = [], 0
+    while True:
+        try:
+            batch = discourse_get_retry(f"{DISCOURSE}/admin/users/list/active.json?page={page}")
+        except Exception as e:
+            print(red(f"Discourse admin users request failed on page {page}, check DISCOURSE_API_KEY and DISCOURSE_API_USERNAME: {e}"), file=sys.stderr)
+            return None
+        if not batch:
+            break
+        all_users.extend(batch)
+        if len(batch) < 100:
+            break
+        page += 1
+        time.sleep(0.2)
+    return all_users
+
+
+def collect_contributors():
+    found = {}
+    for folder in Path(CONTENT_DIR).iterdir():
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        if (meta.get('type') or '').strip().lower() == 'user':
+            continue
+        for name in meta.get('contributors') or []:
+            if not name:
+                continue
+            entry = found.setdefault(name.strip(), {'count': 0, 'articles': []})
+            entry['count'] += 1
+            entry['articles'].append(folder.name)
+    return found
+
+
+def load_json_file(path):
+    try:
+        with open(path, encoding='utf-8') as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def download_background(username, url, replace=False):
+    if not url:
+        return None
+    full = urllib.parse.urljoin(DISCOURSE, url)
+    ext = os.path.splitext(urllib.parse.urlparse(full).path)[1] or '.jpg'
+    name = re.sub(r'[^\w\-.]', '_', username) + ext
+    path = Path(BACKGROUND_DIR, name)
+    if replace or not path.exists():
+        try:
+            req = urllib.request.Request(full, headers=DISCOURSE_HEADERS)
+            with urllib.request.urlopen(req, timeout=20) as r:
+                path.write_bytes(r.read())
+        except Exception:
+            return name if path.exists() else None
+    return name
+
+
+def fetch_user_profile(user, old):
+    username = user['username']
+    try:
+        data = discourse_get_retry(f"{DISCOURSE}/u/{urllib.parse.quote(username)}.json")
+    except Exception as e:
+        print(red(f"    ! could not fetch profile for {username}: {e}"))
+        return None
+    u = data.get('user') or {}
+    background = u.get('profile_background_upload_url') or u.get('card_background_upload_url')
+    return {
+        'bio': (u.get('bio_raw') or '').strip(),
+        'joined': u.get('created_at') or '',
+        'bg': download_background(username, background, not old or old.get('src') != background),
+        'src': background,
+        'avt': user.get('avatar_template'),
+        'fetched': int(time.time()),
+    }
+
+
+def download_avatar(user, force=False):
+    template = user.get('avatar_template')
+    if not template:
+        return
+    path = Path(AVATAR_DIR, avatar_filename(user['username']))
+    if path.exists() and not force:
+        return
+    try:
+        req = urllib.request.Request(DISCOURSE + template.replace('{size}', '128'), headers=DISCOURSE_HEADERS)
+        with urllib.request.urlopen(req, timeout=10) as r:
+            path.write_bytes(r.read())
+    except Exception:
+        pass
+
+
+def owned_badge_ids(username):
+    try:
+        data = discourse_get_retry(f"{DISCOURSE}/user-badges/{urllib.parse.quote(username)}.json")
+    except Exception as e:
+        print(red(f"    ! could not fetch existing badges for {username}: {e}"))
+        return None
+    owned = {ub['badge_id'] for ub in data.get('user_badges', []) if ub.get('badge_id') is not None}
+    if not owned:
+        owned = {b['id'] for b in data.get('badges', []) if b.get('id') is not None}
+    return owned
+
+
+def grant_badge(username, badge_id):
+    body = urllib.parse.urlencode({'username': username, 'badge_id': badge_id}).encode()
+    req = urllib.request.Request(
+        f"{DISCOURSE}/user_badges",
+        data=body,
+        method='POST',
+        headers={**DISCOURSE_HEADERS, 'Content-Type': 'application/x-www-form-urlencoded'},
+    )
+    with urllib.request.urlopen(req, timeout=10) as resp:
+        return json.loads(resp.read())
+
+
+def award_badges(contributors, dry_run=False):
+    candidates = [e for e in contributors if e.get('fu') and e.get('count', 0) > 0]
+    print(cyan(f"Checking badges for {len(candidates)} matched contributors..."))
+
+    granted_total = 0
+    for i, e in enumerate(candidates, 1):
+        username, count = e['fu'], e['count']
+        owed = [(t, bid) for t, bid in BADGE_TIERS if count >= t]
+        if not owed:
+            continue
+        owned = owned_badge_ids(username)
+        if owned is None:
+            continue
+        for threshold, bid in [(t, b) for t, b in owed if b not in owned]:
+            if dry_run:
+                print(dim(f"  [dry-run] would grant badge {bid} (>= {threshold}) to {username}"))
+                continue
+            try:
+                grant_badge(username, bid)
+                print(green(f"  [{i}/{len(candidates)}] granted badge {bid} (>= {threshold}) to {username}"))
+                granted_total += 1
+                time.sleep(0.3)
+            except urllib.error.HTTPError as ex:
+                print(red(f"    ! failed to grant badge {bid} to {username}: HTTP {ex.code} {ex.read()[:200]}"))
+            except Exception as ex:
+                print(red(f"    ! failed to grant badge {bid} to {username}: {ex}"))
+
+    print(green(f"{'Would grant' if dry_run else 'Granted'} {granted_total} new badge(s) total."))
+
+
+def build_contributors():
+    dry_run = '--dry-run' in sys.argv
+    skip_badges = '--no-badges' in sys.argv
+    os.makedirs(AVATAR_DIR, exist_ok=True)
+
+    print(cyan("Fetching Discourse users..."))
+    users = fetch_discourse_admin_users()
+    if users is None:
+        return
+    print(f"  {len(users)} users")
+    try:
+        post_counts = {u.get('username', '').lower(): u.get('post_count', 0)
+                       for u in fetch_discourse_directory() if u.get('username')}
+        for u in users:
+            name = (u.get('username') or '').lower()
+            if name in post_counts:
+                u['post_count'] = post_counts[name]
+    except Exception as e:
+        print(red(f"  ! could not enrich admin user list with post counts from directory: {e}"))
+
+    contribs = collect_contributors()
+    print(f"  {len(contribs)} contributors")
+
+    old_profiles = load_json_file(OUT_USER_PROFILES)
+    refresh_all = '--refresh-users' in sys.argv
+    ttl = PROFILE_TTL_HOURS * 3600
+    now = int(time.time())
+    named = [u for u in users if u.get('username')]
+    changed_avatar, stale = set(), []
+    for u in named:
+        key = u['username'].lower()
+        old = old_profiles.get(key)
+        if old and old.get('fetched') and old.get('avt') != u.get('avatar_template'):
+            changed_avatar.add(key)
+        if refresh_all or not old or key in changed_avatar or now - old.get('fetched', 0) > ttl:
+            stale.append(u)
+
+    with ThreadPoolExecutor(max_workers=16) as ex:
+        list(ex.map(lambda u: download_avatar(u, refresh_all or u.get('username', '').lower() in changed_avatar), users))
+
+    os.makedirs(BACKGROUND_DIR, exist_ok=True)
+    print(cyan(f"Refreshing {len(stale)} of {len(named)} Discourse profiles..."))
+    with ThreadPoolExecutor(max_workers=4) as ex:
+        fetched = list(ex.map(lambda u: fetch_user_profile(u, old_profiles.get(u['username'].lower())), stale))
+    current = {u['username'].lower() for u in named}
+    profiles = {k: v for k, v in old_profiles.items() if k in current}
+    for u, p in zip(stale, fetched):
+        if p:
+            profiles[u['username'].lower()] = p
+    write_json(profiles, OUT_USER_PROFILES)
+    print(green(f"Wrote {len(profiles)} user profiles -> {OUT_USER_PROFILES}"))
+
+    lookup = {}
+    for u in users:
+        if u.get('username'):
+            lookup[u['username'].lower()] = u
+        if u.get('name'):
+            lookup[u['name'].lower()] = u
+
+    def forum_fields(u):
+        username = u.get('username', '')
+        return {
+            'fu': username,
+            'fn': u.get('name', ''),
+            'url': f"{DISCOURSE}/u/{username}",
+            'av': avatar_filename(username) if u.get('avatar_template') else None,
+            'pc': u.get('post_count', 0),
+        }
+
+    def add_bio(entry):
+        profile = profiles.get((entry.get('fu') or '').lower()) or {}
+        bio = ' '.join((profile.get('bio') or '').split())
+        if bio:
+            entry['bio'] = bio if len(bio) <= BIO_PREVIEW_CHARS else bio[:BIO_PREVIEW_CHARS].rstrip() + '…'
+
+    out, matched = [], set()
+    for name, d in sorted(contribs.items(), key=lambda x: -x[1]['count']):
+        entry = {'name': name, 'count': d['count'], 'articles': d['articles']}
+        u = lookup.get(name.lower())
+        if u:
+            matched.add(u.get('username', '').lower())
+            entry.update(forum_fields(u))
+        add_bio(entry)
+        out.append(entry)
+
+    for u in users:
+        if u.get('username', '').lower() in matched:
+            continue
+        entry = {'name': u.get('name') or u.get('username', ''), 'count': 0, 'articles': [], **forum_fields(u)}
+        add_bio(entry)
+        out.append(entry)
+
+    out.sort(key=lambda x: -x['count'])
+    write_json(out, OUT_CONTRIBUTORS)
+    print(green(f"Wrote {len(out)} contributors -> {OUT_CONTRIBUTORS}"))
+
+    if not skip_badges:
+        award_badges(out, dry_run=dry_run)
+
 
 YT_ID_RE = re.compile(r"(?:youtu\.be/|[?&]v=|/(?:shorts|embed|live|v|e)/)([A-Za-z0-9_-]{11})")
 
