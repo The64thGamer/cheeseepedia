@@ -968,7 +968,8 @@ def collect_contributors():
         if not folder.is_dir():
             continue
         meta = read_meta(folder)
-        if (meta.get('type') or '').strip().lower() == 'user':
+        kind = (meta.get('type') or '').strip().lower()
+        if kind == 'user' or kind in {t.lower() for t in TAGGED_BY_TYPES}:
             continue
         for name in meta.get('contributors') or []:
             if not name:
@@ -977,7 +978,6 @@ def collect_contributors():
             entry['count'] += 1
             entry['articles'].append(folder.name)
     return found
-
 
 def load_json_file(path):
     try:
@@ -1067,14 +1067,31 @@ def award_badges(contributors, dry_run=False):
     print(cyan(f"Checking badges for {len(candidates)} matched contributors..."))
 
     granted_total = 0
+    removed_total = 0
     for i, e in enumerate(candidates, 1):
         username, count = e['fu'], e['count']
         owed = [(t, bid) for t, bid in BADGE_TIERS if count >= t]
-        if not owed:
-            continue
+        owed_bids = {bid for _, bid in owed}
         owned = owned_badge_ids(username)
         if owned is None:
             continue
+            
+        all_tier_bids = {bid for _, bid in BADGE_TIERS}
+        for bid in owned:
+            if bid in all_tier_bids and bid not in owed_bids:
+                if dry_run:
+                    print(dim(f"  [dry-run] would revoke badge {bid} from {username} (count {count} too low)"))
+                    continue
+                try:
+                    revoke_badge(username, bid)
+                    print(yellow(f"  [{i}/{len(candidates)}] revoked badge {bid} from {username} (count {count} too low)"))
+                    removed_total += 1
+                    time.sleep(0.3)
+                except urllib.error.HTTPError as ex:
+                    print(red(f"    ! failed to revoke badge {bid} from {username}: HTTP {ex.code} {ex.read()[:200]}"))
+                except Exception as ex:
+                    print(red(f"    ! failed to revoke badge {bid} from {username}: {ex}"))
+
         for threshold, bid in [(t, b) for t, b in owed if b not in owned]:
             if dry_run:
                 print(dim(f"  [dry-run] would grant badge {bid} (>= {threshold}) to {username}"))
@@ -1089,8 +1106,16 @@ def award_badges(contributors, dry_run=False):
             except Exception as ex:
                 print(red(f"    ! failed to grant badge {bid} to {username}: {ex}"))
 
-    print(green(f"{'Would grant' if dry_run else 'Granted'} {granted_total} new badge(s) total."))
+    print(green(f"{'Would grant' if dry_run else 'Granted'} {granted_total} new badge(s) and {'would remove' if dry_run else 'removed'} {removed_total} excess badge(s) total."))
 
+def revoke_badge(username, user_badge_id):
+    req = urllib.request.Request(
+        f"{DISCOURSE}/user_badges/{user_badge_id}.json",
+        method='DELETE',
+        headers=DISCOURSE_HEADERS,
+    )
+    with urllib.request.urlopen(req, timeout=10) as resp:
+        return json.loads(resp.read())
 
 def build_contributors():
     dry_run = '--dry-run' in sys.argv

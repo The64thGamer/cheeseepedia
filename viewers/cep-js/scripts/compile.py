@@ -6,7 +6,6 @@ sys.path.insert(0, os.path.dirname(__file__))
 import discourseFetchNews
 import buildArticleLinker
 import buildCitationLinker
-import buildContributors
 import buildSearch
 import buildFinalData
 import buildMapPins
@@ -24,7 +23,6 @@ def main():
     buildSearch.main()
     buildArticleLinker.main()
     buildCitationLinker.main()
-    buildContributors.main()
     buildMapPins.main()
     buildLocationInventoryLinker.main()
     buildParamHinter.main()

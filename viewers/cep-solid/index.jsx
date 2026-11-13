@@ -15,6 +15,12 @@ export async function render(params, el) {
     return;
   }
 
+  const user = params.get('user');
+  if (user) {
+    solidRender(() => App({ type: 'userpage', user }), el);
+    return;
+  }
+
   if (params.get('page') === 'stats') {
     solidRender(() => App({ type: 'stats' }), el);
     return;

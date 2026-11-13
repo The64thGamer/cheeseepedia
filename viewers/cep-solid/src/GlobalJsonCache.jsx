@@ -25,7 +25,10 @@ export const loadRecentOfficialVideos = () => loadJson(`${SOLID}recentofficialvi
 export const loadTitleToFolderIDMap = () => loadJson(`${SOLID}titleToFolderIDMap.json`);
 export const loadFolderIDToTitleMap = () => loadJson(`${SOLID}folderIDToTitleMap.json`);
 export const loadTypeToIDList = () => loadJson(`${SOLID}typeToIDList.json`);
+export const loadExtraStatistics = () => loadJson(`${SOLID}ExtraStatistics.json`);
+export const loadContributors = () => loadJson(`${SOLID}contributors.json`);
+export const loadUserProfiles = () => loadJson(`${SOLID}userProfiles.json`);
 export const loadViewsMap = () => loadJson(`${JS}views.json`);
-export const loadDiscourseNews = () => loadJson(`${JS}DiscourseNews.json`);
-export const loadDiscourseRecent = () => loadJson(`${JS}DiscourseRecent.json`);
+export const loadDiscourseNews = () => loadJson(`${SOLID}DiscourseNews.json`);
+export const loadDiscourseRecent = () => loadJson(`${SOLID}DiscourseRecent.json`);
 export const loadUserSubmissions = () => loadJson(`${SOLIDPERM}user-submissions.json`);

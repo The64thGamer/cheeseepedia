@@ -1,4 +1,4 @@
-import { loadTitleToFolderIDMap } from './GlobalJsonCache';
+import { loadTitleToFolderIDMap, loadContributors } from './GlobalJsonCache';
 import { marked } from 'marked';
 import { createMap, loadPins } from './MapRenderer';
 
@@ -43,6 +43,46 @@ export function getCurrentView() {
 
 export function getFolderPath(folderID) {
   return `/?v=${getCurrentView()}&=${folderID}`;
+}
+
+export function getUserPath(name) {
+  return `/?v=${getCurrentView()}&user=${encodeURIComponent(name)}`;
+}
+
+let contributorLookup = null;
+
+export function loadContributorLookup() {
+  contributorLookup ??= loadContributors().then((list) => {
+    const map = new Map();
+    for (const c of list) {
+      for (const key of [c.fu, c.name, c.fn]) {
+        const k = (key || '').trim().toLowerCase();
+        if (k && !map.has(k)) map.set(k, c);
+      }
+    }
+    return map;
+  });
+  return contributorLookup;
+}
+
+let contributorsByArticle = null;
+
+export function loadContributorsByArticle() {
+  contributorsByArticle ??= loadContributors().then((list) => {
+    const map = new Map();
+    for (const c of list) {
+      for (const id of c.articles || []) {
+        if (!map.has(id)) map.set(id, []);
+        map.get(id).push(c);
+      }
+    }
+    return map;
+  });
+  return contributorsByArticle;
+}
+
+export function formatUtc(iso) {
+  return iso ? iso.replace('T', ' ').replace(/:\d\dZ$/, ' UTC') : '???';
 }
 
 export function convertStartDate(date) {

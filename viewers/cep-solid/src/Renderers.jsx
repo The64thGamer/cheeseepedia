@@ -1,9 +1,185 @@
 import { createResource, createSignal, createEffect, createMemo, untrack, Show, For, Switch, Match } from 'solid-js';
 import { searchPath, ResultList, loadSearchData, TagList, Pager, PAGE_SIZE } from './SearchPage';
-import { loadUserSubmissions,loadFolderIDToTitleMap, loadTypeToIDList, loadViewsMap, loadDiscourseNews, loadDiscourseRecent, loadRecentFanVideos, loadRecentOfficialVideos, loadTaggedByIDs, loadFolderIDToTags } from './GlobalJsonCache';
+import { loadUserSubmissions,loadFolderIDToTitleMap, loadTypeToIDList, loadViewsMap, loadDiscourseNews, loadDiscourseRecent, loadRecentFanVideos, loadRecentOfficialVideos, loadTaggedByIDs, loadFolderIDToTags, loadExtraStatistics, loadContributors, loadUserProfiles } from './GlobalJsonCache';
 import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks, highlightText } from './GlobalFunctions';
 import { marked } from 'marked';
-import { fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll} from './GlobalFunctions';
+import { fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll, getUserPath, loadContributorLookup, loadContributorsByArticle, formatUtc } from './GlobalFunctions';
+
+const AVATAR_BASE = '/viewers/cep-solid/compiled-json/avatars';
+const BACKGROUND_BASE = '/viewers/cep-solid/compiled-json/backgrounds';
+const TIERS = [
+  { min: 0,    max: 1,     start: '#464141', end: '#464141', rank: 'Bankruptcy' },
+  { min: 2,    max: 4,     start: '#613583', end: '#613583', rank: 'Toddler Zone' },
+  { min: 5,    max: 9,     start: '#3b538a', end: '#3b538a', rank: 'Crusty & Greasy' },
+  { min: 10,   max: 24,    start: '#26a269', end: '#26a269', rank: 'Jumpscare Fodder' },
+  { min: 25,   max: 49,    start: '#d3b31c', end: '#d3b31c', rank: 'Store Tourist' },
+  { min: 50,   max: 74,    start: '#ff7800', end: '#ff7800', rank: 'Wiki Wanderer' },
+  { min: 75,   max: 99,    start: '#e01b24', end: '#e01b24', rank: 'Article Wizard' },
+  { min: 100,  max: 149,   start: '#ff8383', end: '#ff006d', rank: 'Historian' },
+  { min: 150,  max: 299,   start: '#aaa8bc', end: '#241f31', rank: 'Guest Star' },
+  { min: 300,  max: 499,   start: '#c97e3c', end: '#3c6f50', rank: 'Super Chuck' },
+  { min: 500,  max: 749,   start: '#ff7800', end: '#703820', rank: 'Phase IV' },
+  { min: 750,  max: 999,   start: '#e3e9e8', end: '#5b5f60', rank: 'CEC Master' },
+  { min: 1000, max: 99999, start: '#d9d15a', end: '#ce6923', rank: 'The Giant Rat That Makes All of the Rules' },
+];
+const getTier = (count) => TIERS.find((t) => count >= t.min && count <= t.max) || TIERS[0];
+const tierBackground = (t) => (t.start === t.end ? t.start : `linear-gradient(0deg, ${t.start}, ${t.end})`);
+
+function UserTag(props) {
+  const [user] = createResource(
+    () => props.user ?? props.username,
+    async (key) =>
+      typeof key === 'object'
+        ? key
+        : (await loadContributorLookup()).get(String(key).trim().toLowerCase()) || null
+  );
+
+  return (
+    <Show when={user()} fallback={<span>{props.username ?? props.user?.name}</span>}>
+      {(u) => {
+        const [bubble, setBubble] = createSignal(false);
+        const tier = () => getTier(u().count || 0);
+        const name = () => u().fn || u().name || u().fu || '?';
+        const quote = () => u().bio || null;
+        return (
+          <div
+            class="UserCard"
+            style={{ background: tierBackground(tier()) }}
+            title={`Rank: ${tier().rank}`}
+            onMouseEnter={() => setBubble(true)}
+            onMouseLeave={() => setBubble(false)}
+          >
+            <Show when={u().av}>
+              <img
+                class="UserAvatar"
+                src={`${AVATAR_BASE}/${u().av}`}
+                alt={name()}
+                onError={(e) => (e.currentTarget.style.display = 'none')}
+              />
+            </Show>
+            <a class="UserLink" href={getUserPath(u().fu || u().name)}>
+              <span class="UserLabel">
+                <span class="UserName">{name()}</span>
+                <span class="UserCount">(+{u().count || 0})</span>
+              </span>
+            </a>
+            <Show when={quote()}>
+              <div class="UserBubble" classList={{ UserBubbleVisible: bubble() }}>{quote()}</div>
+            </Show>
+          </div>
+        );
+      }}
+    </Show>
+  );
+}
+
+export function renderUserTag(username) {
+  return <UserTag username={username} />;
+}
+
+function UserPage(props) {
+  const [tab, setTab] = createSignal('Articles');
+  const [page, setPage] = createSignal(0);
+
+  const [loaded] = createResource(async () => {
+    const [lookup, profiles, data] = await Promise.all([loadContributorLookup(), loadUserProfiles(), loadSearchData()]);
+    const user = lookup.get(String(props.username || '').trim().toLowerCase()) || null;
+    if (!user) return { user: null };
+    const key = (id) => data.sortKeys?.[id] || [0, 0];
+    const articles = [...(user.articles || [])].sort((a, b) => key(b)[0] - key(a)[0] || key(b)[1] - key(a)[1]);
+    return {
+      user,
+      data,
+      profile: profiles[(user.fu || '').toLowerCase()] || null,
+      lists: {
+        Articles: articles,
+        Reviews: articles.filter((id) => (data.idType[id] || '').toLowerCase() === 'reviews'),
+      },
+    };
+  });
+
+  const ids = () => loaded()?.lists?.[tab()] || [];
+  const pages = () => Math.max(1, Math.ceil(ids().length / PAGE_SIZE));
+  const pageIds = () => ids().slice(page() * PAGE_SIZE, (page() + 1) * PAGE_SIZE);
+
+  const selectTab = (name) => {
+    setTab(name);
+    setPage(0);
+  };
+  const goToPage = (i) => {
+    setPage(i);
+    window.scrollTo({ top: 0 });
+  };
+
+  return (
+    <Show when={!loaded.loading} fallback={<div>Loading…</div>}>
+      <Show when={loaded()?.user} fallback={<div class="NoContent">No user found with that name.</div>}>
+        {(() => {
+          const { user, profile, data } = loaded();
+          const tier = getTier(user.count || 0);
+          const username = user.fu || user.name;
+          return (
+            <div class="UserProfile fade-in">
+              <div
+                class="UserBanner"
+                style={profile?.bg ? { 'background-image': `url('${BACKGROUND_BASE}/${profile.bg}')` } : {}}
+              />
+              <div class="UserProfileHead">
+                <Show when={user.av}>
+                  <img class="UserProfileAvatar" src={`${AVATAR_BASE}/${user.av}`} alt={username} />
+                </Show>
+                <div>
+                  <h1 class="article-title">
+                    <Show when={user.url} fallback={username}>
+                      <a href={user.url} target="_blank" rel="noopener noreferrer">{username}</a>
+                    </Show>
+                  </h1>
+                  <div>
+                    <span class="UserRank" style={{ background: tierBackground(tier) }}>{tier.rank}
+                    {' '}(+{user.count || 0})
+                    </span>
+                  </div>
+                  <Show when={profile?.bio}>
+                    <div class="UserProfileBio">{profile.bio}</div>
+                  </Show>
+                  <Show when={profile?.joined}>
+                    <div class="UserProfileJoined">Joined {convertStartDate(profile.joined.slice(0, 10))}</div>
+                  </Show>
+                </div>
+              </div>
+              <div class="ArticleTabs">
+                <For each={Object.keys(loaded().lists)}>
+                  {(name) => (
+                    <button
+                      type="button"
+                      class="PinButton"
+                      classList={{ active: tab() === name }}
+                      aria-pressed={tab() === name}
+                      onClick={() => selectTab(name)}
+                    >
+                      {name} ({loaded().lists[name].length})
+                    </button>
+                  )}
+                </For>
+              </div>
+              <div class="TaggedList fade-in">
+                <Show when={page() > 0}>
+                  <Pager page={page()} pages={pages()} onPage={goToPage} />
+                </Show>
+                {renderTaggedList(tab() === 'Reviews' ? 'reviews' : 'compact', pageIds(), data)}
+                <Pager page={page()} pages={pages()} onPage={goToPage} />
+              </div>
+            </div>
+          );
+        })()}
+      </Show>
+    </Show>
+  );
+}
+
+export function renderUserPage(username) {
+  return <UserPage username={username} />;
+}
 
 
 const EXCLUDE = new Set(['photos','videos','reviews','user','steam comment','theories','meta','transcriptions']);
@@ -42,6 +218,14 @@ function renderTaggedList(type, ids, data) {
         <div class="ResultCards">
           <For each={ids}>
             {(id) => <RenderedId id={id} render={renderCard} />}
+          </For>
+        </div>
+      );
+    case 'compact':
+      return (
+        <div class="ResultCompact">
+          <For each={ids}>
+            {(id) => <RenderedId id={id} render={renderCompact} />}
           </For>
         </div>
       );
@@ -154,6 +338,19 @@ function ArticleTags(props) {
     <Show when={idTags()?.[props.folderID]?.length}>
       <h2>Tags</h2>
       <TagList tags={idTags()[props.folderID]} />
+    </Show>
+  );
+}
+
+function ArticleContributors(props) {
+  const [list] = createResource(async () => (await loadContributorsByArticle()).get(props.folderID) || []);
+
+  return (
+    <Show when={list()?.length}>
+      <h2>Contributors</h2>
+      <div class="UserCards">
+        <For each={list()}>{(c) => <UserTag user={c} />}</For>
+      </div>
     </Show>
   );
 }
@@ -348,7 +545,7 @@ export function renderStatsPage() {
     const [links, downloads, contributors, views] = await Promise.all([
       load('citation_links'),
       load('download_links'),
-      load('contributors'),
+      loadContributors(),
       loadViewsMap(),
     ]);
 
@@ -368,7 +565,7 @@ export function renderStatsPage() {
           pageID: dl.pageTitle ? await fetchFolderIDFromTitle(dl.pageTitle) : null,
         }))
       ),
-      contributors: [...contributors].sort((a, b) => (b.count || 0) - (a.count || 0)),
+      contributors: contributors.filter((c) => c.articles?.length).sort((a, b) => (b.count || 0) - (a.count || 0)),
       homeMonths,
       homeTotal: homeMonths.reduce((sum, h) => sum + h.count, 0),
       searchTotal: views._search || 0,
@@ -433,13 +630,9 @@ export function renderStatsPage() {
                 content: () => (
                   <>
                     Every single contributor on the site!
-                    <div class="ContributorsList">
+                    <div class="UserCards">
                       <For each={data().contributors}>
-                        {(c) => (
-                          <div class="ContributorsItem">
-                            <strong>{c.name}</strong> {c.count || 0}
-                          </div>
-                        )}
+                        {(c) => renderUserTag(c.name)}
                       </For>
                     </div>
                     </>
@@ -742,7 +935,41 @@ function timeAgo(iso) {
   if (mins < 60) return plural(mins, 'min');
   const hours = Math.floor(mins / 60);
   if (hours < 24) return plural(hours, 'hour');
-  return plural(Math.floor(hours / 24), 'day');
+  const days = Math.floor(hours / 24);
+  return days < 7 ? plural(days, 'day') : plural(Math.floor(days / 7), 'week');
+}
+
+function groupSubmissions(list) {
+  const groups = [];
+  const index = new Map();
+  for (const s of list) {
+    const label = timeAgo(s.submittedAt);
+    const key = `${s.username}|${label}`;
+    let group = index.get(key);
+    if (!group) {
+      group = { username: s.username, label, items: [] };
+      index.set(key, group);
+      groups.push(group);
+    }
+    group.items.push(s);
+  }
+  return groups;
+}
+
+function RecentChange(props) {
+  return (
+    <>
+      <Show when={props.s.pageID} fallback={props.s.title?.trim() || 'New Article'}>
+        <a href={getFolderPath(props.s.pageID)}>{props.s.title.trim()}</a>
+      </Show>
+      <div class="RecentChangeMetaLine">
+        <span class={`RecentChangesStatus ${submissionStatus(props.s).toLowerCase()}`}>
+          {submissionStatus(props.s)}
+        </span>
+        <FileChangeTags files={props.s.files} />
+      </div>
+    </>
+  );
 }
 
 
@@ -837,22 +1064,27 @@ export function renderHome() {
             {
               name: 'Recent Changes',
               content: () => (
-                <ul class="RecentChanges">
-                  <For each={submissions() || []}>
-                    {(s) => (
-                      <li class="RecentChangesItem">
-                        <strong>{s.username}</strong> -{' '}
-                        <Show when={s.pageID} fallback={s.title?.trim() || 'New Article'}>
-                          <a href={getFolderPath(s.pageID)}>{s.title.trim()}</a>
+                <div class="RecentChanges">
+                  <For each={groupSubmissions(submissions() || [])}>
+                    {(g) => (
+                      <div class="RecentChangesItem">
+                        {renderUserTag(g.username)}
+                        <div class="ListMeta">{g.label}</div>
+                        <Show when={g.items.length > 1} fallback={<RecentChange s={g.items[0]} />}>
+                          <ul>
+                            <For each={g.items}>
+                              {(s) => (
+                                <li>
+                                  <RecentChange s={s} />
+                                </li>
+                              )}
+                            </For>
+                          </ul>
                         </Show>
-                        <div class={`RecentChangesStatus ${submissionStatus(s).toLowerCase()}`}>
-                          {submissionStatus(s)} {timeAgo(s.submittedAt)}
-                        </div>
-                        <FileChangeTags files={s.files} />
-                      </li>
+                      </div>
                     )}
                   </For>
-                </ul>
+                </div>
               ),
             }
           ]}
@@ -894,10 +1126,11 @@ export function renderHome() {
   );
 }
 export function renderFooter(){
+  const [stats] = createResource(loadExtraStatistics);
   return(
     <>
     <div class="Footer">
-          Last build on: <span id="StatBuildDate">???</span>. Content is available under CC BY-SA 4.0. and rehostable. Cheese-E-Pedia is not associated with any person, company, or entity in its articles. <a href="https://youtu.be/Vce1hFNVI1o">All</a> rights <a href="https://vyletpony.bandcamp.com/track/falling-in-love-with-a-corporate-illustration">reserved</a> for <a href="https://youtu.be/y8LVM3rVSM4">our</a> lovely <a href="https://vyletpony.bandcamp.com/track/webpunk-ft-nekosnicker">trans</a> queers <a href="https://youtu.be/hdus_rz7O3o">forever</a>! <a href="https://www.tumblr.com/ytpforyouandme/728755424298401793">Corporations</a> should rot in <a href="https://stomachbook.bandcamp.com/track/my-diorama">hell</a>, keep things <a href="https://youtu.be/tkUgOT22F5s">independent</a> and <a href ="https://crimethinc.com/">community</a> focused, and no <a href="https://consumerrights.wiki/w/Main_Page">gatekeepers!</a>
+          Last Updated: {formatUtc(stats()?.generated)}. Content is available under CC BY-SA 4.0. and rehostable. Cheese-E-Pedia is not associated with any person, company, or entity in its articles. <a href="https://youtu.be/Vce1hFNVI1o">All</a> rights <a href="https://vyletpony.bandcamp.com/track/falling-in-love-with-a-corporate-illustration">reserved</a> for <a href="https://youtu.be/y8LVM3rVSM4">our</a> lovely <a href="https://vyletpony.bandcamp.com/track/webpunk-ft-nekosnicker">trans</a> queers <a href="https://youtu.be/hdus_rz7O3o">forever</a>! <a href="https://www.tumblr.com/ytpforyouandme/728755424298401793">Corporations</a> should rot in <a href="https://stomachbook.bandcamp.com/track/my-diorama">hell</a>, keep things <a href="https://youtu.be/tkUgOT22F5s">independent</a> and <a href ="https://crimethinc.com/">community</a> focused, and no <a href="https://consumerrights.wiki/w/Main_Page">gatekeepers!</a>
           <br /><br />
           <a href ="/?v=cep-solid&=75z6oyfn7xf7t4ol">About</a> • <a href ="/?v=cep-solid&=434ngf34ngjktegrgt">Privacy Policy</a> • <a href ="/?v=cep-solid&=o2eldeduwff18fw2">Rules</a> • <a href ="/?v=cep-solid&=v144sposbsi3z29v">FAQ</a> • <a href ="/?v=cep-solid&page=stats">Nerd Stuff</a> • <a href ="/?v=cep-solid&=434ngf34ngjktegrfh">Manual</a> • <a href ="/?v=cep-solid&page=settings">Settings</a>
       </div>
@@ -1136,6 +1369,8 @@ export function renderSplashText() {
   );
 }
 export function renderHeader() {
+  const [stats] = createResource(loadExtraStatistics);
+  const count = (key) => stats()?.[key]?.toLocaleString() ?? '????';
   let file = LOGOS.standard;
   try {
     const t = localStorage.getItem('cep-theme') || 'standard';
@@ -1153,9 +1388,9 @@ export function renderHeader() {
           <img src={'/viewers/cep-js/assets/Logos/' + file} alt="Cheesepedia" />
         </a>
         <div class="FlavorText">
-          Now at <strong><span id="StatArticles">????</span></strong> articles contributed by <strong><span id="StatContributors">???</span></strong> users.
+          Now at <strong>{count('articles')}</strong> articles, <strong>{count('photos')}</strong> photos, and <strong>{count('videos')}</strong> videos
           <br />
-          Discussions available on the <strong><a href="https://forum.cheeseepedia.org/">Forums!</a></strong>
+          Contributed by <strong><a href="https://forum.cheeseepedia.org/">{count('contributors')} users!</a></strong>
           <br />
           {!onSearchPage && (
             <button class="FakeSearchBar" onClick={() => (window.location.href = "/?v=cep-solid&page=search")}>Search...</button>
@@ -1433,6 +1668,7 @@ export function renderVideoArticle(meta) {
         </div>
         <Citations citations={meta.citations} />
         <ArticleTags folderID={meta.folderID}/>
+      <ArticleContributors folderID={meta.folderID}/>
       </div>
     </>
   );
@@ -1520,6 +1756,7 @@ export function renderPhotoArticle(meta) {
         </div>
         <Citations citations={meta.citations} />
         <ArticleTags folderID={meta.folderID}/>
+      <ArticleContributors folderID={meta.folderID}/>
       </div>
     </>
   );
@@ -1640,6 +1877,7 @@ export function renderStandardArticle(meta) {
       </div>
       </ArticleTabs>
       <ArticleTags folderID={meta.folderID}/>
+      <ArticleContributors folderID={meta.folderID}/>
     </>
   );
 }
