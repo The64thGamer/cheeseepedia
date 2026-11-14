@@ -14,10 +14,6 @@ On October 29, 1983, the restaurant held a Halloween costume contest; the prize 
 
 ### Closure
 
-On January 27, 1985, the Henrietta Gadgets permanently closed [6], along with nine other restaurants due to poor sales and the dissolution of Leisure Development [7]. Though the space has had multiple tenants over the decades, it is currently vacant.
+On January 27, 1985, the Henrietta Gadgets permanently closed [6], along with nine other restaurants due to poor sales and the dissolution of Leisure Development [7]. The space is currently vacant.
 
 The Marketplace Mall closed on December 31, 2025.
-
-### Fate of the Animatronics
-
-Currently, the fates of the Henrietta Sammy Sands and Looney Tunes Revue are unknown.

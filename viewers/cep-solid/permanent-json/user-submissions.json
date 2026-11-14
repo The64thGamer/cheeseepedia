@@ -2768,5 +2768,95 @@
         "del": 2
       }
     ]
+  },
+  {
+    "username": "ThatRockHistorian76",
+    "title": "9Z1Td27GspjgdLDqkHYA.avif",
+    "submittedAt": "2026-11-14T21:04:42Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "modified",
+        "add": 1,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 10,
+        "del": 2
+      },
+      {
+        "name": "photo.avif",
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "username": "ThatRockHistorian76",
+    "title": "9Z1Td27GspjgdLDqkHYA.avif",
+    "submittedAt": "2026-11-14T21:04:42Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "photo.avif",
+        "status": "modified"
+      }
+    ]
+  },
+  {
+    "username": "ThatRockHistorian76",
+    "title": "Rosedale, MD (6400 Rossville Blvd)",
+    "submittedAt": "2026-11-14T21:58:31Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "modified",
+        "add": 1,
+        "del": 1
+      },
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 1,
+        "del": 7
+      }
+    ]
+  },
+  {
+    "username": "ThatRockHistorian76",
+    "title": "Henrietta, NY (3400 W Henrietta Rd)",
+    "submittedAt": "2026-11-14T22:00:43Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "modified",
+        "add": 2,
+        "del": 6
+      }
+    ]
+  },
+  {
+    "username": "sudo-trans-pony",
+    "title": "CEC Road Trip: Store Tour of Florence, SC CEC",
+    "submittedAt": "2026-11-14T22:48:48Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      }
+    ]
   }
 ]

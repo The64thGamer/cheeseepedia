@@ -1,0 +1,1 @@
+The Beta Beach Bear animatronic at [Jacksonville, FL (9820 Atlantic Blvd)].
