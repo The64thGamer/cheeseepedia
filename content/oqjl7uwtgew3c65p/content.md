@@ -1,0 +1,1 @@
+The [Chuck E.'s House Facade] at [Mattydale, NY (2803 Brewerton Rd)].

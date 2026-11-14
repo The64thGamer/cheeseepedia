@@ -9,15 +9,19 @@
   "contributors": [
     "sudo-trans-pony",
     "CyberSnout",
-    "Bowling for Cheese"
+    "Bowling for Cheese",
+    "Ceclife13"
   ],
   "citations": [],
   "pageThumbnailFile": "muFXItI08rcpPvNFiarw.avif",
   "showtapeFormats": [
     "Studio C 3x DVD + Floppy",
-    "Studio C 3x DVD + Floppy",
     "Studio C USB + MicroSD",
     "3-Stage DVD",
     "Cyberamics DVD"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

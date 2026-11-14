@@ -10,14 +10,14 @@ Play-N-Place was developed by Bill Caldwell, a special projects construction wor
 
 Each store could choose out of 12 attractions. Though in the Games Examiner feature, there were only 8 of the 12 listed(0). The 8 listed were:
 
-- Jasper's Jump Around - Kids can bounce around on a king-sized air mattress bounce floor.
-- Pasqually's Punch Bags - Allows kids to punch, bump, and tackle foam filled punch bags.
-- Beagles Ballroom - Ball Crawl filled with 20,000 plastic balls.
-- Chuck E's Challenge - Kids can climb around on a cargo net, walk around on a suspension bridge, and go down an S-Shaped slide.
-- Munch's Maddening Maze - Kids enter through a turning barrel, and wind through corridors until they reach the exit.
-- Dolli's Descent - Kids hang on to a rope and slide down by means of a pulley.
-- Harmony's Round-Up Hill - Large air pillow mountain where kids can play King of the Mountain.
-- Madame Oink's Magic Mirrors - Allows kids to see themselves wide, thin, skinny, and tall.
+* Jasper's Jump Around - Kids can bounce around on a king-sized air mattress bounce floor.
+* Pasqually's Punch Bags - Allows kids to punch, bump, and tackle foam filled punch bags.
+* Beagles Ballroom - Ball Crawl filled with 20,000 plastic balls.
+* Chuck E's Challenge - Kids can climb around on a cargo net, walk around on a suspension bridge, and go down an S-Shaped slide.
+* Munch's Maddening Maze - Kids enter through a turning barrel, and wind through corridors until they reach the exit.
+* Dolli's Descent - Kids hang on to a rope and slide down by means of a pulley.
+* Harmony's Round-Up Hill - Large air pillow mountain where kids can play King of the Mountain.
+* Madame Oink's Magic Mirrors - Allows kids to see themselves wide, thin, skinny, and tall.
 
 Other features included a shadow room, a small gravity powered roller coaster, and various slides.
 
@@ -25,10 +25,10 @@ Other features included a shadow room, a small gravity powered roller coaster, a
 
 Various pieces were placed into the room for surveillance, and safety.
 
-- Padded walls and flooring.
-- No sharp corners wherever possible.
-- An attendant is present at all times.
-- Large platforms were available for viewing of parents.
+* Padded walls and flooring.
+* No sharp corners wherever possible.
+* An attendant is present at all times.
+* Large platforms were available for viewing of parents.
 
 ### Access
 
@@ -42,11 +42,20 @@ A store had to be at least 10,000 square feet in order to contain a Play-N-Place
 
 According to the debut article in 1983, there were 53 placed into locations. The listed ones are the ones we know of.
 
-| Location                                                        | Opening / Installation Date | Removal Date      |
-|-----------------------------------------------------------------|-----------------------------|-------------------|
-| Las Vegas, NV (4750 Vegas Dr)                                   | May 16, 1982                | 1985              |
-| [Abilene, TX (4220 N 1st St)]           | 1982                        | 1984              |
-| Lawton, OK (1048 NW 38th St)                                    | 1982                        | 1984              |
-| Shreveport, LA (1724 E 70th St)                                 | August 2, 1982              | May 3, 1987       |
-| [Tallahassee, FL (1155 Apalachee Pkwy)] | August 8, 1982              | November 18, 1984 |
-| [Phoenix, AZ (4310 W Thomas Rd)]        | 1983                        | 1985              |
+| Location | Opening / Installation Date | Removal Date |
+| -------- | --------------------------- | ------------ |
+| [Las Vegas, NV (4750 Vegas Dr)] | May 16, 1982 | 1985 |
+| [Lawton, OK (1048 NW 38th St)] | 1982 | November 1985 |
+| [Abilene, TX (4220 N 1st St)] | 1982 | 1984 |
+| [Shreveport, LA (1724 E 70th St)] | August 2, 1982 | May 3, 1987 |
+| [Tallahassee, FL (1155 Apalachee Pkwy)] | August 8, 1982 | November 18, 1984 |
+| [Phoenix, AZ (4310 W Thomas Rd)] | December 1982 | 1985 |
+| [Chicago, IL (7300 W. Foster Ave)] | February 17, 1983 | 1986 |
+| [Normal, IL (1540 E. College Ave)] | March 28th, 1983 | 2/29/1992 |
+| [Loves Park, IL (6505 N. 2nd St)] | 1983 | 1988 |
+| [Springfield, IL (1766 Wabash Ave)] | 1983 | June 30th, 1985 |
+| [Duluth, MN (1600 Miller Trunk Hwy)] | June 2, 1983 | 1986 |
+| [Richfield, MN (2900 W. 66th St)] | June 1983 | 4/30/1990 |
+| [Tampa, FL (13210 N. Dale Mabry Hwy)] | July 1983 | 1984 |
+| [Fontana, CA (17069 Valley Blvd)] | December 1983 | Unknown |
+

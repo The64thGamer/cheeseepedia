@@ -1,4 +1,4 @@
-**North Olmsted, OH (23333 Lorain Rd)** was a Pizza Time Theatre which opened in December 1981 with a [Balcony Stage]. It should not be confused with [North Olmsted, OH (26104 Great Northern Sh)] which was the Chuck E. Cheese's location that opened in January 1993 with a 2-Stage and still open to this day with the 2.0 remodel. North Olmsted would eventually become one of 5 Pizza Time Theatres to be rebranded as Marc's Funtime Pizza Palace. Now a CVS and Dollar General occupy what was once this location.
+**North Olmsted, OH (23333 Lorain Rd)** was a Pizza Time Theatre which opened in December 1981 with a [Balcony Stage]. It should not be confused with [North Olmsted, OH (26104 Great Northern Shopping)] which was the Chuck E. Cheese's location that opened in January 1993 with a 2-Stage and still open to this day with the 2.0 remodel. North Olmsted would eventually become one of 5 Pizza Time Theatres to be rebranded as Marc's Funtime Pizza Palace. Now a CVS and Dollar General occupy what was once this location.
 
 ## History
 

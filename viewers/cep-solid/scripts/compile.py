@@ -45,6 +45,8 @@ FAN_CHANNELS = [
     "@chattychucke5535",
     "@sptweb",
     "@GSully",
+    "@coastline_craze",
+    "@NintendoCraft28",
     "@TheTNTMuffin",
     "@setsstreetseats",
     "@LiamsExplorations",
@@ -87,6 +89,7 @@ FAN_CHANNELS = [
     "@CASAnimatronics",
     "@tylershannon4945",
     "@Dmanswish",
+    "@hallsofvallhalla",
     "@Dawko",
     "@JonnyBlox"
 ]
@@ -1921,6 +1924,8 @@ def add_fandom_videos():
                     print(red(f"\n[{i}/{total}] Could not load {vid}: {details['error']}"))
                     continue
                 if matches_pattern(details["title"], reject_patterns):
+                    rejected.add(vid)
+                    save_rejected(rejected)
                     auto_rejected += 1
                     print(yellow(f"\n[{i}/{total}] Auto-rejected: {details['title']}"))
                     continue
@@ -1942,15 +1947,18 @@ def add_fandom_videos():
                     continue
                 if action == "autoreject":
                     reject_patterns.append(tags[0])
+                    rejected.add(vid)
                     kept = []
                     for v in pending:
                         if matches_pattern(listing[v], reject_patterns):
                             futures.pop(v).cancel()
+                            rejected.add(v)
                         else:
                             kept.append(v)
                     removed = len(pending) - len(kept) + 1
                     pending[:] = kept
                     auto_rejected += removed
+                    save_rejected(rejected)
                     print(yellow(f"  Auto-rejected {removed} video(s) matching '{tags[0]}' for {handle} only."))
                     continue
                 if action == "reject":

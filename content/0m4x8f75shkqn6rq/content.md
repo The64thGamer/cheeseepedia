@@ -1,0 +1,1 @@
+The Chuck walkaround at [Mattydale, NY (2803 Brewerton Rd)].
