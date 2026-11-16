@@ -13,7 +13,7 @@
 }
 
 [data-wide] body{
-  max-width: 80rem;
+  max-width: 100%;
 }
 
 [data-editor] body{

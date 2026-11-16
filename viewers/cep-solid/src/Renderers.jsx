@@ -1,9 +1,9 @@
 import { createResource, createSignal, createEffect, createMemo, untrack, Show, For, Switch, Match } from 'solid-js';
 import { searchPath, ResultList, loadSearchData, TagList, Pager, PAGE_SIZE } from './SearchPage';
-import { loadUserSubmissions,loadFolderIDToTitleMap, loadTypeToIDList, loadViewsMap, loadDiscourseNews, loadDiscourseRecent, loadRecentFanVideos, loadRecentOfficialVideos, loadTaggedByIDs, loadFolderIDToTags, loadExtraStatistics, loadContributors, loadUserProfiles } from './GlobalJsonCache';
+import { loadAnniversaries, loadUserSubmissions,loadFolderIDToTitleMap, loadTypeToIDList, loadViewsMap, loadDiscourseNews, loadDiscourseRecent, loadRecentFanVideos, loadRecentOfficialVideos, loadTaggedByIDs, loadFolderIDToTags, loadExtraStatistics, loadContributors, loadUserProfiles } from './GlobalJsonCache';
 import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks, highlightText } from './GlobalFunctions';
 import { marked } from 'marked';
-import { fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll, getUserPath, loadContributorLookup, loadContributorsByArticle, formatUtc } from './GlobalFunctions';
+import { loadPinned, togglePin, fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll, getUserPath, loadContributorLookup, loadContributorsByArticle, formatUtc } from './GlobalFunctions';
 
 const AVATAR_BASE = '/viewers/cep-solid/compiled-json/avatars';
 const BACKGROUND_BASE = '/viewers/cep-solid/compiled-json/backgrounds';
@@ -187,7 +187,6 @@ const TABS = {
   Articles: (t) => !EXCLUDE.has(t),
   Photos:   (t) => t === 'photos',
   Videos:   (t) => t === 'videos',
-  Reviews:  (t) => t === 'reviews',
 };
 const NAV_GROUPS = [
   { name: "Chuck E. Cheese FEC's", tags: ["Chuck E. Cheese's","Chuck's Arcade","Chuck E. Cheese Adventure World","Chuck E. Cheese Pizza",'Discovery Zone', 'Peter Piper Pizza', "TJ Hartford's Sports Grille","Monterey's"] },
@@ -355,10 +354,28 @@ function ArticleContributors(props) {
   );
 }
 
+function PinToggle(props) {
+  const [pinned, setPinned] = createSignal(loadPinned().includes(props.folderID));
+
+  return (
+    <button
+      type="button"
+      class="PinButton"
+      title={pinned() ? 'Unpin page' : 'Pin page'}
+      aria-pressed={pinned()}
+      style={{ background: pinned() ? 'var(--primary)' : 'var(--background)' }}
+      onClick={() => setPinned(togglePin(props.folderID))}
+    >
+      📌
+    </button>
+  );
+}
+
 function EditPageButton(props) {
   return (
     <div class="ArticleTabs">
       <a class="PinButton" href={`${EDITOR_URL}&=${props.folderID}`}>Edit Page</a>
+      <PinToggle folderID={props.folderID} />
     </div>
   );
 }
@@ -431,6 +448,7 @@ function ArticleTabs(props) {
           {(link) => <option value={link.href}>{link.name}</option>}
         </For>
       </select>
+      <PinToggle folderID={folderID()} />
       <Show when={groups().size}>
         <button
           type="button"
@@ -535,6 +553,245 @@ export function renderArticle(meta){
 }
 
 
+const THEME_KEY = 'cep-theme';
+const CUSTOM_KEY = 'cep-theme-custom';
+const WIDE_KEY = 'cep-wide';
+const HOLIDAY_KEY = 'cep-holiday';
+const LOGO_BASE = '/viewers/cep-js/assets/Logos/';
+const THEMES = [
+  'standard', 'dark', 'light', 'classic', 'funnet', 'showbiz',
+  'fnaf', 'italy', 'winter', 'halloween', 'pride', 'anniversary',
+];
+const CSS_VARS = [
+  { key: '--background', label: 'Background' },
+  { key: '--text', label: 'Text' },
+  { key: '--primary', label: 'Primary' },
+  { key: '--secondary', label: 'Secondary' },
+  { key: '--good-link', label: 'Good Link' },
+  { key: '--bad-link', label: 'Bad Link' },
+  { key: '--distant', label: 'Distant' },
+  { key: '--edit-background', label: 'Editor Background' },
+  { key: '--dark', label: 'Dark' },
+];
+const FONT_VARS = [
+  { key: '--font-body', label: 'Body Font' },
+  { key: '--font-display', label: 'Display Font' },
+];
+const FONTS = [
+  'Aleo', 'RockoFLF', 'Stalker', 'Sylvar', 'Octobre', 'Unutterable',
+  'sans-serif', 'serif', 'monospace', 'RBYGSC',
+];
+const LOGO_FILES = [
+  'CEPLogo.avif', 'LogoDark.avif', 'LogoLight.avif', 'LogoClassic.avif',
+  'LogoFunNet.avif', 'LogoFunNetLow.avif', 'LogoShowBiz.avif', 'LogoFNaF.avif',
+  'LogoPasqually.avif', 'LogoWinter.avif', 'LogoHalloween.avif', 'LogoPride.avif',
+  'LogoAnniversary.avif',
+];
+const CUSTOM_DEFAULTS = {
+  '--background': '#233355',
+  '--edit-background': '#234555',
+  '--text': '#dbd1b1',
+  '--primary': '#e0961f',
+  '--secondary': '#D44A02',
+  '--good-link': '#39A481',
+  '--bad-link': '#D44A02',
+  '--distant': '#993b08',
+  '--dark': '#2c2422',
+  '--font-body': 'Aleo',
+  '--font-display': 'RockoFLF',
+  '--logo': 'CEPLogo.avif',
+};
+
+const toHex = (color) => {
+  const c = (color || '').replace(/['"]/g, '').trim();
+  if (/^#[0-9a-f]{6}$/i.test(c)) return c;
+  if (/^#[0-9a-f]{8}$/i.test(c)) return c.slice(0, 7);
+  return '#000000';
+};
+
+const setLogo = (file) => {
+  const img = document.querySelector('.Logo img');
+  if (img) img.src = LOGO_BASE + file;
+};
+
+export function applyTheme(theme, custom = null) {
+  const root = document.documentElement;
+  [...CSS_VARS, ...FONT_VARS].forEach(({ key }) => root.style.removeProperty(key));
+  if (theme === 'custom' && custom) {
+    root.removeAttribute('data-theme');
+    Object.entries(custom).forEach(([k, v]) => root.style.setProperty(k, v));
+  } else if (theme === 'standard') {
+    root.removeAttribute('data-theme');
+  } else {
+    root.setAttribute('data-theme', theme);
+  }
+}
+
+export function applyWide(wide) {
+  document.documentElement.toggleAttribute('data-wide', !!wide);
+}
+
+export function getHolidayTheme(now = new Date()) {
+  const m = now.getMonth() + 1;
+  const d = now.getDate();
+  if (m === 12 || m === 1) return 'winter';
+  if (m === 10 && d >= 25) return 'halloween';
+  if (m === 6) return 'pride';
+  if (m === 5 && d === 17) return 'anniversary';
+  if (m === 8 && d === 8) return 'fnaf';
+  if (m === 3 && d === 2) return 'showbiz';
+  if (m === 7 && d === 14) return 'classic';
+  return null;
+}
+
+export function getActiveTheme() {
+  const holiday = loadKey(HOLIDAY_KEY, '1') === '1' ? getHolidayTheme() : null;
+  return holiday || loadKey(THEME_KEY, 'standard');
+}
+
+export function loadSavedTheme() {
+  applyTheme(getActiveTheme(), loadKey(CUSTOM_KEY, null));
+  applyWide(loadKey(WIDE_KEY, '0') === '1');
+}
+
+export function renderSettingsPage() {
+  const [theme, setTheme] = createSignal(loadKey(THEME_KEY, 'standard'));
+  const [wide, setWide] = createSignal(loadKey(WIDE_KEY, '0') === '1');
+  const [holiday, setHoliday] = createSignal(loadKey(HOLIDAY_KEY, '1') === '1');
+
+  const saved = loadKey(CUSTOM_KEY, null) || {};
+  const [custom, setCustom] = createSignal(
+    Object.fromEntries(
+      Object.entries(CUSTOM_DEFAULTS).map(([k, v]) => {
+        const val = saved[k] || v;
+        return [k, k.startsWith('--font') || k === '--logo' ? val : toHex(val)];
+      })
+    )
+  );
+
+  const refresh = () => {
+    const active = getActiveTheme();
+    applyTheme(active, custom());
+    setLogo(active === 'custom' ? custom()['--logo'] : LOGOS[active] || LOGOS.standard);
+  };
+
+  const changeTheme = (val) => {
+    setTheme(val);
+    saveKey(THEME_KEY, val);
+    refresh();
+  };
+
+  const changeHoliday = (val) => {
+    setHoliday(val);
+    saveKey(HOLIDAY_KEY, val ? '1' : '0');
+    refresh();
+  };
+
+  const changeCustom = (key, value) => {
+    setCustom((prev) => ({ ...prev, [key]: value }));
+    saveKey(CUSTOM_KEY, custom());
+    if (getActiveTheme() === 'custom') refresh();
+  };
+
+  const changeWide = (val) => {
+    setWide(val);
+    saveKey(WIDE_KEY, val ? '1' : '0');
+    applyWide(val);
+  };
+
+  const titleCase = (s) => s.charAt(0).toUpperCase() + s.slice(1);
+
+  return (
+    <>
+      <h1 class="article-title">Settings</h1>
+      <div class="SettingsPage fade-in">
+        <div class="SettingsSection">
+          <h2 class="SettingsSectionTitle">Theme</h2>
+          <div class="SettingsRow">
+            <label class="SettingsLabel">Holiday Theming</label>
+            <input
+              type="checkbox"
+              class="SettingsToggle"
+              checked={holiday()}
+              onChange={(e) => changeHoliday(e.target.checked)}
+            />
+          </div>
+          <Show when={holiday() && getHolidayTheme()}>
+            <div class="SettingsNote">
+              Holiday theme active: {titleCase(getHolidayTheme())}. Your selected theme returns when the holiday period ends.
+            </div>
+          </Show>
+          <div class="SettingsRow">
+            <label class="SettingsLabel">Theme</label>
+            <select class="SettingsSelect" onChange={(e) => changeTheme(e.target.value)}>
+              <For each={[...THEMES, 'custom']}>
+                {(t) => <option value={t} selected={t === theme()}>{titleCase(t)}</option>}
+              </For>
+            </select>
+          </div>
+          <Show when={theme() === 'custom'}>
+            <div class="SettingsCustomPanel">
+              <div class="SettingsColorGrid">
+                <For each={CSS_VARS}>
+                  {({ key, label }) => (
+                    <div class="SettingsColorCell">
+                      <label class="SettingsColorLabel">{label}</label>
+                      <input
+                        type="color"
+                        class="SettingsColorPicker"
+                        value={custom()[key]}
+                        onInput={(e) => changeCustom(key, e.target.value)}
+                      />
+                    </div>
+                  )}
+                </For>
+              </div>
+              <div class="SettingsFontRow">
+                <For each={FONT_VARS}>
+                  {({ key, label }) => (
+                    <div class="SettingsFontCell">
+                      <label class="SettingsLabel">{label}</label>
+                      <select class="SettingsSelect" onChange={(e) => changeCustom(key, e.target.value)}>
+                        <For each={FONTS}>
+                          {(f) => <option value={f} selected={f === custom()[key]}>{f}</option>}
+                        </For>
+                      </select>
+                    </div>
+                  )}
+                </For>
+              </div>
+              <div class="SettingsRow">
+                <label class="SettingsLabel">Logo</label>
+                <select class="SettingsSelect" onChange={(e) => changeCustom('--logo', e.target.value)}>
+                  <For each={LOGO_FILES}>
+                    {(f) => (
+                      <option value={f} selected={f === custom()['--logo']}>
+                        {f.replace('.avif', '').replace('Logo', '')}
+                      </option>
+                    )}
+                  </For>
+                </select>
+              </div>
+            </div>
+          </Show>
+        </div>
+        <div class="SettingsSection">
+          <h2 class="SettingsSectionTitle">Layout</h2>
+          <div class="SettingsRow">
+            <label class="SettingsLabel">Wide Pages</label>
+            <input
+              type="checkbox"
+              class="SettingsToggle"
+              checked={wide()}
+              onChange={(e) => changeWide(e.target.checked)}
+            />
+          </div>
+        </div>
+      </div>
+    </>
+  );
+}
+
 export function renderStatsPage() {
   const load = async (name) => {
     const res = await fetch(`/viewers/cep-js/compiled-json/${name}.json`);
@@ -574,6 +831,8 @@ export function renderStatsPage() {
 
   const monthLabel = (h) =>
     new Date(h.year, h.month - 1).toLocaleDateString(undefined, { month: 'long', year: 'numeric' });
+
+  const [stats] = createResource(loadExtraStatistics);
 
   return (
     <>
@@ -645,6 +904,7 @@ export function renderStatsPage() {
                     <br/>
                     Additional info of the site idk where else to put.
                     <div class="SiteDetails">
+                      <div><strong>Total Tags:</strong> {stats()?.tags?.toLocaleString() ?? '????'}</div>
                       <div><strong>Total Homepage Views:</strong> {data().homeTotal.toLocaleString()}</div>
                       <div><strong>Total Searches:</strong> {data().searchTotal.toLocaleString()}</div>
                       <h3>Homepage Views by Month</h3>
@@ -973,7 +1233,21 @@ function RecentChange(props) {
 }
 
 
+function todayKey() {
+  const now = new Date();
+  return `${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+}
+
 export function renderHome() {
+  const [anniversaries] = createResource(async () => {
+    const today = (await loadAnniversaries())[todayKey()] || {};
+    const [started, ended] = await Promise.all([
+      loadVideoCards(() => today.s || []),
+      loadVideoCards(() => today.e || []),
+    ]);
+    return { started, ended };
+  });
+  const [pinned] = createResource(() => loadVideoCards(loadPinned));
   const [news] = createResource(loadDiscourseNews);
   const [recent] = createResource(loadDiscourseRecent);
   const [map] = createResource(fetchMapAll);
@@ -1058,8 +1332,48 @@ export function renderHome() {
               ),
             },
             {
+              name: 'Pinned',
+              content: () => (
+                <Show when={pinned()} fallback={<div>Loading…</div>}>
+                  <Show
+                    when={pinned().length}
+                    fallback={<div class="NoContent">No pinned pages yet. Use the 📌 button on any page to pin it.</div>}
+                  >
+                    <br/>
+                    <div class="ResultCards">
+                      <For each={pinned()}>{(card) => card}</For>
+                    </div>
+                  </Show>
+                </Show>
+              ),
+            },
+            {
               name: 'Map',
               content: () => <Show when={!map.loading && map()}>{map()}</Show>,
+            },
+            {
+              name: 'Anniversaries',
+              content: () => (
+                <Show when={anniversaries()} fallback={<div>Loading…</div>}>
+                  <Show
+                    when={anniversaries().started.length || anniversaries().ended.length}
+                    fallback={<div class="NoContent">No pages started or ended on this day.</div>}
+                  >
+                    <Show when={anniversaries().started.length}>
+                      <h3>Started on This Day</h3>
+                      <div class="Carousel">
+                        <For each={anniversaries().started}>{(card) => card}</For>
+                      </div>
+                    </Show>
+                    <Show when={anniversaries().ended.length}>
+                      <h3>Ended on This Day</h3>
+                      <div class="Carousel">
+                        <For each={anniversaries().ended}>{(card) => card}</For>
+                      </div>
+                    </Show>
+                  </Show>
+                </Show>
+              ),
             },
             {
               name: 'Recent Changes',
@@ -1086,7 +1400,7 @@ export function renderHome() {
                   </For>
                 </div>
               ),
-            }
+            },
           ]}
         />
 
@@ -1373,7 +1687,7 @@ export function renderHeader() {
   const count = (key) => stats()?.[key]?.toLocaleString() ?? '????';
   let file = LOGOS.standard;
   try {
-    const t = localStorage.getItem('cep-theme') || 'standard';
+    const t = getActiveTheme();
     const c = JSON.parse(localStorage.getItem('cep-theme-custom') || 'null');
     file = (t === 'custom' && c?.['--logo']) ? c['--logo'] : (LOGOS[t] || LOGOS.standard);
   } catch {}
@@ -1786,78 +2100,80 @@ export function renderStandardArticle(meta) {
       <h1 class="article-title">{meta.title}</h1>
       <ArticleTabs meta={meta}>
       <div class="ArticleBody">
-        <div class="infobox fade-in">
-          <div class="infobox-thumbnail">
-            <Show when={!thumb.loading && thumb()}>{thumb()}</Show>
-          </div>
-          <table>
-            <tbody>
-              <tr>
-                <td><strong>Operated</strong></td>
-                <td>
-                  {convertStartDate(meta.startDate)}<div class="emoji">🚧</div><br />
-                  {convertEndDate(meta.endDate)}<div class="emoji">☠️</div>
-                </td>
-              </tr>
-              <Show when={meta.sqft}>
-                <tr>
-                  <td><strong>Floorspace</strong></td>
-                  <td>{meta.sqft}ft<sup>2</sup><div class="emoji">📐</div></td>
-                </tr>
-              </Show>
-            </tbody>
-          </table>
-          <InfoboxList title="Remodels" items={meta.remodels}>
-            {(r) => (
-              <li>
-                <strong>{r.n}</strong> ({convertStartDate(r.s)})
-              </li>
-            )}
-          </InfoboxList>
-
-          <InfoboxList title="Stages" items={meta.stages}>
-            {(s) => (
-              <li>
-                <strong>{s.n}</strong> ({convertStartDate(s.s)} – {convertEndDate(s.e)})
-                <Show when={s.desc}>
-                  <div class="infobox-desc">{s.desc}</div>
-                </Show>
-              </li>
-            )}
-          </InfoboxList>
-
-          <InfoboxList title="Franchisees" items={meta.franchisees}>
-            {(f) => (
-              <li>
-                <strong>{f.n}</strong> ({convertStartDate(f.s)} – {convertEndDate(f.e)})
-              </li>
-            )}
-          </InfoboxList>
-
-          <InfoboxList title="Downloads" items={meta.downloadLinks}>
-            {(d) => (
-              <li>
-                <a href={d.url} target="_blank" rel="noopener noreferrer">{d.label}</a>
-              </li>
-            )}
-          </InfoboxList>
-          <InfoboxList title="Showtape Formats" items={meta.showtapeFormats}>
-            {(f) => <li>{f}</li>}
-          </InfoboxList>
-          <Show when={meta.credits?.length}>
-            <div class="infobox-list">
-              <strong>Credits:</strong>
-              <ul>
-                <For each={meta.credits}>
-                  {(c) => <li><strong>{c.role}:</strong> {c.n}</li>}
-                </For>
-              </ul>
+        <Show when={(meta.type || '').toLowerCase() !== 'meta'}>
+          <div class="infobox fade-in">
+            <div class="infobox-thumbnail">
+              <Show when={!thumb.loading && thumb()}>{thumb()}</Show>
             </div>
-          </Show>
-          <Show when={!map.loading && map()}>
-            {map()}
-          </Show>
-        </div>
+            <table>
+              <tbody>
+                <tr>
+                  <td><strong>Operated</strong></td>
+                  <td>
+                    {convertStartDate(meta.startDate)}<div class="emoji">🚧</div><br />
+                    {convertEndDate(meta.endDate)}<div class="emoji">☠️</div>
+                  </td>
+                </tr>
+                <Show when={meta.sqft}>
+                  <tr>
+                    <td><strong>Floorspace</strong></td>
+                    <td>{meta.sqft}ft<sup>2</sup><div class="emoji">📐</div></td>
+                  </tr>
+                </Show>
+              </tbody>
+            </table>
+            <InfoboxList title="Remodels" items={meta.remodels}>
+              {(r) => (
+                <li>
+                  <strong>{r.n}</strong> ({convertStartDate(r.s)})
+                </li>
+              )}
+            </InfoboxList>
+
+            <InfoboxList title="Stages" items={meta.stages}>
+              {(s) => (
+                <li>
+                  <strong>{s.n}</strong> ({convertStartDate(s.s)} – {convertEndDate(s.e)})
+                  <Show when={s.desc}>
+                    <div class="infobox-desc">{s.desc}</div>
+                  </Show>
+                </li>
+              )}
+            </InfoboxList>
+
+            <InfoboxList title="Franchisees" items={meta.franchisees}>
+              {(f) => (
+                <li>
+                  <strong>{f.n}</strong> ({convertStartDate(f.s)} – {convertEndDate(f.e)})
+                </li>
+              )}
+            </InfoboxList>
+
+            <InfoboxList title="Downloads" items={meta.downloadLinks}>
+              {(d) => (
+                <li>
+                  <a href={d.url} target="_blank" rel="noopener noreferrer">{d.label}</a>
+                </li>
+              )}
+            </InfoboxList>
+            <InfoboxList title="Showtape Formats" items={meta.showtapeFormats}>
+              {(f) => <li>{f}</li>}
+            </InfoboxList>
+            <Show when={meta.credits?.length}>
+              <div class="infobox-list">
+                <strong>Credits:</strong>
+                <ul>
+                  <For each={meta.credits}>
+                    {(c) => <li><strong>{c.role}:</strong> {c.n}</li>}
+                  </For>
+                </ul>
+              </div>
+            </Show>
+            <Show when={!map.loading && map()}>
+              {map()}
+            </Show>
+          </div>
+        </Show>
         <div class="content fade-in">
           <Show when={!content.loading} fallback={<div>Loading…</div>}>
             <Show

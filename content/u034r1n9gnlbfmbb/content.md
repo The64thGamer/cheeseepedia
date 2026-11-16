@@ -1,0 +1,1 @@
+Close-up of the Beta Billy Bob animatronic at [Jacksonville, FL (9820 Atlantic Blvd)].

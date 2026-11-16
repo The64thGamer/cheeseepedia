@@ -3,7 +3,11 @@
   "type": "Photos",
   "tags": [
     "Pizza Time Theatre",
-    "Pizza Time Theatre Musical Ferris Wheel"
+    "Pizza Time Theatre Musical Ferris Wheel",
+    "Westland, MI (208 S Wayne Rd)"
   ],
-  "startDate": ""
+  "startDate": "0000-00-00",
+  "contributors": [
+    "Getretrofit"
+  ]
 }

@@ -73,7 +73,7 @@ Note: Contains only confirmed installations, and may not be in order.
 | Chesapeake, VA (Peek Trail) (4400 Peek Trail)                               | August 2022           | 2021 Model           |
 | [Boise, ID (6255 Fairview Ave)]                     | August 2022           | 2021 Model           |
 | [Garden Grove, CA (13101 Harbor Blvd)]              | August 2022           | 2021 Model           |
-| [Raleigh, NC (3501-131 Capital Blvd)]               | August 2022           | 2021 Model           |
+| [Raleigh, NC (3501-131 Capitol Blvd)]               | August 2022           | 2021 Model           |
 | Vancouver, WA (7721 NE Vancouver Plaza Dr)                                  | August 2022           | 2021 Model           |
 | Vestal, NY (3901 Vestal Pkwy E)                                             | August 2022           | 2021 Model           |
 | [Hamburg, NY (4408 Milestrip Rd)]                   | August 2022           | 2021 Model           |

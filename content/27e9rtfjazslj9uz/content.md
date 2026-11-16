@@ -288,7 +288,7 @@ Initially, locations that were eligible for this remodel got one of three packag
 * [Goldsboro, NC (209 N Berkeley Blvd)]
 * [Greensboro, NC (702-A Pembroke Rd)]
 * [Hickory, NC (2032 Catawba Valley Blvd)]
-* [Raleigh, NC (3501-131 Capital Blvd)]
+* [Raleigh, NC (3501-131 Capitol Blvd)]
 * [Rocky Mount, NC (730 Sutters Creek Blvd)]
 * [Winston-Salem, NC (620 Hanes Mall Blvd)]
 

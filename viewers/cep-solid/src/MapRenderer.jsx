@@ -55,26 +55,49 @@ function injectPinStyles() {
   if (document.querySelector('#MapPinIconStyle')) return;
   const style = document.createElement('style');
   style.id = 'MapPinIconStyle';
-  style.textContent = '.MapPinIcon{transition:transform .15s ease;transform-origin:bottom center;}';
+  // Leaflet positions the outer marker element via an inline transform, so we
+  // never touch it. Hover scaling happens on an inner <img> instead.
+  style.textContent = `
+    .MapPinIcon .MapPinImg{display:block;width:100%;height:100%;max-width:none;transition:transform .15s ease;transform-origin:bottom center;}
+    .MapPinIcon:hover .MapPinImg{transform:scale(2.5);}
+  `;
   document.head.appendChild(style);
 }
 
-function scaleIcon(marker, scaled) {
-  const el = marker.getElement();
-  if (!el) return;
-  const base = el.style.transform.replace(/\s*scale\([^)]*\)\s*$/, '');
-  el.style.transform = scaled ? `${base} scale(2.5)` : base;
+const titleCache = new Map();
+
+function fetchTitle(id) {
+  if (!titleCache.has(id)) {
+    titleCache.set(
+      id,
+      fetch(`/content/${id}/meta.json`)
+        .then((r) => r.json())
+        .then((meta) => meta.title)
+        .catch(() => 'Open article')
+    );
+  }
+  return titleCache.get(id);
 }
 
-function linkPopup(id) {
+// Resolved titles, so a popup can open at its final size on repeat clicks.
+const resolvedTitles = new Map();
+
+function linkPopup(id, marker) {
   const view = new URLSearchParams(location.search).get('v') || 'cep-js';
   const a = document.createElement('a');
   a.href = `/?v=${view}&=${encodeURIComponent(id)}`;
+  if (resolvedTitles.has(id)) {
+    a.textContent = resolvedTitles.get(id);
+    return a;
+  }
   a.textContent = 'Loading…';
-  fetch(`/content/${id}/meta.json`)
-    .then((r) => r.json())
-    .then((meta) => { a.textContent = meta.title; })
-    .catch(() => { a.textContent = 'Open article'; });
+  fetchTitle(id).then((title) => {
+    resolvedTitles.set(id, title);
+    a.textContent = title;
+    // Leaflet measures popups at open time; re-measure and re-pan now that the size changed.
+    const popup = marker.getPopup();
+    if (popup && popup.isOpen()) popup.update();
+  });
   return a;
 }
 
@@ -114,10 +137,24 @@ export async function createMap(container, locations, { single = false, fit = fa
   container.style.flexDirection = 'column';
 
   const mapEl = document.createElement('div');
-  mapEl.style.cssText = `flex:1;min-height:${single ? 16 : 30}rem;border-radius:1em;overflow:hidden;`;
+  mapEl.style.cssText = `flex:1;min-height:${single ? 16 : 30}rem;border-radius:1em;overflow:clip;`;
   container.appendChild(mapEl);
 
+  // Safety net: an overflow-hidden box can still be scrolled by the browser
+  // (e.g. focusing a hover-scaled marker). Pin the container to 0,0 so the
+  // map never shifts; Leaflet pans via transforms, not scroll.
+  mapEl.addEventListener('scroll', () => {
+    mapEl.scrollLeft = 0;
+    mapEl.scrollTop = 0;
+  });
+
   const map = L.map(mapEl).setView(single ? locations[0].c : [38, -96], single ? 10 : 4);
+
+  // Leaflet caches its container size and only re-measures on window resize.
+  // Layout changes after init (controls appended, flex sizing, fonts) leave that
+  // cache stale, which skews popup autoPan. Re-measure whenever the box changes.
+  const ro = new ResizeObserver(() => map.invalidateSize());
+  ro.observe(mapEl);
   L.tileLayer(
     'https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}',
     { minZoom: 1, maxZoom: 16, attribution: 'Tiles © Esri' }
@@ -128,8 +165,8 @@ export async function createMap(container, locations, { single = false, fit = fa
   }
 
   const icons = Object.fromEntries(
-    Object.entries(PIN_FILES).map(([key, file]) => [key, L.icon({
-      iconUrl: ICON_BASE + file,
+    Object.entries(PIN_FILES).map(([key, file]) => [key, L.divIcon({
+      html: `<img class="MapPinImg" src="${ICON_BASE + file}" alt="" draggable="false">`,
       iconSize: [48, 48],
       iconAnchor: [24, 48],
       popupAnchor: [0, -48],
@@ -140,9 +177,18 @@ export async function createMap(container, locations, { single = false, fit = fa
   const layer = L.layerGroup().addTo(map);
 
   const markers = locations.map((loc) => {
-    const marker = L.marker(loc.c).bindPopup(single ? loc.c.join(', ') : () => linkPopup(loc.p));
-    marker.on('mouseover', () => { marker.setZIndexOffset(1000); scaleIcon(marker, true); });
-    marker.on('mouseout', () => { marker.setZIndexOffset(0); scaleIcon(marker, false); });
+    // keyboard:false drops the marker's tabindex so clicking it doesn't focus it
+    // (focus is what triggers the browser's scroll-into-view).
+    const marker = L.marker(loc.c, { keyboard: false });
+    marker.bindPopup(single ? loc.c.join(', ') : () => linkPopup(loc.p, marker));
+    marker.on('mouseover', () => {
+      marker.setZIndexOffset(1000);
+      // Warm the title cache so the popup opens at its final size on click.
+      if (!single && !resolvedTitles.has(loc.p)) {
+        fetchTitle(loc.p).then((title) => resolvedTitles.set(loc.p, title));
+      }
+    });
+    marker.on('mouseout', () => marker.setZIndexOffset(0));
     return marker;
   });
 
@@ -168,7 +214,7 @@ export async function createMap(container, locations, { single = false, fit = fa
 
   if (single) {
     render(today);
-    return { destroy: () => map.remove() };
+    return { destroy: () => { ro.disconnect(); map.remove(); } };
   }
 
   const controls = document.createElement('div');
@@ -231,5 +277,5 @@ export async function createMap(container, locations, { single = false, fit = fa
   daySlider.value = dayOfYear(today);
   update();
 
-  return { destroy: () => map.remove() };
+  return { destroy: () => { ro.disconnect(); map.remove(); } };
 }

@@ -1,6 +1,7 @@
 import { render as solidRender } from 'solid-js/web';
 import { fetchMeta } from './src/GlobalFunctions';
 import App from './src/App';
+import { loadSavedTheme } from './src/Renderers';
 
 const VALID_ID = /^[a-z0-9]{8,32}$/;
 
@@ -9,6 +10,8 @@ function trackView(key) {
 }
 
 export async function render(params, el) {
+  loadSavedTheme();
+
   if (params.get('page') === 'search') {
     solidRender(() => App({ type: 'search' }), el);
     trackView('_search');
@@ -23,6 +26,11 @@ export async function render(params, el) {
 
   if (params.get('page') === 'stats') {
     solidRender(() => App({ type: 'stats' }), el);
+    return;
+  }
+
+  if (params.get('page') === 'settings') {
+    solidRender(() => App({ type: 'settings' }), el);
     return;
   }
 

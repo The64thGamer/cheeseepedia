@@ -1,0 +1,1 @@
+A scene from the [Mickey Mouse Revue] at Walt Disney World.

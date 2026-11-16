@@ -156,6 +156,8 @@ COUNTRY_RE = re.compile(
 OUT_RECENT_FAN_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentfanvideos.json")
 OUT_RECENT_OFFICIAL_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentofficialvideos.json")
 RECENT_VIDEOS_COUNT = 15
+OUT_ANNIVERSARIES = os.path.join(os.path.dirname(__file__), "..", "compiled-json/anniversaries.json")
+ANNIVERSARY_EXCLUDE_TYPES = {'photos', 'videos', 'reviews', 'user', 'steam comment', 'theories', 'meta', 'transcriptions'}
 COMPILED_DIR = os.path.join(os.path.dirname(__file__), "..", "compiled-json")
 AVATAR_DIR = os.path.join(COMPILED_DIR, "avatars")
 NEWS_IMG_DIR = os.path.join(COMPILED_DIR, "images")
@@ -278,6 +280,8 @@ def main():
     recent_official = build_recent_videos(True)
     write_json(recent_fan, OUT_RECENT_FAN_VIDEOS)
     write_json(recent_official, OUT_RECENT_OFFICIAL_VIDEOS)
+    anniversaries = build_anniversaries()
+    write_json(anniversaries, OUT_ANNIVERSARIES)
     stats = build_stats(len(tags))
     write_json(stats, OUT_STATS)
 
@@ -290,6 +294,7 @@ def main():
     print(green(f'Wrote {len(id_tags)} articles with tags -> {OUT_ID_TO_TAGS}'))
     print(green(f'Wrote {len(recent_fan)} recent fan videos -> {OUT_RECENT_FAN_VIDEOS}'))
     print(green(f'Wrote {len(recent_official)} recent official videos -> {OUT_RECENT_OFFICIAL_VIDEOS}'))
+    print(green(f'Wrote {len(anniversaries)} anniversary days -> {OUT_ANNIVERSARIES}'))
     print(green(f'Wrote stats: {stats["photos"]} photos, {stats["videos"]} videos, {stats["articles"]} other, {stats["contributors"]} contributors, {stats["tags"]} tags -> {OUT_STATS}'))
 
     pull_discourse()
@@ -661,6 +666,30 @@ def build_recent_videos(official):
         videos.append((date, folder.name))
     videos.sort(reverse=True)
     return [name for _, name in videos[:RECENT_VIDEOS_COUNT]]
+
+
+def build_anniversaries():
+    days = {}
+    for folder in sorted(Path(CONTENT_DIR).iterdir()):
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        if not meta:
+            continue
+        if (meta.get('type') or '').strip().lower() in ANNIVERSARY_EXCLUDE_TYPES:
+            continue
+        for field, slot in (('startDate', 's'), ('endDate', 'e')):
+            date = (meta.get(field) or '').strip()
+            if not DATE_RE.fullmatch(date) or date.startswith('0000'):
+                continue
+            _, month, day = date.split('-')
+            if month == '00' or day == '00':
+                continue
+            days.setdefault(f'{month}-{day}', {'s': [], 'e': []})[slot].append((date, folder.name))
+    return {
+        key: {slot: [name for _, name in sorted(items)] for slot, items in slots.items()}
+        for key, slots in sorted(days.items())
+    }
 
 
 def fetch_channel_handle(vid):

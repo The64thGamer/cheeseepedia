@@ -16,7 +16,13 @@
       "e": "1983-00-00"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "Pizza Theatres Management, Inc.",
+      "s": "1981-05-04",
+      "e": "1983-00-00"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [

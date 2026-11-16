@@ -29,6 +29,7 @@ export const loadExtraStatistics = () => loadJson(`${SOLID}ExtraStatistics.json`
 export const loadContributors = () => loadJson(`${SOLID}contributors.json`);
 export const loadUserProfiles = () => loadJson(`${SOLID}userProfiles.json`);
 export const loadViewsMap = () => loadJson(`${JS}views.json`);
+export const loadAnniversaries = () => loadJson(`${SOLID}anniversaries.json`);
 export const loadDiscourseNews = () => loadJson(`${SOLID}DiscourseNews.json`);
 export const loadDiscourseRecent = () => loadJson(`${SOLID}DiscourseRecent.json`);
 export const loadUserSubmissions = () => loadJson(`${SOLIDPERM}user-submissions.json`);

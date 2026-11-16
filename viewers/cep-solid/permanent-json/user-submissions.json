@@ -1,78 +1,6 @@
 [
   {
     "username": "sudo-trans-pony",
-    "title": "User Data & Local Hosting Policy",
-    "submittedAt": "2026-11-07T09:04:05Z",
-    "accepted": true
-  },
-  {
-    "username": "sudo-trans-pony",
-    "title": "Studio C Beta",
-    "submittedAt": "2026-11-07T09:04:05Z",
-    "accepted": true
-  },
-  {
-    "username": "sudo-trans-pony",
-    "title": "WFJO51oDBmvGuAeBfLMp.avif",
-    "submittedAt": "2026-11-07T10:11:21Z",
-    "accepted": true
-  },
-  {
-    "username": "sudo-trans-pony",
-    "title": "WFJO51oDBmvGuAeBfLMp.avif",
-    "submittedAt": "2026-11-07T10:11:21Z",
-    "accepted": true
-  },
-  {
-    "username": "sudo-trans-pony",
-    "title": "???, Japan",
-    "submittedAt": "2026-11-07T10:51:38Z",
-    "accepted": true
-  },
-  {
-    "username": "ThatRockHistorian76",
-    "title": "7milomv9kyzmqae9",
-    "submittedAt": "2026-11-07T14:10:13Z",
-    "accepted": true
-  },
-  {
-    "username": "TheEntireShrekScript",
-    "title": "adz0m8sonbcrt69x",
-    "submittedAt": "2026-11-07T20:28:17Z",
-    "accepted": true
-  },
-  {
-    "username": "Getretrofit",
-    "title": "Maple Heights, OH (5376 Northfield Rd)",
-    "submittedAt": "2026-11-07T20:45:57Z",
-    "accepted": true
-  },
-  {
-    "username": "sudo-trans-pony",
-    "title": "Oaks, PA (One American Treasure Way, 422 Business Center)",
-    "submittedAt": "2026-11-08T16:39:25Z",
-    "accepted": true
-  },
-  {
-    "username": "sudo-trans-pony",
-    "title": "The Man And Dog Show",
-    "submittedAt": "2026-11-08T16:48:48Z",
-    "accepted": true
-  },
-  {
-    "username": "cecfan13",
-    "title": "Westland, MI (208 S Wayne Rd)",
-    "submittedAt": "2026-11-08T16:58:34Z",
-    "accepted": true
-  },
-  {
-    "username": "sudo-trans-pony",
-    "title": "Not So Bearly Singers",
-    "submittedAt": "2026-11-08T17:01:50Z",
-    "accepted": true
-  },
-  {
-    "username": "sudo-trans-pony",
     "title": "VP Productions",
     "submittedAt": "2026-11-08T17:09:35Z",
     "accepted": true
@@ -3007,6 +2935,890 @@
     "username": "Getretrofit",
     "title": "8jyvahpdteenn3hs",
     "submittedAt": "2026-11-15T03:08:21Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "mdiober35nblolcb",
+    "submittedAt": "2026-11-15T06:45:58Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "Sylvan Lake, MI (2380 Orchard Lake Rd)",
+    "submittedAt": "2026-11-15T07:01:29Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 2,
+        "del": 2
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "wi90addlb96ikvs0",
+    "submittedAt": "2026-11-15T07:03:08Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "b0i582q3vvdun4rg",
+    "submittedAt": "2026-11-15T07:03:16Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "s3gn03oc52bmt5sm",
+    "submittedAt": "2026-11-15T07:03:21Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "97az25pa1nklry3l",
+    "submittedAt": "2026-11-15T07:03:26Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "eol2m6lq2s0o694k",
+    "submittedAt": "2026-11-15T07:06:30Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "Lake Forest, CA (24416 Muirlands Blvd)",
+    "submittedAt": "2026-11-15T07:12:07Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 13,
+        "del": 5
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "Oxnard, CA (325 W Channel Islands Blvd)",
+    "submittedAt": "2026-11-15T07:29:37Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 4,
+        "del": 2
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "Baton Rouge, LA (3121 College Dr)",
+    "submittedAt": "2026-11-15T07:30:21Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 1,
+        "del": 1
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "Duluth, MN (1600 Miller Trunk Hwy)",
+    "submittedAt": "2026-11-15T07:30:57Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 1,
+        "del": 1
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "Riverside, CA (4033 Chicago Ave)",
+    "submittedAt": "2026-11-15T07:31:31Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 1,
+        "del": 1
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "Merced, CA (721 W Olive Ave)",
+    "submittedAt": "2026-11-15T07:33:52Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 4,
+        "del": 2
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "vwoeueofcybxvdzb",
+    "submittedAt": "2026-11-15T07:44:25Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "1u9ka7ojizhsiq26",
+    "submittedAt": "2026-11-15T07:45:04Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "eb3g3ujjeojwhsam",
+    "submittedAt": "2026-11-15T07:46:04Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "iwdfp30p8e653jso",
+    "submittedAt": "2026-11-15T07:46:39Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "rz08gpq0mz7e0ppc",
+    "submittedAt": "2026-11-15T07:47:32Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "e6ma8b5vklvm4l8t",
+    "submittedAt": "2026-11-15T07:49:20Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "ThatRockHistorian76",
+    "title": "ooa0zthdxzl37d4d",
+    "submittedAt": "2026-11-15T17:48:28Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 1,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 32,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "ThatRockHistorian76",
+    "title": "i1y7o8ohoewp4bhi",
+    "submittedAt": "2026-11-15T18:41:31Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 1,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 34,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "ThatRockHistorian76",
+    "title": "1pegpdmp1lnwkedc",
+    "submittedAt": "2026-11-15T18:42:18Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 1,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 34,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "ThatRockHistorian76",
+    "title": "u034r1n9gnlbfmbb",
+    "submittedAt": "2026-11-15T18:43:39Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 1,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 34,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "ThatRockHistorian76",
+    "title": "s6flgusyld3xxm5c",
+    "submittedAt": "2026-11-15T18:44:42Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 1,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 34,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "ThatRockHistorian76",
+    "title": "uiwl27wlcm0dtgr6",
+    "submittedAt": "2026-11-15T18:45:54Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 1,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 34,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "81lnea4zffcydwv1",
+    "submittedAt": "2026-11-15T20:10:14Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "Normal, IL (1540 E College Ave)",
+    "submittedAt": "2026-11-15T20:10:14Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 4,
+        "del": 2
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "1ocy0226u79nhvlk",
+    "submittedAt": "2026-11-15T20:22:22Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "Fort Worth, TX (8740 Hwy 80 West)",
+    "submittedAt": "2026-11-15T20:22:22Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 4,
+        "del": 2
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "4cc79094o2y957fv",
+    "submittedAt": "2026-11-15T20:23:23Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "Tucson, AZ (8616 E Broadway Blvd)",
+    "submittedAt": "2026-11-15T20:33:49Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "meta.json",
+        "status": "modified",
+        "add": 7,
+        "del": 1
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "9ptq7hotbsukrjil",
+    "submittedAt": "2026-11-15T23:35:20Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "i40cnz31on4b0svq",
+    "submittedAt": "2026-11-15T23:35:56Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "khbab3nchypjfkgy",
+    "submittedAt": "2026-11-15T23:36:03Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "9a7g1zsmt6y8ze56",
+    "submittedAt": "2026-11-15T23:36:10Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "0up1qd0jsnez42dd",
+    "submittedAt": "2026-11-15T23:36:38Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "f2gvctvznsd8r18j",
+    "submittedAt": "2026-11-15T23:36:47Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "dd7oulya1i141pxv",
+    "submittedAt": "2026-11-15T23:36:56Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "p0mv5a7jompc8x6q",
+    "submittedAt": "2026-11-15T23:37:05Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "tk36avrv37szr1wo",
+    "submittedAt": "2026-11-15T23:37:13Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "added",
+        "add": 0,
+        "del": 0
+      },
+      {
+        "name": "meta.json",
+        "status": "added",
+        "add": 30,
+        "del": 0
+      },
+      {
+        "name": "photo.avif",
+        "status": "added"
+      }
+    ]
+  },
+  {
+    "username": "Getretrofit",
+    "title": "2idqvsdu4k3ih8qs",
+    "submittedAt": "2026-11-15T23:37:20Z",
     "accepted": true,
     "files": [
       {

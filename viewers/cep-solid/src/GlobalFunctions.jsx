@@ -4,6 +4,7 @@ import { createMap, loadPins } from './MapRenderer';
 
 const MAP_TYPES = new Set(['locations', 'cancelled locations']);
 const MNAMES=['','Jan. ','Feb. ','Mar. ','Apr. ','May ','Jun. ','Jul. ','Aug. ','Sep. ','Oct. ','Nov. ','Dec.'];
+const DEFAULT_PINS = ['2zcr9lyoaq2ifmmf', 'bds7nm5tkdgnikq4', 'w4vtcv03ctirl55h'];
 
 export async function fetchMeta(folderID) {
   if (!folderID) return { type: 'home' };
@@ -209,9 +210,19 @@ export function saveKey(key, value) {
     localStorage.setItem(key, typeof value === 'string' ? value : JSON.stringify(value));
     return true;
   } catch {
-    return false; 
+    return false;
   }
 }
+
+export const loadPinned = () => loadKey('Pins', DEFAULT_PINS, Array.isArray);
+
+export function togglePin(folderID) {
+  const pins = loadPinned();
+  const next = pins.includes(folderID) ? pins.filter((id) => id !== folderID) : [...pins, folderID];
+  saveKey('Pins', next);
+  return next.includes(folderID);
+}
+
 export async function fetchThumbnailWLinkToArticle(meta) {
   const link = await fetchFolderIDFromTitle(meta.title);
   if (!link) return null;
