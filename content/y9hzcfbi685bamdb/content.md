@@ -1,0 +1,1 @@
+6 Days Prior To Opening

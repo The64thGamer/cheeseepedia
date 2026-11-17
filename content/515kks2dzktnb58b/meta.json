@@ -1,7 +1,7 @@
 {
   "title": "Mary Esther, FL (321 Mary Esther Blvd)",
   "storeNumber": "",
-  "startDate": "1983-00-00",
+  "startDate": "1983-12-00",
   "endDate": "2005-01-09",
   "remodels": [
     {
@@ -10,13 +10,13 @@
     },
     {
       "n": "SPP Standard Layout",
-      "s": "1983-00-00"
+      "s": "1983-12-00"
     }
   ],
   "stages": [
     {
       "n": "Classic Stage",
-      "s": "1983-00-00",
+      "s": "1983-12-00",
       "e": "0000-00-00",
       "desc": "12th ShowBiz Pizza store to open in Florida."
     },
@@ -35,7 +35,9 @@
     "-86.65458313"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Getretrofit"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "qwQuTR3Fny0l0aorMD3c.avif",
   "type": "Locations",

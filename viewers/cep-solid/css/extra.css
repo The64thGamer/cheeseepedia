@@ -19,21 +19,48 @@
 }
 
 .FlavorText strong {
-  animation: letterSpacing 3s ease-in-out infinite;
   color: var(--primary);
+  margin-left: 0.25rem;
+  margin-right: 0.5rem;
+}
+.roller-container {
+  height: 1.5em; 
+  overflow: hidden;
+  display: inline-flex;
+  vertical-align: bottom;
+  justify-content: center;
+  margin-right: 0.3rem;
+  margin-left: 0.2rem;
 }
 
-@keyframes letterSpacing {
-  0% {
-    letter-spacing: 0;
-  }
+.roller-track {
+  display: flex;
+  flex-direction: column;
+  animation: rollLines 9s cubic-bezier(0.77, 0, 0.175, 1) infinite;
+}
 
-  50% {
-    letter-spacing: 0.2rem;
-  }
+.roller-track span {
+  height: 1.5em;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
 
+@keyframes rollLines {
+  0%, 20% {
+    transform: translateY(0);
+  }
+  25%, 45% {
+    transform: translateY(-1.5em);
+  }
+  50%, 70% {
+    transform: translateY(-3em);
+  }
+  75%, 95% {
+    transform: translateY(-4.5em);
+  }
   100% {
-    letter-spacing: 0;
+    transform: translateY(-6em);
   }
 }
 

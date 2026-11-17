@@ -7,30 +7,58 @@
     {
       "n": "PTT Standard Layout",
       "s": "1981-04-00"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "1989-00-00"
     }
   ],
   "stages": [
     {
       "n": "Portrait / Shelf Stage",
       "s": "1981-04-00",
+      "e": "1989-00-00",
+      "desc": "Originally had Portraits, later removed them and became a Shelf"
+    },
+    {
+      "n": "Chuck E.'s House Facade (C-Stage)",
+      "desc": "",
+      "s": "1989-00-00",
+      "e": "0000-00-00"
+    }
+  ],
+  "franchisees": [
+    {
+      "n": "Ulrike-Grandjean Corporation",
+      "s": "1986-03-18",
       "e": "1995-00-00"
     }
   ],
-  "franchisees": [],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [
     "37.64938582",
     "-122.1112544"
   ],
-  "citations": [],
+  "citations": [
+    "https://www.bizprofile.net/ca/san-jose/concord-hayward-limited-partnership"
+  ],
   "contributors": [
-    "Getretrofit"
+    "Getretrofit",
+    "CECmodesto81"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "fvz5nr0vlo1s0yg1.avif",
   "type": "Locations",
   "tags": [
-    "Pizza Time Theatre"
-  ]
+    "Pizza Time Theatre",
+    "Chuck E. Cheese's",
+    "Portrait / Shelf Stage",
+    "Chuck E.'s House Facade (C-Stage)",
+    "PTT Standard Layout",
+    "SPT 1980's Remodel Program",
+    "Ulrike-Grandjean Corporation"
+  ],
+  "credits": [],
+  "walkarounds": []
 }

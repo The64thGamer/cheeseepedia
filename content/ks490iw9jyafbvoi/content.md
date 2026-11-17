@@ -1,0 +1,1 @@
+The Beta Rolfe DeWolfe & Earl Schmerle animatronic at [Jacksonville, FL (9820 Atlantic Blvd)].

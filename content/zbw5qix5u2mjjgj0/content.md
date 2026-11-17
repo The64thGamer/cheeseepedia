@@ -1,0 +1,1 @@
+Stage Left of the Rock-afire Explosion at [Jacksonville, FL (9820 Atlantic Blvd)].

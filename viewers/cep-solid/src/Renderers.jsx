@@ -1,6 +1,6 @@
 import { createResource, createSignal, createEffect, createMemo, untrack, Show, For, Switch, Match } from 'solid-js';
 import { searchPath, ResultList, loadSearchData, TagList, Pager, PAGE_SIZE } from './SearchPage';
-import { loadAnniversaries, loadUserSubmissions,loadFolderIDToTitleMap, loadTypeToIDList, loadViewsMap, loadDiscourseNews, loadDiscourseRecent, loadRecentFanVideos, loadRecentOfficialVideos, loadTaggedByIDs, loadFolderIDToTags, loadExtraStatistics, loadContributors, loadUserProfiles } from './GlobalJsonCache';
+import { loadInventoryIndex,loadAnniversaries, loadUserSubmissions,loadFolderIDToTitleMap, loadTypeToIDList, loadViewsMap, loadDiscourseNews, loadDiscourseRecent, loadRecentFanVideos, loadRecentOfficialVideos, loadTaggedByIDs, loadFolderIDToTags, loadExtraStatistics, loadContributors, loadUserProfiles } from './GlobalJsonCache';
 import { fetchImage, fetchCardExcerpt, fetchMeta, fetchFolderIDFromTitle, fetchThumbnailWLinkToArticle, getFolderPath, fetchContent, convertStartDate, convertEndDate, fetchOld, resolveBracketLinks, highlightText } from './GlobalFunctions';
 import { marked } from 'marked';
 import { loadPinned, togglePin, fetchLocationMap,formatDiscourseDate, loadKey, saveKey, fetchMapAll, getUserPath, loadContributorLookup, loadContributorsByArticle, formatUtc } from './GlobalFunctions';
@@ -24,6 +24,28 @@ const TIERS = [
 ];
 const getTier = (count) => TIERS.find((t) => count >= t.min && count <= t.max) || TIERS[0];
 const tierBackground = (t) => (t.start === t.end ? t.start : `linear-gradient(0deg, ${t.start}, ${t.end})`);
+
+const FIELDS = [
+  { key: 'animatronics', title: 'Animatronics' },
+  { key: 'attractions', title: 'Attractions' },
+  { key: 'fixtures', title: 'Fixtures' },
+  { key: 'walkarounds', title: 'Walkarounds' }
+];
+
+const INVENTORY_FIELDS = [
+  { key: 'stages', title: 'Stages' },
+  { key: 'remodels', title: 'Remodels' },
+  { key: 'animatronics', title: 'Animatronics' },
+  { key: 'attractions', title: 'Attractions' },
+  { key: 'fixtures', title: 'Fixtures' },
+  { key: 'walkarounds', title: 'Walkarounds' }
+];
+
+const DETAIL_COLUMNS = [
+  { key: 'st', label: 'Serial' },
+  { key: 'l', label: 'Serial' },
+  { key: 'desc', label: 'Notes' },
+];
 
 function UserTag(props) {
   const [user] = createResource(
@@ -380,6 +402,105 @@ function EditPageButton(props) {
   );
 }
 
+export function getOwnInventory(meta) {
+  if ((meta?.type || '').toLowerCase() !== 'locations') return [];
+  return FIELDS
+    .map((f) => ({
+      ...f,
+      rows: (Array.isArray(meta[f.key]) ? meta[f.key] : []).filter((r) => r && typeof r === 'object'),
+    }))
+    .filter((g) => g.rows.length);
+}
+
+export function groupInventoryEntries(entries) {
+  return INVENTORY_FIELDS
+    .map((f) => ({ ...f, rows: (entries || []).filter((e) => e.field === f.key) }))
+    .filter((g) => g.rows.length);
+}
+
+function TitleLink(props) {
+  const [id] = createResource(() => (props.title || '').trim() || null, fetchFolderIDFromTitle);
+  return (
+    <Show when={id()} fallback={props.title || ''}>
+      <a href={getFolderPath(id())}>{props.title}</a>
+    </Show>
+  );
+}
+
+function InventoryTable(props) {
+  const columns = () => DETAIL_COLUMNS.filter((c) => props.rows.some((r) => r[c.key]));
+  const showEnd = () => props.showEnd !== false;
+
+  return (
+    <div class="InventoryTableWrap">
+      <table class="InventoryTable">
+        <thead>
+          <tr>
+            <th>{props.nameLabel}</th>
+            <th>Start</th>
+            <Show when={showEnd()}>
+              <th>End</th>
+            </Show>
+            <For each={columns()}>{(c) => <th>{c.label}</th>}</For>
+          </tr>
+        </thead>
+        <tbody>
+          <For each={props.rows}>
+            {(row) => (
+              <tr>
+                <td>{props.renderName(row)}</td>
+                <td class="InventoryDate">{convertStartDate(row.s)}</td>
+                <Show when={showEnd()}>
+                  <td class="InventoryDate">{convertEndDate(row.e)}</td>
+                </Show>
+                <For each={columns()}>{(c) => <td>{row[c.key] ?? ''}</td>}</For>
+              </tr>
+            )}
+          </For>
+        </tbody>
+      </table>
+    </div>
+  );
+}
+
+export function InventoryTab(props) {
+  return (
+    <div class="InventoryTab fade-in">
+      <For each={props.own}>
+        {(g) => (
+          <>
+            <h2>{g.title}</h2>
+            <InventoryTable
+              rows={g.rows}
+              nameLabel="Name"
+              showEnd={g.end}
+              renderName={(r) => <TitleLink title={r.n} />}
+            />
+          </>
+        )}
+      </For>
+      <Show when={props.usedIn.length}>
+        <h2>Locations</h2>
+        <For each={props.usedIn}>
+          {(g) => (
+            <>
+              <Show when={props.usedIn.length > 1}>
+                <h3>{g.title}</h3>
+              </Show>
+              <InventoryTable
+                rows={g.rows}
+                nameLabel="Location"
+                showEnd={g.end}
+                renderName={(r) => <a href={getFolderPath(r.p)}>{r.title}</a>}
+              />
+            </>
+          )}
+        </For>
+      </Show>
+    </div>
+  );
+}
+
 function ArticleTabs(props) {
   const folderID = () => props.meta.folderID;
   const [active, setActive] = createSignal('Article');
@@ -398,6 +519,9 @@ function ArticleTabs(props) {
     window.scrollTo({ top: 0 });
   };
   const [loaded] = createResource(() => Promise.all([loadTaggedByIDs(), loadSearchData()]));
+const [inventory] = createResource(() => loadInventoryIndex().catch(() => ({})));
+const usedIn = createMemo(() => groupInventoryEntries((inventory() || {})[(props.meta.title || '').trim()]));  const ownInventory = getOwnInventory(props.meta);
+  const hasInventory = () => ownInventory.length > 0 || usedIn().length > 0;
 
   const groups = createMemo(() => {
   const result = new Map();
@@ -449,7 +573,7 @@ function ArticleTabs(props) {
         </For>
       </select>
       <PinToggle folderID={folderID()} />
-      <Show when={groups().size}>
+      <Show when={groups().size || hasInventory()}>
         <button
           type="button"
           class="PinButton"
@@ -459,6 +583,17 @@ function ArticleTabs(props) {
         >
           Article
         </button>
+        <Show when={hasInventory()}>
+          <button
+            type="button"
+            class="PinButton"
+            classList={{ active: active() === 'Inventory' }}
+            aria-pressed={active() === 'Inventory'}
+            onClick={() => selectTab('Inventory')}
+          >
+            Inventory
+          </button>
+        </Show>
         <For each={[...groups()]}>
           {([type, ids]) => (
             <button
@@ -477,6 +612,9 @@ function ArticleTabs(props) {
     <div style={{ display: active() === 'Article' ? '' : 'none' }}>
       {props.children}
     </div>
+    <Show when={active() === 'Inventory'}>
+      <InventoryTab own={ownInventory} usedIn={usedIn()} />
+    </Show>
     <Show when={active() !== 'Article' && loaded() && groups().get(active())}>
       <div class="TaggedList fade-in">
         <Show when={page() > 0}>
@@ -904,7 +1042,6 @@ export function renderStatsPage() {
                     <br/>
                     Additional info of the site idk where else to put.
                     <div class="SiteDetails">
-                      <div><strong>Total Tags:</strong> {stats()?.tags?.toLocaleString() ?? '????'}</div>
                       <div><strong>Total Homepage Views:</strong> {data().homeTotal.toLocaleString()}</div>
                       <div><strong>Total Searches:</strong> {data().searchTotal.toLocaleString()}</div>
                       <h3>Homepage Views by Month</h3>
@@ -1217,18 +1354,28 @@ function groupSubmissions(list) {
 }
 
 function RecentChange(props) {
+  const [thumb] = createResource(
+    () => props.s.pageID,
+    async (id) => fetchThumbnailWLinkToArticle(await fetchMeta(id))
+  );
+
   return (
-    <>
-      <Show when={props.s.pageID} fallback={props.s.title?.trim() || 'New Article'}>
-        <a href={getFolderPath(props.s.pageID)}>{props.s.title.trim()}</a>
+    <div class="RecentChangeRow">
+      <Show when={thumb()}>
+        <div class="RecentChangeThumb">{thumb()}</div>
       </Show>
-      <div class="RecentChangeMetaLine">
-        <span class={`RecentChangesStatus ${submissionStatus(props.s).toLowerCase()}`}>
-          {submissionStatus(props.s)}
-        </span>
-        <FileChangeTags files={props.s.files} />
+      <div class="RecentChangeBody">
+        <Show when={props.s.pageID} fallback={props.s.title?.trim() || 'New Article'}>
+          <a href={getFolderPath(props.s.pageID)}>{props.s.title.trim()}</a>
+        </Show>
+        <div class="RecentChangeMetaLine">
+          <span class={`RecentChangesStatus ${submissionStatus(props.s).toLowerCase()}`}>
+            {submissionStatus(props.s)}
+          </span>
+          <FileChangeTags files={props.s.files} />
+        </div>
       </div>
-    </>
+    </div>
   );
 }
 
@@ -1274,7 +1421,7 @@ export function renderHome() {
           <br/>
           Use the search above to explore our site! Something not listed here? Help contribute or <a href="/?v=cep-editor">create a new page!</a>
           <br/><br/>
-          <strong>IMPORTANT! You are using an in-development test version of the site, <a href="/?v=cep-js">click here</a> to return to the default viewer! Otherwise thanks for testing this out, I hope this will give you a better experience searching and browsing through the pages. Leave feedback on the <a href="https://forum.cheeseepedia.org/t/cep-solid-wiki-overhaul/485/43">forum thread</a> as this will become the default by likely end of year!</strong>
+          <strong>11/17/26: Welcome to the new CEP remodel! <a href="/?v=cep-js">click here if you need to return</a> to the old viewer. Since this layout is new, leave feedback on the <a href="https://forum.cheeseepedia.org/t/cep-solid-wiki-overhaul/485/43">forum thread</a>, as the old renderer will be phased out later on.</strong>
         </center>
 
         <h2>News</h2>
@@ -1608,7 +1755,8 @@ const RANDOM_PHRASES = [
   "Toy Chica is William Afton",
   "FNaF: Making more money than CEC since 2014.",
   "We were here before Adventure World became the new 2.0",
-  "RIP /cep-js/"
+  "RIP /cep-js/",
+  "Its more like 40 years of fun + 10 years of hell."
 ];
 
 const DATE_PHRASES = {
@@ -1702,9 +1850,17 @@ export function renderHeader() {
           <img src={'/viewers/cep-js/assets/Logos/' + file} alt="Cheesepedia" />
         </a>
         <div class="FlavorText">
-          Now at <strong>{count('articles')}</strong> articles, <strong>{count('photos')}</strong> photos, and <strong>{count('videos')}</strong> videos
-          <br />
-          Contributed by <strong><a href="https://forum.cheeseepedia.org/">{count('contributors')} users!</a></strong>
+            Now at
+            <div class="roller-container">
+              <div class="roller-track">
+                <span><strong>{count('articles')}</strong> articles</span>
+                <span><strong>{count('photos')}</strong> photos</span>
+                <span><strong>{count('videos')}</strong> videos</span>
+                <span><strong>{count('tags')}</strong> tags</span>
+                <span><strong>{count('articles')}</strong> articles</span>
+              </div>
+            </div>
+            contributed by <strong><a href="https://forum.cheeseepedia.org/">{count('contributors')} users!</a></strong>
           <br />
           {!onSearchPage && (
             <button class="FakeSearchBar" onClick={() => (window.location.href = "/?v=cep-solid&page=search")}>Search...</button>

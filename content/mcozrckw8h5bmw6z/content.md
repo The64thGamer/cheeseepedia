@@ -1,0 +1,1 @@
+Center Stage of the Rock-afire Explosion at [Tulsa, OK (7108 S Memorial Dr)].

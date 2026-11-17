@@ -17,6 +17,7 @@ const SOLID = '/viewers/cep-solid/compiled-json/';
 const SOLIDPERM = '/viewers/cep-solid/permanent-json/';
 const JS = '/viewers/cep-js/compiled-json/';
 
+export const loadInventoryIndex = () => loadJson(`${SOLID}InventoryIndex.json`);
 export const loadFolderIDToTags = () => loadJson(`${SOLID}folderIDToTags.json`);
 export const loadTaggedByIDs = () => loadJson(`${SOLID}taggedByIDs.json`);
 export const loadSortKeys = () => loadJson(`${SOLID}sortKeys.json`);

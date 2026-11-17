@@ -32,9 +32,11 @@
     "https://archive.newportbeachlibrary.org/NBPL/DocView.aspx?id=1326372&dbid=0&repo=CNB&searchid=1e393085-7c62-4236-9376-e130653d25f1",
     "https://www.newspapers.com/image/1222942554/?clipping_id=179779746&fcfToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJmcmVlLXZpZXctaWQiOjEyMjI5NDI1NTQsImlhdCI6MTc2MzM4OTY4OCwiZXhwIjoxNzYzNDc2MDg4fQ.KVwLDqY9LisgSk7HAwWbRLe-O7V7Y5LdfJiutElrXfI"
   ],
-  "contributors": [],
+  "contributors": [
+    "Getretrofit"
+  ],
   "downloadLinks": [],
-  "pageThumbnailFile": "gggn1j7z3x04r1wt.avif",
+  "pageThumbnailFile": "1u9ka7ojizhsiq26",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"

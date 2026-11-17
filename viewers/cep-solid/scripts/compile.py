@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import json, os, subprocess, sys, calendar, datetime
 from pathlib import Path
-import re, shutil, tempfile, html, io, heapq, secrets, string, sqlite3, time
+import re, shutil, tempfile, html, io, heapq, secrets, string, sqlite3, time, threading
 import urllib.request, urllib.error, urllib.parse
 from concurrent.futures import ThreadPoolExecutor
 from itertools import zip_longest
@@ -89,6 +89,7 @@ FAN_CHANNELS = [
     "@CASAnimatronics",
     "@tylershannon4945",
     "@Dmanswish",
+    "@premationstation"
     "@hallsofvallhalla",
     "@Dawko",
     "@JonnyBlox"
@@ -168,6 +169,9 @@ OUT_USER_PROFILES = os.path.join(COMPILED_DIR, "userProfiles.json")
 PROFILE_TTL_HOURS = 24
 BIO_PREVIEW_CHARS = 200
 OUT_STATS = os.path.join(COMPILED_DIR, "ExtraStatistics.json")
+OUT_INVENTORY = os.path.join(COMPILED_DIR, "InventoryIndex.json")
+INVENTORY_FIELDS = ("stages", "remodels", "animatronics", "attractions", "fixtures", "walkarounds")
+INVENTORY_DETAIL_KEYS = ("s", "e", "l", "desc", "st")
 OUT_NEWS = os.path.join(COMPILED_DIR, "DiscourseNews.json")
 OUT_RECENT_TOPICS = os.path.join(COMPILED_DIR, "DiscourseRecent.json")
 DISCOURSE = "https://forum.cheeseepedia.org"
@@ -177,9 +181,13 @@ LATEST_URL = f"{DISCOURSE}/latest.json?order=created"
 DISCOURSE_API_KEY = (os.environ.get("DISCOURSE_API_KEY") or "").strip()
 DISCOURSE_API_USER = (os.environ.get("DISCOURSE_API_USERNAME") or "system").strip()
 DISCOURSE_HEADERS = {"User-Agent": "Mozilla/5.0"}
+PUBLIC_HEADERS = {"User-Agent": "Mozilla/5.0"}
 if DISCOURSE_API_KEY:
     DISCOURSE_HEADERS["Api-Key"] = DISCOURSE_API_KEY
     DISCOURSE_HEADERS["Api-Username"] = DISCOURSE_API_USER
+DISCOURSE_MIN_INTERVAL = 1.1
+_throttle_lock = threading.Lock()
+_next_slot = 0.0
 BADGE_TIERS = [
     (1000, 123), (750, 122), (500, 121), (300, 120), (150, 119), (100, 118), (75, 117),
     (50, 116), (25, 115), (10, 114), (5, 113), (2, 112), (1, 111),
@@ -282,6 +290,8 @@ def main():
     write_json(recent_official, OUT_RECENT_OFFICIAL_VIDEOS)
     anniversaries = build_anniversaries()
     write_json(anniversaries, OUT_ANNIVERSARIES)
+    inventory = build_inventory_index()
+    write_json(inventory, OUT_INVENTORY)
     stats = build_stats(len(tags))
     write_json(stats, OUT_STATS)
 
@@ -295,6 +305,7 @@ def main():
     print(green(f'Wrote {len(recent_fan)} recent fan videos -> {OUT_RECENT_FAN_VIDEOS}'))
     print(green(f'Wrote {len(recent_official)} recent official videos -> {OUT_RECENT_OFFICIAL_VIDEOS}'))
     print(green(f'Wrote {len(anniversaries)} anniversary days -> {OUT_ANNIVERSARIES}'))
+    print(green(f'Wrote {len(inventory)} inventory keys, {sum(len(v) for v in inventory.values())} entries -> {OUT_INVENTORY}'))
     print(green(f'Wrote stats: {stats["photos"]} photos, {stats["videos"]} videos, {stats["articles"]} other, {stats["contributors"]} contributors, {stats["tags"]} tags -> {OUT_STATS}'))
 
     pull_discourse()
@@ -864,6 +875,36 @@ def build_map_pins():
     print(green(f"mapPins.json — {len(locations)} locations written"))
     print(dim(f"  locations with tracked remodels: {locations_with_remodels}"))
 
+def build_inventory_index():
+    index = {}
+    for folder in sorted(Path(CONTENT_DIR).iterdir()):
+        if not folder.is_dir():
+            continue
+        meta = read_meta(folder)
+        if (meta.get('type') or '').strip().lower() != 'locations':
+            continue
+        title = meta.get('title', folder.name)
+        for field in INVENTORY_FIELDS:
+            for item in meta.get(field) or []:
+                if not isinstance(item, dict):
+                    continue
+                name = str(item.get('n') or '').strip()
+                if not name:
+                    continue
+                entry = {'title': title, 'p': folder.name, 'field': field}
+                for key in INVENTORY_DETAIL_KEYS:
+                    val = item.get(key)
+                    if val is not None and val != '':
+                        entry[key] = val
+                index.setdefault(name, []).append(entry)
+    for entries in index.values():
+        entries.sort(key=lambda e: (
+            not e.get('s') or str(e['s']).startswith('0000'),
+            str(e.get('s') or ''),
+        ))
+    return index
+
+
 def build_stats(tag_count):
     counts = {"photos": 0, "videos": 0, "articles": 0}
     contributors = set()
@@ -941,23 +982,37 @@ def avatar_filename(name):
     return re.sub(r'[^\w\-.]', '_', name) + '.jpg'
 
 
+def throttle():
+    global _next_slot
+    with _throttle_lock:
+        now = time.monotonic()
+        slot = max(now, _next_slot)
+        _next_slot = slot + DISCOURSE_MIN_INTERVAL
+    if slot > now:
+        time.sleep(slot - now)
+
+
 def discourse_get(url, timeout=10):
+    throttle()
     req = urllib.request.Request(url, headers=DISCOURSE_HEADERS)
     return json.loads(urllib.request.urlopen(req, timeout=timeout).read())
 
 
-def discourse_get_retry(url, max_retries=6):
-    delay = 2
+def discourse_get_retry(url, max_retries=8):
+    delay = 5
     for attempt in range(1, max_retries + 1):
         try:
             return discourse_get(url, 15)
         except urllib.error.HTTPError as e:
             if e.code == 429 and attempt < max_retries:
-                retry_after = e.headers.get('Retry-After')
-                wait = float(retry_after) if retry_after else delay
+                try:
+                    retry_after = float(e.headers.get('Retry-After') or 0)
+                except ValueError:
+                    retry_after = 0
+                wait = max(retry_after, delay)
                 print(yellow(f"    ! rate limited, waiting {wait:.0f}s (attempt {attempt}/{max_retries})..."))
                 time.sleep(wait)
-                delay *= 2
+                delay = min(delay * 2, 60)
                 continue
             raise
 
@@ -990,7 +1045,6 @@ def fetch_discourse_admin_users():
         if len(batch) < 100:
             break
         page += 1
-        time.sleep(0.2)
     return all_users
 
 
@@ -1028,7 +1082,7 @@ def download_background(username, url, replace=False):
     path = Path(BACKGROUND_DIR, name)
     if replace or not path.exists():
         try:
-            req = urllib.request.Request(full, headers=DISCOURSE_HEADERS)
+            req = urllib.request.Request(full, headers=PUBLIC_HEADERS)
             with urllib.request.urlopen(req, timeout=20) as r:
                 path.write_bytes(r.read())
         except Exception:
@@ -1063,26 +1117,28 @@ def download_avatar(user, force=False):
     if path.exists() and not force:
         return
     try:
-        req = urllib.request.Request(DISCOURSE + template.replace('{size}', '128'), headers=DISCOURSE_HEADERS)
+        req = urllib.request.Request(DISCOURSE + template.replace('{size}', '128'), headers=PUBLIC_HEADERS)
         with urllib.request.urlopen(req, timeout=10) as r:
             path.write_bytes(r.read())
     except Exception:
         pass
 
 
-def owned_badge_ids(username):
+def owned_user_badges(username):
     try:
         data = discourse_get_retry(f"{DISCOURSE}/user-badges/{urllib.parse.quote(username)}.json")
     except Exception as e:
         print(red(f"    ! could not fetch existing badges for {username}: {e}"))
         return None
-    owned = {ub['badge_id'] for ub in data.get('user_badges', []) if ub.get('badge_id') is not None}
-    if not owned:
-        owned = {b['id'] for b in data.get('badges', []) if b.get('id') is not None}
+    owned = {}
+    for ub in data.get('user_badges', []):
+        if ub.get('badge_id') is not None and ub.get('id') is not None:
+            owned.setdefault(ub['badge_id'], []).append(ub['id'])
     return owned
 
 
 def grant_badge(username, badge_id):
+    throttle()
     body = urllib.parse.urlencode({'username': username, 'badge_id': badge_id}).encode()
     req = urllib.request.Request(
         f"{DISCOURSE}/user_badges",
@@ -1094,53 +1150,48 @@ def grant_badge(username, badge_id):
         return json.loads(resp.read())
 
 
-def award_badges(contributors, dry_run=False):
+def award_badges(contributors):
     candidates = [e for e in contributors if e.get('fu') and e.get('count', 0) > 0]
     print(cyan(f"Checking badges for {len(candidates)} matched contributors..."))
 
     granted_total = 0
     removed_total = 0
+    all_tier_bids = {bid for _, bid in BADGE_TIERS}
     for i, e in enumerate(candidates, 1):
         username, count = e['fu'], e['count']
         owed = [(t, bid) for t, bid in BADGE_TIERS if count >= t]
         owed_bids = {bid for _, bid in owed}
-        owned = owned_badge_ids(username)
+        owned = owned_user_badges(username)
         if owned is None:
             continue
-            
-        all_tier_bids = {bid for _, bid in BADGE_TIERS}
-        for bid in owned:
-            if bid in all_tier_bids and bid not in owed_bids:
-                if dry_run:
-                    print(dim(f"  [dry-run] would revoke badge {bid} from {username} (count {count} too low)"))
-                    continue
+
+        for bid, grant_ids in owned.items():
+            if bid not in all_tier_bids or bid in owed_bids:
+                continue
+            for gid in grant_ids:
                 try:
-                    revoke_badge(username, bid)
+                    revoke_badge(username, gid)
                     print(yellow(f"  [{i}/{len(candidates)}] revoked badge {bid} from {username} (count {count} too low)"))
                     removed_total += 1
-                    time.sleep(0.3)
                 except urllib.error.HTTPError as ex:
                     print(red(f"    ! failed to revoke badge {bid} from {username}: HTTP {ex.code} {ex.read()[:200]}"))
                 except Exception as ex:
                     print(red(f"    ! failed to revoke badge {bid} from {username}: {ex}"))
 
         for threshold, bid in [(t, b) for t, b in owed if b not in owned]:
-            if dry_run:
-                print(dim(f"  [dry-run] would grant badge {bid} (>= {threshold}) to {username}"))
-                continue
             try:
                 grant_badge(username, bid)
                 print(green(f"  [{i}/{len(candidates)}] granted badge {bid} (>= {threshold}) to {username}"))
                 granted_total += 1
-                time.sleep(0.3)
             except urllib.error.HTTPError as ex:
                 print(red(f"    ! failed to grant badge {bid} to {username}: HTTP {ex.code} {ex.read()[:200]}"))
             except Exception as ex:
                 print(red(f"    ! failed to grant badge {bid} to {username}: {ex}"))
 
-    print(green(f"{'Would grant' if dry_run else 'Granted'} {granted_total} new badge(s) and {'would remove' if dry_run else 'removed'} {removed_total} excess badge(s) total."))
+    print(green(f"Granted {granted_total} new badge(s) and removed {removed_total} excess badge(s) total."))
 
 def revoke_badge(username, user_badge_id):
+    throttle()
     req = urllib.request.Request(
         f"{DISCOURSE}/user_badges/{user_badge_id}.json",
         method='DELETE',
@@ -1150,8 +1201,6 @@ def revoke_badge(username, user_badge_id):
         return json.loads(resp.read())
 
 def build_contributors():
-    dry_run = '--dry-run' in sys.argv
-    skip_badges = '--no-badges' in sys.argv
     os.makedirs(AVATAR_DIR, exist_ok=True)
 
     print(cyan("Fetching Discourse users..."))
@@ -1173,7 +1222,6 @@ def build_contributors():
     print(f"  {len(contribs)} contributors")
 
     old_profiles = load_json_file(OUT_USER_PROFILES)
-    refresh_all = '--refresh-users' in sys.argv
     ttl = PROFILE_TTL_HOURS * 3600
     now = int(time.time())
     named = [u for u in users if u.get('username')]
@@ -1183,11 +1231,11 @@ def build_contributors():
         old = old_profiles.get(key)
         if old and old.get('fetched') and old.get('avt') != u.get('avatar_template'):
             changed_avatar.add(key)
-        if refresh_all or not old or key in changed_avatar or now - old.get('fetched', 0) > ttl:
+        if not old or key in changed_avatar or now - old.get('fetched', 0) > ttl:
             stale.append(u)
 
-    with ThreadPoolExecutor(max_workers=16) as ex:
-        list(ex.map(lambda u: download_avatar(u, refresh_all or u.get('username', '').lower() in changed_avatar), users))
+    with ThreadPoolExecutor(max_workers=4) as ex:
+        list(ex.map(lambda u: download_avatar(u, u.get('username', '').lower() in changed_avatar), users))
 
     os.makedirs(BACKGROUND_DIR, exist_ok=True)
     print(cyan(f"Refreshing {len(stale)} of {len(named)} Discourse profiles..."))
@@ -1245,8 +1293,7 @@ def build_contributors():
     write_json(out, OUT_CONTRIBUTORS)
     print(green(f"Wrote {len(out)} contributors -> {OUT_CONTRIBUTORS}"))
 
-    if not skip_badges:
-        award_badges(out, dry_run=dry_run)
+    award_badges(out)
 
 
 YT_ID_RE = re.compile(r"(?:youtu\.be/|[?&]v=|/(?:shorts|embed|live|v|e)/)([A-Za-z0-9_-]{11})")

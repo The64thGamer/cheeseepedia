@@ -2,7 +2,7 @@
   "title": "Fort Worth, TX (6228 McCart Ave)",
   "storeNumber": "",
   "startDate": "1982-05-00",
-  "endDate": "1984-00-00",
+  "endDate": "1984-04-00",
   "remodels": [
     {
       "n": "PTT Standard Layout",
@@ -13,7 +13,7 @@
     {
       "n": "Balcony Stage",
       "s": "1982-05-00",
-      "e": "1984-00-00"
+      "e": "1984-04-00"
     }
   ],
   "franchisees": [],
@@ -24,7 +24,9 @@
     "-97.3634209"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Getretrofit"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "drjxxr2hebjoi6aw.avif",
   "type": "Locations",

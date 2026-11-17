@@ -6,7 +6,7 @@ const viewerMap = {
 };
 
 if (params.has('payload') && !params.has('v')) params.set('v', 'cep-editor');
-if (!params.has('v')) params.set('v', 'cep-js');
+if (!params.has('v')) params.set('v', 'cep-solid');
 
 window.history.replaceState(null, '', `${window.location.pathname}?${params}${window.location.hash}`);
 

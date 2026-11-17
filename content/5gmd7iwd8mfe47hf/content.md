@@ -1,0 +1,1 @@
+***El Cerrito, CA (10 El Cerrito Plaza)*** was a planned *Pizza Time Theatre* location that was planned to open inside a popular restaurants, *Kirby’s Restaurant* and *El Cerrito Station Bar*, in December 1982, but was ultimately cancelled on June 7, 1983 due to the city council's restrictions on its planned space.
