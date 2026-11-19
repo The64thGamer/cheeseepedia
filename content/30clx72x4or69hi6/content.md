@@ -1,0 +1,1 @@
+Center Stage of the Rock-afire Explosion at [Arvada, CO (9301 Ralston Rd)].

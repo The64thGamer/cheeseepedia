@@ -1,8 +1,9 @@
 {
   "title": "Billy Bob's Wonderland",
-  "type": "Companies/Brands",
+  "type": "Locations",
   "tags": [
-    "Creative Engineering"
+    "Creative Engineering",
+    "Billy Bob's Wonderland"
   ],
   "startDate": "1989-00-00",
   "endDate": "",
@@ -15,7 +16,8 @@
     "Rexburg090",
     "Emcaacme",
     "Totalrockafirenerd",
-    "Livelycheese"
+    "Livelycheese",
+    "ThatRockHistorian76"
   ],
   "citations": [
     "https://youtu.be/r5mEJw7fmuw",
@@ -35,7 +37,127 @@
   ],
   "pageThumbnailFile": "Px8qWWk0Q3ZiiHY7xvvL.avif",
   "latitudeLongitude": [
-    "",
-    ""
+    "38.415421",
+    "-82.255379"
+  ],
+  "walkarounds": [
+    {
+      "n": "Fatz CEI Walkaround",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": ""
+    },
+    {
+      "n": "Beach Bear CEI Walkaround",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": ""
+    },
+    {
+      "n": "Mitzi CEI Walkaround",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": ""
+    },
+    {
+      "n": "Billy Bob CEI Walkaround",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": ""
+    },
+    {
+      "n": "Looney Bird CEI Walkaround",
+      "desc": "",
+      "s": "0000-00-00",
+      "e": ""
+    }
+  ],
+  "fixtures": [],
+  "stages": [
+    {
+      "n": "Classic Stage",
+      "desc": "",
+      "s": "1989-00-00",
+      "e": ""
+    }
+  ],
+  "animatronics": [
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "1989-00-00",
+      "e": ""
+    },
+    {
+      "n": "Dook LaRue",
+      "desc": "",
+      "l": "",
+      "s": "1989-00-00",
+      "e": ""
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "1989-00-00",
+      "e": ""
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "1989-00-00",
+      "e": ""
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "1989-00-00",
+      "e": ""
+    },
+    {
+      "n": "Billy Bob (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "1989-00-00",
+      "e": ""
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "1989-00-00",
+      "e": ""
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "1989-00-00",
+      "e": ""
+    },
+    {
+      "n": "Moon (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "1989-00-00",
+      "e": ""
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "1989-00-00",
+      "e": ""
+    },
+    {
+      "n": "Antioch (Animatronic)",
+      "desc": "",
+      "l": "",
+      "s": "1989-00-00",
+      "e": ""
+    }
   ]
 }

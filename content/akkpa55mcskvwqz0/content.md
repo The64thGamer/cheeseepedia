@@ -1,0 +1,1 @@
+Statue of Liberty at [Arvada, CO (9301 Ralston Rd)].
