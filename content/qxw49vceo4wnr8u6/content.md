@@ -1,0 +1,1 @@
+Aerial photo of the location's exterior as a ShowBiz Pizza Place.

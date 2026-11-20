@@ -89,8 +89,9 @@ FAN_CHANNELS = [
     "@CASAnimatronics",
     "@tylershannon4945",
     "@Dmanswish",
-    "@premationstation"
+    "@premationstation",
     "@hallsofvallhalla",
+    "@Cec.ptt45",
     "@Dawko",
     "@JonnyBlox"
 ]
@@ -114,6 +115,9 @@ BODY_FILES = ("content.md", "old.md")
 OUT_SEARCH_DB = os.path.join(os.path.dirname(__file__), "..", "compiled-json/search.sqlite")
 CHUNK_WORDS = 150
 SNIPPET_WORDS = 24
+IO_WORKERS = 16
+SCAN_BATCH = 2000
+HANDLE_WORKERS = 8
 TS_TOKEN_RE = re.compile(r"\{(\d+:\d\d(?::\d\d)?)\}$")
 MD_LINK_RE = re.compile(r"\[([^\]]*)\]\([^)]*\)")
 WIKI_SHORTCODE_RE = re.compile(r"""\{\{<?\s*wiki-link\s+(?:"([^"]+)"|'([^']+)'|([^\s}>]+))[^}]*\}\}""", re.I)
@@ -167,6 +171,7 @@ BACKGROUND_DIR = os.path.join(COMPILED_DIR, "backgrounds")
 OUT_CONTRIBUTORS = os.path.join(COMPILED_DIR, "contributors.json")
 OUT_USER_PROFILES = os.path.join(COMPILED_DIR, "userProfiles.json")
 PROFILE_TTL_HOURS = 24
+PROFILE_REFRESH_MAX = 200
 BIO_PREVIEW_CHARS = 200
 OUT_STATS = os.path.join(COMPILED_DIR, "ExtraStatistics.json")
 OUT_INVENTORY = os.path.join(COMPILED_DIR, "InventoryIndex.json")
@@ -186,8 +191,9 @@ if DISCOURSE_API_KEY:
     DISCOURSE_HEADERS["Api-Key"] = DISCOURSE_API_KEY
     DISCOURSE_HEADERS["Api-Username"] = DISCOURSE_API_USER
 DISCOURSE_MIN_INTERVAL = 1.1
+PUBLIC_MIN_INTERVAL = 0.35
 _throttle_lock = threading.Lock()
-_next_slot = 0.0
+_next_slot = {False: 0.0, True: 0.0}
 BADGE_TIERS = [
     (1000, 123), (750, 122), (500, 121), (300, 120), (150, 119), (100, 118), (75, 117),
     (50, 116), (25, 115), (10, 114), (5, 113), (2, 112), (1, 111),
@@ -265,34 +271,37 @@ def main():
     if ask("Scan for duplicate articles"):
         dedupe_videos()
         dedupe_photos()
-    fill_video_channel_handles()
-    remove_backslashes()
-    build_search_db()
+
+    search_db = new_search_db()
+    articles, indexed, rows = load_articles(search_db)
+    write_search_db(search_db, indexed, rows)
     copy_search_worker()
-    title_to_id = build_title_to_id_map()
+    fill_video_channel_handles(articles)
+
+    title_to_id = build_title_to_id_map(articles)
     id_to_title = build_id_to_title_map(title_to_id)
-    type_to_ids = build_type_to_ids()
-    
-    force_image_thumbnails()
-    sort_keys = build_sort_keys()
+    type_to_ids = build_type_to_ids(articles)
+
+    force_image_thumbnails(articles)
+    sort_keys = build_sort_keys(articles)
     write_json(sort_keys, OUT_SORT_KEYS)
-    tags, id_tags = build_tags()
-    tagged_by = build_tagged_by(tags)
+    tags, id_tags = build_tags(articles)
+    tagged_by = build_tagged_by(tags, articles)
     write_json(tagged_by, OUT_TAGGED_BY)
     write_json(tags, OUT_TAGS)
     write_json(id_tags, OUT_ID_TO_TAGS)
     write_json(type_to_ids, OUT_TYPE_TO_IDS)
     write_json(title_to_id, OUT_TITLE_TO_ID)
     write_json(id_to_title, OUT_ID_TO_TITLE)
-    recent_fan = build_recent_videos(False)
-    recent_official = build_recent_videos(True)
+    recent_fan = build_recent_videos(articles, False)
+    recent_official = build_recent_videos(articles, True)
     write_json(recent_fan, OUT_RECENT_FAN_VIDEOS)
     write_json(recent_official, OUT_RECENT_OFFICIAL_VIDEOS)
-    anniversaries = build_anniversaries()
+    anniversaries = build_anniversaries(articles)
     write_json(anniversaries, OUT_ANNIVERSARIES)
-    inventory = build_inventory_index()
+    inventory = build_inventory_index(articles)
     write_json(inventory, OUT_INVENTORY)
-    stats = build_stats(len(tags))
+    stats = build_stats(articles, len(tags))
     write_json(stats, OUT_STATS)
 
     print(green(f'Wrote {len(title_to_id)} titles -> {OUT_TITLE_TO_ID}'))
@@ -308,91 +317,138 @@ def main():
     print(green(f'Wrote {len(inventory)} inventory keys, {sum(len(v) for v in inventory.values())} entries -> {OUT_INVENTORY}'))
     print(green(f'Wrote stats: {stats["photos"]} photos, {stats["videos"]} videos, {stats["articles"]} other, {stats["contributors"]} contributors, {stats["tags"]} tags -> {OUT_STATS}'))
 
-    pull_discourse()
-    build_map_pins()
+    pull_discourse(articles)
+    build_map_pins(articles)
 
     run_solid_build()
 
 
-def remove_backslashes():
-    content_path = Path(CONTENT_DIR)
-    if not content_path.exists():
-        return
+def read_file(path, encoding="utf-8"):
+    try:
+        with open(path, encoding=encoding) as f:
+            return f.read(), os.fstat(f.fileno()).st_mtime
+    except (OSError, ValueError):
+        return None, 0
 
-    modified_count = 0
-    for folder in content_path.iterdir():
-        if not folder.is_dir():
-            continue
-        md_file = folder / "content.md"
-        if not md_file.exists():
-            continue
 
+def file_time(path):
+    try:
+        return os.stat(path).st_mtime
+    except OSError:
+        return 0
+
+
+def read_article(name):
+    folder = Path(CONTENT_DIR) / name
+    raw, meta_stamp = read_file(folder / "meta.json", "utf-8-sig")
+    meta = {}
+    if raw is not None:
         try:
-            content = md_file.read_text(encoding="utf-8")
-            if "\\" in content:
-                cleaned_content = content.replace("\\", "")
-                md_file.write_text(cleaned_content, encoding="utf-8")
-                print(yellow(f"Removed backslashes from: {md_file}"))
-                modified_count += 1
-        except Exception as e:
-            print(red(f"Error processing {md_file}: {e}"), file=sys.stderr)
-
-    if modified_count > 0:
-        print(green(f"Cleaned backslashes in {modified_count} content.md file(s)."))
-
-
-def build_title_to_id_map():
-    index = {}
-    for folder in Path(CONTENT_DIR).iterdir():
-        if not folder.is_dir():
-            continue
-        meta = folder / 'meta.json'
-        if not meta.exists():
-            continue
-        try:
-            fm = json.loads(meta.read_text(encoding='utf-8'))
-            t = fm.get('title', '').strip()
-            if t:
-                index[t] = folder.name
+            meta = json.loads(raw)
         except Exception:
-            continue
+            pass
+    if not isinstance(meta, dict):
+        meta = {}
+    indent = 2 if raw is not None and "\n" in raw.strip() else None
+
+    cleaned = False
+    text, text_stamp = read_file(folder / "content.md")
+    if text is not None and "\\" in text:
+        text = text.replace("\\", "")
+        (folder / "content.md").write_text(text, encoding="utf-8")
+        text_stamp = time.time()
+        cleaned = True
+        print(yellow(f"Removed backslashes from: {folder / 'content.md'}"))
+
+    old_path = folder / "old.md"
+    if text and text.strip():
+        body, old_stamp = text, file_time(old_path)
+    else:
+        old, old_stamp = read_file(old_path)
+        body = old if old and old.strip() else ""
+
+    kind = (meta.get("type") or "").strip().lower()
+    article = {
+        "id": name,
+        "folder": folder,
+        "meta": meta,
+        "kind": kind,
+        "indent": indent,
+        "mtime": max(meta_stamp, text_stamp, old_stamp),
+        "cleaned": cleaned,
+        "body_tags": extract_body_tags(body) if body and kind not in NO_BODY_TAG_TYPES else [],
+    }
+    return article, list(chunk_body(body)) if body else []
+
+
+def load_articles(con):
+    with os.scandir(CONTENT_DIR) as it:
+        names = sorted(e.name for e in it if e.is_dir())
+    articles, indexed, rows, cleaned = [], 0, 0, 0
+    with ThreadPoolExecutor(max_workers=IO_WORKERS) as executor:
+        for start in range(0, len(names), SCAN_BATCH):
+            for article, chunks in executor.map(read_article, names[start:start + SCAN_BATCH]):
+                cleaned += article["cleaned"]
+                if article["meta"]:
+                    articles.append(article)
+                if chunks:
+                    con.executemany(
+                        "INSERT INTO chunks(text, folder, ts) VALUES (?, ?, ?)",
+                        [(text, article["id"], ts) for text, ts in chunks],
+                    )
+                    indexed += 1
+                    rows += len(chunks)
+    if cleaned:
+        print(green(f"Cleaned backslashes in {cleaned} content.md file(s)."))
+    print(cyan(f"Scanned {len(names)} folders, {len(articles)} with readable meta"))
+    return articles, indexed, rows
+
+
+def write_meta(article):
+    path = article["folder"] / "meta.json"
+    path.write_text(json.dumps(article["meta"], ensure_ascii=False, indent=article["indent"]), encoding="utf-8")
+    article["mtime"] = time.time()
+
+
+def write_bytes(data, path):
+    try:
+        if os.path.getsize(path) == len(data):
+            with open(path, "rb") as f:
+                if f.read() == data:
+                    return False
+    except OSError:
+        pass
+    with open(path, "wb") as f:
+        f.write(data)
+    return True
+
+
+def build_title_to_id_map(articles):
+    index = {}
+    for a in articles:
+        title = a["meta"].get('title')
+        t = title.strip() if isinstance(title, str) else ''
+        if t:
+            index[t] = a["id"]
     return index
 
 
-def build_type_to_ids():
+def build_type_to_ids(articles):
     by_type = {}
-    for folder in Path(CONTENT_DIR).iterdir():
-        if not folder.is_dir():
-            continue
-        meta = folder / 'meta.json'
-        if not meta.exists():
-            continue
-        try:
-            fm = json.loads(meta.read_text(encoding='utf-8'))
-        except Exception:
-            continue
-        t = (fm.get('type') or '').strip().lower()
-        if not t:
-            continue
-        by_type.setdefault(t, []).append(folder.name)
+    for a in articles:
+        if a["kind"]:
+            by_type.setdefault(a["kind"], []).append(a["id"])
 
     for ids in by_type.values():
         ids.sort()
     return dict(sorted(by_type.items()))
 
-def build_sort_keys():
+def build_sort_keys(articles):
     keys = {}
-    for folder in sorted(Path(CONTENT_DIR).iterdir()):
-        if not folder.is_dir():
-            continue
-        meta = read_meta(folder)
-        if not meta:
-            continue
-        date = meta.get('startDate') or ''
+    for a in articles:
+        date = a["meta"].get('startDate') or ''
         start = int(date.replace('-', '')) if DATE_RE.fullmatch(date) and not date.startswith('0000') else 0
-        stamps = [(folder / n).stat().st_mtime for n in ('meta.json',) + BODY_FILES if (folder / n).exists()]
-        updated = max(0, int((max(stamps) - SORT_EPOCH) // 3600)) if stamps else 0
-        keys[folder.name] = [start, updated]
+        keys[a["id"]] = [start, max(0, int((a["mtime"] - SORT_EPOCH) // 3600))]
     return keys
 
 
@@ -408,10 +464,11 @@ def clean_for_search(body):
 def chunk_body(body):
     ts, chunk_ts, words = "", "", []
     for tok in clean_for_search(body).split():
-        m = TS_TOKEN_RE.match(tok)
-        if m:
-            ts = m.group(1)
-            continue
+        if tok[-1] == "}":
+            m = TS_TOKEN_RE.match(tok)
+            if m:
+                ts = m.group(1)
+                continue
         if not words:
             chunk_ts = ts
         words.append(tok)
@@ -422,33 +479,26 @@ def chunk_body(body):
         yield " ".join(words), chunk_ts
 
 
-def build_search_db():
-    os.makedirs(os.path.dirname(OUT_SEARCH_DB), exist_ok=True)
-    if os.path.exists(OUT_SEARCH_DB):
-        os.remove(OUT_SEARCH_DB)
-    con = sqlite3.connect(OUT_SEARCH_DB)
+def new_search_db():
+    con = sqlite3.connect(":memory:")
     con.execute("PRAGMA page_size=1024")
+    con.execute("PRAGMA temp_store=MEMORY")
     con.execute(
         "CREATE VIRTUAL TABLE chunks USING fts5("
         "text, folder UNINDEXED, ts UNINDEXED, "
         "tokenize=\"unicode61 remove_diacritics 2 tokenchars ''''\", columnsize=0)"
     )
-    articles = rows = 0
-    for folder in sorted(Path(CONTENT_DIR).iterdir()):
-        if not folder.is_dir():
-            continue
-        body = read_body(folder)
-        if not body.strip():
-            continue
-        batch = [(text, folder.name, ts) for text, ts in chunk_body(body)]
-        if batch:
-            con.executemany("INSERT INTO chunks(text, folder, ts) VALUES (?, ?, ?)", batch)
-            articles += 1
-            rows += len(batch)
+    return con
+
+
+def write_search_db(con, articles, rows):
     con.execute("INSERT INTO chunks(chunks) VALUES ('optimize')")
     con.commit()
     con.execute("VACUUM")
+    data = con.serialize()
     con.close()
+    os.makedirs(os.path.dirname(OUT_SEARCH_DB), exist_ok=True)
+    write_bytes(data, OUT_SEARCH_DB)
     print(green(f'Wrote search db: {articles} articles, {rows} chunks -> {OUT_SEARCH_DB}'))
 
 
@@ -465,7 +515,7 @@ def copy_search_worker():
         if not src.exists():
             print(red(f"Missing {src}"), file=sys.stderr)
             return
-        shutil.copy(src, out_dir / name)
+        write_bytes(src.read_bytes(), out_dir / name)
     print(green(f"Copied search worker files -> {out_dir}"))
 
 
@@ -496,16 +546,6 @@ def tag_name(val):
     if isinstance(val, dict):
         return str(val.get('n', '')).strip()
     return str(val).split('|', 1)[0].strip()
-
-
-def read_body(folder):
-    for name in BODY_FILES:
-        p = folder / name
-        if p.exists():
-            text = p.read_text(encoding='utf-8')
-            if text.strip():
-                return text
-    return ''
 
 
 def location_tags(title):
@@ -561,29 +601,20 @@ def extract_body_tags(body):
             out.append(val)
     return out
 
-def build_tags():
+def build_tags(articles):
     tag_idx, id_tags, canon = {}, {}, {}
-    entries, location_extras = [], {}
-    for folder in sorted(Path(CONTENT_DIR).iterdir()):
-        if not folder.is_dir():
-            continue
-        meta = read_meta(folder)
-        if not meta:
-            continue
-        entries.append((folder, meta))
-        if (meta.get('type') or '').strip().lower() == 'locations':
-            title = (meta.get('title') or '').strip().lower()
-            extras = location_tags(meta.get('title') or '')
+    location_extras = {}
+    for a in articles:
+        if a["kind"] == 'locations':
+            title = (a["meta"].get('title') or '').strip().lower()
+            extras = location_tags(a["meta"].get('title') or '')
             if title and extras:
                 location_extras[title] = extras
-    for folder, meta in entries:
+    for a in articles:
         seen = set()
-        kind = (meta.get('type') or '').strip().lower()
-        meta_tags = extract_meta_tags(meta)
-        article_tags = list(meta_tags)
-        if kind not in NO_BODY_TAG_TYPES:
-            article_tags += extract_body_tags(read_body(folder))
-        if kind in ("photos", "videos"):
+        meta_tags = extract_meta_tags(a["meta"])
+        article_tags = meta_tags + a["body_tags"]
+        if a["kind"] in ("photos", "videos"):
             for tag in meta_tags:
                 article_tags += location_extras.get(tag.lower(), [])
         for tag in article_tags:
@@ -592,18 +623,16 @@ def build_tags():
                 continue
             seen.add(key)
             name = canon.setdefault(key, tag)
-            tag_idx.setdefault(name, []).append(folder.name)
-            id_tags.setdefault(folder.name, []).append(name)
+            tag_idx.setdefault(name, []).append(a["id"])
+            id_tags.setdefault(a["id"], []).append(name)
     return tag_idx, id_tags
 
 
-def force_image_thumbnails():
+def force_image_thumbnails(articles):
     first_image = {}
-    for folder in sorted(Path(CONTENT_DIR).iterdir()):
-        if not folder.is_dir():
-            continue
-        meta = read_meta(folder)
-        if (meta.get('type') or '').strip().lower() != 'photos':
+    for a in articles:
+        meta = a["meta"]
+        if a["kind"] != 'photos':
             continue
         title = (meta.get('title') or '').strip()
         if not title:
@@ -617,36 +646,26 @@ def force_image_thumbnails():
                 if name:
                     first_image.setdefault(name, title)
 
-    updated = 0
-    for folder in sorted(Path(CONTENT_DIR).iterdir()):
-        if not folder.is_dir():
-            continue
-        meta = read_meta(folder)
+    changed = []
+    for a in articles:
+        meta = a["meta"]
         title = (meta.get('title') or '').strip()
         if not title or meta.get(THUMB_FILE_FIELD):
             continue
         image = first_image.get(title.lower())
         if not image or image == title:
             continue
-        raw = (folder / "meta.json").read_text(encoding="utf-8-sig")
         meta[THUMB_FILE_FIELD] = image
-        indent = 2 if "\n" in raw.strip() else None
-        (folder / "meta.json").write_text(json.dumps(meta, ensure_ascii=False, indent=indent), encoding="utf-8")
-        updated += 1
-    print(green(f"Set {THUMB_FILE_FIELD} on {updated} article(s)"))
+        changed.append(a)
+    with ThreadPoolExecutor(max_workers=IO_WORKERS) as executor:
+        list(executor.map(write_meta, changed))
+    print(green(f"Set {THUMB_FILE_FIELD} on {len(changed)} article(s)"))
 
 
-def build_tagged_by(tags):
+def build_tagged_by(tags, articles):
     lookup = {name.lower(): ids for name, ids in tags.items()}
-    types, titles = {}, {}
-    for folder in sorted(Path(CONTENT_DIR).iterdir()):
-        if not folder.is_dir():
-            continue
-        meta = read_meta(folder)
-        if not meta:
-            continue
-        types[folder.name] = (meta.get('type') or '').strip().lower()
-        titles[folder.name] = (meta.get('title') or '').strip().lower()
+    types = {a["id"]: a["kind"] for a in articles}
+    titles = {a["id"]: (a["meta"].get('title') or '').strip().lower() for a in articles}
     result = {}
     for folder_id, title in titles.items():
         ids = lookup.get(title, []) if title else []
@@ -661,42 +680,34 @@ def is_official(meta):
     return handle in OFFICIAL_HANDLES
 
 
-def build_recent_videos(official):
+def build_recent_videos(articles, official):
     videos = []
-    for folder in Path(CONTENT_DIR).iterdir():
-        if not folder.is_dir():
+    for a in articles:
+        if a["kind"] != 'videos':
             continue
-        meta = read_meta(folder)
-        if (meta.get('type') or '').strip().lower() != 'videos':
+        if is_official(a["meta"]) != official:
             continue
-        if is_official(meta) != official:
-            continue
-        date = meta.get('startDate') or ''
+        date = a["meta"].get('startDate') or ''
         if not date or date.startswith('0000'):
             continue
-        videos.append((date, folder.name))
+        videos.append((date, a["id"]))
     videos.sort(reverse=True)
     return [name for _, name in videos[:RECENT_VIDEOS_COUNT]]
 
 
-def build_anniversaries():
+def build_anniversaries(articles):
     days = {}
-    for folder in sorted(Path(CONTENT_DIR).iterdir()):
-        if not folder.is_dir():
-            continue
-        meta = read_meta(folder)
-        if not meta:
-            continue
-        if (meta.get('type') or '').strip().lower() in ANNIVERSARY_EXCLUDE_TYPES:
+    for a in articles:
+        if a["kind"] in ANNIVERSARY_EXCLUDE_TYPES:
             continue
         for field, slot in (('startDate', 's'), ('endDate', 'e')):
-            date = (meta.get(field) or '').strip()
+            date = (a["meta"].get(field) or '').strip()
             if not DATE_RE.fullmatch(date) or date.startswith('0000'):
                 continue
             _, month, day = date.split('-')
             if month == '00' or day == '00':
                 continue
-            days.setdefault(f'{month}-{day}', {'s': [], 'e': []})[slot].append((date, folder.name))
+            days.setdefault(f'{month}-{day}', {'s': [], 'e': []})[slot].append((date, a["id"]))
     return {
         key: {slot: [name for _, name in sorted(items)] for slot, items in slots.items()}
         for key, slots in sorted(days.items())
@@ -718,29 +729,28 @@ def fetch_channel_handle(vid):
     return urllib.parse.unquote(handle)
 
 
-def fill_video_channel_handles():
+def fill_video_channel_handles(articles):
     todo = []
-    for folder in sorted(Path(CONTENT_DIR).iterdir()):
-        if not folder.is_dir():
-            continue
-        meta = read_meta(folder)
-        if (meta.get("type") or "").strip().lower() != "videos" or "videoChannelHandle" in meta:
+    for a in articles:
+        meta = a["meta"]
+        if a["kind"] != "videos" or "videoChannelHandle" in meta:
             continue
         vid = youtube_id(find_video_url(meta))
         if vid:
-            todo.append((folder, meta, vid))
+            todo.append((a, vid))
     print(cyan(f"{len(todo)} videos missing a channel handle"))
     if not todo:
         return
     filled = 0
-    with ThreadPoolExecutor(max_workers=PREFETCH) as executor:
-        for (folder, meta, vid), handle in zip(todo, executor.map(lambda t: fetch_channel_handle(t[2]), todo)):
+    with ThreadPoolExecutor(max_workers=HANDLE_WORKERS) as executor:
+        for (a, vid), handle in zip(todo, executor.map(fetch_channel_handle, [v for _, v in todo])):
             if handle is None:
                 continue
-            meta["videoChannelHandle"] = handle
-            (folder / "meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+            a["meta"]["videoChannelHandle"] = handle
+            a["indent"] = 2
+            write_meta(a)
             filled += 1
-            print(green(f"  {folder.name}: {handle or '(none)'}"))
+            print(green(f"  {a['id']}: {handle or '(none)'}"))
     print(green(f"Channel handles: {filled} filled, {len(todo) - filled} failed"))
 
 
@@ -750,8 +760,7 @@ def build_id_to_title_map(title_to_id):
 
 def write_json(data, path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    with open(path, 'w', encoding='utf-8') as f:
-        json.dump(data, f, ensure_ascii=False, separators=(',', ':'))
+    write_bytes(json.dumps(data, ensure_ascii=False, separators=(',', ':')).encode('utf-8'), path)
 
 def normalize_date(s, kind="start"):
     if not s or not isinstance(s, str): return None
@@ -825,22 +834,15 @@ def build_remodels(remodels):
     return remodels
 
 
-def build_map_pins():
-    folders = [f for f in Path(CONTENT_DIR).iterdir() if f.is_dir()]
-    print(cyan(f"Scanning {len(folders)} folders for map pins..."))
+def build_map_pins(articles):
+    print(cyan(f"Scanning {len(articles)} articles for map pins..."))
 
     locations = []
     locations_with_remodels = 0
 
-    for folder in folders:
-        mp = folder / 'meta.json'
-        if not mp.exists(): continue
-        try:
-            meta = json.loads(mp.read_text(encoding='utf-8'))
-        except Exception:
-            continue
-
-        if (meta.get('type') or '').lower() != 'locations':
+    for a in articles:
+        meta = a["meta"]
+        if a["kind"] != 'locations':
             continue
 
         ll = meta.get('latitudeLongitude')
@@ -861,29 +863,25 @@ def build_map_pins():
             locations_with_remodels += 1
 
         locations.append({
-            'p': folder.name,
+            'p': a["id"],
             'c': [lat, lon],
             's': start,
             'e': end,
             'r': remodels,
         })
 
-    os.makedirs(os.path.dirname(OUT_MAP_PINS), exist_ok=True)
-    with open(OUT_MAP_PINS, 'w', encoding='utf-8') as f:
-        json.dump({'locations': locations}, f, ensure_ascii=False, separators=(',', ':'))
+    write_json({'locations': locations}, OUT_MAP_PINS)
 
     print(green(f"mapPins.json — {len(locations)} locations written"))
     print(dim(f"  locations with tracked remodels: {locations_with_remodels}"))
 
-def build_inventory_index():
+def build_inventory_index(articles):
     index = {}
-    for folder in sorted(Path(CONTENT_DIR).iterdir()):
-        if not folder.is_dir():
+    for a in articles:
+        if a["kind"] != 'locations':
             continue
-        meta = read_meta(folder)
-        if (meta.get('type') or '').strip().lower() != 'locations':
-            continue
-        title = meta.get('title', folder.name)
+        meta = a["meta"]
+        title = meta.get('title', a["id"])
         for field in INVENTORY_FIELDS:
             for item in meta.get(field) or []:
                 if not isinstance(item, dict):
@@ -891,7 +889,7 @@ def build_inventory_index():
                 name = str(item.get('n') or '').strip()
                 if not name:
                     continue
-                entry = {'title': title, 'p': folder.name, 'field': field}
+                entry = {'title': title, 'p': a["id"], 'field': field}
                 for key in INVENTORY_DETAIL_KEYS:
                     val = item.get(key)
                     if val is not None and val != '':
@@ -905,20 +903,15 @@ def build_inventory_index():
     return index
 
 
-def build_stats(tag_count):
+def build_stats(articles, tag_count):
     counts = {"photos": 0, "videos": 0, "articles": 0}
     contributors = set()
-    for folder in Path(CONTENT_DIR).iterdir():
-        if not folder.is_dir():
-            continue
-        meta = read_meta(folder)
-        if not meta:
-            continue
-        kind = (meta.get('type') or '').strip().lower()
+    for a in articles:
+        kind = a["kind"]
         if kind == 'user':
             continue
         counts[kind if kind in ("photos", "videos") else "articles"] += 1
-        for name in meta.get('contributors') or []:
+        for name in a["meta"].get('contributors') or []:
             if isinstance(name, str) and name.strip():
                 contributors.add(name.strip())
     generated = datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
@@ -936,8 +929,10 @@ def build_news_topic(t):
     src = (thumb or {}).get("url") or t.get("image_url")
     local = None
     if src:
-        with urllib.request.urlopen(src) as r:
-            Path(NEWS_IMG_DIR, f"{t['id']}.jpg").write_bytes(r.read())
+        path = Path(NEWS_IMG_DIR, f"{t['id']}.jpg")
+        if not path.exists():
+            with urllib.request.urlopen(src) as r:
+                path.write_bytes(r.read())
         local = f"{NEWS_IMG_URL}/{t['id']}.jpg"
     return {
         "title": t["title"],
@@ -948,31 +943,33 @@ def build_news_topic(t):
     }
 
 
-def pull_discourse():
+def pull_discourse(articles):
     if not DISCOURSE_API_KEY:
         print(red("DISCOURSE_API_KEY is not set, skipping Discourse"), file=sys.stderr)
         return
     if ask("Pull/Modify Discourse"):
-        build_contributors()
+        build_contributors(articles)
         build_discourse_news()
 
 
 def build_discourse_news():
-    shutil.rmtree(NEWS_IMG_DIR, ignore_errors=True)
-    os.makedirs(NEWS_IMG_DIR)
+    os.makedirs(NEWS_IMG_DIR, exist_ok=True)
 
-    data = fetch_json(NEWS_URL)
-    news = [build_news_topic(t) for t in data.get("topic_list", {}).get("topics", [])]
-    write_json(news, OUT_NEWS)
-
-    data = fetch_json(LATEST_URL)
-    recent = []
-    for t in data.get("topic_list", {}).get("topics", []):
-        if t.get("category_id") == NEWS_CATEGORY_ID:
-            continue
-        entry = build_news_topic(t)
+    with ThreadPoolExecutor(max_workers=8) as executor:
+        news_data, latest_data = executor.map(fetch_json, (NEWS_URL, LATEST_URL))
+        news_topics = news_data.get("topic_list", {}).get("topics", [])
+        recent_topics = [t for t in latest_data.get("topic_list", {}).get("topics", []) if t.get("category_id") != NEWS_CATEGORY_ID]
+        news = list(executor.map(build_news_topic, news_topics))
+        recent = list(executor.map(build_news_topic, recent_topics))
+    for entry, t in zip(recent, recent_topics):
         entry["category_id"] = t.get("category_id")
-        recent.append(entry)
+
+    keep = {Path(e["image_url"]).name for e in news + recent if e["image_url"]}
+    for f in Path(NEWS_IMG_DIR).iterdir():
+        if f.name not in keep:
+            f.unlink()
+
+    write_json(news, OUT_NEWS)
     write_json(recent, OUT_RECENT_TOPICS)
     print(green(f"Wrote {len(news)} news topics -> {OUT_NEWS}"))
     print(green(f"Wrote {len(recent)} recent non-news topics -> {OUT_RECENT_TOPICS}"))
@@ -982,28 +979,31 @@ def avatar_filename(name):
     return re.sub(r'[^\w\-.]', '_', name) + '.jpg'
 
 
-def throttle():
-    global _next_slot
+def throttle(public=False):
+    interval = PUBLIC_MIN_INTERVAL if public else DISCOURSE_MIN_INTERVAL
     with _throttle_lock:
         now = time.monotonic()
-        slot = max(now, _next_slot)
-        _next_slot = slot + DISCOURSE_MIN_INTERVAL
+        slot = max(now, _next_slot[public])
+        _next_slot[public] = slot + interval
     if slot > now:
         time.sleep(slot - now)
 
 
-def discourse_get(url, timeout=10):
-    throttle()
-    req = urllib.request.Request(url, headers=DISCOURSE_HEADERS)
+def discourse_get(url, timeout=10, public=False):
+    throttle(public)
+    req = urllib.request.Request(url, headers=PUBLIC_HEADERS if public else DISCOURSE_HEADERS)
     return json.loads(urllib.request.urlopen(req, timeout=timeout).read())
 
 
-def discourse_get_retry(url, max_retries=8):
+def discourse_get_retry(url, public=False, max_retries=8):
     delay = 5
     for attempt in range(1, max_retries + 1):
         try:
-            return discourse_get(url, 15)
+            return discourse_get(url, 15, public)
         except urllib.error.HTTPError as e:
+            if public and e.code in (401, 403, 404):
+                public = False
+                continue
             if e.code == 429 and attempt < max_retries:
                 try:
                     retry_after = float(e.headers.get('Retry-After') or 0)
@@ -1020,7 +1020,7 @@ def discourse_get_retry(url, max_retries=8):
 def fetch_discourse_directory():
     users, page = [], 0
     while True:
-        data = discourse_get(f"{DISCOURSE}/directory_items.json?period=all&order=post_count&page={page}")
+        data = discourse_get_retry(f"{DISCOURSE}/directory_items.json?period=all&order=post_count&page={page}", True)
         items = data.get('directory_items', [])
         if not items:
             break
@@ -1048,21 +1048,18 @@ def fetch_discourse_admin_users():
     return all_users
 
 
-def collect_contributors():
+def collect_contributors(articles):
     found = {}
-    for folder in Path(CONTENT_DIR).iterdir():
-        if not folder.is_dir():
+    for a in articles:
+        kind = a["kind"]
+        if kind == 'user' or kind in TAGGED_BY_TYPES:
             continue
-        meta = read_meta(folder)
-        kind = (meta.get('type') or '').strip().lower()
-        if kind == 'user' or kind in {t.lower() for t in TAGGED_BY_TYPES}:
-            continue
-        for name in meta.get('contributors') or []:
+        for name in a["meta"].get('contributors') or []:
             if not name:
                 continue
             entry = found.setdefault(name.strip(), {'count': 0, 'articles': []})
             entry['count'] += 1
-            entry['articles'].append(folder.name)
+            entry['articles'].append(a["id"])
     return found
 
 def load_json_file(path):
@@ -1093,7 +1090,7 @@ def download_background(username, url, replace=False):
 def fetch_user_profile(user, old):
     username = user['username']
     try:
-        data = discourse_get_retry(f"{DISCOURSE}/u/{urllib.parse.quote(username)}.json")
+        data = discourse_get_retry(f"{DISCOURSE}/u/{urllib.parse.quote(username)}.json", True)
     except Exception as e:
         print(red(f"    ! could not fetch profile for {username}: {e}"))
         return None
@@ -1126,7 +1123,7 @@ def download_avatar(user, force=False):
 
 def owned_user_badges(username):
     try:
-        data = discourse_get_retry(f"{DISCOURSE}/user-badges/{urllib.parse.quote(username)}.json")
+        data = discourse_get_retry(f"{DISCOURSE}/user-badges/{urllib.parse.quote(username)}.json", True)
     except Exception as e:
         print(red(f"    ! could not fetch existing badges for {username}: {e}"))
         return None
@@ -1154,14 +1151,16 @@ def award_badges(contributors):
     candidates = [e for e in contributors if e.get('fu') and e.get('count', 0) > 0]
     print(cyan(f"Checking badges for {len(candidates)} matched contributors..."))
 
+    with ThreadPoolExecutor(max_workers=4) as executor:
+        owned_all = list(executor.map(lambda e: owned_user_badges(e['fu']), candidates))
+
     granted_total = 0
     removed_total = 0
     all_tier_bids = {bid for _, bid in BADGE_TIERS}
-    for i, e in enumerate(candidates, 1):
+    for i, (e, owned) in enumerate(zip(candidates, owned_all), 1):
         username, count = e['fu'], e['count']
         owed = [(t, bid) for t, bid in BADGE_TIERS if count >= t]
         owed_bids = {bid for _, bid in owed}
-        owned = owned_user_badges(username)
         if owned is None:
             continue
 
@@ -1200,17 +1199,19 @@ def revoke_badge(username, user_badge_id):
     with urllib.request.urlopen(req, timeout=10) as resp:
         return json.loads(resp.read())
 
-def build_contributors():
+def build_contributors(articles):
     os.makedirs(AVATAR_DIR, exist_ok=True)
 
     print(cyan("Fetching Discourse users..."))
-    users = fetch_discourse_admin_users()
+    with ThreadPoolExecutor(max_workers=1) as executor:
+        directory = executor.submit(fetch_discourse_directory)
+        users = fetch_discourse_admin_users()
     if users is None:
         return
     print(f"  {len(users)} users")
     try:
         post_counts = {u.get('username', '').lower(): u.get('post_count', 0)
-                       for u in fetch_discourse_directory() if u.get('username')}
+                       for u in directory.result() if u.get('username')}
         for u in users:
             name = (u.get('username') or '').lower()
             if name in post_counts:
@@ -1218,21 +1219,25 @@ def build_contributors():
     except Exception as e:
         print(red(f"  ! could not enrich admin user list with post counts from directory: {e}"))
 
-    contribs = collect_contributors()
+    contribs = collect_contributors(articles)
     print(f"  {len(contribs)} contributors")
 
     old_profiles = load_json_file(OUT_USER_PROFILES)
     ttl = PROFILE_TTL_HOURS * 3600
     now = int(time.time())
     named = [u for u in users if u.get('username')]
-    changed_avatar, stale = set(), []
+    changed_avatar, required, expired = set(), [], []
     for u in named:
         key = u['username'].lower()
         old = old_profiles.get(key)
         if old and old.get('fetched') and old.get('avt') != u.get('avatar_template'):
             changed_avatar.add(key)
-        if not old or key in changed_avatar or now - old.get('fetched', 0) > ttl:
-            stale.append(u)
+        if not old or key in changed_avatar:
+            required.append(u)
+        elif now - old.get('fetched', 0) > ttl:
+            expired.append(u)
+    expired.sort(key=lambda u: old_profiles[u['username'].lower()].get('fetched', 0))
+    stale = required + expired[:PROFILE_REFRESH_MAX]
 
     with ThreadPoolExecutor(max_workers=4) as ex:
         list(ex.map(lambda u: download_avatar(u, u.get('username', '').lower() in changed_avatar), users))
