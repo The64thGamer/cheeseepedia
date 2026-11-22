@@ -4,5 +4,12 @@
   "tags": [
     "Portrait / Shelf Stage"
   ],
-  "startDate": ""
+  "startDate": "0000-00-00",
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "contributors": [
+    "Getretrofit"
+  ]
 }

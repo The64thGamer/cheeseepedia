@@ -1,0 +1,1 @@
+Michigan's National Bank at the side of the Pizza Time Theatre in Ann Arbor

@@ -4,7 +4,7 @@
   "tags": [
     "Chuck E. Cheese's"
   ],
-  "pageThumbnailFile": "f350d19fac1ef61e.avif",
+  "pageThumbnailFile": "08f29eddaefff8b7.avif",
   "startDate": "2018-00-00",
   "endDate": "0000-00-00",
   "contributors": [
@@ -12,5 +12,9 @@
   ],
   "citations": [],
   "alsoKnownAs": [],
-  "manufacturer": ""
+  "manufacturer": "",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

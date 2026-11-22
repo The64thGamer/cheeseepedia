@@ -39,20 +39,14 @@
     "-102.1496046"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "sudo-trans-pony"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "",
   "type": "Locations",
   "tags": [
     "Chuck E. Cheese's"
   ],
-  "animatronics": [
-    {
-      "n": "Studio C Beta Prototype",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "l": "Unknown",
-      "desc": "Destroyed"
-    }
-  ]
+  "animatronics": []
 }

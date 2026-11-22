@@ -3,7 +3,15 @@
   "type": "Photos",
   "tags": [
     "Pizza Time Theatre",
-    "Tucson, AZ (5534 E 22nd St)"
+    "Tucson, AZ (5534 E 22nd St)",
+    "Portrait / Shelf Stage"
   ],
-  "startDate": ""
+  "startDate": "0000-00-00",
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "contributors": [
+    "Getretrofit"
+  ]
 }

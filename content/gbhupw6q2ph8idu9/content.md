@@ -1,1 +1,3 @@
-Preston's exterior in the mid-late 1990s. (PC: showbizpizza.com)
+Exterior in the mid-late 1990s. (PC: showbizpizza.com)
+
+Brandon, Florida. Not Louisville, KY (Preston Hwy)

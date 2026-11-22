@@ -1,1 +1,1 @@
-An unknown location with Balcony nameplates
+Fresno's Portrait Stage with Balcony nameplates

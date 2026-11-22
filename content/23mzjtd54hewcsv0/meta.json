@@ -7,7 +7,8 @@
     "https://archive.org/details/@leg_arm"
   ],
   "tags": [
-    "Fullerton, CA (1841 W Orangethorpe Ave)"
+    "Fullerton, CA (1841 W Orangethorpe Ave)",
+    "Portrait / Shelf Stage"
   ],
   "startDate": "0000-00-00",
   "endDate": "0000-00-00",
@@ -24,6 +25,7 @@
   "attractions": [],
   "showtapeFormats": [],
   "contributors": [
-    "sudo-trans-pony"
+    "sudo-trans-pony",
+    "Getretrofit"
   ]
 }

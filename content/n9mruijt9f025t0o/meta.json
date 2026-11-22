@@ -9,7 +9,7 @@
   "tags": [
     "Sun Valley, CA (8357 Laurel Canyon Blvd)"
   ],
-  "startDate": "0000-00-00",
+  "startDate": "1980-08-25",
   "endDate": "0000-00-00",
   "recommend": false,
   "latitudeLongitude": [
@@ -24,6 +24,7 @@
   "attractions": [],
   "showtapeFormats": [],
   "contributors": [
-    "sudo-trans-pony"
+    "sudo-trans-pony",
+    "Getretrofit"
   ]
 }

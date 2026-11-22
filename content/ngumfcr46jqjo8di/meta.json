@@ -6,13 +6,18 @@
     "https://www.youtube.com/watch?v=6LkMaID6jJM"
   ],
   "tags": [
-    "Parkersburg, WV (3500 Murdoch Ave)",
+    "Parkersburg, WV (210 Lakeview Center)",
     "Huntington / Barboursville, WV (3419 US Rt. 60)",
     "ShowBiz Pizza Place"
   ],
   "startDate": "2023-04-18",
   "contributors": [
-    "sudo-trans-pony"
+    "sudo-trans-pony",
+    "Getretrofit"
   ],
-  "videoChannelHandle": "@RetroPizzaFan"
+  "videoChannelHandle": "@RetroPizzaFan",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }
