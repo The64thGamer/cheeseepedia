@@ -1,1 +1,1 @@
-Close-up of the Beta Dook Larue animatronic at [Jacksonville, FL (9820 Atlantic Blvd)].
+Close-up of the Dook Larue (Animatronic) animatronic at [Jacksonville, FL (9820 Atlantic Blvd)].

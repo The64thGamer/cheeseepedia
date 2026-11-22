@@ -4,7 +4,8 @@
   "endDate": "2006-00-00",
   "pageThumbnailFile": "BFp3VkVhLsM5BWqklq39.avif",
   "contributors": [
-    "TheEntireShrekScript"
+    "TheEntireShrekScript",
+    "Getretrofit"
   ],
   "citations": [
     "https://www.showbizpizza.com/info/documents/cec/cec_focus-2006-03.pdf",
@@ -22,7 +23,8 @@
     "https://www.youtube.com/watch?v=WgCdMSzMxL0",
     "https://assessor.stlouiscountymo.gov/realestate/PropertyInfo.aspx",
     "https://earth.google.com/web/@38.77381482,-90.26609945,158.10895818a,400.2986034d,35y,32.98312753h,0t,0r/data=CgRCAggBMikKJwolCiExME9XTVlZVF8xLTlONHA1ZXpVRzRzM0J3bHZUeURZb0IgAToDCgEwQgIIAEoICNDuzf4HEAE?authuser=0",
-    "https://assessor.stlouiscountymo.gov/revWebDocs/DocView/949811.pdf"
+    "https://assessor.stlouiscountymo.gov/revWebDocs/DocView/949811.pdf",
+    "https://www.worthpoint.com/worthopedia/blueprints-showbiz-pizza-place-st-1797058013"
   ],
   "storeNumber": "741",
   "sqft": "10,200",
@@ -158,10 +160,66 @@
       "desc": "Unknown/Destroyed"
     },
     {
-      "n": "Wink",
+      "n": "Wink (Animatronic)",
       "s": "1991-00-00",
       "e": "2006-00-00",
       "l": "Unknown",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 1-13",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Dook Larue (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 2-13",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Fatz Geronimo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 3-13",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Beach Bear (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 4-13",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Mitzi Mozzarella (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 5-13",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Looney Bird (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 7-13",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Choo Choo (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 8-13",
+      "desc": "Unknown/Destroyed"
+    },
+    {
+      "n": "Sun (Animatronic)",
+      "s": "0000-00-00",
+      "e": "0000-00-00",
+      "l": "1-81 10-13",
       "desc": "Unknown/Destroyed"
     }
   ],

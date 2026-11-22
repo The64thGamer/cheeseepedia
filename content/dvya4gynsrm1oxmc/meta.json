@@ -13,7 +13,8 @@
     {
       "n": "Balcony Stage",
       "s": "1981-08-00",
-      "e": "1986-00-00"
+      "e": "1986-00-00",
+      "desc": "Had a unique Cheese Crawl design"
     }
   ],
   "franchisees": [
@@ -85,13 +86,6 @@
       "s": "1981-00-00",
       "e": "0000-00-00",
       "l": "N/A",
-      "desc": "Unknown"
-    },
-    {
-      "n": "Dolli Dimples (Cabaret)",
-      "s": "1981-00-00",
-      "e": "0000-00-00",
-      "l": "Unknown",
       "desc": "Unknown"
     }
   ],
@@ -241,7 +235,8 @@
     "Rexburg090",
     "CEC Tinley",
     "CECMadison",
-    "Getretrofit"
+    "Getretrofit",
+    "CECmodesto81"
   ],
   "downloadLinks": [
     {
@@ -253,5 +248,6 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
-  ]
+  ],
+  "walkarounds": []
 }

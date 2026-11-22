@@ -5,7 +5,19 @@
     "Advanced Animations"
   ],
   "pageThumbnailFile": "6lrknutf2i7d1yt9",
-  "startDate": "",
+  "startDate": "1981-00-00",
   "endDate": "",
-  "contributors": []
+  "contributors": [
+    "AEFdude"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "citations": [
+    "https://archive.org/details/mel-blanc-live-at-gadgets-at-the-eastwood-mall",
+    "https://www.youtube.com/watch?v=DkQ3eGWa3FU",
+    "https://archive.org/details/looney-tunes-revue-function-list",
+    "https://archive.org/details/loooneytunesrevue/Sha-Na-Nonsense+(Bigger+Stage).wav"
+  ]
 }

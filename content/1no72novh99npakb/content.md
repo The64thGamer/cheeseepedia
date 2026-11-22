@@ -1,0 +1,1 @@
+Shows the left half of the showroom and a bit of the [C-Stage](https://cheeseepedia.org/?v=cep-js&=2lggmrhg75gj7odx)

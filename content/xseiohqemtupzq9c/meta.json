@@ -1,7 +1,7 @@
 {
   "title": "Fayetteville, NC (511 North McPherson Church Rd)",
   "storeNumber": "",
-  "startDate": "1983-08-00",
+  "startDate": "1983-09-00",
   "endDate": "",
   "remodels": [
     {
@@ -10,13 +10,13 @@
     },
     {
       "n": "SPP Standard Layout",
-      "s": "1983-08-00"
+      "s": "1983-09-00"
     }
   ],
   "stages": [
     {
       "n": "Classic Stage",
-      "s": "1983-08-00",
+      "s": "1983-09-00",
       "e": "1991-00-00",
       "desc": "2nd ShowBiz Pizza store to open in North Carolina."
     },
@@ -41,7 +41,9 @@
     "-78.95570563"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Getretrofit"
+  ],
   "downloadLinks": [],
   "pageThumbnailFile": "qTM7pmr4fy3YhSLE8mDo.avif",
   "type": "Locations",
@@ -127,7 +129,7 @@
       "desc": "Destroyed / Unknown"
     },
     {
-      "n": "Wink",
+      "n": "Wink (Animatronic)",
       "s": "0000-00-00",
       "e": "0000-00-00",
       "l": "Unknown",

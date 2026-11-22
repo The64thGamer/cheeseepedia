@@ -1,0 +1,1 @@
+Monroe Theatre, later opened as a Pizza Time Theatre

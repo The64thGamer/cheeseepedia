@@ -47,9 +47,12 @@
     "43.48029827",
     "-83.97774933"
   ],
-  "citations": [],
+  "citations": [
+    "https://www.showbizpizza.com/info/promo/spp/spp_saginaw-mi_promofolder.pdf"
+  ],
   "contributors": [
-    "sudo-trans-pony"
+    "sudo-trans-pony",
+    "Getretrofit"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "rlrb0s7dh1axagcq",
@@ -136,7 +139,7 @@
       "desc": "Unknown/Destroyed"
     },
     {
-      "n": "Wink",
+      "n": "Wink (Animatronic)",
       "s": "0000-00-00",
       "e": "0000-00-00",
       "l": "Unknown",

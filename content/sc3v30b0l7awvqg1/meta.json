@@ -2,7 +2,7 @@
   "title": "Omaha, NE (225 N 76th St)",
   "storeNumber": "",
   "startDate": "1982-06-23",
-  "endDate": "",
+  "endDate": "2026-06-30",
   "remodels": [
     {
       "n": "Concept Unification",
@@ -45,7 +45,8 @@
   ],
   "citations": [],
   "contributors": [
-    "sudo-trans-pony"
+    "sudo-trans-pony",
+    "dylanbal"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "j_VdXwhN5AWtfA9UU6Dd.avif",
@@ -132,7 +133,7 @@
       "desc": "Unknown/Destroyed."
     },
     {
-      "n": "Wink",
+      "n": "Wink (Animatronic)",
       "s": "0000-00-00",
       "e": "0000-00-00",
       "l": "Unknown",

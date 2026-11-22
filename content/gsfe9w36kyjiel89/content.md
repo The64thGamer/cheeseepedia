@@ -1,0 +1,1 @@
+Close-up of Panama City's Star Thumb Chuck sign, which has grey-colored skin instead of peach-colored, possibly due to sun damage.

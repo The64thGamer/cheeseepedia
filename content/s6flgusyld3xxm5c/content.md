@@ -1,1 +1,1 @@
-Close-up of the Beta Fatz Geronimo animatronic at [Jacksonville, FL (9820 Atlantic Blvd)].
+Close-up of the Fatz Geronimo (Animatronic) animatronic at [Jacksonville, FL (9820 Atlantic Blvd)].

@@ -5,14 +5,15 @@
     "Chuck E. Cheese's"
   ],
   "startDate": "2022-01-03",
-  "endDate": "0000-00-00",
+  "endDate": "2022-03-06",
   "contributors": [
     "CyberSnout",
     "Anonymous",
     "sudo-trans-pony",
     "Pasquallytheplumber",
     "Dame868",
-    "Cy's Junk at School"
+    "Cy's Junk at School",
+    "jeoxthechuckefan"
   ],
   "citations": [],
   "pageThumbnailFile": "ix8net3kamiBqGz1xmFe.avif",
@@ -22,5 +23,9 @@
     "Studio C USB + MicroSD",
     "3-Stage DVD",
     "Cyberamics DVD"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

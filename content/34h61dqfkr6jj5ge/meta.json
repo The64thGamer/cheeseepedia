@@ -6,7 +6,7 @@
   "remodels": [
     {
       "n": "Concept Unification",
-      "s": "1991-09-00"
+      "s": "1991-09-29"
     },
     {
       "n": "CEC 2.0 Remodel Program",
@@ -26,7 +26,7 @@
     },
     {
       "n": "Concept Unification Stage (3-Stage)",
-      "s": "1991-09-00",
+      "s": "1991-09-29",
       "e": "2020-02-00",
       "desc": "One of 17 3-Stages in Texas to undergo Concept Unification. Was in good condition. 2nd-to-last 3-Stage in Texas from September 2018 until stage removal in February 2020."
     },
@@ -44,9 +44,11 @@
     "-98.54257488"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Getretrofit"
+  ],
   "downloadLinks": [],
-  "pageThumbnailFile": "",
+  "pageThumbnailFile": "35uz9auz4by5nck5",
   "type": "Locations",
   "tags": [
     "ShowBiz Pizza Place"
@@ -130,7 +132,7 @@
       "desc": "Unknown/Destroyed"
     },
     {
-      "n": "Wink",
+      "n": "Wink (Animatronic)",
       "s": "0000-00-00",
       "e": "0000-00-00",
       "l": "Unknown",

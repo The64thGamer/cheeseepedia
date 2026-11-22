@@ -1,15 +1,15 @@
-***Redwood City, CA (380 Convention Way)*** (also known as ***San Mateo***) was a two-story [Pizza Time Theatre] location that opened in August of 1981, and closed in early 1986[2][6] 
+***Redwood City, CA (380 Convention Way)*** (also known as ***San Mateo***) was a two-story [Pizza Time Theatre] location that opened in August of 1981 with unique elements and layout, and shut down in early 1986[2][6]
 
 ## History
 
-RSKT, Inc., franchisee of the [Sunnyvale, CA (1247 W El Camino Real)] and Milpitas, CA (346 S Abel St) locations would open Redwood City as their third franchise in August of 1981.[3] In Summer of 1982, the location's CEC Mascot would present with Donna Clark, Miss Redwood City of 1982, a proclamation of 'Chuck E. Cheese Day' for the city of Redwood on an uncited day.[4]
+RSKT, Inc., franchisee of the [Sunnyvale, CA (1247 W El Camino Real)](https://cheeseepedia.org/?v=cep-js&=2o29k4vu8xdf97jz) and [Milpitas, CA (346 S Abel St)](https://cheeseepedia.org/?v=cep-js&=0na1e4vzl1tlklp4) locations, would open Redwood City as their third franchise in August of 1981.[3] In Summer of 1982, the location's CEC Mascot would present with Donna Clark, Miss Redwood City of 1982, a proclamation of 'Chuck E. Cheese Day' for the city of Redwood on an uncited day.[4]
 
 On May 7, 1983, the location would sponsor the *12th Annual Angel Island Run* to help raise money for underprivileged children. Over 1,500 participants would run the 4.8-mile race along an island in San Francisco Bay. Multiple corporate members would attend the event:
 
-- Marketing: Pat Saign, Don Schulte
-- Finance: Steve Merchant
-- Wardrobe: Tine Ahmann
-- Graphics: Karen Mitchell
+* Marketing: Pat Saign, Don Schulte
+* Finance: Steve Merchant
+* Wardrobe: Tine Ahmann
+* Graphics: Karen Mitchell
 
 Don Schulte would run the race in a Chuck E. Cheese mascot costume, clocking in at 44 minutes, ahead of most other runners. Other costume characters would greet people on the island, whether in the race or not. A 30-foot inflatable Chuck E. Cheese was set up on a hill in the island, visible to passing sailboats.[5]
 

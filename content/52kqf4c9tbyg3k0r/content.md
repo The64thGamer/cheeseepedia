@@ -1306,7 +1306,7 @@
 
 {25:04} >> Yeah. So actually from what I understand
 
-{25:06} this is a beta sun. And so there's this
+{25:06} this is a Sun (Animatronic). And so there's this
 
 {25:09} one and then Jack has the one from I
 

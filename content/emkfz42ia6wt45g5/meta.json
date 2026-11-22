@@ -6,11 +6,16 @@
     "https://www.youtube.com/watch?v=W57dBwrfmFE"
   ],
   "tags": [
-    "Uncle Klunk (Animatronic)"
+    "Uncle Klunk (Animatronic)",
+    "The Uncle Klunk Abomination: The Return"
   ],
   "startDate": "2026-11-09",
   "contributors": [
     "sudo-trans-pony"
   ],
-  "videoChannelHandle": "@animatronicswarehouse"
+  "videoChannelHandle": "@animatronicswarehouse",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

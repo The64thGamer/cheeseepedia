@@ -48,5 +48,5 @@ The Portrait / Shelf Stage, similar to the Kooser show, would be placed alongsid
 | [Long Beach, CA (4706 E. Los Coyotes Diagonal] | December 1980 | 1981/1982 |
 | [Sunnyvale, CA (1247 W El Camino Real)] | December 1980 | 1984 |
 | [Surfer's Paradise, Queensland 4217, Australia (Grundy's Centre, 2 Cavill Rd.)] | March 20th, 1981 | 1982 |
-| [Hayward, CA (24253 Hesperian Blvd)] | April 1981 | Unknown |
+| [Hayward, CA (24253 Hesperian Blvd)] | April 1981 | 1989 |
 | [Lake Forest, CA (24416 Muirlands Blvd)] | June 1981 | September 2001 |
