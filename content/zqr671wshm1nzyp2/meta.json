@@ -14,7 +14,8 @@
     "Rileypaulson",
     "RedaCEC",
     "CEC Tinley",
-    "Alemir19"
+    "Alemir19",
+    "Sonim07"
   ],
   "credits": [
     {
@@ -50,6 +51,12 @@
     "R12 SVHS (Post-93)",
     "C&R SVHS (Post-93)",
     "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/1993-diagnostics-005/Birthday%201995%203-Stage.iso",
+      "label": "Post '93 3-Stage SVHS Rip w/Signals"
+    }
   ],
   "citations": [
     "https://archive.org/download/1993-diagnostics-005/Birthday%201995%203-Stage.iso"

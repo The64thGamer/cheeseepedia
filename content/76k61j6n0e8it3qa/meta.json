@@ -3,14 +3,18 @@
   "type": "Videos",
   "pageThumbnailVideo": "https://www.youtube.com/watch?v=tMaUj6fgoWA",
   "citations": [
-    "https://www.youtube.com/watch?v=tMaUj6fgoWA"
+    "https://www.youtube.com/watch?v=tMaUj6fgoWA",
+    "https://youtu.be/tMaUj6fgoWA?si=rmSYILVky1urgPlz"
   ],
   "tags": [
-    "ShowBiz Pizza Place"
+    "ShowBiz Pizza Place",
+    "Altamonte Springs, FL (541 W Hwy 436)",
+    "Orlando, FL (7419 International Dr)"
   ],
   "startDate": "2006-08-13",
   "contributors": [
-    "sudo-trans-pony"
+    "sudo-trans-pony",
+    "Getretrofit"
   ],
   "videoChannelHandle": "@showbizpizza"
 }

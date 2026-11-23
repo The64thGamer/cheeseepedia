@@ -6,12 +6,19 @@
   "contributors": [
     "sudo-trans-pony",
     "CyberSnout",
-    "Cy's Junk at School"
+    "Cy's Junk at School",
+    "Sonim07"
   ],
   "citations": [],
   "showtapeFormats": [
     "3-Stage SVHS (Pre-93)",
     "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/1993-diagnostics-005/1993%20Diagnostics-005.iso",
+      "label": "Post 93 3-Stage SVHS Rip W/Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [

@@ -8,7 +8,8 @@
     "Ceclife13",
     "RedaCEC",
     "CyberSnout",
-    "Luigigamin212"
+    "Luigigamin212",
+    "Sonim07"
   ],
   "citations": [
     "https://archive.org/details/january-1994"
@@ -48,6 +49,16 @@
     "R12 SVHS (Post-93)",
     "C&R SVHS (Post-93)",
     "3-Stage SVHS (Post-93)"
+  ],
+  "downloadLinks": [
+    {
+      "url": "https://archive.org/download/january-1994/January%201994.iso",
+      "label": "SVHS Rip w/o Signals"
+    },
+    {
+      "url": "https://archive.org/download/1993-diagnostics-005/January%201994%20CEC%20Stage-006.iso",
+      "label": "Incomplete Post '93 R12 SVHS w/ Signals"
+    }
   ],
   "type": "Showtapes",
   "tags": [
