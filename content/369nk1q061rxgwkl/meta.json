@@ -31,23 +31,23 @@
   "attractions": [
     {
       "n": "Billy Bob Merry Go Round",
-      "s": "198?-00-00",
+      "s": "0000-00-00",
       "e": "0000-00-00"
     },
     {
       "n": "Skytubes",
-      "s": "199?-00-00",
-      "e": "200?-00-00"
+      "s": "0000-00-00",
+      "e": "0000-00-00"
     },
     {
       "n": "Chuck E. Cheese's Photo Ride (1993)",
-      "s": "199?-00-00",
-      "e": "200?-00-00"
+      "s": "0000-00-00",
+      "e": "0000-00-00"
     },
     {
       "n": "Chuck E. Cheese's Photo Ride (1997)",
-      "s": "199?-00-00",
-      "e": "200?-00-00"
+      "s": "0000-00-00",
+      "e": "0000-00-00"
     },
     {
       "n": "Rubble Bubble",
@@ -56,17 +56,17 @@
     },
     {
       "n": "Ticket Tac Toe",
-      "s": "199?-00-00",
+      "s": "0000-00-00",
       "e": "0000-00-00"
     },
     {
       "n": "Jurassic Park",
-      "s": "199?-00-00",
+      "s": "0000-00-00",
       "e": "0000-00-00"
     },
     {
       "n": "Chuck E. Cheese Roll",
-      "s": "199?-00-00",
+      "s": "0000-00-00",
       "e": "0000-00-00",
       "desc": "6 Units"
     },
@@ -165,62 +165,6 @@
       "e": "2006-00-00",
       "l": "Unknown",
       "desc": "Unknown/Destroyed"
-    },
-    {
-      "n": "Rolfe Dewolfe & Earl Schmerle (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "l": "1-81 1-13",
-      "desc": "Unknown/Destroyed"
-    },
-    {
-      "n": "Dook Larue (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "l": "1-81 2-13",
-      "desc": "Unknown/Destroyed"
-    },
-    {
-      "n": "Fatz Geronimo (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "l": "1-81 3-13",
-      "desc": "Unknown/Destroyed"
-    },
-    {
-      "n": "Beach Bear (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "l": "1-81 4-13",
-      "desc": "Unknown/Destroyed"
-    },
-    {
-      "n": "Mitzi Mozzarella (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "l": "1-81 5-13",
-      "desc": "Unknown/Destroyed"
-    },
-    {
-      "n": "Looney Bird (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "l": "1-81 7-13",
-      "desc": "Unknown/Destroyed"
-    },
-    {
-      "n": "Choo Choo (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "l": "1-81 8-13",
-      "desc": "Unknown/Destroyed"
-    },
-    {
-      "n": "Sun (Animatronic)",
-      "s": "0000-00-00",
-      "e": "0000-00-00",
-      "l": "1-81 10-13",
-      "desc": "Unknown/Destroyed"
     }
   ],
   "franchisees": [],
@@ -267,5 +211,6 @@
   "type": "Locations",
   "tags": [
     "ShowBiz Pizza Place"
-  ]
+  ],
+  "fixtures": []
 }

@@ -1,3 +1,7 @@
+
+<br>
+# **Animatronic Show Locations**
+
 #### **River-Towne Restaurant and Capt. Andy's River-Towne Locations**
 
 * 7934 Belair Rd, Putty Hill Plaza, Baltimore, MD (April 13, 1982 - 1984/1989?)
@@ -27,3 +31,10 @@
 #### **Cancelled Locations**
 
 * Sama World, Genting Highlands, Pahang, Malaysia [4]
+
+
+### **Privately Owned Bots**
+
+* Baltimore Captain Andy and Mrs Bullfrog now owned by Garner Holt
+* A Jubilation T. Bullfrog from a CA location/RiverTowne Steak Company is owned by George, also known as Cartoon Cahoots
+* Ypsilanti/Boblo Island/Wild Waves Show is now owned by Happy River-Towne on YouTube (except the Frogs and Matthew)
