@@ -1,0 +1,1 @@
+Chuck E. on the roof of the Pizza Time Theatre in Melbourne, FL

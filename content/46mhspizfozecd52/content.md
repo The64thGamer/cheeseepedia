@@ -1,0 +1,1 @@
+Months Before Opening, Chuck E. getting a liquor license for their first Pizza Time Theatre in the state of Colorado.

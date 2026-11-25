@@ -1,0 +1,1 @@
+Shakey's Pizza Parlor in Southgate, MI in 1970, would open as a Little Caesar's Pizza Parlor in 1971, then become a Pizza Time Theatre in June of 1982

@@ -1,4 +1,4 @@
-***Monterey's* (Formerly Monterey House, now Monterey's Little Mexico) was a Mexican restaurant company founded in 1955 and later purchased by ShowBiz Pizza Place in 1987, being sold off after 7 years of declining sales in 1994- though still operating independently to the present.**
+***Monterey's ***(Formerly Monterey House, now Monterey's Little Mexico) was a Mexican restaurant company founded in 1955 and later purchased by ShowBiz Pizza Place in 1987, being sold off after 7 years of declining sales in 1994- though still operating independently to the present.
 
 ## History
 

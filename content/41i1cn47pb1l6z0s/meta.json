@@ -48,9 +48,11 @@
     "-92.47295248"
   ],
   "citations": [],
-  "contributors": [],
+  "contributors": [
+    "Getretrofit"
+  ],
   "downloadLinks": [],
-  "pageThumbnailFile": "2nqcR0yu3ELwnjYHlY72.avif",
+  "pageThumbnailFile": "h9bzrzcg0x252h8s",
   "type": "Locations",
   "tags": [
     "ShowBiz Pizza Place"
@@ -134,7 +136,7 @@
       "desc": "Unknown/Destroyed"
     },
     {
-      "n": "Wink (Animatronic)",
+      "n": "Wink",
       "s": "0000-00-00",
       "e": "0000-00-00",
       "l": "Unknown",

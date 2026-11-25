@@ -3,7 +3,14 @@
   "type": "Photos",
   "tags": [
     "Chuck E. Cheese's",
-    "Blaine, MN (8943 University Ave)"
+    "Blaine, MN (8949 University Ave)"
   ],
-  "startDate": ""
+  "startDate": "0000-00-00",
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "contributors": [
+    "Getretrofit"
+  ]
 }

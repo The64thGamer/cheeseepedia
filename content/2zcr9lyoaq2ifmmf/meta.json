@@ -7,8 +7,8 @@
     "Chuck E. Cheese's",
     "ShowBiz Pizza Place"
   ],
-  "startDate": "1977-00-00",
-  "endDate": "",
+  "startDate": "0000-00-00",
+  "endDate": "0000-00-00",
   "contributors": [
     "sudo-trans-pony"
   ],
@@ -31,5 +31,9 @@
     "https://starcade.tv/pilotx/pilot.htm",
     "https://archive.org/download/thepizzatimeshow/ChuckECheese.mp4"
   ],
-  "pageThumbnailFile": "sVafNbqLMdTt9xdrzhaK.avif"
+  "pageThumbnailFile": "sVafNbqLMdTt9xdrzhaK.avif",
+  "latitudeLongitude": [
+    "",
+    ""
+  ]
 }

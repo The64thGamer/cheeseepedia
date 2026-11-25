@@ -1,0 +1,1 @@
+Before Pizza Time Theatre opened, Little Caesars Pizza Parlor held the Grand Opening in Westland on August 23rd, 1967

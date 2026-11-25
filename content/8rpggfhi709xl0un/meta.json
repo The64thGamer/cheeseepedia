@@ -5,12 +5,13 @@
     "Chuck E. Cheese's"
   ],
   "startDate": "2022-06-06",
-  "endDate": "0000-00-00",
+  "endDate": "2022-08-28",
   "contributors": [
     "CyberSnout",
     "sudo-trans-pony",
     "Bowling for Cheese",
-    "Dame868"
+    "Dame868",
+    "dame0824"
   ],
   "citations": [],
   "pageThumbnailFile": "h6Tb1qaWcrAG0AfBr4Vm.avif",
@@ -21,5 +22,9 @@
     "3-Stage DVD",
     "Cyberamics DVD",
     "3-Stage Networking Module Files"
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

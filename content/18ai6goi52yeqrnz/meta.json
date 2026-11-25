@@ -7,6 +7,30 @@
     {
       "n": "PTT Standard Layout",
       "s": "1981-12-16"
+    },
+    {
+      "n": "SPT 1980's Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "SPT 1990's Remodel Program",
+      "s": "2000-00-00"
+    },
+    {
+      "n": "CEC 2000's Remodel Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2010 Update Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2015 Update Program",
+      "s": "0000-00-00"
+    },
+    {
+      "n": "CEC 2.0 Remodel Program",
+      "s": "2018-11-00"
     }
   ],
   "stages": [
@@ -23,20 +47,26 @@
     {
       "n": "2-Stage",
       "s": "1993-00-00",
-      "e": "2001-00-00",
+      "e": "2000-12-00",
       "desc": "One of many installed in California. Replaced by Studio C Alpha."
     },
     {
       "n": "Studio C Alpha",
-      "s": "0000-00-00",
-      "e": "0000-00-00"
+      "s": "2000-12-00",
+      "e": "2018-11-00"
     },
     {
       "n": "Circles of Light",
-      "s": "0000-00-00"
+      "s": "2018-11-00"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "MCA & Associates",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
+    }
+  ],
   "attractions": [
     {
       "n": "Daytona USA",
@@ -55,6 +85,12 @@
       "s": "0000-00-00",
       "e": "0000-00-00",
       "desc": "Seen in a photograph from May 2007."
+    },
+    {
+      "n": "Chuck E.'s Duckies",
+      "desc": "Seen in CheeseVention 4 (2007)",
+      "s": "0000-00-00",
+      "e": "0000-00-00"
     }
   ],
   "sqft": "",
@@ -65,12 +101,25 @@
   "citations": [],
   "contributors": [
     "ThatRockHistorian76",
-    "Getretrofit"
+    "Getretrofit",
+    "cecweirdo"
   ],
   "downloadLinks": [],
   "pageThumbnailFile": "QTDW1xMwVW2X7qnLMt2f.avif",
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
-  ]
+  ],
+  "animatronics": [
+    {
+      "n": "Chuck E. Cheese (32m)",
+      "desc": "",
+      "l": "",
+      "s": "2000-12-00",
+      "e": "2018-11-00"
+    }
+  ],
+  "fixtures": [],
+  "walkarounds": [],
+  "credits": []
 }

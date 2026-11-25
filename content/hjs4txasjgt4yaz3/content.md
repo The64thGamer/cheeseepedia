@@ -1,5 +1,4 @@
-The ***Pizza Time Theatre Basic Ordering Agreement* is a partially lost group of early [Pizza Time Theatre] documents detailing the early concepts of the company and its first two locations: [San Jose, CA (370 S Winchester Blvd)] and [San Jose, CA (1371 Kooser Rd)], likely dating between 1976-1977.
-The documents are currently in possession by Gene Landrum, and only a few photos of their contents have surfaced.[1]**
+The ***Pizza Time Theatre Basic Ordering Agreement ***is a partially lost group of early [Pizza Time Theatre] documents detailing the early concepts of the company and its first two locations: [San Jose, CA (370 S Winchester Blvd)] and [San Jose, CA (1371 Kooser Rd)], likely dating between 1976-1977.The documents are currently in possession by Gene Landrum, and only a few photos of their contents have surfaced.[1]
 
 ### Ordering
 

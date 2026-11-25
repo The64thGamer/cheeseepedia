@@ -5,5 +5,12 @@
     "ShowBiz Pizza Place",
     "Springfield, IL (2369 McArthur Ave)"
   ],
-  "startDate": ""
+  "startDate": "1992-00-00",
+  "latitudeLongitude": [
+    "",
+    ""
+  ],
+  "contributors": [
+    "Getretrofit"
+  ]
 }

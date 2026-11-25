@@ -1,0 +1,1 @@
+Little Caesars Family Inn opened on May 1st, 1972 in Ferndale, MI. It would become a Pizza Time Theatre in September of 1982

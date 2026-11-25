@@ -4,13 +4,15 @@
   "tags": [
     "Pizza Time Theatre"
   ],
-  "startDate": "0000-00-00",
-  "endDate": "",
+  "startDate": "1976-00-00",
+  "endDate": "1977-00-00",
   "contributors": [
     "sudo-trans-pony"
   ],
-  "citations": [
+  "citations": [],
+  "pageThumbnailFile": "Aq8FJUVwl61oNEnREHIz.avif",
+  "latitudeLongitude": [
+    "",
     ""
-  ],
-  "pageThumbnailFile": "Aq8FJUVwl61oNEnREHIz.avif"
+  ]
 }

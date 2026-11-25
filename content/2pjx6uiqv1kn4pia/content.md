@@ -1,0 +1,1 @@
+ShowBiz Pizza in Akron doesn't serve alcoholic drinks
