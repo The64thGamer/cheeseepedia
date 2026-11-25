@@ -1,30 +1,6 @@
 [
   {
     "username": "Getretrofit",
-    "title": "cm5txrv9y422gdax",
-    "submittedAt": "2026-11-23T11:49:39Z",
-    "accepted": true,
-    "files": [
-      {
-        "name": "content.md",
-        "status": "added",
-        "add": 0,
-        "del": 0
-      },
-      {
-        "name": "meta.json",
-        "status": "added",
-        "add": 30,
-        "del": 0
-      },
-      {
-        "name": "photo.avif",
-        "status": "added"
-      }
-    ]
-  },
-  {
-    "username": "Getretrofit",
     "title": "ypmmnht499uap8j1",
     "submittedAt": "2026-11-23T11:54:14Z",
     "accepted": true,
@@ -4231,6 +4207,20 @@
         "name": "meta.json",
         "status": "modified",
         "add": 5,
+        "del": 1
+      }
+    ]
+  },
+  {
+    "username": "sudo-trans-pony",
+    "title": "Gemini Remodel",
+    "submittedAt": "2026-11-25T07:42:53Z",
+    "accepted": true,
+    "files": [
+      {
+        "name": "content.md",
+        "status": "modified",
+        "add": 1,
         "del": 1
       }
     ]

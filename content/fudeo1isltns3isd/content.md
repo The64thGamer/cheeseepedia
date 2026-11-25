@@ -1,4 +1,4 @@
-The ***Gemini Remodel ***(unofficial name) is a [Chuck E. Cheese's] remodel tested at the [Grapevine, TX (2755 E Grapevine Mills Circle)] in November of 2026, being done at the same time as the [CEC Adventure World 2.0 Remodel] used for upcoming [Chuck E. Cheese Adventure World] stores and prior CEC's being converted to Adventure Worlds.[1]
+The ***Gemini Remodel*** (unofficial name) is a [Chuck E. Cheese's] remodel tested at the [Grapevine, TX (2755 E Grapevine Mills Circle)] in November of 2026, being done at the same time as the [CEC Adventure World 2.0 Remodel] used for upcoming [Chuck E. Cheese Adventure World] stores and prior CEC's being converted to Adventure Worlds.[1]
 
 ## History
 
