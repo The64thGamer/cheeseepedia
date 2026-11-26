@@ -1,0 +1,4 @@
+En 2025, Chuck E. Cheese Chile informó públicamente que los animatrónicos de Cantagallo serían reubicados para seguir formando parte de la experiencia. ¿Podrían confirmar si ese proyecto sigue vigente y si contempla su retorno operativo, con presentaciones regulares al público?
+
+CEC Entertainment actualmente mantiene seis locales Legacy, y en Hicksville ha demostrado que una experiencia moderna puede coexistir con una banda animatrónica operativa. Entendemos que un proyecto así requiere tiempo y que quizás todavía no exista una fecha, pero después de casi un año una actualización general sería muy valiosa para quienes continuamos apoyando la marca. Gracias por leer.
+… more

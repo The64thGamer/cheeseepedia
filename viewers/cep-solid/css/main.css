@@ -1124,6 +1124,280 @@ select{
   display: block;
 }
 
+.LinkedInCard {
+  --li-bg: #1b1f23;
+  --li-border: #38434f;
+  --li-text: #e9e9e9;
+  --li-muted: #9da5ad;
+  --li-link: #71b7fb;
+  --li-surface: #22272c;
+  --li-avatar: #44505c;
+  box-sizing: border-box;
+  margin: 12px auto;
+  width: 100%;
+  padding: 14px 16px 12px;
+  background: var(--li-bg);
+  color: var(--li-text);
+  border: 1px solid var(--li-border);
+  border-radius: 8px;
+  font-family: -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.43;
+  overflow: hidden;
+}
+
+:root[data-theme="light"] .LinkedInCard,
+:root[data-theme="classic"] .LinkedInCard {
+  --li-bg: #ffffff;
+  --li-border: #d9dde1;
+  --li-text: #191919;
+  --li-muted: #666666;
+  --li-link: #0a66c2;
+  --li-surface: #f4f2ee;
+  --li-avatar: #dce6f1;
+}
+
+.LinkedInCard.LinkedInArticle {
+  margin-left: 0;
+  margin-right: auto;
+}
+
+.LinkedInCard a {
+  color: var(--li-link);
+  text-decoration: none;
+}
+
+.LinkedInCard a:hover {
+  text-decoration: underline;
+}
+
+.LIHeader {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+.LIAvatar {
+  flex: 0 0 48px;
+  width: 48px;
+  height: 48px;
+  border-radius: 2px;
+  background: var(--li-avatar) center / cover no-repeat;
+  color: var(--li-text);
+  font-size: 20px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.LIHeaderText {
+  min-width: 0;
+}
+
+.LIName {
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.25;
+  color: var(--li-text);
+}
+
+.LIMeta {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  font-size: 12px;
+  color: var(--li-muted);
+}
+
+.LIMeta a {
+  color: var(--li-muted);
+}
+
+.LIGlobe {
+  flex: 0 0 auto;
+  color: var(--li-muted);
+}
+
+.LIText {
+  margin-bottom: 10px;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  color: var(--li-text);
+}
+
+.LIHashtag {
+  color: var(--li-link);
+  font-weight: 600;
+}
+
+.LIText a {
+  font-weight: 600;
+}
+
+.LILoading {
+  color: var(--li-muted);
+  padding: 8px 0;
+}
+
+.LIPhotos {
+  display: grid;
+  gap: 2px;
+  margin: 0 -16px 10px;
+  background: var(--li-border);
+}
+
+.LIPhoto {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  background: var(--li-surface);
+}
+
+.LIPhoto img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.LIPhotos1 .LIPhoto img {
+  height: auto;
+  max-height: 560px;
+  object-fit: contain;
+}
+
+.LIPhotos2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.LIPhotos2 .LIPhoto {
+  aspect-ratio: 1 / 1;
+}
+
+.LIPhotos3 {
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+}
+
+.LIPhotos3 .LIPhoto {
+  aspect-ratio: 1 / 1;
+}
+
+.LIPhotos3 .LIPhoto:first-child {
+  grid-row: 1 / 3;
+  aspect-ratio: auto;
+}
+
+.LIPhotos4 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.LIPhotos4 .LIPhoto {
+  aspect-ratio: 1 / 1;
+}
+
+.LIPhotoMore {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.55);
+  color: #ffffff;
+  font-size: 28px;
+  font-weight: 600;
+}
+
+.LILinks {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.LILink {
+  display: block;
+  padding: 8px 12px;
+  background: var(--li-surface);
+  border: 1px solid var(--li-border);
+  border-radius: 6px;
+  min-width: 0;
+}
+
+.LILink:hover {
+  text-decoration: none;
+  border-color: var(--li-link);
+}
+
+.LILinkDomain {
+  display: block;
+  font-weight: 600;
+  color: var(--li-text);
+}
+
+.LILinkUrl {
+  display: block;
+  font-size: 12px;
+  color: var(--li-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.LINotice {
+  margin-bottom: 10px;
+  padding: 8px 12px;
+  background: var(--li-surface);
+  border: 1px dashed var(--li-border);
+  border-radius: 6px;
+  color: var(--li-muted);
+  font-size: 13px;
+}
+
+.LIQuote {
+  margin: 4px 0 10px;
+  padding: 12px 14px 4px;
+  border: 1px solid var(--li-border);
+  border-radius: 6px;
+  background: var(--li-surface);
+}
+
+.LIQuote .LIPhotos {
+  margin: 0 -14px 10px;
+}
+
+.LIQuoteHead {
+  margin-bottom: 6px;
+}
+
+.LIQuoteAuthor {
+  font-weight: 600;
+  color: var(--li-text);
+}
+
+a.LIQuoteAuthor {
+  color: var(--li-link);
+}
+
+.LIQuoteFoot {
+  margin-bottom: 8px;
+  font-size: 12px;
+}
+
+.LIFooter {
+  margin-top: 6px;
+  padding-top: 8px;
+  border-top: 1px solid var(--li-border);
+  font-size: 12px;
+}
+
+.ResultCards .LinkedInCard {
+  margin-left: 0;
+}
+
+
 @keyframes fadeIn {
   from {
     opacity: 0;
@@ -1158,6 +1432,13 @@ select{
     padding-bottom: 5rem;
     max-width: auto;
     min-width: auto;
+  }
+
+  .LinkedInCard {
+    max-width: none;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-radius: 0;
   }
 
   .Nav {

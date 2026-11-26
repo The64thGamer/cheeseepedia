@@ -95,11 +95,34 @@ FAN_CHANNELS = [
     "@Dawko",
     "@JonnyBlox"
 ]
+
+LINKEDIN_ACCOUNTS = [
+    ("company/chuck-e-cheese", "Chuck E. Cheese LinkedIn Account"),
+    ("company/chuckecheesecl", "Chuck E. Cheese Chile LinkedIn Account"),
+    ("company/cec-entertainment", "CEC Entertainment LinkedIn Account"),
+    ("company/chuck-e-cheese-franchising", "Chuck E. Cheese Franchising LinkedIn Account"),
+    ("company/peter-piper-inc.", "Peter Piper Pizza LinkedIn Account"),
+    ("company/chuckecheese-mexico", "Chuck E. Cheese's Mexico Old LinkedIn Account"),
+    ("company/chuckecheesemx", "Chuck E. Cheese Mexico LinkedIn Account"),
+    ("company/chuck-e-cheese-türkiye", "Chuck E. Cheese Türkiye LinkedIn Account"),
+]
+
 CHANNELS = OFFICIAL_CHANNELS + FAN_CHANNELS
 OFFICIAL_HANDLES = {h.lower() for h in OFFICIAL_CHANNELS}
 CHANNEL_TABS = ["videos"]
 OLDEST_FIRST = False
 CONTRIBUTOR = "sudo-trans-pony"
+
+LINKEDIN_PROFILE_DIR = os.path.join(os.path.expanduser("~"), ".cep-linkedin-profile")
+LINKEDIN_HEADLESS = False
+LINKEDIN_IDLE_LIMIT = 8
+LINKEDIN_SCROLL_WAIT_MS = 2000
+LINKEDIN_DELAY = (2.5, 6.0)
+LINKEDIN_POST_TYPE = "LinkedIn Post"
+LINKEDIN_PHOTO_TYPE = "Photos"
+LINKEDIN_MIN_IMAGE_PX = 200
+LINKEDIN_URN_RE = re.compile(r"urn:li:(activity|ugcPost|share):(\d+)")
+LINKEDIN_REJECT_PREFIX = "li:"
 
 CONTENT_DIR = "content"
 OUT_TITLE_TO_ID = os.path.join(os.path.dirname(__file__), "..", "compiled-json/titleToFolderIDMap.json")
@@ -126,7 +149,7 @@ URL_RE = re.compile(r"https?://\S+")
 MD_CHARS_RE = re.compile(r"[*_`#>\[\]!|]")
 DICT_TAG_FIELDS = ("remodels", "stages", "animatronics", "franchisees", "attractions", "credits")
 STRING_TAG_FIELDS = ("tags", "pages", "page")
-NO_TITLE_TAG_TYPES = {"videos", "photos", "reviews", "theories", "steam comment"}
+NO_TITLE_TAG_TYPES = {"videos", "photos", "reviews", "theories", "steam comment", "linkedin post"}
 BRACKET_TAG_RE = re.compile(r"\[([^\[\]]+)\](?!\()")
 STATE_CODE_RE = re.compile(r", ([A-Z]{2})(?= \(|$)")
 US_STATES = {
@@ -162,7 +185,7 @@ OUT_RECENT_FAN_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-
 OUT_RECENT_OFFICIAL_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentofficialvideos.json")
 RECENT_VIDEOS_COUNT = 15
 OUT_ANNIVERSARIES = os.path.join(os.path.dirname(__file__), "..", "compiled-json/anniversaries.json")
-ANNIVERSARY_EXCLUDE_TYPES = {'photos', 'videos', 'reviews', 'user', 'steam comment', 'theories', 'meta', 'transcriptions'}
+ANNIVERSARY_EXCLUDE_TYPES = {'photos', 'videos', 'reviews', 'user', 'steam comment', 'theories', 'meta', 'transcriptions', "linkedin post"}
 COMPILED_DIR = os.path.join(os.path.dirname(__file__), "..", "compiled-json")
 AVATAR_DIR = os.path.join(COMPILED_DIR, "avatars")
 NEWS_IMG_DIR = os.path.join(COMPILED_DIR, "images")
@@ -200,7 +223,7 @@ BADGE_TIERS = [
 ]
 THUMB_FIELD = "pageThumbnailVideo"
 THUMB_FILE_FIELD = "pageThumbnailFile"
-TAGGED_BY_TYPES = {"steam comment", "reviews", "videos", "photos", "transcriptions"}
+TAGGED_BY_TYPES = {"steam comment", "reviews", "videos", "photos", "transcriptions", "linkedin post"}
 OUT_TAGGED_BY = os.path.join(os.path.dirname(__file__), "..", "compiled-json/taggedByIDs.json")
 THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
 PHOTO_SIM_BITS = 16
@@ -211,7 +234,7 @@ MEDIA_TYPES = {"Photos", "Videos"}
 ID_ALPHABET = string.ascii_lowercase + string.digits
 PREFETCH = 3
 MAX_SUGGESTIONS = 8
-NO_BODY_TAG_TYPES = {"transcriptions", "videos"}
+NO_BODY_TAG_TYPES = {"transcriptions", "videos", "linkedin post"}
 TAG_OPEN = "Open/Operating/In Production"
 TAG_CLOSED = "Closed/Shut Down/Production Stopped"
 
@@ -266,6 +289,8 @@ def ask(question):
 def main():
     if ask("Add New Fandom Videos"):
         add_fandom_videos()
+    if ask("Add LinkedIn Posts"):
+        add_linkedin_posts()
     if ask("Scrape Video Thumbnails/Transcripts"):
         process_video_articles()
     if ask("Scan for duplicate articles"):
@@ -1711,14 +1736,14 @@ def repair_json_text(raw):
                     out.append(raw[i:i + 6])
                     i += 6
                     continue
-                i += 1  # invalid escape: drop the backslash
+                i += 1 
                 continue
             if c == '"':
                 if closes_string(i):
                     in_str = False
                     out.append(c)
                 else:
-                    out.append("''")  # stray inner quote, same convention as sanitize_title
+                    out.append("''") 
                 i += 1
                 continue
             if ord(c) < 0x20:
@@ -1734,7 +1759,7 @@ def repair_json_text(raw):
         elif c == ",":
             k = next_sig(i + 1)
             if k < n and raw[k] in "}]":
-                pass  # trailing comma
+                pass 
             else:
                 out.append(c)
         else:
@@ -1779,7 +1804,7 @@ def load_site_data():
                 media_titles.add(title)
         sources = [meta.get(THUMB_FIELD), title]
         if (meta.get("type") or "").strip().lower() == "videos":
-            sources.append(meta)  # citations or any other URL field on a video page
+            sources.append(meta) 
         for source in sources:
             for text in iter_strings(source):
                 vid = youtube_id(text)
@@ -2065,6 +2090,457 @@ def add_fandom_videos():
         listing_pool.shutdown(wait=False, cancel_futures=True)
         print(green(f"Fandom videos: {saved} created ({auto_accepted} auto-accepted), {auto_rejected} auto-rejected by title"))
 
+LINKEDIN_EXTRACT_JS = r"""
+() => {
+  const txt = (el) => el ? (el.innerText || '').trim() : '';
+  const abs = (u) => { try { return new URL(u, location.href).href; } catch (e) { return ''; } };
+  const unwrap = (u) => {
+    try {
+      const x = new URL(u, location.href);
+      if (x.pathname.startsWith('/safety/go')) return x.searchParams.get('url') || x.href;
+      return x.href;
+    } catch (e) { return u; }
+  };
+  const root = document.querySelector('.feed-shared-update-v2') || document.querySelector('[data-urn]') || document.querySelector('main') || document.body;
+  const RESHARE = '.update-components-mini-update-v2, .feed-shared-update-v2__reshared-content, .update-components-reshare';
+  const COMMENTS = '.comments-comment-item, .comments-comment-entity, .comments-comments-list, .feed-shared-update-v2__comments-container, .social-details-social-activity, .social-details-social-counts, .feed-shared-social-action-bar';
+  const ACTOR = '.update-components-actor, .update-components-header';
+  const PRIMARY = '.update-components-text, .feed-shared-update-v2__description, .feed-shared-text, .feed-shared-inline-show-more-text, [data-testid="expandable-text-box"]';
+  const GENERIC = '.break-words, span[dir="ltr"], div[dir="ltr"]';
+  const CARDS = '.update-components-article, .update-components-external-link, .update-components-link-preview, .feed-shared-article, .feed-shared-external-video';
+  const MEDIA_BAD = COMMENTS + ', ' + ACTOR + ', ' + CARDS + ', .update-components-text';
+  const badLink = (img) => {
+    const a = img.closest('a[href]');
+    if (!a) return false;
+    let u;
+    try { u = new URL(a.getAttribute('href'), location.href); } catch (e) { return true; }
+    if (!/(^|\.)linkedin\.com$/.test(u.hostname)) return true;
+    return /^\/(company|in|school|showcase)\//.test(u.pathname);
+  };
+  const ACTOR_NAME = '.update-components-actor__title span[aria-hidden="true"], .update-components-actor__name';
+  const ACTOR_LINK = 'a.update-components-actor__meta-link, a.update-components-actor__container-link, a.update-components-actor__image';
+  const VIDEO = 'video, .update-components-linkedin-video, .update-components-video';
+  const DOC = '.update-components-document, .document-s-container';
+  const POLL = '.update-components-poll';
+
+  const side = (el, reshare) => !!el.closest(RESHARE) === reshare;
+  const first = (scope, reshare, sel) => [...scope.querySelectorAll(sel)].find(e => side(e, reshare));
+  const flag = (scope, reshare, sel) => [...scope.querySelectorAll(sel)].some(e => side(e, reshare));
+
+  const pickEl = (scope, reshare) => {
+    for (const sel of [PRIMARY, GENERIC]) {
+      let best = null, len = 0;
+      scope.querySelectorAll(sel).forEach(el => {
+        if (el.closest(COMMENTS) || el.closest(ACTOR) || !side(el, reshare)) return;
+        const l = txt(el).length;
+        if (l > len) { best = el; len = l; }
+      });
+      if (best) return best;
+    }
+    return null;
+  };
+
+  const linksFor = (scope, reshare, textEl) => {
+    const out = new Set();
+    const cards = [...scope.querySelectorAll('.update-components-article, .update-components-external-link')].filter(c => side(c, reshare) && !c.closest(COMMENTS));
+    [textEl, ...cards].filter(Boolean).forEach(c => {
+      [c, ...c.querySelectorAll('a[href]')].filter(a => a.matches('a[href]')).forEach(a => {
+        const h = unwrap(a.getAttribute('href'));
+        if (h.startsWith('http') && !/linkedin\.com\/(feed\/hashtag|search\/results|in\/|company\/)/.test(h)) out.add(h);
+      });
+    });
+    return [...out];
+  };
+
+  const imagesFor = (scope, reshare) => {
+    const out = [];
+    scope.querySelectorAll('img').forEach(img => {
+      if (!side(img, reshare) || img.closest(MEDIA_BAD) || badLink(img)) return;
+      const src = img.currentSrc || img.src || img.getAttribute('data-delayed-url') || '';
+      if (!/licdn\.com/.test(src) || /profile-|company-logo|logo|ghost|avatar/i.test(src)) return;
+      if (img.getBoundingClientRect().width < %MINPX%) return;
+      if (!out.includes(src)) out.push(src);
+    });
+    return out;
+  };
+
+  const og = (p) => (document.querySelector(`meta[property="${p}"]`) || {}).content || '';
+  const ldText = () => {
+    for (const s of document.querySelectorAll('script[type="application/ld+json"]')) {
+      try {
+        const j = JSON.parse(s.textContent);
+        const t = j.articleBody || j.text || j.description;
+        if (t) return t;
+      } catch (e) {}
+    }
+    return '';
+  };
+
+  const mainEl = pickEl(root, false);
+  let text = txt(mainEl);
+  if (!text) text = (ldText() || og('og:description') || '').trim();
+  const actorLink = first(root, false, ACTOR_LINK);
+
+  let quoted = null;
+  const rs = root.querySelector(RESHARE);
+  if (rs) {
+    const qEl = pickEl(root, true);
+    const qName = first(rs, true, ACTOR_NAME);
+    const qLink = first(rs, true, ACTOR_LINK);
+    const qa = rs.querySelector('a[href*="/feed/update/"], a[href*="/posts/"]');
+    let qUrl = qa ? abs(qa.getAttribute('href')).split('?')[0] : '';
+    if (!qUrl) {
+      const holder = rs.matches('[data-urn]') ? rs : rs.querySelector('[data-urn]');
+      const urn = holder ? holder.getAttribute('data-urn') : '';
+      if (urn) qUrl = 'https://www.linkedin.com/feed/update/' + urn + '/';
+    }
+    quoted = {
+      author: txt(qName),
+      authorUrl: qLink ? abs(qLink.getAttribute('href')).split('?')[0] : '',
+      url: qUrl,
+      text: txt(qEl),
+      links: linksFor(root, true, qEl),
+      images: imagesFor(root, true),
+      hasVideo: flag(root, true, VIDEO),
+      hasDocument: flag(root, true, DOC),
+      hasPoll: flag(root, true, POLL),
+    };
+    if (!quoted.text && !quoted.images.length && !quoted.links.length && !quoted.hasVideo && !quoted.hasDocument && !quoted.hasPoll) quoted = null;
+  }
+
+  return {
+    text,
+    links: linksFor(root, false, mainEl),
+    images: imagesFor(root, false),
+    hasVideo: flag(root, false, VIDEO),
+    hasDocument: flag(root, false, DOC),
+    hasPoll: flag(root, false, POLL),
+    authorUrl: actorLink ? abs(actorLink.getAttribute('href')).split('?')[0] : '',
+    canonical: (document.querySelector('link[rel="canonical"]') || {}).href || og('og:url'),
+    quoted,
+  };
+}
+""".replace("%MINPX%", str(LINKEDIN_MIN_IMAGE_PX))
+
+
+def linkedin_account_url(acct):
+    if acct.startswith("http"):
+        return acct
+    acct = acct.strip("/")
+    if acct.startswith("in/"):
+        return f"https://www.linkedin.com/{acct}/recent-activity/all/"
+    return f"https://www.linkedin.com/{acct}/posts/"
+
+
+def linkedin_slug(acct):
+    m = re.search(r"linkedin\.com/((?:company|in|school)/[^/?#]+)", acct)
+    return (m.group(1) if m else acct.strip("/")).lower()
+
+
+def linkedin_date_from_id(num):
+    try:
+        ms = int(num) >> 22
+        return datetime.datetime.fromtimestamp(ms / 1000, datetime.timezone.utc)
+    except Exception:
+        return None
+
+
+def linkedin_pause():
+    import random
+    time.sleep(random.uniform(*LINKEDIN_DELAY))
+
+
+def linkedin_needs_login(page):
+    url = page.url.lower()
+    return any(s in url for s in ("/login", "authwall", "/checkpoint", "/uas/"))
+
+
+def linkedin_ensure_login(page):
+    if linkedin_needs_login(page):
+        print(yellow("LinkedIn wants a login. Log in in the browser window (your session is saved for next time)."))
+        input(yellow("Press Enter here once you can see the page... "))
+
+
+def known_linkedin_ids():
+    known = set()
+    for folder in Path(CONTENT_DIR).iterdir():
+        if not folder.is_dir():
+            continue
+        urn = read_meta(folder).get("linkedinUrn") or ""
+        m = LINKEDIN_URN_RE.search(urn)
+        if m:
+            known.add(m.group(2))
+    return known
+
+
+def linkedin_load_more(page):
+    for sel in ('button:has-text("Show more results")', 'button:has-text("Show more")',
+                'button.scaffold-finite-scroll__load-button', 'button[aria-label*="more results" i]'):
+        try:
+            for b in page.locator(sel).all():
+                try:
+                    if b.is_visible():
+                        b.click(timeout=1500)
+                        return True
+                except Exception:
+                    pass
+        except Exception:
+            pass
+    return False
+
+
+def linkedin_collect_urns(page):
+    found = {}
+    idle = 0
+    last_height = 0
+    while True:
+        before = len(found)
+        for kind, num in LINKEDIN_URN_RE.findall(page.content()):
+            if num not in found or kind == "activity":
+                found[num] = kind
+        try:
+            height = page.evaluate("document.documentElement.scrollHeight")
+        except Exception:
+            height = 0
+        if len(found) == before and height == last_height:
+            idle += 1
+        else:
+            idle = 0
+        last_height = height
+        if idle >= LINKEDIN_IDLE_LIMIT:
+            break
+        print(dim(f"\r  scrolling: {len(found)} posts found"), end="", flush=True)
+        linkedin_load_more(page)
+        page.mouse.wheel(0, 4000)
+        page.keyboard.press("End")
+        page.wait_for_timeout(LINKEDIN_SCROLL_WAIT_MS)
+    print()
+    return found
+
+
+def linkedin_expand(page):
+    for sel in ('button.feed-shared-inline-show-more-text__see-more-less-toggle',
+                'button[aria-label*="see more" i]', 'button:has-text("…see more")',
+                'button:has-text("see more")'):
+        try:
+            for b in page.locator(sel).all():
+                try:
+                    b.click(timeout=1000)
+                except Exception:
+                    pass
+        except Exception:
+            pass
+    page.wait_for_timeout(500)
+
+
+def linkedin_public_url(url):
+    try:
+        u = urllib.parse.urlparse(url or "")
+    except ValueError:
+        return ""
+    host = (u.hostname or "").lower()
+    if (host == "linkedin.com" or host.endswith(".linkedin.com")) and u.path.startswith("/posts/"):
+        return f"https://www.linkedin.com{u.path}"
+    return ""
+
+
+def linkedin_scrape_post(page, num, kind):
+    url = f"https://www.linkedin.com/feed/update/urn:li:{kind}:{num}/"
+    page.goto(url, wait_until="domcontentloaded", timeout=45000)
+    linkedin_ensure_login(page)
+    try:
+        page.wait_for_selector(".feed-shared-update-v2, .update-components-text, [data-urn]", timeout=15000)
+    except Exception:
+        pass
+    page.wait_for_timeout(1200)
+    linkedin_expand(page)
+    data = page.evaluate(LINKEDIN_EXTRACT_JS)
+    if not data.get("text") and not data.get("images") and not data.get("quoted"):
+        print(red(f"  Nothing extracted for {num}"))
+    dt = linkedin_date_from_id(num)
+    data.update({
+        "id": num, "kind": kind, "url": url,
+        "publicUrl": linkedin_public_url(data.get("canonical")),
+        "urn": f"urn:li:{kind}:{num}",
+        "date": dt.strftime("%Y-%m-%d") if dt else "0000-00-00",
+        "time": dt.strftime("%Y-%m-%d %H:%M:%S UTC") if dt else "",
+    })
+    return data
+
+
+def scrape_linkedin_accounts(rejected, save):
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print(red("Playwright missing: pip install playwright && playwright install chromium"), file=sys.stderr)
+        return
+    known = known_linkedin_ids()
+    skip = known | {r[len(LINKEDIN_REJECT_PREFIX):] for r in rejected if r.startswith(LINKEDIN_REJECT_PREFIX)}
+    with sync_playwright() as p:
+        ctx = p.chromium.launch_persistent_context(
+            LINKEDIN_PROFILE_DIR, headless=LINKEDIN_HEADLESS,
+            viewport={"width": 1280, "height": 1000},
+        )
+        page = ctx.pages[0] if ctx.pages else ctx.new_page()
+        try:
+            for acct, tag in LINKEDIN_ACCOUNTS:
+                print(cyan(f"Listing LinkedIn {acct}..."))
+                page.goto(linkedin_account_url(acct), wait_until="domcontentloaded", timeout=45000)
+                linkedin_ensure_login(page)
+                page.wait_for_timeout(2500)
+                urns = linkedin_collect_urns(page)
+                pending = [(n, k) for n, k in urns.items() if n not in skip]
+                print(green(f"{acct}: {len(urns)} posts seen, {len(urns) - len(pending)} already handled, {len(pending)} to fetch"))
+                slug = linkedin_slug(acct)
+                for n, k in sorted(pending, key=lambda x: -int(x[0])):
+                    linkedin_pause()
+                    try:
+                        post = linkedin_scrape_post(page, n, k)
+                    except Exception as e:
+                        print(red(f"  Could not load {n}: {e}"))
+                        continue
+                    if post["authorUrl"] and slug.split("/")[-1] not in post["authorUrl"].lower():
+                        print(dim(f"  {n}: author {post['authorUrl']} != {slug}, skipping"))
+                        continue
+                    try:
+                        save(tag, post)
+                    except Exception as e:
+                        print(red(f"  Could not save {n}: {e}"))
+        finally:
+            ctx.close()
+
+
+def download_linkedin_image(url, dest):
+    try:
+        from PIL import Image
+    except ImportError:
+        print(red("  Pillow is not installed (pip install pillow)"), file=sys.stderr)
+        return False
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+        with urllib.request.urlopen(req, timeout=30) as resp:
+            data = resp.read()
+        Image.open(io.BytesIO(data)).convert("RGB").save(dest, "AVIF", quality=60)
+        return True
+    except Exception as e:
+        print(red(f"  image failed ({e}): {url[:90]}"), file=sys.stderr)
+        return False
+
+
+def new_content_folder():
+    while True:
+        folder = Path(CONTENT_DIR) / "".join(secrets.choice(ID_ALPHABET) for _ in range(16))
+        if not folder.exists():
+            folder.mkdir(parents=True)
+            return folder
+
+
+def save_linkedin_images(urls, label, post, tag, site_titles):
+    titles = []
+    for i, src in enumerate(urls, 1):
+        title = f"LinkedIn Post {post['id']} {label} {i}"
+        while title.lower() in {t.lower() for t in site_titles}:
+            title += " (2)"
+        folder = new_content_folder()
+        if not download_linkedin_image(src, folder / "photo.avif"):
+            shutil.rmtree(folder)
+            continue
+        site_titles.add(title)
+        photo_meta = {
+            "title": title,
+            "type": LINKEDIN_PHOTO_TYPE,
+            "tags": [tag],
+            "startDate": post["date"],
+            "citations": [post["publicUrl"]] if post["publicUrl"] else [],
+            "contributors": [CONTRIBUTOR],
+        }
+        (folder / "meta.json").write_text(json.dumps(photo_meta, indent=2, ensure_ascii=False), encoding="utf-8")
+        titles.append(title)
+    return titles
+
+
+def linkedin_markdown(post):
+    parts = []
+    text = (post.get("text") or "").strip()
+    if text:
+        parts.append(text)
+    quoted = post.get("quoted")
+    if quoted:
+        lines = []
+        if quoted["author"]:
+            lines.append(f"**{quoted['author']}**")
+        lines.extend((quoted["text"] or "").strip().splitlines())
+        if any(l.strip() for l in lines):
+            parts.append("\n".join(f"> {l}" if l.strip() else ">" for l in lines))
+    return "\n\n".join(parts)
+
+
+def save_linkedin_post(post, tag, site_titles):
+    quoted = post.get("quoted")
+    image_titles = save_linkedin_images(post["images"], "Image", post, tag, site_titles)
+    quoted_titles = save_linkedin_images(quoted["images"], "Quoted Image", post, tag, site_titles) if quoted else []
+
+    folder = new_content_folder()
+    meta = {
+        "title": folder.name,
+        "type": LINKEDIN_POST_TYPE,
+        "tags": [tag],
+        "startDate": post["date"],
+        "postTime": post["time"],
+        "postReshareText": quoted["text"] if quoted else "",
+        "postImages": image_titles,
+        "postHasVideo": post["hasVideo"],
+        "postVideoUrl": post["publicUrl"] if post["hasVideo"] else "",
+        "postHasDocument": post["hasDocument"],
+        "postHasPoll": post["hasPoll"],
+        "postLinks": post["links"],
+        "linkedinUrn": post["urn"],
+        "citations": [post["publicUrl"]] if post["publicUrl"] else [],
+        "contributors": [CONTRIBUTOR],
+        "deleted": False,
+    }
+    if quoted:
+        meta.update({
+            "postReshareAuthor": quoted["author"],
+            "postReshareAuthorUrl": quoted["authorUrl"],
+            "postReshareUrl": linkedin_public_url(quoted["url"]),
+            "postReshareImages": quoted_titles,
+            "postReshareLinks": quoted["links"],
+            "postReshareHasVideo": quoted["hasVideo"],
+            "postReshareHasDocument": quoted["hasDocument"],
+            "postReshareHasPoll": quoted["hasPoll"],
+        })
+    (folder / "meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+    body = linkedin_markdown(post)
+    if body:
+        (folder / "content.md").write_text(body, encoding="utf-8")
+    return folder.name, len(image_titles) + len(quoted_titles)
+
+
+def add_linkedin_posts():
+    if not Path(CONTENT_DIR).is_dir():
+        print(red(f"Content dir '{CONTENT_DIR}' not found"), file=sys.stderr)
+        return
+    if not LINKEDIN_ACCOUNTS:
+        print(yellow("LINKEDIN_ACCOUNTS is empty"))
+        return
+    rejected = load_rejected()
+    site_titles = load_site_data()[0]
+    totals = {"posts": 0, "photos": 0}
+
+    def save(tag, post):
+        name, n_img = save_linkedin_post(post, tag, site_titles)
+        totals["posts"] += 1
+        totals["photos"] += n_img
+        print(green(f"  Saved {post['id']} -> {CONTENT_DIR}/{name} (+{n_img} photo pages)"))
+
+    try:
+        scrape_linkedin_accounts(rejected, save)
+    except (KeyboardInterrupt, EOFError):
+        print(yellow("\nStopped."))
+    print(green(f"LinkedIn posts: {totals['posts']} created, {totals['photos']} photo pages"))
+
+
 def run_solid_build():
     project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
     print(cyan("Running: npm run build:solid"))
@@ -2080,3 +2556,5 @@ def run_solid_build():
 
 if __name__ == '__main__':
     main()
+
+

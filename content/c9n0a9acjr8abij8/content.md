@@ -1,0 +1,3 @@
+The DEAL Show in Dubai is a great reminder of how fast the global entertainment industry continues to evolve. Chuck E. Cheese is growing well beyond the Middle East, with franchising opportunities across Latin America, Asia, and Europe. We are seeking partners who want to build long term success with a proven family entertainment concept. Join us and leverage the power of the Chuck E. Cheese brand.
+
+#Dealshow2026 #Franchising #Innovation #International

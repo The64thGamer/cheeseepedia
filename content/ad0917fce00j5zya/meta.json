@@ -3,7 +3,11 @@
   "type": "Photos",
   "tags": [
     "ShowBiz Pizza Place",
-    "Indianapolis, IN (8804 US 31 South)"
+    "Indianapolis, IN (8804 US 31 South)",
+    "Indianapolis (Greenwood), IN (8804 US 31)"
   ],
-  "startDate": ""
+  "startDate": "0000-00-00",
+  "contributors": [
+    "Getretrofit"
+  ]
 }

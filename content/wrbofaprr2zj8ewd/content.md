@@ -1,0 +1,5 @@
+We’re grateful to our partner Autism Speaks and to the entire autism community for an unforgettable day at this year’s LA Empower Walk + 5K. It was an inspiring celebration of connection and support, bringing together more than 1,500 participants in honor of autistic individuals and their families.
+
+From the resource fair featuring 20+ organizations, to the Kid Zone packed with sensory-friendly activities, to special appearances from Santa and of course, Chuck E. Cheese - the day was full of joy! The Chuck E. Cheese tent was buzzing all morning, thanks to our incredible Los Angeles team for bringing the energy and enthusiasm, assisting Chuck E. with a high-spirited warm-up and wrapping the event with his signature dance.
+
+We’re proud to have been part of such a meaningful moment for the community, and we look forward to continuing our partnership and welcoming families to our monthly Sensory Sensitive Sundays - offering families a quieter, more accessible experience designed for children who thrive in a calmer environment.

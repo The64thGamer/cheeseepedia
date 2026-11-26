@@ -3,7 +3,11 @@
   "type": "Photos",
   "tags": [
     "ShowBiz Pizza Place",
-    "Birmingham, AL (500 Old Town Rd)"
+    "Birmingham, AL (500 Old Town Rd)",
+    "Birmingham (Vestavia), AL (500 Old Town Rd)"
   ],
-  "startDate": ""
+  "startDate": "0000-00-00",
+  "contributors": [
+    "Getretrofit"
+  ]
 }

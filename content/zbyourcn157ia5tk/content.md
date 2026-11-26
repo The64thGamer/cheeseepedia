@@ -1,0 +1,5 @@
+I wanted to take a moment to thank Jake Linger from CEC Entertainment aka Chuck E. Cheese for making my Autistic sons' birthday an amazing one. A special thank you to local restaurant the General Manager Tiffany from Bel Air, Md for taking the time to coordinate this special appearance by Chuck E. at his special needs school Arrow Mountain in Joppa. All of the children and staff were so happy about this, and I could not have pulled it off without the cooperation and generosity of Jake, Tiffany and most of all Chuck E. 
+
+Our home was recently involved in a fire leaving us without a place to have a party, but this is a local establishment who truly cares for the local community came through for us and the children of the school.
+
+Also, a special thank you to my boss Ron Bainbridge (J.B. Hunt Transport Services, Inc.) for allowing me to take an extended lunch break to be able to be there in person to celebrate the surprise with my son.

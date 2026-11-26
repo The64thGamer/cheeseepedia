@@ -1,0 +1,8 @@
+🎂✨ La fiesta que todos recuerdan empieza aquí ✨
+🎂Obtén 20% de DESCUENTO al reservar la fiesta de tu peque en Chuck E. Cheese®, la capital de las fiestas 🐭🎈
+🎮 Juegos ilimitados🍕 Pizza y comida deliciosa
+🎉 Diversión sin preocupaciones
+📅 Reserva durante enero y celebra hasta el 31 de marzo de 2026
+📍 Promoción válida en CDMX y GDL
+👉 Reserva hoy y asegura la mejor fiesta.
+Comenta la palabra Fiesta para enviarte más información o compártenos tu número de Whatsapp.

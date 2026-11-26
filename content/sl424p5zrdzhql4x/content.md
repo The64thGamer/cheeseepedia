@@ -1,0 +1,1 @@
+¡Bienvenidos a la Capital de las Fiestas! 🎂🎉👑¿Quieres el cumple más increíble sin complicaciones? En Chuck E. Cheese, tu única tarea es: ¡disfrutar y cargar con los regalos! 🎁✨ Nosotros nos encargamos de la pizza, los juegos, el pastel y toda la diversión para que tú solo te preocupes por sonreír en la foto. ¡Reserva tu fecha y celebra en grande! 🎈🐭

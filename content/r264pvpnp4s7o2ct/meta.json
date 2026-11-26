@@ -3,7 +3,11 @@
   "type": "Photos",
   "tags": [
     "ShowBiz Pizza Place",
-    "Little Rock, AR (10901 N Rodney Parham Road 303)"
+    "Little Rock, AR (10901 N Rodney Parham Road 303)",
+    "Little Rock, AR (10901 Rodney Parham Rd)"
   ],
-  "startDate": ""
+  "startDate": "0000-00-00",
+  "contributors": [
+    "Getretrofit"
+  ]
 }

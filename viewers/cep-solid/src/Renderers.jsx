@@ -204,7 +204,7 @@ export function renderUserPage(username) {
 }
 
 
-const EXCLUDE = new Set(['photos','videos','reviews','user','steam comment','theories','meta','transcriptions']);
+const EXCLUDE = new Set(['photos','videos','reviews','user','steam comment','linkedin post','theories','meta','transcriptions']);
 const TABS = {
   Articles: (t) => !EXCLUDE.has(t),
   Photos:   (t) => t === 'photos',
@@ -252,6 +252,7 @@ function renderTaggedList(type, ids, data) {
       );
     case 'reviews':
     case 'steam comment':
+    case 'linkedin post':
       return (
         <div>
           <For each={ids}>
@@ -681,6 +682,8 @@ export function renderArticle(meta){
     case "Reviews":
     case "Steam Comment":
       return renderStandardArticle(meta);
+    case "LinkedIn Post":
+      return renderLinkedInPostArticle(meta);
     case "Videos":
       return renderVideoArticle(meta);
     case "Photos":
@@ -1191,12 +1194,256 @@ export async function renderSteamCommentCard(meta, words = []) {
   );
 }
 
+const LINKEDIN_AVATAR_BASE = '/viewers/cep-js/assets/Social Posts';
+const LINKEDIN_ACCOUNTS = {
+  'Chuck E. Cheese LinkedIn Account': { name: 'Chuck E. Cheese', avatar: `${LINKEDIN_AVATAR_BASE}/LinkedInChuckECheese.jpg` },
+  'Chuck E. Cheese Chile LinkedIn Account': { name: 'Chuck E. Cheese Chile', avatar: `${LINKEDIN_AVATAR_BASE}/LinkedInChuckECheeseChile.jpg` },
+};
+const LINKEDIN_TOKEN_RE = /(https?:\/\/[^\s]+|#[\p{L}\p{N}_]+)/gu;
+const LINKEDIN_TRAIL_RE = /^(.*?)([.,;:!?)\]]*)$/s;
+
+const linkedInAccount = (meta) => {
+  const tags = (meta.tags || []).map((t) => String(t).split('|')[0].trim());
+  const tag = tags.find((t) => LINKEDIN_ACCOUNTS[t]) || tags[0] || '';
+  return LINKEDIN_ACCOUNTS[tag] || { name: tag.replace(/\s*LinkedIn Account$/i, '') || 'LinkedIn', avatar: null };
+};
+
+const linkedInQuoteStart = (md) => {
+  const m = /(^|\n\n)>/.exec(md);
+  return m ? md.slice(0, m.index).trim() : md.trim();
+};
+
+async function linkedInPhotos(titles) {
+  const found = await Promise.all((titles || []).map(async (title) => {
+    try {
+      const id = await fetchFolderIDFromTitle(title);
+      return id ? { id, title } : null;
+    } catch {
+      return null;
+    }
+  }));
+  return found.filter(Boolean);
+}
+
+function LinkedInText(props) {
+  const parts = () => String(props.text || '').split(LINKEDIN_TOKEN_RE);
+  return (
+    <div class="LIText">
+      <For each={parts()}>
+        {(part) => {
+          if (/^https?:\/\//.test(part)) {
+            const [, url, trail] = LINKEDIN_TRAIL_RE.exec(part);
+            return (
+              <>
+                <a href={url} target="_blank" rel="noopener noreferrer">{url}</a>{trail}
+              </>
+            );
+          }
+          if (/^#/.test(part)) return <span class="LIHashtag">{part}</span>;
+          return <>{highlightText(part, props.words || [])}</>;
+        }}
+      </For>
+    </div>
+  );
+}
+
+function LinkedInPhotos(props) {
+  const photos = () => props.photos || [];
+  return (
+    <Show when={photos().length}>
+      <div class={`LIPhotos LIPhotos${Math.min(photos().length, 4)}`}>
+        <For each={photos().slice(0, 4)}>
+          {(p, i) => (
+            <a class="LIPhoto" href={getFolderPath(p.id)}>
+              <img alt={p.title} loading="lazy" src={`/content/${p.id}/photo.avif`} />
+              <Show when={photos().length > 4 && i() === 3}>
+                <span class="LIPhotoMore">+{photos().length - 4}</span>
+              </Show>
+            </a>
+          )}
+        </For>
+      </div>
+    </Show>
+  );
+}
+
+function LinkedInExtras(props) {
+  const links = () => (props.links || []).filter(isUrl);
+  return (
+    <>
+      <Show when={links().length}>
+        <div class="LILinks">
+          <For each={links()}>
+            {(u) => (
+              <a class="LILink" href={u} target="_blank" rel="noopener noreferrer">
+                <span class="LILinkDomain">{getDomain(u) || u}</span>
+                <span class="LILinkUrl">{u}</span>
+              </a>
+            )}
+          </For>
+        </div>
+      </Show>
+      <Show when={props.hasVideo}>
+        <div class="LINotice">
+          <span>▶ This post includes a video.</span>
+          <Show when={isUrl(props.videoUrl || '')}>
+            {' '}<a href={props.videoUrl} target="_blank" rel="noopener noreferrer">Watch on LinkedIn</a>
+          </Show>
+        </div>
+      </Show>
+      <Show when={props.hasDocument}>
+        <div class="LINotice">📄 This post includes a document.</div>
+      </Show>
+      <Show when={props.hasPoll}>
+        <div class="LINotice">📊 This post includes a poll.</div>
+      </Show>
+    </>
+  );
+}
+
+function LinkedInPostContent(props) {
+  const m = () => props.meta;
+  const account = () => linkedInAccount(m());
+  const hasQuote = () => m().postReshareAuthor !== undefined || !!m().postReshareText;
+  const source = () => (m().citations || []).find((c) => /^https?:\/\/(www\.)?linkedin\.com\//i.test(c));
+
+  const [data] = createResource(async () => {
+    const id = props.link ?? m().folderID ?? await fetchFolderIDFromTitle(m().title);
+    const md = await fetchContent(id).catch(() => '');
+    const [photos, quotedPhotos] = await Promise.all([
+      linkedInPhotos(m().postImages),
+      linkedInPhotos(m().postReshareImages),
+    ]);
+    return {
+      text: hasQuote() ? linkedInQuoteStart(md || '') : (md || '').trim(),
+      photos,
+      quotedPhotos,
+    };
+  });
+
+  return (
+    <>
+      <div class="LIHeader">
+        <div
+          class="LIAvatar"
+          style={account().avatar ? { 'background-image': `url('${account().avatar}')` } : {}}
+        >
+          <Show when={!account().avatar}>{account().name.charAt(0)}</Show>
+        </div>
+        <div class="LIHeaderText">
+          <div class="LIName">{account().name}</div>
+          <div class="LIMeta">
+            <Show when={props.link} fallback={<span>{convertStartDate(m().startDate)}</span>}>
+              <a href={getFolderPath(props.link)}>{convertStartDate(m().startDate)}</a>
+            </Show>
+            <svg class="LIGlobe" viewBox="0 0 16 16" width="14" height="14" aria-label="Public" fill="none" stroke="currentColor" stroke-width="1.2">
+              <circle cx="8" cy="8" r="6.5" />
+              <ellipse cx="8" cy="8" rx="2.8" ry="6.5" />
+              <line x1="1.5" y1="8" x2="14.5" y2="8" />
+            </svg>
+          </div>
+        </div>
+      </div>
+
+      <Show when={!data.loading} fallback={<div class="LILoading">Loading…</div>}>
+        <Show when={data()?.text}>
+          <LinkedInText text={data().text} words={props.words} />
+        </Show>
+        <LinkedInPhotos photos={data()?.photos} />
+        <LinkedInExtras
+          links={m().postLinks}
+          hasVideo={m().postHasVideo}
+          videoUrl={m().postVideoUrl}
+          hasDocument={m().postHasDocument}
+          hasPoll={m().postHasPoll}
+        />
+
+        <Show when={hasQuote()}>
+          <div class="LIQuote">
+            <div class="LIQuoteHead">
+              <Show
+                when={m().postReshareAuthor}
+                fallback={<span class="LIQuoteAuthor">Quoted post</span>}
+              >
+                <Show
+                  when={isUrl(m().postReshareAuthorUrl || '')}
+                  fallback={<span class="LIQuoteAuthor">{m().postReshareAuthor}</span>}
+                >
+                  <a class="LIQuoteAuthor" href={m().postReshareAuthorUrl} target="_blank" rel="noopener noreferrer">
+                    {m().postReshareAuthor}
+                  </a>
+                </Show>
+              </Show>
+            </div>
+            <Show when={m().postReshareText}>
+              <LinkedInText text={m().postReshareText} words={props.words} />
+            </Show>
+            <LinkedInPhotos photos={data()?.quotedPhotos} />
+            <LinkedInExtras
+              links={m().postReshareLinks}
+              hasVideo={m().postReshareHasVideo}
+              hasDocument={m().postReshareHasDocument}
+              hasPoll={m().postReshareHasPoll}
+            />
+            <Show when={isUrl(m().postReshareUrl || '')}>
+              <div class="LIQuoteFoot">
+                <a href={m().postReshareUrl} target="_blank" rel="noopener noreferrer">View original post</a>
+              </div>
+            </Show>
+          </div>
+        </Show>
+
+        <Show when={source()}>
+          <div class="LIFooter">
+            <a href={source()} target="_blank" rel="noopener noreferrer">View on LinkedIn</a>
+          </div>
+        </Show>
+      </Show>
+    </>
+  );
+}
+
+export async function renderLinkedInPostCard(meta, words = []) {
+  const link = meta.folderID ?? await fetchFolderIDFromTitle(meta.title);
+  const account = linkedInAccount(meta);
+  return (
+    <div class="LinkedInCardWrap fade-in">
+      <div class="SteamCommentHeader LICardHeader">
+        <a href={getFolderPath(link)}>{highlightText(`${account.name} – ${convertStartDate(meta.startDate)}`, words)}</a>
+      </div>
+      <div class="LinkedInCard">
+        <LinkedInPostContent meta={meta} link={link} words={words} />
+      </div>
+    </div>
+  );
+}
+
+export function renderLinkedInPostArticle(meta) {
+  const account = linkedInAccount(meta);
+  return (
+    <>
+      <h1 class="article-title">{`${account.name} – ${convertStartDate(meta.startDate)}`}</h1>
+      <EditPageButton folderID={meta.folderID} />
+      <div class="ArticleBody type-linkedin-post">
+        <div class="LinkedInCard LinkedInArticle fade-in">
+          <LinkedInPostContent meta={meta} />
+        </div>
+        <Citations citations={meta.citations} />
+        <ArticleTags folderID={meta.folderID} />
+        <ArticleContributors folderID={meta.folderID} />
+      </div>
+    </>
+  );
+}
+
 export function renderCard(meta, words = []) {
   switch ((meta.type || '').toLowerCase()) {
     case 'reviews':
       return renderReviewCard(meta, words);
     case 'steam comment':
       return renderSteamCommentCard(meta, words);
+    case 'linkedin post':
+      return renderLinkedInPostCard(meta, words);
     default:
       return renderStandardCard(meta, words);
   }
