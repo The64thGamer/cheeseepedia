@@ -1,1 +1,1 @@
-Then Judge/Executive Mitch McConnell (now senator of Kentucky), cutting the ribbon at the new "Preston Hwy" Pizza Time Theatre in July 1982
+Then Judge/Executive Mitch McConnell (now senator of Kentucky), cutting the ribbon at the new "Preston Hwy" Pizza Time Theatre 

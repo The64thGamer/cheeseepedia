@@ -1,1 +1,0 @@
-The location after receiving a new remodel in 2026, which also consisted of AI images being used as decorations for the interior. (PC: tsl.av.works_)

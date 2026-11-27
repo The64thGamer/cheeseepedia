@@ -18,97 +18,102 @@
     "https://youtu.be/7m9F-lPSqjY",
     "https://www.youtube.com/watch?v=5TTBG4lvlDo"
   ],
-  "type": "History",
+  "type": "Movies",
   "tags": [
     "Chuck E. Cheese's"
   ],
   "credits": [
     {
-      "n": "Executive Producer, Song Co-Writer",
-      "role": "Jon Colton Barry"
+      "n": "Jon Colton Barry",
+      "role": "Executive Producer, Song Co-Writer"
     },
     {
-      "n": "Character Designer",
-      "role": "Bobby Pontillas"
+      "n": "Bobby Pontillas",
+      "role": "Character Designer"
     },
     {
-      "n": "Senior Vice President of Production & Development",
-      "role": "Sadaf Cohen Muncy"
+      "n": "Sadaf Cohen Muncy",
+      "role": "Senior Vice President of Production & Development"
     },
     {
-      "n": "Co-Director, Writer, Song Co-Writer",
-      "role": "Zac Moncrief"
+      "n": "Zac Moncrief",
+      "role": "Co-Director, Writer, Song Co-Writer"
     },
     {
-      "n": "Unknown",
-      "role": "Patrick O'Connor"
+      "n": "Patrick O'Connor",
+      "role": "Unknown"
     },
     {
-      "n": "Voice of Chuck E. Cheese",
-      "role": "Nathan Kress"
+      "n": "Nathan Kress",
+      "role": "Voice of Chuck E. Cheese"
     },
     {
-      "n": "VA",
-      "role": "Grey Griffin"
+      "n": "Grey Griffin",
+      "role": "VA"
     },
     {
-      "n": "VA",
-      "role": "Nolan North"
+      "n": "Nolan North",
+      "role": "VA"
     },
     {
-      "n": "VA",
-      "role": "Kari Wahlgren"
+      "n": "Kari Wahlgren",
+      "role": "VA"
     },
     {
-      "n": "VA",
-      "role": "Fred Tatasciore"
+      "n": "Fred Tatasciore",
+      "role": "VA"
     },
     {
-      "n": "Song Co-Writer",
-      "role": "Jeff Barry"
+      "n": "Jeff Barry",
+      "role": "Song Co-Writer"
     },
     {
-      "n": "Composer",
-      "role": "Ben Bromfield"
+      "n": "Ben Bromfield",
+      "role": "Composer"
     },
     {
-      "n": "Production",
-      "role": "HappyNest"
+      "n": "HappyNest",
+      "role": "Production"
     },
     {
-      "n": "Animation",
-      "role": "Pixel Zoo Animation Studios"
+      "n": "Pixel Zoo Animation Studios",
+      "role": "Animation"
     },
     {
-      "n": "Director",
-      "role": "Steve Trenbirth"
+      "n": "Steve Trenbirth",
+      "role": "Director"
     },
     {
-      "n": "Lead",
-      "role": "Paul Gillett"
+      "n": "Paul Gillett",
+      "role": "Lead"
     },
     {
-      "n": "Matt Daniel"
+      "n": "Matt Daniel",
+      "role": "Unknown"
     },
     {
-      "n": "Media Licensing",
-      "role": "Melissa Mcleanas"
+      "n": "Melissa Mcleanas",
+      "role": "Media Licensing"
     },
     {
-      "n": "Legal",
-      "role": "David Deck"
+      "n": "David Deck",
+      "role": "Legal"
     },
     {
-      "n": "Director of Development",
-      "role": "Derek Switaj"
+      "n": "Derek Switaj",
+      "role": "Director of Development"
     },
     {
-      "n": "Licensing & Merchandise",
-      "role": "Matt Cwieka"
+      "n": "Matt Cwieka",
+      "role": "Licensing & Merchandise"
     },
     {
-      "n": "Manager of Creative Development",
-      "role": "Mackenzie Malpass"
+      "n": "Mackenzie Malpass",
+      "role": "Manager of Creative Development"
     }
+  ],
+  "latitudeLongitude": [
+    "",
+    ""
   ]
 }

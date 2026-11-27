@@ -37,5 +37,12 @@
   "type": "Locations",
   "tags": [
     "Pizza Time Theatre"
+  ],
+  "franchisees": [
+    {
+      "n": "Little Caesars Enterprises, Inc.",
+      "s": "1982-05-19",
+      "e": "1986-02-00"
+    }
   ]
 }

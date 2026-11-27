@@ -2,7 +2,7 @@ The ‘Gifts & Prizes’ sign was put into stores around 1993 during the 1993 Up
 
 ## Appearance
 
-The art showed a green present with a yellow riboon. The riboon line was 2D and part of the sign, but the riboon was 3D, separate from the sign but bolted to it. Under the present there was a streak that said ‘Gifts’, and under the streak there was another streak that said ‘& Prizes’. Both texts were colored in red and orange.
+The art showed a green present with a yellow riboon. The riboon was flat and part of the sign, but the bow was a physical object, separate from the sign but bolted to it. Under the present there was a streak that said ‘Gifts’, and under the streak there was another streak that said ‘& Prizes’. Both texts were colored in red and orange. Sometimes it didn't have the bow or the ribboon was red
 
 ## Dimensions
 

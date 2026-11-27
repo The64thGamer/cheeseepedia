@@ -2,7 +2,7 @@
   "title": "Tukwila, WA (17195 Southcenter Pkwy)",
   "storeNumber": "",
   "startDate": "1982-11-00",
-  "endDate": "1987-00-00",
+  "endDate": "1987-10-00",
   "remodels": [
     {
       "n": "PTT Standard Layout",
@@ -13,10 +13,16 @@
     {
       "n": "Balcony Stage",
       "s": "1982-11-00",
-      "e": "1987-00-00"
+      "e": "1987-10-00"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "The Northwest Company",
+      "s": "1982-00-00",
+      "e": "1987-10-00"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [

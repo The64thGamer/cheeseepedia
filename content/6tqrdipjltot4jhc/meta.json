@@ -16,7 +16,18 @@
       "e": "1984-02-12"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "TAG Enterprises, Inc.",
+      "s": "1981-10-28",
+      "e": "1982-00-00"
+    },
+    {
+      "n": "Charter Management, Inc.",
+      "s": "1981-10-28",
+      "e": "1982-00-00"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [

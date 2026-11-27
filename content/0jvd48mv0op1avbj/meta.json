@@ -16,7 +16,13 @@
       "e": "1984-10-00"
     }
   ],
-  "franchisees": [],
+  "franchisees": [
+    {
+      "n": "The Northwest Company",
+      "s": "1981-11-11",
+      "e": "1984-10-00"
+    }
+  ],
   "attractions": [],
   "sqft": "",
   "latitudeLongitude": [

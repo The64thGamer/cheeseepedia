@@ -1,0 +1,1 @@
+Full image of Chuck E.'s Treasure Dig

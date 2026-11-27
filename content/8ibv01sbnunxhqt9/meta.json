@@ -1,7 +1,7 @@
 {
   "title": "Chuck E. Cheese Pizza",
   "type": "Companies/Brands",
-  "pageThumbnailFile": "ze8wrrd44gv9q8s2",
+  "pageThumbnailFile": "nyt590a6lw8hdh03",
   "pageThumbnailVideo": "",
   "downloadLinks": [],
   "citations": [
@@ -9,7 +9,8 @@
     "https://youtu.be/-M2nslYZwzs?t=1793",
     "https://forum.cheeseepedia.org/t/chuck-e-cheese-pizza-new-fast-food-mall-chain-spotted-in-chile/551",
     "Employee Correspondance",
-    "https://www.instagram.com/p/DfX5ERTmM0C"
+    "https://www.instagram.com/p/DfX5ERTmM0C",
+    "https://www.theclinic.cl/2026/11/25/chuck-e-cheese-lleva-sus-pizzas-a-los-patios-de-comida-la-cadena-de-entretenimiento-estrena-el-nuevo-formato-en-mallplaza-los-dominicos/"
   ],
   "tags": [
     "Chuck E. Cheese's"
@@ -21,7 +22,16 @@
     "",
     ""
   ],
-  "credits": [],
+  "credits": [
+    {
+      "role": "Franchisee, Creator of the Spinoff Chain",
+      "n": "HPDM Entertainment"
+    },
+    {
+      "role": "CEO of HPDM Entertainment",
+      "n": "José Luis Lagos"
+    }
+  ],
   "stages": [],
   "remodels": [],
   "franchisees": [],
