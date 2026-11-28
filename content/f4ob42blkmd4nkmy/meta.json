@@ -9,8 +9,8 @@
   "postReshareText": "",
   "postImages": [
     "LinkedIn Post 7521684647420821504 Image 1",
-    "LinkedIn Post 7521684647420821504 Image 2",
-    "LinkedIn Post 7521684647420821504 Image 3"
+    "LinkedIn Post 7521950736843255808 Image 2",
+    "LinkedIn Post 7521950736843255808 Image 3"
   ],
   "postHasVideo": false,
   "postVideoUrl": "",
@@ -30,5 +30,9 @@
   "contributors": [
     "sudo-trans-pony"
   ],
-  "deleted": false
+  "deleted": false,
+  "linkedinReblogUrns": [
+    "urn:li:activity:7521950736843255808"
+  ],
+  "postReblogCount": 1
 }

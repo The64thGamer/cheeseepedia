@@ -2,7 +2,8 @@
   "title": "phl975fj2gxmgt2c",
   "type": "LinkedIn Post",
   "tags": [
-    "Chuck E. Cheese Franchising LinkedIn Account"
+    "Chuck E. Cheese Franchising LinkedIn Account",
+    "Chuck E. Cheese LinkedIn Account"
   ],
   "startDate": "2026-09-24",
   "postTime": "2026-09-24 13:49:29 UTC",
@@ -23,5 +24,9 @@
   "contributors": [
     "sudo-trans-pony"
   ],
-  "deleted": false
+  "deleted": false,
+  "linkedinReblogUrns": [
+    "urn:li:activity:7508967791425765376"
+  ],
+  "postReblogCount": 1
 }

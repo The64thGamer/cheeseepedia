@@ -257,7 +257,7 @@ THUMB_FILE_FIELD = "pageThumbnailFile"
 TAGGED_BY_TYPES = {"steam comment", "reviews", "videos", "photos", "transcriptions", "linkedin post", "twitter post"}
 OUT_TAGGED_BY = os.path.join(os.path.dirname(__file__), "..", "compiled-json/taggedByIDs.json")
 THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
-PHOTO_SIM_BITS = 16
+PHOTO_SIM_BITS = 9
 PHOTO_HASH_CACHE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/photo_hashes.json")
 OUT_REJECTED = os.path.join(os.path.dirname(__file__), "..", "permanent-json/rejected_videos.json")
 OUT_FAILED_THUMBS = os.path.join(os.path.dirname(__file__), "..", "permanent-json/failed_thumbnails.json")
@@ -1694,6 +1694,56 @@ def show_photos(folders):
         print(dim(f"  {f.name}  {m.get('title', '')}  start={m.get('startDate') or '-'}  md={'y' if has_md(f) else 'n'}  {(f / 'photo.avif').stat().st_size // 1024}KB"))
 
 
+POST_TYPES = {LINKEDIN_POST_TYPE.lower(), TWITTER_POST_TYPE.lower()}
+POST_IMAGE_FIELDS = ("postImages", "postReshareImages")
+
+
+def retarget_post_images(redirects):
+    if not redirects:
+        return
+    def resolve(t):
+        seen = set()
+        while t in redirects and t not in seen:
+            seen.add(t)
+            t = redirects[t]
+        return t
+    changed = 0
+    for folder in Path(CONTENT_DIR).iterdir():
+        if not folder.is_dir():
+            continue
+        path = folder / "meta.json"
+        m = read_meta(folder)
+        if (m.get("type") or "").strip().lower() not in POST_TYPES:
+            continue
+        dirty = False
+        for field in POST_IMAGE_FIELDS:
+            old = m.get(field)
+            if not isinstance(old, list):
+                continue
+            new = []
+            for t in old:
+                t = resolve(t)
+                if t not in new:
+                    new.append(t)
+            if new != old:
+                m[field] = new
+                dirty = True
+        if dirty:
+            raw = path.read_text(encoding="utf-8-sig")
+            path.write_text(json.dumps(m, ensure_ascii=False, indent=2 if "\n" in raw.strip() else None), encoding="utf-8")
+            changed += 1
+    print(green(f"Updated image references in {changed} post(s)"))
+
+
+def merge_photos(keep, others, redirects):
+    keep_title = read_meta(keep).get("title")
+    for o in others:
+        t = read_meta(o).get("title")
+        if t and keep_title and t != keep_title:
+            redirects[t] = keep_title
+    merge_articles(keep, others)
+
+
 def dedupe_photos():
     try:
         import PIL
@@ -1708,17 +1758,21 @@ def dedupe_photos():
     for i, a in enumerate(hs):
         pairs += [(d, fs[i], fs[j]) for j in range(i + 1, len(hs)) if (d := (a ^ hs[j]).bit_count()) <= PHOTO_SIM_BITS]
     print(cyan(f"Found {len(pairs)} similar photo pair(s)"))
-    for d, a, b in sorted(pairs):
-        if not (a.exists() and b.exists()):
-            continue
-        keep = max((a, b), key=lambda f: (f / "photo.avif").stat().st_size)
-        auto = (a / "photo.avif").stat().st_size == (b / "photo.avif").stat().st_size
-        if not auto:
-            print(cyan(f"Similar photos ({d} bits apart):"))
-            show_photos([a, b])
-        if auto or ask(f"Merge into {keep.name} (larger file)?"):
-            merge_articles(keep, [f for f in (a, b) if f != keep])
-            print(green(f"Auto-merged {b.name if keep == a else a.name} into {keep.name} (identical file size)" if auto else f"Merged into {keep.name}"))
+    redirects = {}
+    try:
+        for d, a, b in sorted(pairs):
+            if not (a.exists() and b.exists()):
+                continue
+            keep = max((a, b), key=lambda f: (f / "photo.avif").stat().st_size)
+            auto = (a / "photo.avif").stat().st_size == (b / "photo.avif").stat().st_size
+            if not auto:
+                print(cyan(f"Similar photos ({d} bits apart):"))
+                show_photos([a, b])
+            if auto or ask(f"Merge into {keep.name} (larger file)?"):
+                merge_photos(keep, [f for f in (a, b) if f != keep], redirects)
+                print(green(f"Auto-merged {b.name if keep == a else a.name} into {keep.name} (identical file size)" if auto else f"Merged into {keep.name}"))
+    finally:
+        retarget_post_images(redirects)
 
 
 def sanitize_title(title):

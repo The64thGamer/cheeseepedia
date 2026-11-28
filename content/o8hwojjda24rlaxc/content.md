@@ -1,2 +1,0 @@
-Como parte de la evolución de su concepto más reciente e innovador en el país Chuck E. Cheese anunció, la apertura del Adventure Zone dentro de su sucursal Sendero en Plaza Paseo Almenares.
-https://elnorte.com/mMxBIn

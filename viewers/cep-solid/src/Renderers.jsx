@@ -204,7 +204,7 @@ export function renderUserPage(username) {
 }
 
 
-const EXCLUDE = new Set(['photos','videos','reviews','user','steam comment','linkedin post','theories','meta','transcriptions']);
+const EXCLUDE = new Set(['photos','videos','reviews','user','steam comment','linkedin post','twitter post','theories','meta','transcriptions']);
 const TABS = {
   Articles: (t) => !EXCLUDE.has(t),
   Photos:   (t) => t === 'photos',
@@ -253,6 +253,7 @@ function renderTaggedList(type, ids, data) {
     case 'reviews':
     case 'steam comment':
     case 'linkedin post':
+    case 'twitter post':
       return (
         <div>
           <For each={ids}>
@@ -684,6 +685,8 @@ export function renderArticle(meta){
       return renderStandardArticle(meta);
     case "LinkedIn Post":
       return renderLinkedInPostArticle(meta);
+    case "Twitter Post":
+      return renderTwitterPostArticle(meta);
     case "Videos":
       return renderVideoArticle(meta);
     case "Photos":
@@ -1436,6 +1439,196 @@ export function renderLinkedInPostArticle(meta) {
   );
 }
 
+const TWITTER_ACCOUNTS = {
+  'Chuck E. Cheese Twitter Account': { name: 'Chuck E. Cheese', handle: 'ChuckECheese', avatar: `${LINKEDIN_AVATAR_BASE}/TwitterChuckECheese.jpg` },
+};
+const TWITTER_TOKEN_RE = /(https?:\/\/[^\s]+|#[\p{L}\p{N}_]+|@[A-Za-z0-9_]+)/gu;
+const TWITTER_SOURCE_RE = /^https?:\/\/(www\.)?(x|twitter)\.com\/([^/]+)\/status\//i;
+
+const twitterSource = (meta) => (meta.citations || []).find((c) => TWITTER_SOURCE_RE.test(c));
+
+const twitterAccount = (meta) => {
+  const tags = (meta.tags || []).map((t) => String(t).split('|')[0].trim());
+  const tag = tags.find((t) => TWITTER_ACCOUNTS[t]) || tags[0] || '';
+  const known = TWITTER_ACCOUNTS[tag];
+  if (known) return known;
+  const src = twitterSource(meta);
+  const handle = src ? TWITTER_SOURCE_RE.exec(src)[3] : '';
+  return { name: tag.replace(/\s*Twitter Account$/i, '') || handle || 'Twitter', handle, avatar: null };
+};
+
+const twitterTime = (meta) => {
+  const d = new Date(String(meta.postTime || '').replace(' UTC', 'Z').replace(' ', 'T'));
+  if (isNaN(d)) return convertStartDate(meta.startDate);
+  const time = d.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit', timeZone: 'UTC' });
+  const date = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric', timeZone: 'UTC' });
+  return `${time} · ${date} · UTC`;
+};
+
+function TwitterText(props) {
+  const parts = () => String(props.text || '').split(TWITTER_TOKEN_RE);
+  return (
+    <div class="TWText">
+      <For each={parts()}>
+        {(part) => {
+          if (/^https?:\/\//.test(part)) {
+            const [, url, trail] = LINKEDIN_TRAIL_RE.exec(part);
+            return (
+              <>
+                <a href={url} target="_blank" rel="noopener noreferrer">{url}</a>{trail}
+              </>
+            );
+          }
+          if (/^[#@]/.test(part)) return <span class="TWEntity">{part}</span>;
+          return <>{highlightText(part, props.words || [])}</>;
+        }}
+      </For>
+    </div>
+  );
+}
+
+function TwitterPhotos(props) {
+  const photos = () => props.photos || [];
+  return (
+    <Show when={photos().length}>
+      <div class={`TWPhotos TWPhotos${Math.min(photos().length, 4)}`}>
+        <For each={photos().slice(0, 4)}>
+          {(p) => (
+            <a class="TWPhoto" href={getFolderPath(p.id)}>
+              <img alt={p.title} loading="lazy" src={`/content/${p.id}/photo.avif`} />
+            </a>
+          )}
+        </For>
+      </div>
+    </Show>
+  );
+}
+
+function TwitterExtras(props) {
+  const links = () => (props.links || []).filter(isUrl);
+  return (
+    <>
+      <Show when={links().length}>
+        <div class="TWLinks">
+          <For each={links()}>
+            {(u) => (
+              <a class="TWLink" href={u} target="_blank" rel="noopener noreferrer">
+                <span class="TWLinkDomain">{getDomain(u) || u}</span>
+                <span class="TWLinkUrl">{u}</span>
+              </a>
+            )}
+          </For>
+        </div>
+      </Show>
+      <Show when={props.hasVideo}>
+        <div class="TWNotice">
+          <span>▶ This post includes a video.</span>
+          <Show when={isUrl(props.videoUrl || '')}>
+            {' '}<a href={props.videoUrl} target="_blank" rel="noopener noreferrer">Watch video</a>
+          </Show>
+        </div>
+      </Show>
+    </>
+  );
+}
+
+function TwitterPostContent(props) {
+  const m = () => props.meta;
+  const account = () => twitterAccount(m());
+  const source = () => twitterSource(m());
+
+  const [data] = createResource(async () => {
+    const id = props.link ?? m().folderID ?? await fetchFolderIDFromTitle(m().title);
+    const md = await fetchContent(id).catch(() => '');
+    const photos = await linkedInPhotos(m().postImages);
+    return { text: (md || '').trim(), photos };
+  });
+
+  return (
+    <>
+      <div class="TWHeader">
+        <div
+          class="TWAvatar"
+          style={account().avatar ? { 'background-image': `url('${account().avatar}')` } : {}}
+        >
+          <Show when={!account().avatar}>{account().name.charAt(0)}</Show>
+        </div>
+        <div class="TWHeaderText">
+          <div class="TWName">{account().name}</div>
+          <Show when={account().handle}>
+            <div class="TWHandle">@{account().handle}</div>
+          </Show>
+        </div>
+        <svg class="TWLogo" viewBox="0 0 24 24" width="20" height="20" aria-label="X" fill="currentColor">
+          <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z" />
+        </svg>
+      </div>
+
+      <Show when={m().postReplyTo}>
+        <div class="TWReplyTo">
+          Replying to{' '}
+          <Show when={isUrl(m().postReplyTo)} fallback={<span class="TWEntity">{m().postReplyTo}</span>}>
+            <a href={m().postReplyTo} target="_blank" rel="noopener noreferrer">{m().postReplyTo}</a>
+          </Show>
+        </div>
+      </Show>
+
+      <Show when={!data.loading} fallback={<div class="TWLoading">Loading…</div>}>
+        <Show when={data()?.text}>
+          <TwitterText text={data().text} words={props.words} />
+        </Show>
+        <TwitterPhotos photos={data()?.photos} />
+        <TwitterExtras links={m().postLinks} hasVideo={m().postHasVideo} videoUrl={m().postVideoUrl} />
+
+        <Show when={m().postReshareText}>
+          <div class="TWQuote">
+            <TwitterText text={m().postReshareText} words={props.words} />
+          </div>
+        </Show>
+
+        <div class="TWFooter">
+          <Show when={source()} fallback={<span>{twitterTime(m())}</span>}>
+            <a href={source()} target="_blank" rel="noopener noreferrer">{twitterTime(m())}</a>
+          </Show>
+        </div>
+      </Show>
+    </>
+  );
+}
+
+export async function renderTwitterPostCard(meta, words = []) {
+  const link = meta.folderID ?? await fetchFolderIDFromTitle(meta.title);
+  const account = twitterAccount(meta);
+  return (
+    <div class="TwitterCardWrap fade-in">
+      <div class="SteamCommentHeader TWCardHeader">
+        <a href={getFolderPath(link)}>{highlightText(`${account.name} – ${convertStartDate(meta.startDate)}`, words)}</a>
+      </div>
+      <div class="TwitterCard">
+        <TwitterPostContent meta={meta} link={link} words={words} />
+      </div>
+    </div>
+  );
+}
+
+export function renderTwitterPostArticle(meta) {
+  const account = twitterAccount(meta);
+  return (
+    <>
+      <h1 class="article-title">{`${account.name} – ${convertStartDate(meta.startDate)}`}</h1>
+      <EditPageButton folderID={meta.folderID} />
+      <div class="ArticleBody type-twitter-post">
+        <div class="TwitterCard TwitterArticle fade-in">
+          <TwitterPostContent meta={meta} />
+        </div>
+        <Citations citations={meta.citations} />
+        <ArticleTags folderID={meta.folderID} />
+        <ArticleContributors folderID={meta.folderID} />
+      </div>
+    </>
+  );
+}
+
 export function renderCard(meta, words = []) {
   switch ((meta.type || '').toLowerCase()) {
     case 'reviews':
@@ -1444,6 +1637,8 @@ export function renderCard(meta, words = []) {
       return renderSteamCommentCard(meta, words);
     case 'linkedin post':
       return renderLinkedInPostCard(meta, words);
+    case 'twitter post':
+      return renderTwitterPostCard(meta, words);
     default:
       return renderStandardCard(meta, words);
   }
