@@ -1,0 +1,1 @@
+Hi Ashley, we're sorry to hear your visit wasn't what you remember as a kid. Could you send us a DM and let us know what went wrong along with your contact info? We'd like to alert our Guest Relations team and have them reach out.

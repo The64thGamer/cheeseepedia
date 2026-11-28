@@ -1,0 +1,1 @@
+Turns out, dancing is great cardio. Chuck's been taking full advantage of our endless salad bar too #FitFam #GlowUp

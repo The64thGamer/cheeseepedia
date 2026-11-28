@@ -1,0 +1,1 @@
+We're very sorry to hear about this incident, Kushal. Could you let us know more about your experience, including your phone number and email address, in a DM? We'll alert our Guest Relations team.

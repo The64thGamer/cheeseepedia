@@ -1,0 +1,1 @@
+We agree it's too hot to play outside! Stay out of the heat with our Weather Check! https://t.co/77ckX87Pub

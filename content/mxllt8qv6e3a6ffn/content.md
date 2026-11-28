@@ -1,0 +1,1 @@
+We’re with ya, which is why we’re muting the game in all our stores until we’re able to confirm the comment is removed.

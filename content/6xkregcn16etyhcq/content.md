@@ -1,0 +1,1 @@
+@Call_Me_Karmin Unfortunately, we do not take reservations for non-parties, but walk ins are always welcome! We hope to celebrate with you!

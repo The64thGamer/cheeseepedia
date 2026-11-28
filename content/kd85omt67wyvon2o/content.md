@@ -1,0 +1,1 @@
+Hi there, we're sorry to hear you still haven't gotten your Bonus Card. Our team is looking into this and will be reaching out to you.

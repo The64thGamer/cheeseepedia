@@ -1,0 +1,1 @@
+Get out of the heat with our weather check! Download your's here: https://t.co/77ckX87Pub

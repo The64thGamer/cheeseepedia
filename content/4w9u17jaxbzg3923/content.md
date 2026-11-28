@@ -1,0 +1,1 @@
+Though older kids may not admit it, those super powers do last for quite a while!

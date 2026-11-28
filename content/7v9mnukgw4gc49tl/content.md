@@ -1,0 +1,1 @@
+@PureRomanceRosa Thanks for submitting to #Chucktober #Sweepstakes! To claim your photo, click here: http://t.co/5y1vD6ybTg

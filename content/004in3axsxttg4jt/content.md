@@ -1,0 +1,1 @@
+Next time you need to cool off, download our Weather check and come join us! https://t.co/77ckX87Pub

@@ -1,0 +1,1 @@
+Being a dad rocks! Share your #DadHacks for a chance to win a family vacation & awesome prizes! https://t.co/0NYME7skSN

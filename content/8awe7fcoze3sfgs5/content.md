@@ -1,0 +1,1 @@
+Hi Robert. We're sorry for the inconvenience! You can book a party directly with our Guest Relations at GuestRelations@cecentertainment.com or 1-888-778-7193. Let us know if we can further assist you!

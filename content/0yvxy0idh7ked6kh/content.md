@@ -1,0 +1,1 @@
+We’re with you – we support everyone’s love of play. So we’re turning off the sound on that game at all of our locations until ICE can remove the taunt.

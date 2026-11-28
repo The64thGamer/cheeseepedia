@@ -1,0 +1,1 @@
+The real tragedy is only scoring 15,000pts  #RookieNumbers #Spanked

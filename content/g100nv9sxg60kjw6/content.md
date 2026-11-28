@@ -1,0 +1,1 @@
+Scooters are cool, but have you ever felt the rush of thousands of prize tickets blowing all around you while in a glass case of exhilaration?  You'd really like our Ticket Blaster.

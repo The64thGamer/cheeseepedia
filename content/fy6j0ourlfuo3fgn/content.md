@@ -1,0 +1,1 @@
+She can't wait to meet all of her new friends.

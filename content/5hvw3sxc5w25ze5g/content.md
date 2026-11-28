@@ -1,0 +1,1 @@
+Correction: It's HIS time to shine. If he doesn't give you his tickets at the end, move on.

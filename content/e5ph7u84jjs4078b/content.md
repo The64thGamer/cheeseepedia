@@ -1,0 +1,1 @@
+Hi there, if you received our confirmation submission, your photo is on its way! :) Good luck!

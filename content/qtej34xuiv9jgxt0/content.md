@@ -1,0 +1,1 @@
+Great question! The Sensory Sensitive Sunday program has been temporarily postponed until further notice. Currently, we are not reinstating the program as stores ‘reopen’, though, we do intend to bring back to program in the future!

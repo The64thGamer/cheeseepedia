@@ -1,0 +1,1 @@
+Thanks for visiting us! We hope everyone had a blast!

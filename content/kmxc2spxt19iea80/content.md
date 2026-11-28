@@ -1,0 +1,1 @@
+Chuck E. was wearing his sneakers again, wasn't he?

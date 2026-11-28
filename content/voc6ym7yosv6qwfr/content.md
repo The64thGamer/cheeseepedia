@@ -1,0 +1,1 @@
+We usually recommend more than just your hand in the photo!

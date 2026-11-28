@@ -1,0 +1,1 @@
+No better way to start the weekend! #TGIFriday Thanks for stopping by!

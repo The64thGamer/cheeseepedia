@@ -1,0 +1,1 @@
+Thanks for visiting us! And the "E" stands for, Entertainment

@@ -1,0 +1,1 @@
+Hi Jonathan, the "E" in Chuck E. Cheeses stands for Entertainment.

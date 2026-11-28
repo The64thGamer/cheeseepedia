@@ -1,0 +1,1 @@
+We welcome everyone at ANY age to have a party!  Chuck E. Cheese is where an adult can be a kid too!

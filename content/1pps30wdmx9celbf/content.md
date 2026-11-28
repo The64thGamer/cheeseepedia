@@ -1,0 +1,1 @@
+We're glad you agree that a visit to Chuck E. Cheese's is the perfect way to get ready for #TGIT! We hope you had a blast

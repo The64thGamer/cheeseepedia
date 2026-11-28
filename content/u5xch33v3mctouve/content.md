@@ -1,0 +1,1 @@
+@random4977 Hey there! Unfortunately we did remove the app. How's your board collection on the skate app going?

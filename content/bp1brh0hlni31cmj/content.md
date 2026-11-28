@@ -1,0 +1,1 @@
+Heya, we appreciate the feedback! Play Passes were created so that parents could more easily manage tokens through our in-store kiosks and the Play Pass app. We hope you're still enjoying all of our wonderful games and if you have any issues with the Play Pass please let us know.

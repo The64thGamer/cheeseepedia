@@ -1,0 +1,1 @@
+Hi Dawn, we're sorry to hear about the card issues. We'd like to have our Guest Relations team reach out to help resolve this. Could you send a DM with your contact info and the location you visited?

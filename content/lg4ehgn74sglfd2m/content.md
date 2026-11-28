@@ -1,0 +1,1 @@
+@abridger92 So sorry about that, Amber! Yes, if you have reserved a birthday party, your son can step into the Ticket Blaster! :)

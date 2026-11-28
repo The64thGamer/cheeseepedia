@@ -1,0 +1,1 @@
+The sneak peak is a chance to see and play at our location before the grand opening. :)

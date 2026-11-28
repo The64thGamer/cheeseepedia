@@ -1,0 +1,1 @@
+We've got an idea, grab a weather check and keep the kids busy while staying out of the heat! https://t.co/77ckX87Pub

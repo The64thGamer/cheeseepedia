@@ -1,0 +1,1 @@
+@desertdealsdiva Lol. We can't wait either! We won't have Skeeball with us this year, but we will have the Ticket Blaster! #CECBlogher

@@ -1,0 +1,1 @@
+Heya Chucky, great name! Service animals are A-OK to bring to Chuck E. Cheese's. We want everyone to be able to enjoy the party!

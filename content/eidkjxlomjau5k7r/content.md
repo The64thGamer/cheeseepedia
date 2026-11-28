@@ -1,0 +1,1 @@
+Always go with your first thought ;)

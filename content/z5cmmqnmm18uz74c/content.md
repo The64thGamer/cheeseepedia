@@ -1,0 +1,1 @@
+Hi Tim, we're sorry to hear you were told that. Could you let us know more about this in a DM? Please include your contact info and the location you visited, and we'll pass it along to our Guest Relations team.

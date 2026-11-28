@@ -1,0 +1,1 @@
+@quietcompanytx hey! Chuck's a rock star, and his fingers are big boned, not fat. We’ll take you on, but we gotta haggle the tokens.

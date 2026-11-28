@@ -1,0 +1,1 @@
+Woohoo! Summer break has began! Celebrate with a visit to Chuck E. Cheese's!

@@ -1,0 +1,1 @@
+Parents won't get that extra hour of sleep, but we're offering them a break! Swing by your local Chuck E. Cheese's to get one free hour of All You Can Play per check with any purchase. It'll be just like you've been given that extra hour of peace while the kids have their fun!

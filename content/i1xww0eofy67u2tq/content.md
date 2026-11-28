@@ -1,0 +1,1 @@
+That's a great point, Brian. And what better way to use that hour than to stop by Chuck E. Cheese's this Monday for one free hour of All You Can Play per check with any purchase. You get a $20 savings and some quality time with the kiddos - win/win!

@@ -1,0 +1,1 @@
+Hot dang, lucky day! Now you have an excuse to come in and play skee ball.

@@ -1,0 +1,1 @@
+It sure is hot out! Download our weather check, get 10 free tokens and come cool off with us! https://t.co/77ckX87Pub

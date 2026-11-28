@@ -1,0 +1,1 @@
+If you answered: 212 degrees F, Furnace Creek California, 1905, New York New York, and Ketchup you really know how to summer!

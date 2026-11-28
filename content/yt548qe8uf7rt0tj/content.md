@@ -1,0 +1,1 @@
+We have a zoom call this week! I will- thanks Cole :)

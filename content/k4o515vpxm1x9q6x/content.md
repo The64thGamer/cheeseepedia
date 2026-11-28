@@ -1,0 +1,1 @@
+Can you guess which joke is Chuck E.'s favorite? We'll give you a hint:

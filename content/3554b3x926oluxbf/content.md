@@ -1,0 +1,1 @@
+You heard right! The "E" in Chuck E. Cheese's stands for "entertainment"

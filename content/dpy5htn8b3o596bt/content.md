@@ -1,0 +1,1 @@
+@quietcompanytx No jokes! Checking in with the big Cheese as we speak. Just gotta hear you say one thing: "Chuck E. is a legit rock star."

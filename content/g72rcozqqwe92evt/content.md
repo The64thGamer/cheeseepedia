@@ -1,0 +1,1 @@
+What can we say, kids have a sixth sense when it comes to Chuck E. Cheese

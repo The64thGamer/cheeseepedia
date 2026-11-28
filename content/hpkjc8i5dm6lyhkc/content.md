@@ -1,0 +1,1 @@
+Hey there Madalyn, we're very concerned to hear about this situation. Could you send us a DM and let us know more about the incident? Please include the location and your best contact information so that our Guest Relations team can investigate.

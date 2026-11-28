@@ -1,0 +1,1 @@
+EVERYONE is a close friend.

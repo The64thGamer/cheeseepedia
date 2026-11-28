@@ -1,0 +1,1 @@
+Everyone knows marriage is a celebration of love, commitment, and cheese

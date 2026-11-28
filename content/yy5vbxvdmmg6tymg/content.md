@@ -1,0 +1,1 @@
+Do you kids need to get out that extra energy? We've got a solution for you! Stop in to your local Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with any purchase. The kids can cut loose while you kick back!

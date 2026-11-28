@@ -1,0 +1,1 @@
+I think you're on to something there.. I definitely care about others- that's why I throw parties for others!

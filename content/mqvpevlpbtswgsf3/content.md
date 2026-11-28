@@ -1,0 +1,1 @@
+No need to worry, Mandy. These claims about us and our pizza are totally untrue. Our pizzas are made to order and we prep the dough fresh in house, which means that they’re not always perfectly uniform in shape, but always delicious.

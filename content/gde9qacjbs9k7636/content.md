@@ -1,0 +1,1 @@
+That’s a bummer! We’re sorry your Chuck E. Cheese experience wasn’t exactly what you expected. Please share your feedback with our guest relations team: guestrelations@cecentertainment.com so that it may be addressed by the proper department.

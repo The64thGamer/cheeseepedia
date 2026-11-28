@@ -1,0 +1,1 @@
+Hi, Love. We're so sorry to hear about this. Please send us a DM so we can further assist you!

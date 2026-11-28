@@ -1,0 +1,1 @@
+Beat the high score on Super Shot at your local CEC, and then we'll talk.

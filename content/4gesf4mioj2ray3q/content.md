@@ -1,0 +1,1 @@
+We're where a kid can be a kid, not where a kid can be an adult. Better safe than sorry!

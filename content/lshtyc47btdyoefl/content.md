@@ -1,0 +1,1 @@
+@Couponmomcanada Hi Jennifer! We will be posting pics and updates from the showroom floor! Follow our hashtag #CECBlog her! #BlogHer12

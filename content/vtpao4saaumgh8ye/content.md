@@ -1,0 +1,1 @@
+buys a "my kid can earn more chuck e cheese tickets than your honor roll student" bumper sticker. #ProudParent

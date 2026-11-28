@@ -1,0 +1,1 @@
+Keep the good vibes rolling, Jenna, and swing by Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with a purchase. Your kids will have a blast while you kick back and relax!

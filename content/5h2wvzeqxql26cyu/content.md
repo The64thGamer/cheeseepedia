@@ -1,0 +1,1 @@
+We're here to help, Michael! Come on in to Chuck E. Cheese's this Monday 11/5 for one free hour of All You Can Play per check with any purchase. You can let your child run around and play games while you get a bit of a break!

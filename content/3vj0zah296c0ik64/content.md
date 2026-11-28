@@ -1,0 +1,1 @@
+We're sorry to hear about the long wait, Adele. DM us with the location and your contact info and we'll have our Guest Relations team take a look.

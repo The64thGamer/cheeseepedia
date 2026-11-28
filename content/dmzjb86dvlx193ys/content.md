@@ -1,0 +1,1 @@
+Too funny! We are glad he had a blast!

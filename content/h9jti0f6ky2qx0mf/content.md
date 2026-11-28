@@ -1,0 +1,1 @@
+So cute! What was her favorite game?

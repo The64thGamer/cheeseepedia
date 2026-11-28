@@ -1,0 +1,1 @@
+Yup! We want both adults and kids to enjoy the trip to Chuck E. Cheese's. We've been serving alcohol to adults over 21 for years to go with our awesome meals, but we make sure the two-drink maximum is strictly enforced.

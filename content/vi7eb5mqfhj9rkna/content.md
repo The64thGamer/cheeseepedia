@@ -1,0 +1,1 @@
+While you can't use your gift card to purchase a Summer Fun Pass online, you can absolutely use it to purchase in-store. You can activate it, grab a slice of pizza and enjoy a few games while you're there!

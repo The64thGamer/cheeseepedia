@@ -1,0 +1,1 @@
+Being a dad is an amazing thing! Share a dad tip to enter our #sweepstakes for a chance to win big! https://t.co/0NYME7JVKl

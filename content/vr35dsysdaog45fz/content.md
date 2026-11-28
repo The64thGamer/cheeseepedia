@@ -1,0 +1,1 @@
+We've got your extra hour, Nicole! Bring your kids to Chuck E. Cheese's on Monday 11/5 for one free hour of All You Can Play per check with any purchase. Take some time for yourself while the kids get an hour of fun and games!

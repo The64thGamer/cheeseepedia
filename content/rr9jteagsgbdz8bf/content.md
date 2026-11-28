@@ -1,0 +1,1 @@
+Great picture! Share your #DadHacks with us for a chance to win awesome prizes for your family! https://t.co/0NYME7skSN

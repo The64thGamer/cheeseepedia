@@ -1,0 +1,1 @@
+This photo deserves two thumbs up!

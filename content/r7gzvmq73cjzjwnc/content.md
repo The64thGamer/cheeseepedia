@@ -1,0 +1,1 @@
+Hey Aly, we're sorry to hear about your experience. Could you send us a DM with the location you visited and your contact information? We'll have our Guest Relations team take a look.

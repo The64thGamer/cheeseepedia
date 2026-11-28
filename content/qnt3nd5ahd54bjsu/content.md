@@ -1,0 +1,1 @@
+Thanks for entering our Sweepstakes! We hope to see you again soon

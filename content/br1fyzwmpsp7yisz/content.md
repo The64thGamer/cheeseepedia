@@ -1,0 +1,1 @@
+Devoted fans inspired us to preserve the legacy of our iconic band

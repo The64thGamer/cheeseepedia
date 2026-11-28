@@ -1,0 +1,1 @@
+@DetroitttFan Here's our unbiased opinion: You, my friend, are spot on.

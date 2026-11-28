@@ -1,0 +1,1 @@
+That's right, Chris, you can stop in any time throughout the day on Monday to get one free hour of All You Can Play per check with any purchase.

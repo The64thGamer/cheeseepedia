@@ -1,0 +1,1 @@
+Hi Rajj, thanks for reaching out! There is no age limit to enter! We hope to see you soon

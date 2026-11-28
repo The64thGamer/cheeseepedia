@@ -1,0 +1,1 @@
+Hi There! You can always personalize your party celebrations at Chuck E. Cheese! You’re free to bring your own birthday cake, favorite ice cream and table decorations.

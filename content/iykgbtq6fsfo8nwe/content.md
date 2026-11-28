@@ -1,0 +1,1 @@
+The whack-a-mole mallets are for whacking moles only.

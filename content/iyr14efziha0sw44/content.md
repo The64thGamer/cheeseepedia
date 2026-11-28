@@ -1,0 +1,1 @@
+Hi, Kelly. We’re sorry to hear about your experience. Could you please send us a DM with the location you visited, date of your visit, and contact information?

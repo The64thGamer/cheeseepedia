@@ -1,0 +1,1 @@
+@chickloveslotr Aw!! Sorry to hear that. :( We hope his new look will grow on you!

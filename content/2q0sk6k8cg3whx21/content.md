@@ -1,0 +1,1 @@
+Hi, Misha! We created Play Pass with the intent to make it easier for parents to manage their children's tokens through our in-store kiosks and the Play Pass app. We're sorry this hasn't been your experience, but we hope that you are still able to enjoy all of our great games!

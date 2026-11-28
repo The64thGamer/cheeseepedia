@@ -1,0 +1,1 @@
+The whole place to yourself? Time to go wild!

@@ -1,0 +1,1 @@
+Most of our locations serve beer and wine. Give your location a call to double check! Cheers!

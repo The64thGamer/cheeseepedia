@@ -1,0 +1,1 @@
+Woohoo! Summer break has officially began! We've got the perfect end of school reward :) https://t.co/Im6AmJaon5

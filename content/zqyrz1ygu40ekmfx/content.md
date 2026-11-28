@@ -1,0 +1,1 @@
+Hi Candy, we're sorry to hear about your experience. We're checking with our team about the email, but we'd also like to follow up with our Guest Relations team about your experience. Could you DM us your contact info?

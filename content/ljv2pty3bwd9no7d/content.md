@@ -1,0 +1,1 @@
+We are sorry to hear this. By clicking the link below, you will find more information regarding our Monday Special! https://t.co/EZa2w8X6WF

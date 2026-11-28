@@ -1,0 +1,1 @@
+Cheers to the start of summer! We'd love to help you celebrate a summer day well spent!

@@ -1,0 +1,1 @@
+We know what it means! Come by your nearest Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with any purchase. Let the kids run around an tire themselves out while you get an hour to kick back!

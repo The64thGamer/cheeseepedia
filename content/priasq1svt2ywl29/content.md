@@ -1,0 +1,1 @@
+Oh, no that's not true! Come on in, there's no age limits here. We just ask that anyone under the age of 18 is with a parent or guardian that is at least 18 or older. LETS PARTAYYYY

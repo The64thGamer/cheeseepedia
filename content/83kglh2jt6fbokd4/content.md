@@ -1,0 +1,1 @@
+Hi Kaitlyn, we're sorry to hear about this incident. Could you send us a DM with your contact info? We'll have our Guest Relations team look into this.

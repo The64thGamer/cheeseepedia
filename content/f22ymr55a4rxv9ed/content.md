@@ -1,0 +1,1 @@
+The mouse wouldn't - but -  we have beer and wine available for our grown-up friends at most of our locations.

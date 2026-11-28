@@ -1,0 +1,1 @@
+The smile says it all, Mitchell. Looks like she had a blast!

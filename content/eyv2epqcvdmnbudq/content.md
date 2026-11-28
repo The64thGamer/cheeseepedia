@@ -1,0 +1,1 @@
+Standard mostly but it really depends on the song!

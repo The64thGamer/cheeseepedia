@@ -1,0 +1,1 @@
+Summer days are fun, but rain can be annoying. Sounds like you deserve a weather check! https://t.co/77ckX87Pub

@@ -1,0 +1,1 @@
+And where does pop-a-shot fit in to these plans?

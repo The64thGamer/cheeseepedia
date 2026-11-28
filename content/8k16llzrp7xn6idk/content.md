@@ -1,0 +1,1 @@
+Absolutely not, Taylor. These claims are unequivocally false. We prep the dough daily for our made to order pizzas, which means they're not always perfectly round, but they are still great tasting.

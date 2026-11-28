@@ -1,0 +1,1 @@
+Happy first day of school! Celebrate your Super Students with Chuck E.! https://t.co/8Mi2Uk6hDs

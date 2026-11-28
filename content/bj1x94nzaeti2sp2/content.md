@@ -1,0 +1,1 @@
+Aw! So adorable! What was her favorite game?

@@ -1,0 +1,1 @@
+We love to hear that! Yes, you are more than welcome to order any of our delicious menu items to-go. We hope to see you soon

@@ -1,0 +1,1 @@
+Heard Hemingway did the same. Great minds think alike.

@@ -1,0 +1,1 @@
+Hi there. We will still be hosting our Chucktober event today. If you come in costume you will receive 50 free tickets!

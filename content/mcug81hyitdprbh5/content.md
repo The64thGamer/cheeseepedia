@@ -1,0 +1,1 @@
+Which Winter sport started in Mexico in the 1970s?

@@ -1,0 +1,1 @@
+What was used before pumpkins to make jack-o-lanterns?

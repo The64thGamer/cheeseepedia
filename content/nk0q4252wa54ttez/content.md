@@ -1,0 +1,1 @@
+Heya Jessica, most of our locations are open normal hours today and tomorrow, but we recommend double checking with your local store. You can search for their info here: https://t.co/VH7mSCCejr

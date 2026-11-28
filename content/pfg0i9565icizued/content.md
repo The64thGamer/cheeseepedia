@@ -1,0 +1,1 @@
+Summer might be over, but we're always here after school! :) Hope to see you again soon!

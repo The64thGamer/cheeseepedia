@@ -1,0 +1,1 @@
+Hi Stephen, we recommend calling your local store to confirm if they have the 40th Anniversary t-shirts available for purchase!

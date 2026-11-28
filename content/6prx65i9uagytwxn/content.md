@@ -1,0 +1,1 @@
+You do not need to have a reservation in order to have pizza and you are more than welcome to order to-go! We hope to see you soon

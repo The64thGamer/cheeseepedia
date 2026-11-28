@@ -1,0 +1,1 @@
+Kindergarten is exciting! Let's make this school year just as exciting for your Super Student! https://t.co/8Mi2Uk6hDs

@@ -1,0 +1,1 @@
+Hi Katlynn, yes we do accept Canadian cards. We recommend trying a different browser to see if that allows you to complete your payment.

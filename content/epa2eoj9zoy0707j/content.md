@@ -1,0 +1,1 @@
+You can study for a Bachelor's in Fun Times here!

@@ -1,0 +1,1 @@
+You're right, Claudia! Parents would love to get that extra hour, so we decided to help. Stop into your local Chuck E. Cheese's this Monday for one free hour of All You Can Play per check with any purchase. Parents get a breather while the kids play their favorite games!

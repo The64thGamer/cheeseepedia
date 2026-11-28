@@ -1,0 +1,1 @@
+Hi there, thanks for reaching out. Adults are allowed to come in without a child. We hope to see you soon

@@ -1,0 +1,1 @@
+Hi, Kimberly! Yes, you are able to use your Play Pass at any location that has also implemented our Play Pass system

@@ -1,0 +1,1 @@
+Hi there, thanks for reaching out. Yes, you are more than welcome to redeem your tickets. We hope to see you soon!

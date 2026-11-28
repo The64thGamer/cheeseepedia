@@ -1,0 +1,1 @@
+Hi there, we are sorry to hear this. We recommend trying a different browser to see if that allows you to reserve. We hope to see you soon!

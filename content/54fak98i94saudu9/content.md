@@ -1,0 +1,1 @@
+Hi there, Chuck E. is the only playable character, but we'll be sure to tell our team about your interest in Jasper as a character!

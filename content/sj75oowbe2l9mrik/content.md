@@ -1,0 +1,1 @@
+Instead of saying “cheese,” what did Victorians say before having their photo taken?

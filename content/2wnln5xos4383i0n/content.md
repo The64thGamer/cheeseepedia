@@ -1,0 +1,1 @@
+We're sorry to hear about your experience, Avery. We'd like to have our Guest Relations team reach out to you. Could you send us a DM with your contact info and which location you visited?

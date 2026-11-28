@@ -1,0 +1,1 @@
+Your love for Sonic doesn’t have to end here. Sonic is at Chuck E. Cheese’s for Rip It, Win It, Play It! Every cup is a winner so come in today for a chance to win the new Sonic Forces game! https://t.co/3B11GUO2VD

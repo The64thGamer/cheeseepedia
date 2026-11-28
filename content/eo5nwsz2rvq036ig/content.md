@@ -1,0 +1,1 @@
+How exciting! We can't wait to hear about his first visit to Chuck E. Cheese's!

@@ -1,0 +1,1 @@
+Will you accept pizza as payment?

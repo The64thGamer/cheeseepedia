@@ -1,0 +1,1 @@
+We do require anyone 18 and under to be accompanied by a parent or guardian.

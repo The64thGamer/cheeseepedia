@@ -1,0 +1,1 @@
+Happy New Year! We will be open normal store hours tomorrow

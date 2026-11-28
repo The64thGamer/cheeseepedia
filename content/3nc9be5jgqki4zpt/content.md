@@ -1,0 +1,1 @@
+Hello there, thanks for wanting to celebrate this special day with us! There’s no age limit on joining in on the fun!  You can learn more about our birthday packages and pricing at the following link!

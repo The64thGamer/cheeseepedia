@@ -1,0 +1,1 @@
+Summer sure is hot! Download our weather check and 10 free tokens and come on in for some "cool" fun! https://t.co/77ckX87Pub

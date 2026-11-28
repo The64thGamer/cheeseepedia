@@ -1,0 +1,1 @@
+That's a bummer to hear, and we'd like to see what we can do to help. Just shoot us a DM with your contact info and the location you visited.

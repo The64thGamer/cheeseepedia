@@ -1,0 +1,1 @@
+Hi there, thanks for reaching out! Yes, you can place an order to go. We hope to see you soon

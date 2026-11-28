@@ -1,0 +1,1 @@
+We are sad we'll miss out on celebrations! We hope we can celebrate with you again next year

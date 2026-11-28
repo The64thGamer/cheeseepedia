@@ -1,0 +1,1 @@
+Hi Hillal, we're sorry to hear about your wait time. Could you send us a DM with your contact information? We'll notify our Guest Relations team about the issue.

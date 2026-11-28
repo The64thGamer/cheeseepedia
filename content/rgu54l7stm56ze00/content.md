@@ -1,0 +1,1 @@
+, Thanks for sharing your Chucktober spooktacular costume! Click here to confirm your submission: https://t.co/KFmswWN1qK

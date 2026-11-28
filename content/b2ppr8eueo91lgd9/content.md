@@ -1,0 +1,1 @@
+That's the spirit! Next time you need to cool off, stop by with our Weather Check :) https://t.co/77ckX87Pub

@@ -1,0 +1,1 @@
+@ann_marie_79 Thanks for submitting to #Chucktober #Sweepstakes! To claim your photo, click here: http://t.co/ztirpo0LZU

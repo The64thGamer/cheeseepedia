@@ -1,0 +1,1 @@
+We're sorry to hear you weren't happy with the meal, Ted. We'd like to have out Guest Relations team look into this for you. Could you send a DM with your phone number and email address, along with the location you visited?

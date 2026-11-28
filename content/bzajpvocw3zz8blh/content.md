@@ -1,0 +1,1 @@
+You don’t go in the ticket machine. Only tickets do and it makes a munching noise.

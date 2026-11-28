@@ -1,0 +1,1 @@
+Wishing her an amazing day! We hope you celebrate with us! https://t.co/gVZYM6SLFs

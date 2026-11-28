@@ -1,0 +1,1 @@
+Thanks for reaching out! Yes, you can exchange tokens for Play Pass Points at your local restaurant.

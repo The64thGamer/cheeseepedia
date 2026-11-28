@@ -1,0 +1,1 @@
+November 2nd is Day of the Dead. Let’s do Fall themed Trivia!

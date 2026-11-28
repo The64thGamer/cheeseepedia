@@ -1,0 +1,1 @@
+Best friends are just like family

@@ -1,0 +1,1 @@
+Yes! Our Sensory Sensitive Sundays are hosted on the first Sunday of each month

@@ -1,0 +1,1 @@
+That was a first for us. Here it's usually the kids getting super worked up over a game.

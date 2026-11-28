@@ -1,0 +1,1 @@
+This is just the Best Dad moment we needed today.

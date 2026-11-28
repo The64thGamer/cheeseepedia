@@ -1,0 +1,1 @@
+Hi there! You are more than welcome to come and enjoy our lunch buffet without a child. We hope to see you soon

@@ -1,0 +1,1 @@
+We've got another good idea for a rainy day! Download our weather check and come have fun with us! https://t.co/77ckX87Pub

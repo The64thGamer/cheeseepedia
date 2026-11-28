@@ -1,0 +1,1 @@
+No kids needed! You can just come thru yourself! You can even be able to order some pizza through a delivery app.

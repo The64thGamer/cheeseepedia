@@ -1,0 +1,1 @@
+It's a bummer to miss out on that extra hour, Jason, but we have a solution! Stop into Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with a purchase. Your kids get an hour of games while you sit back and chill.

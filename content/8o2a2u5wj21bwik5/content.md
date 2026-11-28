@@ -1,0 +1,1 @@
+@Fluffypichus We do take reservations for birthday parties but not everyday visits.

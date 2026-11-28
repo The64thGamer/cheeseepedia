@@ -1,0 +1,1 @@
+We love it! Make sure to #Chucktober and #Sweeps for a chance to win

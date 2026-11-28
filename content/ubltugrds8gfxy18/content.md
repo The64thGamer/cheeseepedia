@@ -1,0 +1,1 @@
+Yikes, that's no good to hear, Brittney. We want to make sure you're able to spend your hard earned tickets. Could you shoot us a DM with the location you visited and your contact info?

@@ -1,0 +1,1 @@
+Being a dad rocks! Share your dad tips to enter our #sweepstakes for a chance to win awesome prizes! https://t.co/0NYME7skSN

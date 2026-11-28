@@ -1,0 +1,1 @@
+Good question - the Play Pass just takes a quick swipe to get the games going, and parents can more easily manage their kiddo's gameplay through our in-store kiosks to maximize the fun.

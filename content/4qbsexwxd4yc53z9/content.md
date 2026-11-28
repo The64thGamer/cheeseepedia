@@ -1,0 +1,1 @@
+And she got what she wanted!

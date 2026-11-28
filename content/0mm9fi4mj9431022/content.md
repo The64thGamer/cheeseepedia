@@ -1,0 +1,1 @@
+Our weather check says it's a 100% chance of fun! Get yours here: https://t.co/77ckX87Pub

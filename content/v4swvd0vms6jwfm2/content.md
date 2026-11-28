@@ -1,0 +1,1 @@
+Now that Summer is in full swing, it seems like a good time to brush up on all things HOT! Cool off with this Summer themed #AfternoonFunBreak

@@ -1,0 +1,1 @@
+Come cool off with us! We've got a weather check the whole family can agree on :) https://t.co/77ckX87Pub

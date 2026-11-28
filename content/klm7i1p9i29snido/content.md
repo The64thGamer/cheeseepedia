@@ -1,0 +1,1 @@
+Baked one to perfection. Our pizzas are handcrafted by our talented chefs with dough made in house. Trying to cook them too much would ruin the taste.

@@ -1,0 +1,1 @@
+@karrie_lobeck Thanks for submitting to #Chucktober #Sweepstakes! To claim your photo, click here: http://t.co/UztDMsgJ3c

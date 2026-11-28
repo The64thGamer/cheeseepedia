@@ -1,0 +1,1 @@
+We have a new dance floor and endless salad bar. Dancing is great cardio.. paired with the salad, chuck just slimmed down. #FitFam

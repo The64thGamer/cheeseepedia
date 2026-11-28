@@ -1,0 +1,1 @@
+He was speechless from the amount of fun he was having!

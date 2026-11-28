@@ -1,0 +1,1 @@
+That's a way to stay cool! Next, grab our weather check and move the fun to Chuck E. Cheese's: https://t.co/77ckX87Pub

@@ -1,0 +1,1 @@
+Rain can be annoying, but don't be stuck inside! Grab our weather check for a great time indoors! https://t.co/77ckX87Pub

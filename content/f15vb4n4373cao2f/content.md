@@ -1,0 +1,1 @@
+Hi there, we recommend calling the store where you applied for more information regarding your application.

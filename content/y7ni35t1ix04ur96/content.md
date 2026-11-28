@@ -1,0 +1,1 @@
+Hi, Adrian. As long as you have a Military ID, you're good.

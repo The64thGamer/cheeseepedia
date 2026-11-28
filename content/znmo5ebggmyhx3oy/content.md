@@ -1,0 +1,1 @@
+We've got a way for you to get that hour back, Katie! Come by your local Chuck E. Cheese's on Monday 11/5 for one free hour of All You Can Play per check with any purchase. You get to kick back and relax while the kids run around (and tire themselves out ).

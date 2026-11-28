@@ -1,0 +1,1 @@
+At this time, the Fairfield location is not a participant. However, we are expanding this offer so be on the look out for updates!

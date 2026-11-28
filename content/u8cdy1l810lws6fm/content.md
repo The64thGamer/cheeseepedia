@@ -1,0 +1,1 @@
+How adorable! Continue the fun at Chuck E. Cheese's this weekend with your Super Students! https://t.co/8Mi2Uk6hDs

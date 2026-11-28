@@ -1,0 +1,1 @@
+Dad's rock! Enter our #DadHacks #sweepstakes for a chance to win big! https://t.co/0NYME7skSN

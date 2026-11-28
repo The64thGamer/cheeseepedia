@@ -1,0 +1,1 @@
+It can be rough, Dan. But we're in your corner! Stop by Chuck E. Cheese's tomorrow for one free hour of All You Can Play per check with a purchase. You get a stress-free hour while your kids have a blast playing all their favorite games!

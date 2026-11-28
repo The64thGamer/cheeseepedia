@@ -1,0 +1,1 @@
+Our dine-on option is closed but we are available for delivery and carryout...for your cousin, of course.

@@ -1,0 +1,1 @@
+our Fullerton location does have the lunch buffet. Looking forward to your visit!

@@ -1,0 +1,2 @@
+@PurpleKam
+ Thanks for submitting to #Chucktober #Sweepstakes! To claim your photo, click here: http://t.co/LkslC1ckT9

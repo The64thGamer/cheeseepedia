@@ -1,0 +1,1 @@
+@random4977 Hi again! The add-ons we're referring to are the additional helmets and boards! The further you go, the more you get!

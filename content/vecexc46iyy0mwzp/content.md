@@ -1,0 +1,1 @@
+Hi Vlad! As long as they are authentic, they should still be redeemable. We recommend you please contact your nearest location for confirmation.

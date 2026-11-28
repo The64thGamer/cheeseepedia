@@ -1,0 +1,1 @@
+Hi Amina! No need to have a child for entry. There is no age limit on fun!

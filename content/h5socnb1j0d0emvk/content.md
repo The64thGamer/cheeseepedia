@@ -1,0 +1,1 @@
+Smart kid!  Speaking of that, bring in his report card for some free games

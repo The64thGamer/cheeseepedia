@@ -1,0 +1,1 @@
+Oh no, that's a bummer! We're sorry to hear your visit wasn't as fun as normal. Could you send us a PM with more info, including your phone number and email address? We'll have our Guest Relations team take a look.

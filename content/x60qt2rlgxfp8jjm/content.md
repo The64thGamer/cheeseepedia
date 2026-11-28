@@ -1,0 +1,1 @@
+Hi there, thank you for bringing this to our attention. We're very sorry to hear about your experience. Please share your feedback with us at guestrelations@cecentertainment.com so this may be addressed by the proper department.

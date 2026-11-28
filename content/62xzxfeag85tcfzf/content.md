@@ -1,0 +1,1 @@
+Toilet paper is just a different version of tickets.

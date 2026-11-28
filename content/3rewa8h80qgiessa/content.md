@@ -1,0 +1,1 @@
+No conspiracies here – the stories going around about Chuck E. Cheese's and our pizza are absolutely untrue. We make our pizzas to order fresh with dough made in house. Sometimes that means the pizza doesn't look perfect, but it still tastes delicious.

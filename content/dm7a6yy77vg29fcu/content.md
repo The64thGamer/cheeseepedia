@@ -1,0 +1,1 @@
+So adorable! Celebrate your Super Student this weekend at Chuck E. Cheese's! https://t.co/8Mi2Uk6hDs

@@ -1,0 +1,1 @@
+Hi, Stefeno. Yes, we are open throughout the summer. We hope to see you soon!

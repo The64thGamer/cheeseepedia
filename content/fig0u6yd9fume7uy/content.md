@@ -1,0 +1,1 @@
+Before it was “Fall” or “Autumn” what was this season called?

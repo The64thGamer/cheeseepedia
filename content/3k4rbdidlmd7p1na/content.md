@@ -1,0 +1,1 @@
+@TingsMom Sounds like you're all squared away! We hope the trip is a blast, Karen!

@@ -1,0 +1,1 @@
+Hi there, thanks for reaching out. All guests younger than 18 years of age are required to be accompanied by an adult.

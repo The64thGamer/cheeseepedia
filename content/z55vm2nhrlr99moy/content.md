@@ -1,0 +1,1 @@
+Random trips sometimes can lead us to the best places!

@@ -1,0 +1,1 @@
+That's a fun idea - we'd love to see what can be arranged near you. Could you send us a DM with the location you'd like to visit and your contact info?

@@ -1,0 +1,1 @@
+@HooverHiza Thanks for submitting to #Chucktober #Sweepstakes! To claim your photo, click here: http://t.co/PsxtEG5c2w

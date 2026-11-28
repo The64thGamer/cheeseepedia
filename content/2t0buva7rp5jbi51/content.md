@@ -1,0 +1,1 @@
+Sounds like the perfect summer! Enter our sweepstakes for a chance to win great summer prizes: https://t.co/0NYME7skSN

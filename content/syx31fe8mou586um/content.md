@@ -1,0 +1,1 @@
+Tia, thank you for your message. We are very sorry this happened and we hope that you and your child were able to find each other quickly. We'd like to look into this incident in more detail. Could you please DM your contact info so we can have our team investigate?

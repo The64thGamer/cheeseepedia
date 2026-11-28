@@ -1,0 +1,1 @@
+You may not get the sleep, but we've got something for you, Arif! Swing by Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with a purchase. Your kids get an hour to run wild while you sit back and relax.

@@ -1,0 +1,1 @@
+Get it out of the way, you don't want to be thinking about errands when you should be putting all your focus towards skeeball.

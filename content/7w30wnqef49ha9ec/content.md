@@ -1,0 +1,1 @@
+Fun fact: You're always welcome to come to Chuck E. Cheese's to enjoy our games. We know you're a kid at heart!

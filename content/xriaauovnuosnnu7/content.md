@@ -1,0 +1,1 @@
+What an exciting moment! Looks like she has earned our graduation certificate! https://t.co/Im6AmJaon5

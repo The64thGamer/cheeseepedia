@@ -1,0 +1,1 @@
+Stay cool and let us help you wear them out! Download our weather check for 10 free tokens: https://t.co/77ckX87Pub

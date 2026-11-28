@@ -1,0 +1,1 @@
+Spontaneous trips are the BEST trips!

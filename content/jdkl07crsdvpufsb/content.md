@@ -1,0 +1,1 @@
+Summer break rocks! Embrace the summer with a fun day at Chuck E. Cheese's!

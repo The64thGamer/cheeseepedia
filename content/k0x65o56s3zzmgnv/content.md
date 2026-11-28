@@ -1,0 +1,1 @@
+@ChrissyM165 Hi Chrissy, when you reserve a party it will be booked for tables in the showroom. Booths are first come, first serve.

@@ -1,0 +1,1 @@
+Wow, what a memory! Crusty the Cat was a great friend, but he decided to retire from show business a long time ago.

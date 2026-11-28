@@ -1,0 +1,1 @@
+Charisma isn't our dump stat anymore.

@@ -1,0 +1,1 @@
+If it's too hot for that, download our weather check and come play indoors! https://t.co/77ckX87Pub

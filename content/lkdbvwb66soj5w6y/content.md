@@ -1,0 +1,1 @@
+We so sorry to hear that you had this! We'd like to let our Guest Relations team know about this. Could you share with us your email, phone number, store location, and visit date?

@@ -1,0 +1,1 @@
+Hah! First drink is on us (yes, we serve beer and wine). DM us your address so we can send you some free adult beverage tokens

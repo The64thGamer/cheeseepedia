@@ -1,0 +1,1 @@
+ain't nothing wrong with a solo adventure!!!

@@ -1,0 +1,1 @@
+Click the link in our bio to order in-app (sign into your Rewards account before checking out), then check your email for the digital movie offer link. *Offer valid on digital movie purchases. Must be a Chuck E. Cheese Rewards member.

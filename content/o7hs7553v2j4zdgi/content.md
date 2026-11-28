@@ -1,0 +1,1 @@
+A trip to Chuck E. Cheese's is another way to beat the summer heat! Stop in with our weather check: https://t.co/77ckX87Pub

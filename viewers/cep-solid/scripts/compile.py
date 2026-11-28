@@ -127,6 +127,34 @@ LINKEDIN_MIN_IMAGE_PX = 200
 LINKEDIN_URN_RE = re.compile(r"urn:li:(activity|ugcPost|share):(\d+)")
 LINKEDIN_REJECT_PREFIX = "li:"
 
+# (handle without @, tag/article title the posts get tagged with, first month to scan as YYYY-MM-DD)
+TWITTER_ACCOUNTS = [
+    ("ChuckECheese", "Chuck E. Cheese Twitter Account", "2010-01-01"),
+]
+# X blocks logins from Playwright-launched browsers, so we launch a normal Chrome ourselves
+# (no automation flags), you log in by hand once, and Playwright just attaches to it over CDP.
+TWITTER_CHROME_PROFILE = os.path.join(os.path.expanduser("~"), ".cep-twitter-chrome")
+TWITTER_CDP_PORT = 9222
+TWITTER_CHROME_PATH = ""          # set this if Chrome isn't found automatically
+TWITTER_POST_TYPE = "Twitter Post"
+TWITTER_PHOTO_TYPE = "Photos"
+TWITTER_REJECT_PREFIX = "tw:"
+TWITTER_EPOCH_MS = 1288834974657
+TWITTER_WINDOW_DAYS = 31          # search window size; shrinks automatically if a window looks capped
+TWITTER_IDLE_LIMIT = 4            # scroll rounds with no new posts before a window is considered done
+TWITTER_SCROLL_WAIT_MS = 1800
+TWITTER_DELAY = (1.5, 3.5)        # pause between search windows
+TWITTER_USE_SEARCH = False
+TWITTER_PROFILE_SCROLL_PX = (700, 1300)
+TWITTER_PROFILE_WAIT = (3.0, 7.0)
+TWITTER_PROFILE_IDLE_LIMIT = 12
+TWITTER_PROFILE_LONG_BREAK_EVERY = 40
+TWITTER_PROFILE_LONG_BREAK = (20, 45)
+TWITTER_DETAIL_WORKERS = 4
+TWITTER_DETAIL_INTERVAL = 0.4     # min seconds between syndication requests (shared by all workers)
+TWITTER_INCLUDE_REPLIES = True
+TWITTER_STATUS_RE = re.compile(r"/([A-Za-z0-9_]{1,15})/status/(\d+)")
+
 CONTENT_DIR = "content"
 OUT_TITLE_TO_ID = os.path.join(os.path.dirname(__file__), "..", "compiled-json/titleToFolderIDMap.json")
 OUT_ID_TO_TITLE = os.path.join(os.path.dirname(__file__), "..", "compiled-json/folderIDToTitleMap.json")
@@ -152,7 +180,7 @@ URL_RE = re.compile(r"https?://\S+")
 MD_CHARS_RE = re.compile(r"[*_`#>\[\]!|]")
 DICT_TAG_FIELDS = ("remodels", "stages", "animatronics", "franchisees", "attractions", "credits")
 STRING_TAG_FIELDS = ("tags", "pages", "page")
-NO_TITLE_TAG_TYPES = {"videos", "photos", "reviews", "theories", "steam comment", "linkedin post"}
+NO_TITLE_TAG_TYPES = {"videos", "photos", "reviews", "theories", "steam comment", "linkedin post", "twitter post"}
 BRACKET_TAG_RE = re.compile(r"\[([^\[\]]+)\](?!\()")
 STATE_CODE_RE = re.compile(r", ([A-Z]{2})(?= \(|$)")
 US_STATES = {
@@ -188,7 +216,7 @@ OUT_RECENT_FAN_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-
 OUT_RECENT_OFFICIAL_VIDEOS = os.path.join(os.path.dirname(__file__), "..", "compiled-json/recentofficialvideos.json")
 RECENT_VIDEOS_COUNT = 15
 OUT_ANNIVERSARIES = os.path.join(os.path.dirname(__file__), "..", "compiled-json/anniversaries.json")
-ANNIVERSARY_EXCLUDE_TYPES = {'photos', 'videos', 'reviews', 'user', 'steam comment', 'theories', 'meta', 'transcriptions', "linkedin post"}
+ANNIVERSARY_EXCLUDE_TYPES = {'photos', 'videos', 'reviews', 'user', 'steam comment', 'theories', 'meta', 'transcriptions', "linkedin post", "twitter post"}
 COMPILED_DIR = os.path.join(os.path.dirname(__file__), "..", "compiled-json")
 AVATAR_DIR = os.path.join(COMPILED_DIR, "avatars")
 NEWS_IMG_DIR = os.path.join(COMPILED_DIR, "images")
@@ -226,7 +254,7 @@ BADGE_TIERS = [
 ]
 THUMB_FIELD = "pageThumbnailVideo"
 THUMB_FILE_FIELD = "pageThumbnailFile"
-TAGGED_BY_TYPES = {"steam comment", "reviews", "videos", "photos", "transcriptions", "linkedin post"}
+TAGGED_BY_TYPES = {"steam comment", "reviews", "videos", "photos", "transcriptions", "linkedin post", "twitter post"}
 OUT_TAGGED_BY = os.path.join(os.path.dirname(__file__), "..", "compiled-json/taggedByIDs.json")
 THUMB_CANDIDATES = ["maxresdefault", "sddefault", "hqdefault", "mqdefault", "default"]
 PHOTO_SIM_BITS = 16
@@ -237,7 +265,7 @@ MEDIA_TYPES = {"Photos", "Videos"}
 ID_ALPHABET = string.ascii_lowercase + string.digits
 PREFETCH = 3
 MAX_SUGGESTIONS = 8
-NO_BODY_TAG_TYPES = {"transcriptions", "videos", "linkedin post"}
+NO_BODY_TAG_TYPES = {"transcriptions", "videos", "linkedin post", "twitter post"}
 TAG_OPEN = "Open/Operating/In Production"
 TAG_CLOSED = "Closed/Shut Down/Production Stopped"
 
@@ -294,11 +322,14 @@ def main():
         add_fandom_videos()
     if ask("Add LinkedIn Posts"):
         add_linkedin_posts()
+    if ask("Add Twitter/X Posts"):
+        add_twitter_posts()
     if ask("Scrape Video Thumbnails/Transcripts"):
         process_video_articles()
     if ask("Scan for duplicate articles"):
         dedupe_videos()
         dedupe_photos()
+        dedupe_linkedin_posts()
 
     search_db = new_search_db()
     articles, indexed, rows = load_articles(search_db)
@@ -2149,7 +2180,7 @@ LINKEDIN_EXTRACT_JS = r"""
     [textEl, ...cards].filter(Boolean).forEach(c => {
       [c, ...c.querySelectorAll('a[href]')].filter(a => a.matches('a[href]')).forEach(a => {
         const h = unwrap(a.getAttribute('href'));
-        if (h.startsWith('http') && !/linkedin\.com\/(feed\/hashtag|search\/results|in\/|company\/)/.test(h)) out.add(h);
+        if (h.startsWith('http') && !/linkedin\.com\/(feed\/hashtag|search\/results|in\/|company\/|signup|login|uas\/|authwall)/.test(h)) out.add(h);
       });
     });
     return [...out];
@@ -2269,10 +2300,11 @@ def known_linkedin_ids():
     for folder in Path(CONTENT_DIR).iterdir():
         if not folder.is_dir():
             continue
-        urn = read_meta(folder).get("linkedinUrn") or ""
-        m = LINKEDIN_URN_RE.search(urn)
-        if m:
-            known.add(m.group(2))
+        meta = read_meta(folder)
+        for urn in [meta.get("linkedinUrn") or ""] + list(meta.get("linkedinReblogUrns") or []) + list(meta.get("linkedinUrns") or []):
+            m = LINKEDIN_URN_RE.search(urn or "")
+            if m:
+                known.add(m.group(2))
     return known
 
 
@@ -2520,6 +2552,74 @@ def save_linkedin_post(post, tag, site_titles):
     return folder.name, len(image_titles) + len(quoted_titles)
 
 
+def linkedin_text_key(text):
+    return re.sub(r"\s+", " ", (text or "").replace("\\", "")).strip().lower()
+
+
+def linkedin_post_index():
+    """Normalized post text -> folders of existing LinkedIn Post articles with that text."""
+    index = {}
+    for folder in Path(CONTENT_DIR).iterdir():
+        if not folder.is_dir() or (read_meta(folder).get("type") or "").strip().lower() != LINKEDIN_POST_TYPE.lower():
+            continue
+        key = linkedin_text_key(read_file(folder / "content.md")[0])
+        if key:
+            index.setdefault(key, []).append(folder)
+    return index
+
+
+def linkedin_fold_into(keep, tags=(), citations=(), urns=(), contributors=()):
+    """Add tags/citations/URNs from a duplicate post onto the article we keep."""
+    path = keep / "meta.json"
+    raw = path.read_text(encoding="utf-8-sig")
+    km = json.loads(raw)
+    for field, values in (("tags", tags), ("citations", citations), ("contributors", contributors)):
+        have = km.setdefault(field, [])
+        have.extend(v for v in values if v and v not in have)
+    extra = km.setdefault("linkedinReblogUrns", [])
+    extra.extend(u for u in km.pop("linkedinUrns", []) if u not in extra)   # older key name
+    extra.extend(u for u in urns if u and u != km.get("linkedinUrn") and u not in extra)
+    if extra:
+        km["postReblogCount"] = len(extra)
+    else:
+        del km["linkedinReblogUrns"]
+    path.write_text(json.dumps(km, ensure_ascii=False, indent=2 if "\n" in raw.strip() else None), encoding="utf-8")
+
+
+def dedupe_linkedin_posts():
+    groups = [g for g in linkedin_post_index().values() if len(g) > 1]
+    print(cyan(f"Found {len(groups)} LinkedIn post(s) with identical text"))
+    if not groups:
+        return
+    photo_pages = {}
+    for folder in Path(CONTENT_DIR).iterdir():
+        if folder.is_dir():
+            m = read_meta(folder)
+            if (m.get("type") or "").strip().lower() == "photos" and (m.get("title") or "").startswith("LinkedIn Post "):
+                photo_pages[m["title"]] = folder
+    for group in groups:
+        metas = {f: read_meta(f) for f in group}
+        keep = min(group, key=lambda f: (metas[f].get("postTime") or "9999", f.name))   # earliest = the original
+        print(cyan("Duplicate LinkedIn post (same text, different URNs = reblogs):"))
+        for f in group:
+            m = metas[f]
+            print(dim(f"  {f.name}{' (original, keep)' if f == keep else ' (reblog)'}  {m.get('postTime')}  {' | '.join(m.get('tags') or [])}  images={len(m.get('postImages') or [])}"))
+        if not ask(f"Keep original {keep.name} and fold the other {len(group) - 1} in as reblog(s)?"):
+            continue
+        for o in group:
+            if o == keep:
+                continue
+            om = metas[o]
+            linkedin_fold_into(keep, om.get("tags") or [], om.get("citations") or [],
+                               [om.get("linkedinUrn")] + list(om.get("linkedinReblogUrns") or []) + list(om.get("linkedinUrns") or []),
+                               om.get("contributors") or [])
+            for title in list(om.get("postImages") or []) + list(om.get("postReshareImages") or []):
+                if title in photo_pages and photo_pages[title].exists():
+                    shutil.rmtree(photo_pages[title])
+            shutil.rmtree(o)
+        print(green(f"Merged into {keep.name}"))
+
+
 def add_linkedin_posts():
     if not Path(CONTENT_DIR).is_dir():
         print(red(f"Content dir '{CONTENT_DIR}' not found"), file=sys.stderr)
@@ -2529,10 +2629,20 @@ def add_linkedin_posts():
         return
     rejected = load_rejected()
     site_titles = load_site_data()[0]
-    totals = {"posts": 0, "photos": 0}
+    totals = {"posts": 0, "photos": 0, "merged": 0}
+    index = linkedin_post_index()
 
     def save(tag, post):
+        key = linkedin_text_key(linkedin_markdown(post))
+        if key and index.get(key):
+            dup = index[key][0]
+            linkedin_fold_into(dup, [tag], [post["publicUrl"]], [post["urn"]])
+            totals["merged"] += 1
+            print(yellow(f"  {post['id']} has the same text as {dup.name}, recorded as a reblog of it (tag '{tag}' added), no new article"))
+            return
         name, n_img = save_linkedin_post(post, tag, site_titles)
+        if key:
+            index.setdefault(key, []).append(Path(CONTENT_DIR) / name)
         totals["posts"] += 1
         totals["photos"] += n_img
         print(green(f"  Saved {post['id']} -> {CONTENT_DIR}/{name} (+{n_img} photo pages)"))
@@ -2541,7 +2651,610 @@ def add_linkedin_posts():
         scrape_linkedin_accounts(rejected, save)
     except (KeyboardInterrupt, EOFError):
         print(yellow("\nStopped."))
-    print(green(f"LinkedIn posts: {totals['posts']} created, {totals['photos']} photo pages"))
+    print(green(f"LinkedIn posts: {totals['posts']} created, {totals['photos']} photo pages, {totals['merged']} reblogs folded into existing posts"))
+
+
+# ---------------------------------------------------------------------------
+# Twitter / X
+#
+# Two stages, so we never depend on one fragile scrape:
+#   1. ENUMERATE ids with a logged-in browser using advanced search windows
+#      (from:handle since:A until:B). A profile timeline stops at ~3,200 posts,
+#      search windows don't, which is what lets us reach 2013.
+#   2. FETCH details per id from the public syndication endpoint (no browser,
+#      parallel, fast). Anything that fails falls back to opening the post in
+#      the browser. Dates come straight from the snowflake id.
+# Already-saved posts are recognised by the twitterId in their meta.json.
+# ---------------------------------------------------------------------------
+TWITTER_SPLIT_AT = 200            # a window with this many hits is re-scanned in halves
+TWITTER_COLLECT_JS = r"""
+(handle) => {
+  const out = {};
+  const want = handle.toLowerCase();
+  document.querySelectorAll('article[data-testid="tweet"]').forEach(a => {
+    a.querySelectorAll('a[href*="/status/"]').forEach(l => {
+      const m = (l.getAttribute('href') || '').match(/^\/([A-Za-z0-9_]{1,15})\/status\/(\d+)$/);
+      if (m && m[1].toLowerCase() === want && l.querySelector('time')) out[m[2]] = 1;
+    });
+  });
+  return Object.keys(out);
+}
+"""
+TWITTER_ARTICLES_JS = r"""
+(handle) => {
+  const want = handle.toLowerCase();
+  const out = [];
+  const txt = (el) => el ? (el.innerText || '').trim() : '';
+  const ext = (scope, inner) => [...scope.querySelectorAll('a[href^="http"]')]
+    .map(x => x.href).filter(h => !/^https?:\/\/(x|twitter)\.com\//.test(h));
+  document.querySelectorAll('article[data-testid="tweet"]').forEach(a => {
+    let id = '';
+    for (const l of a.querySelectorAll('a[href*="/status/"]')) {
+      const m = (l.getAttribute('href') || '').match(/^\/([A-Za-z0-9_]{1,15})\/status\/(\d+)$/);
+      if (m && m[1].toLowerCase() === want && l.querySelector('time')) { id = m[2]; break; }
+    }
+    if (!id) return;
+    const quoteBox = [...a.querySelectorAll('div[role="link"]')].find(d => d.querySelector('[data-testid="tweetText"], [data-testid="User-Name"]'));
+    const inQuote = (el) => !!quoteBox && quoteBox.contains(el);
+    const mainText = [...a.querySelectorAll('[data-testid="tweetText"]')].find(e => !inQuote(e));
+    const photos = [...a.querySelectorAll('[data-testid="tweetPhoto"] img')];
+    const mainLinks = mainText ? [...mainText.querySelectorAll('a[href^="http"]')].map(x => x.href).filter(h => !/^https?:\/\/(x|twitter)\.com\//.test(h)) : [];
+    const item = {
+      id,
+      text: txt(mainText),
+      images: photos.filter(i => !inQuote(i)).map(i => i.src),
+      hasVideo: [...a.querySelectorAll('video, [data-testid="videoPlayer"]')].some(v => !inQuote(v)),
+      links: mainLinks,
+      quoted: null,
+    };
+    if (quoteBox) {
+      const qt = quoteBox.querySelector('[data-testid="tweetText"]');
+      const qn = quoteBox.querySelector('[data-testid="User-Name"]');
+      const nameText = txt(qn).split('\n').filter(Boolean);
+      const qlinks = qt ? [...qt.querySelectorAll('a[href^="http"]')].map(x => x.href).filter(h => !/^https?:\/\/(x|twitter)\.com\//.test(h)) : [];
+      item.quoted = {
+        author: nameText.slice(0, 2).join(' '),
+        authorUrl: '',
+        url: '',
+        text: txt(qt),
+        links: qlinks,
+        images: photos.filter(i => inQuote(i)).map(i => i.src),
+        hasVideo: [...quoteBox.querySelectorAll('video, [data-testid="videoPlayer"]')].length > 0,
+      };
+      const handleMatch = nameText.find(x => x.startsWith('@'));
+      if (handleMatch) item.quoted.authorUrl = 'https://x.com/' + handleMatch.slice(1);
+    }
+    out.push(item);
+  });
+  return out;
+}
+"""
+TWITTER_PAGE_JS = r"""
+(id) => {
+  const arts = [...document.querySelectorAll('article[data-testid="tweet"]')];
+  const a = arts.find(x => x.querySelector(`a[href*="/status/${id}"] time`)) || arts[0];
+  if (!a) return null;
+  const t = a.querySelector('[data-testid="tweetText"]');
+  return {
+    text: t ? t.innerText.trim() : '',
+    images: [...a.querySelectorAll('[data-testid="tweetPhoto"] img')].map(i => i.src),
+    hasVideo: !!a.querySelector('video, [data-testid="videoPlayer"]'),
+    links: [...a.querySelectorAll('[data-testid="tweetText"] a[href^="http"]')].map(x => x.href)
+      .filter(h => !/^https?:\/\/(x|twitter)\.com\//.test(h)),
+  };
+}
+"""
+_twitter_lock = threading.Lock()
+_twitter_next = [0.0]
+
+
+def twitter_date_from_id(num):
+    try:
+        return datetime.datetime.fromtimestamp(((int(num) >> 22) + TWITTER_EPOCH_MS) / 1000, datetime.timezone.utc)
+    except Exception:
+        return None
+
+
+def twitter_pause():
+    import random
+    time.sleep(random.uniform(*TWITTER_DELAY))
+
+
+def twitter_needs_login(page):
+    url = page.url.lower()
+    return any(s in url for s in ("/i/flow/login", "/login", "/i/flow/signup", "/account/access"))
+
+
+def twitter_ensure_login(page):
+    """Returns True if the user had to log in (the caller should reload its page)."""
+    if twitter_needs_login(page):
+        print(yellow("X wants a login. Log in in the Chrome window (your session is saved for next time)."))
+        input(yellow("Press Enter here once you are logged in... "))
+        return True
+    return False
+
+
+def twitter_find_chrome():
+    candidates = [TWITTER_CHROME_PATH] if TWITTER_CHROME_PATH else []
+    candidates += [
+        r"C:\Program Files\Google\Chrome\Application\chrome.exe",
+        r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
+        os.path.join(os.environ.get("LOCALAPPDATA", ""), r"Google\Chrome\Application\chrome.exe"),
+        "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    ]
+    candidates += [shutil.which(n) for n in ("google-chrome", "google-chrome-stable", "chrome", "chromium")]
+    return next((c for c in candidates if c and os.path.exists(c)), None)
+
+
+def twitter_cdp_up():
+    try:
+        urllib.request.urlopen(f"http://127.0.0.1:{TWITTER_CDP_PORT}/json/version", timeout=2).read()
+        return True
+    except Exception:
+        return False
+
+
+def twitter_launch_chrome():
+    """Starts a normal Chrome with a debugging port. Returns the Popen, or None if one is already running."""
+    if twitter_cdp_up():
+        return None
+    exe = twitter_find_chrome()
+    if not exe:
+        raise RuntimeError("Chrome not found. Set TWITTER_CHROME_PATH.")
+    proc = subprocess.Popen([
+        exe, f"--remote-debugging-port={TWITTER_CDP_PORT}", f"--user-data-dir={TWITTER_CHROME_PROFILE}",
+        "--no-first-run", "--no-default-browser-check", "--disable-gpu", "--log-level=3", "about:blank",
+    ], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+    for _ in range(40):
+        if twitter_cdp_up():
+            return proc
+        time.sleep(0.5)
+    raise RuntimeError("Chrome started but its debugging port never came up")
+
+
+def known_twitter_ids():
+    known = set()
+    for folder in Path(CONTENT_DIR).iterdir():
+        if folder.is_dir():
+            tid = read_meta(folder).get("twitterId")
+            if tid:
+                known.add(str(tid))
+    return known
+
+
+def twitter_scan_window(page, handle, since, until):
+    query = f"from:{handle} since:{since} until:{until}" + ("" if TWITTER_INCLUDE_REPLIES else " -filter:replies")
+    url = "https://x.com/search?q=" + urllib.parse.quote(query) + "&src=typed_query&f=live"
+    for attempt in range(6):
+        page.goto(url, wait_until="domcontentloaded", timeout=45000)
+        if twitter_ensure_login(page):
+            continue
+        try:
+            page.wait_for_selector('article[data-testid="tweet"], [data-testid="empty_state_header_text"]', timeout=10000)
+        except Exception:
+            pass
+        try:
+            body = page.inner_text("body")[:3000].lower()
+        except Exception:
+            body = ""
+        if "rate limit" in body:
+            wait = 90 * (attempt + 1)
+            print(yellow(f"\n  rate limited, waiting {wait}s..."))
+            time.sleep(wait)
+            continue
+        if "something went wrong" in body:
+            try:
+                page.locator('[role="button"]:has-text("Retry")').first.click(timeout=2000)
+            except Exception:
+                pass
+            time.sleep(5)
+            continue
+        break
+    found, idle = set(), 0
+    while idle < TWITTER_IDLE_LIMIT:
+        try:
+            ids = page.evaluate(TWITTER_COLLECT_JS, handle)
+        except Exception:
+            ids = []
+        before = len(found)
+        found.update(ids)
+        idle = idle + 1 if len(found) == before else 0
+        page.mouse.wheel(0, 5000)
+        page.keyboard.press("End")
+        page.wait_for_timeout(TWITTER_SCROLL_WAIT_MS)
+    return found
+
+
+def twitter_scan_range(page, handle, a, b, ids):
+    found = twitter_scan_window(page, handle, a, b)
+    ids.update(found)
+    print(dim(f"  {a} -> {b}: {len(found)} posts"))
+    if len(found) >= TWITTER_SPLIT_AT and (b - a).days > 1:
+        mid = a + (b - a) // 2
+        twitter_scan_range(page, handle, a, mid, ids)
+        twitter_scan_range(page, handle, mid, b, ids)
+
+
+def twitter_enumerate(page, handle, start_iso, on_window=None):
+    ids = set()
+    end = datetime.date.today() + datetime.timedelta(days=1)
+    day = datetime.date.fromisoformat(start_iso)
+    windows = []
+    while day < end:
+        nxt = min(day + datetime.timedelta(days=TWITTER_WINDOW_DAYS), end)
+        windows.append((day, nxt))
+        day = nxt
+    print(cyan(f"@{handle}: scanning {len(windows)} windows"))
+    for n, (a, b) in enumerate(windows, 1):
+        twitter_pause()
+        window_ids = set()
+        twitter_scan_range(page, handle, a, b, window_ids)
+        ids.update(window_ids)
+        print(cyan(f"[{n}/{len(windows)}] {a} -> {b}: {len(window_ids)} posts found"))
+        if on_window:
+            on_window(a, b, window_ids)
+    return ids
+
+
+def twitter_text_key(post):
+    quoted = post.get("quoted") or {}
+    raw = f"{post.get('text') or ''}|{quoted.get('text') or ''}|{len(post.get('images') or [])}|{post['date']}"
+    return re.sub(r"\s+", " ", raw).strip().lower()
+
+
+def twitter_scroll_profile(page, handle, tag, skip, save):
+    import random
+    suffix = "/with_replies" if TWITTER_INCLUDE_REPLIES else ""
+    url = f"https://x.com/{handle}{suffix}"
+    page.goto(url, wait_until="domcontentloaded", timeout=45000)
+    if twitter_ensure_login(page):
+        page.goto(url, wait_until="domcontentloaded", timeout=45000)
+    try:
+        page.wait_for_selector('article[data-testid="tweet"]', timeout=15000)
+    except Exception:
+        pass
+    seen, text_keys, idle, step, saved = set(), set(), 0, 0, 0
+    while idle < TWITTER_PROFILE_IDLE_LIMIT:
+        try:
+            for b in page.locator('[data-testid="tweet-text-show-more-link"]').all():
+                try:
+                    b.click(timeout=800)
+                except Exception:
+                    pass
+            items = page.evaluate(TWITTER_ARTICLES_JS, handle)
+        except Exception:
+            items = []
+        new = 0
+        for item in items:
+            n = item["id"]
+            if n in seen:
+                continue
+            seen.add(n)
+            new += 1
+            if n in skip:
+                continue
+            item["images"] = [re.sub(r"name=\w+", "name=large", i) for i in item["images"]]
+            if item.get("quoted"):
+                item["quoted"]["images"] = [re.sub(r"name=\w+", "name=large", i) for i in item["quoted"]["images"]]
+            core = {k: item[k] for k in ("text", "links", "images", "hasVideo")}
+            post = twitter_finish(n, handle, core, item.get("quoted"), "")
+            key = twitter_text_key(post)
+            if key.strip("|0 ") and key in text_keys:
+                skip.add(n)
+                continue
+            text_keys.add(key)
+            try:
+                save(tag, post)
+                skip.add(n)
+                saved += 1
+            except Exception as e:
+                print(red(f"  Could not save {n}: {e}"))
+        idle = 0 if new else idle + 1
+        try:
+            body = page.inner_text("body")[:3000].lower()
+        except Exception:
+            body = ""
+        if "rate limit" in body:
+            print(yellow("\n  rate limited, waiting 5 minutes..."))
+            time.sleep(300)
+            idle = 0
+        elif "something went wrong" in body:
+            try:
+                page.locator('[role="button"]:has-text("Retry")').first.click(timeout=2000)
+            except Exception:
+                pass
+            time.sleep(10)
+        page.mouse.wheel(0, random.randint(*TWITTER_PROFILE_SCROLL_PX))
+        step += 1
+        if step % TWITTER_PROFILE_LONG_BREAK_EVERY == 0:
+            rest = random.uniform(*TWITTER_PROFILE_LONG_BREAK)
+            print(dim(f"  {len(seen)} posts seen, {saved} saved, resting {rest:.0f}s..."))
+            time.sleep(rest)
+        else:
+            time.sleep(random.uniform(*TWITTER_PROFILE_WAIT))
+    return seen
+
+
+def twitter_detail_throttle():
+    with _twitter_lock:
+        now = time.monotonic()
+        slot = max(now, _twitter_next[0])
+        _twitter_next[0] = slot + TWITTER_DETAIL_INTERVAL
+    if slot > now:
+        time.sleep(slot - now)
+
+
+def twitter_token(num):
+    import math
+    x = (int(num) / 1e15) * math.pi
+    whole, frac, digits = int(x), x - int(x), "0123456789abcdefghijklmnopqrstuvwxyz"
+    s = ""
+    n = whole
+    while n:
+        s = digits[n % 36] + s
+        n //= 36
+    for _ in range(11):
+        frac *= 36
+        d = int(frac)
+        s += digits[d]
+        frac -= d
+    return re.sub(r"0+", "", s)
+
+
+def fetch_twitter_syndication(num):
+    """Returns the tweet dict, {"gone": True} if deleted/protected, or None on transient failure."""
+    empty = False
+    for token in (twitter_token(num), "a"):
+        for attempt in range(5):
+            twitter_detail_throttle()
+            url = f"https://cdn.syndication.twimg.com/tweet-result?id={num}&lang=en&token={token}"
+            try:
+                req = urllib.request.Request(url, headers=PUBLIC_HEADERS)
+                with urllib.request.urlopen(req, timeout=20) as r:
+                    raw = r.read()
+            except urllib.error.HTTPError as e:
+                if e.code == 404:
+                    return {"gone": True}
+                if e.code == 429:
+                    time.sleep(30 * (attempt + 1))
+                    continue
+                break
+            except Exception:
+                time.sleep(3)
+                continue
+            try:
+                data = json.loads(raw)
+            except Exception:
+                break
+            if isinstance(data, dict) and data.get("__typename") == "TweetTombstone":
+                return {"gone": True}
+            if not data:
+                empty = True
+                break
+            return data
+    return {"gone": True} if empty else None
+
+
+def twitter_core(d):
+    text = d.get("text") or ""
+    ents = d.get("entities") or {}
+    for u in ents.get("media") or []:
+        if u.get("url"):
+            text = text.replace(u["url"], "")
+    links = []
+    for u in ents.get("urls") or []:
+        exp = u.get("expanded_url") or ""
+        if u.get("url"):
+            text = text.replace(u["url"], exp or u["url"])
+        if exp and not re.match(r"https?://(x|twitter)\.com/", exp) and exp not in links:
+            links.append(exp)
+    details = d.get("mediaDetails") or []
+    images = [m["media_url_https"] for m in details if m.get("type") == "photo" and m.get("media_url_https")]
+    if not images:
+        images = [p["url"] for p in d.get("photos") or [] if p.get("url")]
+    has_video = bool(d.get("video")) or any(m.get("type") in ("video", "animated_gif") for m in details)
+    return {"text": html.unescape(text).strip(), "links": links, "images": images, "hasVideo": has_video}
+
+
+def twitter_parse_syndication(d, num):
+    user = d.get("user") or {}
+    core = twitter_core(d)
+    quoted = None
+    q = d.get("quoted_tweet")
+    if q:
+        qu = q.get("user") or {}
+        qc = twitter_core(q)
+        qid, qname = q.get("id_str") or "", qu.get("screen_name") or ""
+        quoted = {
+            "author": f"{qu.get('name') or qname} (@{qname})" if qname else "",
+            "authorUrl": f"https://x.com/{qname}" if qname else "",
+            "url": f"https://x.com/{qname}/status/{qid}" if qname and qid else "",
+            **qc,
+        }
+    return twitter_finish(num, user.get("screen_name") or "", core, quoted, d.get("in_reply_to_screen_name") or "")
+
+
+def twitter_finish(num, author, core, quoted, reply_to):
+    dt = twitter_date_from_id(num)
+    return {
+        "id": str(num), "author": author, "replyTo": reply_to, **core, "quoted": quoted,
+        "url": f"https://x.com/{author}/status/{num}" if author else f"https://x.com/i/status/{num}",
+        "date": dt.strftime("%Y-%m-%d") if dt else "0000-00-00",
+        "time": dt.strftime("%Y-%m-%d %H:%M:%S UTC") if dt else "",
+    }
+
+
+def twitter_scrape_page(page, handle, num):
+    try:
+        page.goto(f"https://x.com/{handle}/status/{num}", wait_until="domcontentloaded", timeout=45000)
+        if twitter_ensure_login(page):
+            page.goto(f"https://x.com/{handle}/status/{num}", wait_until="domcontentloaded", timeout=45000)
+        page.wait_for_selector('article[data-testid="tweet"]', timeout=15000)
+        page.wait_for_timeout(1000)
+        data = page.evaluate(TWITTER_PAGE_JS, str(num))
+    except Exception as e:
+        print(red(f"  browser fallback failed for {num}: {e}"))
+        return None
+    if not data:
+        return None
+    data["images"] = [re.sub(r"name=\w+", "name=large", i) for i in data["images"]]
+    return twitter_finish(num, handle, data, None, "")
+
+
+def scrape_twitter_accounts(rejected, save):
+    try:
+        from playwright.sync_api import sync_playwright
+    except ImportError:
+        print(red("Playwright missing: pip install playwright && playwright install chromium"), file=sys.stderr)
+        return
+    skip = known_twitter_ids() | {r[len(TWITTER_REJECT_PREFIX):] for r in rejected if r.startswith(TWITTER_REJECT_PREFIX)}
+    try:
+        chrome = twitter_launch_chrome()
+    except RuntimeError as e:
+        print(red(str(e)), file=sys.stderr)
+        return
+    with sync_playwright() as p:
+        browser = p.chromium.connect_over_cdp(f"http://127.0.0.1:{TWITTER_CDP_PORT}")
+        ctx = browser.contexts[0] if browser.contexts else browser.new_context()
+        page = ctx.pages[0] if ctx.pages else ctx.new_page()
+        try:
+            page.goto("https://x.com/home", wait_until="domcontentloaded", timeout=45000)
+            page.wait_for_timeout(2500)
+            if twitter_needs_login(page) or "x.com/i/flow" in page.url.lower():
+                print(yellow("Not logged in. Log in to X in the Chrome window that just opened (your session is saved for next time)."))
+                input(yellow("Press Enter here once you are logged in... "))
+            for handle, tag, start in TWITTER_ACCOUNTS:
+                print(cyan(f"Listing X @{handle}..."))
+                stats = {"seen": 0, "saved": 0}
+
+                def process_ids(ids, label="", handle=handle, tag=tag):
+                    pending = sorted(set(ids) - skip, key=int, reverse=True)
+                    stats["seen"] += len(ids)
+                    print(green(f"  {label}{len(ids) - len(pending)} already handled, {len(pending)} to fetch"))
+                    for i in range(0, len(pending), 200):
+                        batch = pending[i:i + 200]
+                        with ThreadPoolExecutor(max_workers=TWITTER_DETAIL_WORKERS) as ex:
+                            results = list(ex.map(fetch_twitter_syndication, batch))
+                        for n, raw in zip(batch, results):
+                            if raw and raw.get("gone"):
+                                continue
+                            post = twitter_parse_syndication(raw, n) if raw else None
+                            if post is None:
+                                twitter_pause()
+                                post = twitter_scrape_page(page, handle, n)
+                            if post is None:
+                                print(red(f"  Could not load {n}"))
+                                continue
+                            if post["author"] and post["author"].lower() != handle.lower():
+                                print(dim(f"  {n}: author @{post['author']} != @{handle}, skipping"))
+                                skip.add(n)
+                                continue
+                            try:
+                                save(tag, post)
+                                skip.add(n)
+                                stats["saved"] += 1
+                            except Exception as e:
+                                print(red(f"  Could not save {n}: {e}"))
+
+                if TWITTER_USE_SEARCH:
+                    twitter_enumerate(page, handle, start, lambda a, b, ids: process_ids(ids, f"{a} -> {b}: "))
+                else:
+                    stats["seen"] = len(twitter_scroll_profile(page, handle, tag, skip, save))
+                print(green(f"@{handle}: {stats['seen']} posts seen"))
+        finally:
+            try:
+                browser.close()      # over CDP this only disconnects Playwright
+            except Exception:
+                pass
+            if chrome:
+                chrome.terminate()   # only if we started it; the login stays in the profile folder
+
+
+def save_twitter_images(urls, label, post, tag, site_titles):
+    titles = []
+    for i, src in enumerate(urls, 1):
+        title = f"Twitter Post {post['id']} {label} {i}"
+        while title.lower() in {t.lower() for t in site_titles}:
+            title += " (2)"
+        folder = new_content_folder()
+        if not download_linkedin_image(src, folder / "photo.avif"):
+            shutil.rmtree(folder)
+            continue
+        site_titles.add(title)
+        photo_meta = {
+            "title": title,
+            "type": TWITTER_PHOTO_TYPE,
+            "tags": [tag],
+            "startDate": post["date"],
+            "citations": [post["url"]],
+            "contributors": [CONTRIBUTOR],
+        }
+        (folder / "meta.json").write_text(json.dumps(photo_meta, indent=2, ensure_ascii=False), encoding="utf-8")
+        titles.append(title)
+    return titles
+
+
+def save_twitter_post(post, tag, site_titles):
+    quoted = post.get("quoted")
+    image_titles = save_twitter_images(post["images"], "Image", post, tag, site_titles)
+    quoted_titles = save_twitter_images(quoted["images"], "Quoted Image", post, tag, site_titles) if quoted else []
+
+    folder = new_content_folder()
+    meta = {
+        "title": folder.name,
+        "type": TWITTER_POST_TYPE,
+        "tags": [tag],
+        "startDate": post["date"],
+        "postTime": post["time"],
+        "postReshareText": quoted["text"] if quoted else "",
+        "postImages": image_titles,
+        "postHasVideo": post["hasVideo"],
+        "postVideoUrl": post["url"] if post["hasVideo"] else "",
+        "postLinks": post["links"],
+        "postReplyTo": post["replyTo"],
+        "twitterId": post["id"],
+        "citations": [post["url"]],
+        "contributors": [CONTRIBUTOR],
+        "deleted": False,
+    }
+    if quoted:
+        meta.update({
+            "postReshareAuthor": quoted["author"],
+            "postReshareAuthorUrl": quoted["authorUrl"],
+            "postReshareUrl": quoted["url"],
+            "postReshareImages": quoted_titles,
+            "postReshareLinks": quoted["links"],
+            "postReshareHasVideo": quoted["hasVideo"],
+        })
+    (folder / "meta.json").write_text(json.dumps(meta, indent=2, ensure_ascii=False), encoding="utf-8")
+    body = linkedin_markdown(post)
+    if body:
+        (folder / "content.md").write_text(body, encoding="utf-8")
+    return folder.name, len(image_titles) + len(quoted_titles)
+
+
+def add_twitter_posts():
+    if not Path(CONTENT_DIR).is_dir():
+        print(red(f"Content dir '{CONTENT_DIR}' not found"), file=sys.stderr)
+        return
+    if not TWITTER_ACCOUNTS:
+        print(yellow("TWITTER_ACCOUNTS is empty"))
+        return
+    rejected = load_rejected()
+    site_titles = load_site_data()[0]
+    totals = {"posts": 0, "photos": 0}
+
+    def save(tag, post):
+        name, n_img = save_twitter_post(post, tag, site_titles)
+        totals["posts"] += 1
+        totals["photos"] += n_img
+        print(green(f"  Saved {post['id']} -> {CONTENT_DIR}/{name} (+{n_img} photo pages)"))
+
+    try:
+        scrape_twitter_accounts(rejected, save)
+    except (KeyboardInterrupt, EOFError):
+        print(yellow("\nStopped."))
+    print(green(f"X posts: {totals['posts']} created, {totals['photos']} photo pages"))
 
 
 def run_solid_build():

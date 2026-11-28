@@ -1,0 +1,1 @@
+Hey Nora, it's great to hear there's some love for us in Fernandina Beach/Yulee! We'll make sure to let our team know that you'd like to see us move in down there... and hey, what better place to be in November than Florida?

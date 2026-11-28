@@ -1,0 +1,1 @@
+Hi, there. The Ticket Blaster experience is exclusively for birthday party reservations. Please let us know if we can assist you further!

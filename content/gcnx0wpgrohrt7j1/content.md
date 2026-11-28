@@ -1,0 +1,1 @@
+How many teeth do grown-ups have?

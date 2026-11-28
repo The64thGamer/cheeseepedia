@@ -1,0 +1,1 @@
+We’re all in favor of that idea!

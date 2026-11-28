@@ -1,0 +1,1 @@
+What about grabbing our weather check next for a fun time with the kids on a hot day?https://t.co/77ckX87Pub

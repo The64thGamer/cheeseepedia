@@ -1,0 +1,1 @@
+Hey there! Our locations have free wifi so that you can stay connected!

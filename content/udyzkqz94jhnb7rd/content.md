@@ -1,0 +1,1 @@
+We've got another idea for keeping it cool. Grab our weather check and come in for 10 free tokens! https://t.co/77ckX87Pub

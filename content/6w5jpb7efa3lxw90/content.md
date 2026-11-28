@@ -1,0 +1,1 @@
+@MusingMainiac We're excited to see you! #BlogHer12 #CECBlogher

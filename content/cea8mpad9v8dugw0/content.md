@@ -1,0 +1,1 @@
+Cheers to summer break! Come over to Chuck E. Cheese's for some summertime fun!

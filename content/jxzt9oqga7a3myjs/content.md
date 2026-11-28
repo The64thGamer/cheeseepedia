@@ -1,0 +1,1 @@
+Hi there. Yes, we recommend contacting the location where you applied. Thank you for your interest in joining our team!

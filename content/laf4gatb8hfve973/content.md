@@ -1,0 +1,1 @@
+Hi there! We know there’s a lot of fan love for our animatronics, but Chuck and his pals aren’t for sale.

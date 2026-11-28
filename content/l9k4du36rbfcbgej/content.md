@@ -1,0 +1,1 @@
+That's a bummer, Sarah. We'll make sure our staff is aware of the policies around admittance, and we hope you were able to get some enjoyment out of your visit.

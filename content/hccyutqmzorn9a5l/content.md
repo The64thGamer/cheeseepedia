@@ -1,0 +1,1 @@
+, thanks for reaching out! Yes, all locations will be participating in this offer. We hope to see you soon

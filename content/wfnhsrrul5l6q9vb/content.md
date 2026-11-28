@@ -1,0 +1,1 @@
+We recommend reaching out to your local store to confirm if this certificate is valid! Please let us know if we can assist you further

@@ -1,0 +1,1 @@
+I mean, you're not wrong...but we're making that digital move.

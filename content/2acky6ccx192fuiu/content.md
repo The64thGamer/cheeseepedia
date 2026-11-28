@@ -1,0 +1,1 @@
+That's adorable! Look like he's having a blast

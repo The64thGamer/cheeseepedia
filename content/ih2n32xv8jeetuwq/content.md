@@ -1,0 +1,1 @@
+@poloniumman thanks for the suggestion! We’re always working to make Chuck E. Cheese’s more awesome. We’ve passed it along to the team.

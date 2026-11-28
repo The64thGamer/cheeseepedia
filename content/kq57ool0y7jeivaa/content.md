@@ -1,0 +1,1 @@
+It may feel like you don't even get an extra hour, but we're here for you Brenna! Come by your local Chuck E. Cheese's on Monday 11/5 for one free hour of All You Can Play per check with any purchase. Now you get a relaxing hour, and as a bonus your kids get an hour of fun!

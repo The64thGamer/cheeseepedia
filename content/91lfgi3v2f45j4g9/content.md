@@ -1,0 +1,1 @@
+Hi, Elle. Yes. Chuck E. will come out during the day without the need to book a party.

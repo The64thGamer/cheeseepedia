@@ -1,0 +1,1 @@
+Hi Kurt, we do serve both alcoholic and non-alcoholic drinks at Chuck E. Cheese's.

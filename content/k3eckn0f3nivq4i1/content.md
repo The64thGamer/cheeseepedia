@@ -1,0 +1,1 @@
+That sounds like it was a win-win deal for you!

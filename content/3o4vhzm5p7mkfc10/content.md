@@ -1,0 +1,1 @@
+Thank you Mr. Riccaboni! I'm a fan of both you and Mr. Burger and hope to one day usurp Mr. Phanatic on your mascot power rankings!

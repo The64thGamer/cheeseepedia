@@ -1,0 +1,1 @@
+Oh no...Thunder can certainly get loud! Grab our weather check and come on in on your next stormy day! https://t.co/77ckX87Pub

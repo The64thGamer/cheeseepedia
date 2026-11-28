@@ -1,0 +1,1 @@
+Love it! Share their costumes in our #Chucktober #Sweeps for the chance to win! https://t.co/RgE7fCOgVx

@@ -1,0 +1,1 @@
+What better cure is there for *checks chart* faking sick?

@@ -1,0 +1,1 @@
+Thanks for visiting us on your day off! We hope you had a blast

@@ -1,0 +1,1 @@
+Some of our locations are using our new Play Passes. However, you are able to convert any of your tokens to Play Pass Points!

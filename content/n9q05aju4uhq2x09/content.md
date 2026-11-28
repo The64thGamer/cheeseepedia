@@ -1,0 +1,1 @@
+Don't worry, he's the same ol' Chuck E., only now he's got a dance-filled workout routine!

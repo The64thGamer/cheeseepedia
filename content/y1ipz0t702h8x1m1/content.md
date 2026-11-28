@@ -1,0 +1,1 @@
+We've got the perfect summer activities for you and your kids! We hope to see you soon :)

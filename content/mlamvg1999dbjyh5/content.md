@@ -1,0 +1,1 @@
+Thank you for reaching out and we understand your concern. To be clear, our policy is that the parents or guardians take the selfie with the kids. Chuck E. Cheese employees or cast members would NOT be taking any selfies/photos.

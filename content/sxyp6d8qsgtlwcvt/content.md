@@ -1,0 +1,1 @@
+Where's the shot of Jerry Jones we're blessed with every 30 seconds?

@@ -1,0 +1,1 @@
+Hopefully they get a lot of rest, because tomorrow could be an exciting day for them! Stop by Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with a purchase. It's a night of fun for the whole family!

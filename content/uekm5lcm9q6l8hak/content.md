@@ -1,0 +1,1 @@
+You're right, Alisa. It's going to be a tough week, but we can help make it better! Come to Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with a purchase. You get an hour break while your kids get fun and games!

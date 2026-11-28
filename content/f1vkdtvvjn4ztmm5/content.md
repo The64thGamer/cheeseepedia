@@ -1,0 +1,1 @@
+Hi! There is no cut off for cancelations, but we do recommend rescheduling as soon as you know you're not having the party!

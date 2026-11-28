@@ -1,0 +1,1 @@
+Hi Jahkiya! All You Can Play starts at $9 with $9 for 30 minutes of time with any deals purchase. You can find more information on our website regarding All You Can Play. For reservations, we recommend you please contact your nearest location.

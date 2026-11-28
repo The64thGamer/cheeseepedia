@@ -1,0 +1,1 @@
+Hi there, Ivy! If your child is 1-9 then your child pays their age with no additional purchase needed. If your child is 10 years or older, it's $10 for 30min or $9 with the purchase of a value meal.

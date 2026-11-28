@@ -1,0 +1,1 @@
+Hi there, Mark! Unfortunately, there are some items that are not allowed to a party in our locations like outside food (other than cake or ice cream).

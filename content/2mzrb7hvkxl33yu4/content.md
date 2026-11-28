@@ -1,0 +1,1 @@
+@c2momof3 Thanks for submitting to #Chucktober #Sweepstakes! To claim your photo, click here: https://t.co/WBa7zh589J

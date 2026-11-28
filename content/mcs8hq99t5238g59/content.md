@@ -1,0 +1,1 @@
+Who can say no to air-conditioned fun? We're glad you're enjoying the Summer Fun Pass!

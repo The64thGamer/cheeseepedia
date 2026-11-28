@@ -1,0 +1,1 @@
+We're sorry for the convenience - that's an independant franchise location that is not participating in the T-Mobile promotion. We'd recommend checking out our store in Virginia Beach to take part in the promotion.

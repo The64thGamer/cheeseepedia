@@ -1,0 +1,1 @@
+@NotoriousB_R_I how dedicated are you, friend?

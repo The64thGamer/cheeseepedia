@@ -1,0 +1,1 @@
+@ellamyluv Woohoo! Can't wait. Be sure to send us pics! We'd love to see these fashionista goody bags! :)

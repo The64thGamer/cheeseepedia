@@ -1,0 +1,1 @@
+Stay out of the heat (and get 10 free tokens) with our weather check! https://t.co/77ckX87Pub

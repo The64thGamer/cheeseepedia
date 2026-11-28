@@ -1,0 +1,1 @@
+Chuck E. Cheese's is fun for everyone! We hope you enjoy your visit

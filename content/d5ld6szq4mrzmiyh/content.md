@@ -1,0 +1,1 @@
+Kinda? You load points on it and swipe it to play games!

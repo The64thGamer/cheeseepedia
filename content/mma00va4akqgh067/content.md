@@ -1,0 +1,1 @@
+We've got the best idea! Download our weather check, get 10 free tokens and come on in! https://t.co/77ckX87Pub

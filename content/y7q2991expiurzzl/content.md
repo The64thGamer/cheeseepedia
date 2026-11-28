@@ -1,0 +1,1 @@
+Oh no! We should have known the weather wouldn't stop someone who ran a Winter 10K in Iceland. We'd like to make it up to you. DM us your address for a surprise.

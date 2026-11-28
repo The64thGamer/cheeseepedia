@@ -1,0 +1,1 @@
+Print out the tweet and hang it on the wall of your office.

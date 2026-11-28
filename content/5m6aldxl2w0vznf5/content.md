@@ -1,0 +1,1 @@
+Hi, Samica! We assure you that maintaining a wholesome, safe experience is of utmost importance to us. Chuck E. Cheese's maintains a long history of offering adult beverages as a complement to our delicious menu options, however, we strictly enforce a two-drink maximum.

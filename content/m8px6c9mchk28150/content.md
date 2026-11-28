@@ -1,0 +1,1 @@
+Fur babies are quick to forgive, but definitely check under the bed for vengeful wet spots. 12/10 cat cuteness.

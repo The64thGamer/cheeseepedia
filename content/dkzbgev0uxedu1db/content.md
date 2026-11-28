@@ -1,0 +1,1 @@
+Stay safe indoors! Download our weather check and come have some fun with us on your next rain day! https://t.co/77ckX87Pub

@@ -1,0 +1,1 @@
+@SgtMsWife Thanks! Can't wait to see you, Jennifer! :) #CECBlogHer #BlogHer12

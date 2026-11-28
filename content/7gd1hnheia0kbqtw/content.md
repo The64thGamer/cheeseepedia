@@ -1,0 +1,1 @@
+Hi Amanda, we're sorry to hear about this and would like to have our Guest Relations team investigate the game. Could you send us a DM with your phone number, email address, and the location you visited?

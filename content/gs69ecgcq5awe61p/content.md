@@ -1,0 +1,1 @@
+Dads rocks! Share your favorite dad tip to enter our #sweepstakes for a chance to win awesome prizes! https://t.co/0NYME7skSN

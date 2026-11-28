@@ -1,0 +1,1 @@
+Thanks for celebrating your last day of summer with us! We hope you have a blast

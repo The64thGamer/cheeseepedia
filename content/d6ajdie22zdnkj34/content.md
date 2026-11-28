@@ -1,0 +1,1 @@
+Hi, Nick! We can confirm we received your submission. Thanks for entering our Chucktober Sweepstakes

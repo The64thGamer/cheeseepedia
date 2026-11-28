@@ -1,0 +1,1 @@
+Our Whack-A-Mole is ready and waiting for you.

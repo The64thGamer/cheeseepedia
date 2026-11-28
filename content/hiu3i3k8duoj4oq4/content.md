@@ -1,0 +1,1 @@
+Let's show him how exciting kindergarten can be! Here's a nice surprise to cheer up your Super Student! https://t.co/8Mi2Uk6hDs

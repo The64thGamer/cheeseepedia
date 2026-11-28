@@ -1,0 +1,1 @@
+Woohoo!  Our weather check is another way to get through a rainy day. Hope to see you soon! :) https://t.co/77ckX7Qe5B

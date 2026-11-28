@@ -1,0 +1,1 @@
+How many hours of daylight do we have on the first day of Fall?

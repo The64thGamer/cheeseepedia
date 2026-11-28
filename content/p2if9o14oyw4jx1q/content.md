@@ -1,0 +1,1 @@
+Hi there, we're sorry to hear your party isn't going as planned. We'd like to have our Guest Relations team reach out to resolve this. Could you DM us your contact info and more details on the issue?

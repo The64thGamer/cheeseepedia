@@ -1,0 +1,1 @@
+Dry those tears, Stephanie. We've got something for you! Bring your kids to Chuck E. Cheese's on Monday 11/5 for one free hour of All You Can Play per check with any purchase. You get your hour back, and your kids get a night of fun and games. You can't lose!

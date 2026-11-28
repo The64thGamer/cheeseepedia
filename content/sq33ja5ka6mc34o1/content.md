@@ -1,0 +1,1 @@
+Those are tickets!! The Ticket Blaster is a special treat just for the Birthday Star!

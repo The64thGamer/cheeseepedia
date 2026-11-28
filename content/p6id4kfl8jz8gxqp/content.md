@@ -1,0 +1,1 @@
+Our Palm Desert, CA location has the lunch buffet available from 11am-2pm Monday thru Friday. We hope to see you soon!

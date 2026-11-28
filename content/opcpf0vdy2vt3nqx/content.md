@@ -1,0 +1,1 @@
+you can still use the coupons without printing. You can simply use your phone to show the coupon you want to use.

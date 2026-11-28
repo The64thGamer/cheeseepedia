@@ -1,0 +1,1 @@
+@iwanna_55 Thanks for submitting to #Chucktober #Sweepstakes! To claim your photo, click here: http://t.co/dKB5jcfCK3

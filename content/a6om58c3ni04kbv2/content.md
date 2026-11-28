@@ -1,0 +1,1 @@
+This is a bad idea. Stay in school, crush it, show us your report card, get free games. Deal?

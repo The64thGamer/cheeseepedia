@@ -1,0 +1,1 @@
+Hi, Dorie. Yes, you are more than welcome to bring balloons to your celebration! We are looking forward to seeing you soon

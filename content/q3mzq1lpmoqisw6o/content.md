@@ -1,0 +1,1 @@
+Regardless of the weather, our forecast shows 100% fun! Grab our weather check and skip the heat! https://t.co/77ckX87Pub

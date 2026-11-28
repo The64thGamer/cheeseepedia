@@ -1,0 +1,1 @@
+Don't believe the hype, Alex. Our pizzas are made to order by hand, so while the exact amount of sauce, cheese, and toppings can vary the taste doesn't.

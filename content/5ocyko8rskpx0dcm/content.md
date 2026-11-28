@@ -1,0 +1,1 @@
+Hi there! No, we do not deliver. However, you are more than welcome to place an order to-go

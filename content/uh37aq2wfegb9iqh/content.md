@@ -1,0 +1,1 @@
+Hi Mark, we're sorry to hear there were some games out of order during your visit. We'd like to alert our Guest Relations team of this. Could you send a DM with the store you visited and your contact info?

@@ -1,0 +1,1 @@
+@ShoppinggalNYC Sounds like a lot of celebrations are due! Come celebrate with us! https://t.co/gVZYM6SLFs

@@ -1,0 +1,1 @@
+Hey Amanda, that's a bummer to hear. We want to make sure you get every ticket you win. Could you send us a DM with your contact information? We'll pass it on to our Guest Relations team.

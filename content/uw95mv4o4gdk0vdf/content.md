@@ -1,0 +1,1 @@
+Hi Kristen, we're sorry to hear your Chuck E. Cheese experience wasn't exactly what you were expecting. Please share feedback about your visit with us at guestrelations@cecentertainment.com

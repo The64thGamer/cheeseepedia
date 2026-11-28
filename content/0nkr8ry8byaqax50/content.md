@@ -1,0 +1,1 @@
+That's heartbreaking to hear, Ashly. We're sorry for you and your daughter's experience and would like to have our Guest Relations team look into this. Just DM us with your contact info and the location you visited.

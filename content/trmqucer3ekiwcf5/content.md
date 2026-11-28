@@ -1,0 +1,1 @@
+Cures all boredom! Nice choice.

@@ -1,0 +1,1 @@
+Yes, unfortunately it's down right now. Give your local Chuck E. Cheese store a call and they can help get the reservation locked down over the phone.

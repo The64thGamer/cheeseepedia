@@ -1,0 +1,1 @@
+Thanks for reaching out  Please contact our Guest Relations team at guestrelations@cecentertainment.com with the location and all details. They will process a resolution for you!

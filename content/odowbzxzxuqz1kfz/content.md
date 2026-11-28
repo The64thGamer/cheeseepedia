@@ -1,0 +1,1 @@
+What feature was added to pinball machines in 1947?

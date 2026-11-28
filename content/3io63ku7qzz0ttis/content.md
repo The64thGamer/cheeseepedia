@@ -1,0 +1,1 @@
+Hi, we're sorry to hear your brother had a poor experience at one of our locations. Please share more about the incident with us at guestrelations@cecentertainment.com so this may be addressed by the proper department.

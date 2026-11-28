@@ -1,0 +1,1 @@
+@wifeybear89 Hi there! Congrats on winning this week's gift card! We loved your #DoTheChuckE video! Pls send us a DM with your contact info!

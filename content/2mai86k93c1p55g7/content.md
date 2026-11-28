@@ -1,0 +1,1 @@
+If you uploaded your costume before the sweepstakes ended, we can confirm we received you submission! Thanks for entering

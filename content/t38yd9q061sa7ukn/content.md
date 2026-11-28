@@ -1,0 +1,1 @@
+All our pizzas are made fresh, whether in house or delivery.

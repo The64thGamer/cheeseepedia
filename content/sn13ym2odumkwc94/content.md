@@ -1,0 +1,1 @@
+Don't let the heat keep you from having fun! Download our weather check and stop by for some summer fun: https://t.co/77ckX87Pub

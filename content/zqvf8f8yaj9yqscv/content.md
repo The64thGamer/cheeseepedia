@@ -1,0 +1,1 @@
+@tristessatheodd Unfortunately the birthday cape is only available as part of a birthday package, and isn't sold separately.

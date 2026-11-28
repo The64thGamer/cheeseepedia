@@ -1,0 +1,1 @@
+and we'll be here for her first Chuck E. Cheese trip!

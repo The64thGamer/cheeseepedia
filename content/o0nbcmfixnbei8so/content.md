@@ -1,0 +1,1 @@
+Hi, Chris. You can let the store know how many credits you plan on purchasing for each card and they will set them up for all the guests.

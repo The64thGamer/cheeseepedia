@@ -1,0 +1,1 @@
+Hi, Danielle! We will notify the winners when they are selected. Thank you for entering our sweepstakes!

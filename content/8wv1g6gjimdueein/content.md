@@ -1,0 +1,1 @@
+@write4travel Great! We're excited you're joining us for all the #BlogHer12 fun! #CECBlogher

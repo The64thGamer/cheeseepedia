@@ -1,0 +1,1 @@
+Hi there! We hope you know that you do not need a child for entry. Visit us soon!

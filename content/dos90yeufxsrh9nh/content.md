@@ -1,0 +1,1 @@
+Smart, Jennifer! Want another smart idea? Come by Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with any purchase. Your kids will love the hour of fun and games, and you'll love the extra chance to relax!

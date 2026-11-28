@@ -1,0 +1,1 @@
+Hi, there. You will not be required to pay a fee upon entering and are more than welcome to come in to enjoy some pizza!

@@ -1,0 +1,1 @@
+@daneisha_hodges Thanks for submitting to #Chucktober #Sweepstakes! To claim your photo, click here: http://t.co/9cZ3UYRBbz

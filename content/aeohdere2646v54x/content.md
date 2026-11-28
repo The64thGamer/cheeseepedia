@@ -1,0 +1,1 @@
+We just want to know if he’s trading any

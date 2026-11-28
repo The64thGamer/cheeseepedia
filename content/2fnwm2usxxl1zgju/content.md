@@ -1,0 +1,1 @@
+Hey Kelly, we appreciate the feedback and we're always looking to improve the experience for everyone. Please DM us with your contact info and the location you visited, and our team will take a look.

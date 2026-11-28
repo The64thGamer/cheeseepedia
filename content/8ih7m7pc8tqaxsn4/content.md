@@ -1,0 +1,1 @@
+Happy to, Shari. We take dough prepped in house, hand stretch it and top it with real mozzarella shredded by our team daily. Each 'za is made to order fresh so that it gets to you as delicious as can be.

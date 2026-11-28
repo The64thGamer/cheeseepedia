@@ -1,0 +1,1 @@
+Summer days are fun, but the heat can be annoying. Looks like you need a weather check! https://t.co/77ckX87Pub

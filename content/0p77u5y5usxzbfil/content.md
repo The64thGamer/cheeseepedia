@@ -1,0 +1,1 @@
+Every day is also great for unlimited games so why not get both?

@@ -1,0 +1,1 @@
+@GrandmasBriefs Great list! Our fave is "2. I will not join a gym. At least not until I'm in better shape."

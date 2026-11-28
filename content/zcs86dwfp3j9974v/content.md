@@ -1,0 +1,1 @@
+Hi there, thanks for reaching out! Tickets do not expire. You are more than welcome to use any tickets you already have

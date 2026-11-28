@@ -1,0 +1,1 @@
+We cut our pizzas hot out of the oven and slide it onto a serving tray, and that can mean some slices are a little out of alignment - but we know they still taste just as good.

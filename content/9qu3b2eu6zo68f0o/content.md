@@ -1,0 +1,1 @@
+Chuck E. Cheese is the mouse. Chuck E. Cheese's is where he likes to have the best time ever!

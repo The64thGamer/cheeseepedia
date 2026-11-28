@@ -1,0 +1,1 @@
+You betcha! The only restriction we have is that anyone under 18 must be accompanied by an adult.

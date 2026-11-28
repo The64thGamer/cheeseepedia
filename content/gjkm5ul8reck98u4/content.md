@@ -1,0 +1,1 @@
+We're glad that he is enjoying his visit!

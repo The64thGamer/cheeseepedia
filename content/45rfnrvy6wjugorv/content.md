@@ -1,0 +1,1 @@
+Idk why everyone thinks they need a kid.. We just ask that anyone under the age of 18 has a parent/guardian that is 18 or older.

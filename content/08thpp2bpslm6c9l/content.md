@@ -1,0 +1,1 @@
+Our Sensory Sensitive Sundays take place before store hours and our trained is there to make sure each guest has a positive experience!

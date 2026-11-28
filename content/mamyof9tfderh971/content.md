@@ -1,0 +1,1 @@
+Using the heat from a ticket counter

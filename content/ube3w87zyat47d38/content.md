@@ -1,0 +1,1 @@
+Awesome pic! What were the boy's favorite games and rides?

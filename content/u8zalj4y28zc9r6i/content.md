@@ -1,0 +1,1 @@
+Chuck E. has teamed up with Sonic to help you score awesome prizes (like Sonic Forces) during Rip It, Win It, Play It. https://t.co/3B11GUO2VD

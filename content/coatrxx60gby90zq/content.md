@@ -1,0 +1,1 @@
+It's definitely hot out today... Download our weather check and keep it cool with us! https://t.co/77ckX87Pub

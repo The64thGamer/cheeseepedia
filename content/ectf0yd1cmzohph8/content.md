@@ -1,0 +1,1 @@
+We're sorry to hear if you're having trouble redeeming the coupon at our store. Could you send us a DM with your phone number, email address, and the location you visited? We'll have our team take a look.

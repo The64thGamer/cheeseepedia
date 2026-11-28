@@ -1,0 +1,1 @@
+We've got an idea, grab our weather check and stay our of the rain! https://t.co/77ckX87Pub

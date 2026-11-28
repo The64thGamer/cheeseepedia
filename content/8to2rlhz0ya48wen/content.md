@@ -1,0 +1,1 @@
+Hi, there! You are more than welcome to order any of our delicious menu items to-go. We hope to see you soon

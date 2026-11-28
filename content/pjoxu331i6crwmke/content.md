@@ -1,0 +1,1 @@
+We have a two drink limit with our adult beverages, so you should be fine.

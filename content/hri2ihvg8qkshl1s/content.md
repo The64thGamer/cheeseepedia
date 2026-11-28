@@ -1,0 +1,1 @@
+, the decision to serve alcohol is decided at the local level. We suggest calling the store to see if the option is available

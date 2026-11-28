@@ -1,0 +1,1 @@
+Hi there, we're reaching out to all guests with scheduled parties, however for a refund you can also call the number in your birthday confirmation email.

@@ -1,0 +1,1 @@
+Good way to start the weekend!

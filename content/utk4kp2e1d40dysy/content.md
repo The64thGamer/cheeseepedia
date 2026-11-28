@@ -1,0 +1,1 @@
+So cute! Share his costume in our #Chucktober #Sweeps for the chance to win! https://t.co/RgE7fCOgVx

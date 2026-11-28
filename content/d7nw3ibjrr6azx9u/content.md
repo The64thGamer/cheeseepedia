@@ -1,0 +1,1 @@
+Hi there! We do not deliver. However, you can order your food to-go. We hope to see you soon

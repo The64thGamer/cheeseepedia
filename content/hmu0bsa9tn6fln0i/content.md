@@ -1,0 +1,1 @@
+Happy First Day of School to your little girl! We have just the thing to help you celebrate your kindergartener: https://t.co/gVZYM6SLFs

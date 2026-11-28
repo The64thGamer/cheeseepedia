@@ -1,0 +1,1 @@
+Sounds refreshing, how about grabbing our weather check and cooling off with us next? https://t.co/77ckX87Pub

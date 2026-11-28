@@ -1,0 +1,1 @@
+Hi, Ashu! Our locations should be open today. We just recommend you please call your nearest location for confirmation.

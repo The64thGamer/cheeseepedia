@@ -1,0 +1,1 @@
+Hi there! We do not do delivery. However, you are more than welcome to order any of our menu items to-go

@@ -1,0 +1,1 @@
+Hi there! Kindly DM us the location details and any additional information you have.

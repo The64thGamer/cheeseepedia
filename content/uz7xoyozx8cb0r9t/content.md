@@ -1,0 +1,1 @@
+When Buckingham brought "Go Your Own Way" to the rest of the band/studio

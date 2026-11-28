@@ -1,0 +1,1 @@
+Happy First Day of School to your kindergartener! We have the perfect surprise for your little man: https://t.co/dfoSwaTLoR

@@ -1,0 +1,1 @@
+The perfect start to the weekend! We'll see you soon :)

@@ -1,0 +1,1 @@
+Hi there! Yes, you are more than welcome to take your order to-go. We hope to see you soon

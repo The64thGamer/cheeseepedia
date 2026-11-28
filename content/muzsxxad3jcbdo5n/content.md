@@ -1,0 +1,1 @@
+Hi there! Yes, we will be open from 11am until 9pm. We hope to see you soon

@@ -1,0 +1,1 @@
+Truth is, Sandra, all our pizzas are made fresh to order. That means each pizza is a unique snowflake when it comes to looks, but not to taste.

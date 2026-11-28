@@ -1,0 +1,1 @@
+Hi Ashley, There will be a sneak peak on July 18th but our grand opening is July 25th! See you there! :)

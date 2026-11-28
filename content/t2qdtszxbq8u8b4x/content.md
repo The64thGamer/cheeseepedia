@@ -1,0 +1,1 @@
+How exciting! Does Brandi love pizza? We have just the spot! ;) https://t.co/gVZYM6SLFs

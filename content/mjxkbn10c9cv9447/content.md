@@ -1,0 +1,1 @@
+@daddydoinwork You drive a hard bargain. Will there be pics? Our response to the request depends on the presence (or lack thereof) of pics.

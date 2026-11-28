@@ -1,0 +1,1 @@
+Hi there! With Chuck E. Club you'll be the first to know about our deals and offers! :)

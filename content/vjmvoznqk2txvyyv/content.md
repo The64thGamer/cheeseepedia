@@ -1,0 +1,1 @@
+Next time it's too hot, download our weather check and stop by! https://t.co/77ckX87Pub

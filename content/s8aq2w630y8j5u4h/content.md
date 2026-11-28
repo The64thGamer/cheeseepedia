@@ -1,0 +1,1 @@
+You know, it's okay to not be perfect. But don't worry, he'll be studying hard for next semester!

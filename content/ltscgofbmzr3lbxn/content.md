@@ -1,0 +1,1 @@
+Hello there, thanks for wanting to celebrate this special day with us! You can learn more about our birthday packages and pricing at the following link!

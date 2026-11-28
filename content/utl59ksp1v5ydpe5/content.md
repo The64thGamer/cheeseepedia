@@ -1,0 +1,1 @@
+It's 100% chance of fun at Chuck E. Cheese's! Grab our weather check for a fun hot day surprise: https://t.co/77ckX87Pub

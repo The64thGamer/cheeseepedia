@@ -1,0 +1,1 @@
+That's the best kind of party there is!

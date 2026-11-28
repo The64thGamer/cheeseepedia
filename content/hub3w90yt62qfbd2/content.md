@@ -1,0 +1,1 @@
+We've got a deal that might help you out, Elaine! Come to your local Chuck E. Cheese tomorrow 11/5 for one free hour of All You Can Play per check with a purchase. Your kids will get to let loose and tire themselves out while you get to relax a bit!

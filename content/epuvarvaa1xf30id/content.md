@@ -1,0 +1,1 @@
+We've got your back to get the extra hour you deserve, Eileen! Come by a Chuck E. Cheese's on Monday 11/5 for one free hour of All You Can Play per check with any purchase. Sit back and relax while the kids have a blast!

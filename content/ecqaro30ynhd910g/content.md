@@ -1,0 +1,1 @@
+We're still here to honor the true meaning of Memorial Day

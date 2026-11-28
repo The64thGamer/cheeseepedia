@@ -1,0 +1,1 @@
+We'd like to pass this info along to our Guest Relations team. Could you please shoot us a DM with your contact info and the location you visited?

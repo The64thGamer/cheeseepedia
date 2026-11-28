@@ -1,0 +1,1 @@
+This action shot is CLEARLY 12/10. Amazing work.

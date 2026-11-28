@@ -1,0 +1,1 @@
+Ah, the memories! Unfortunately most locations no longer take tokens, but you're welcome to bring in any remaining tokens and we can swap them out for you.

@@ -1,0 +1,1 @@
+This year you have a chance to make them jealous. Swing by your local Chuck E. Cheese's for one free hour of All You Can Play per check with any purchase. It's an hour of fun for the whole family!

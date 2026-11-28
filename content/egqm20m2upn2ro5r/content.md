@@ -1,0 +1,1 @@
+Thanks for reaching out, Wayne. Please know safety is our top priority for our guests. Please send us a private message so we can look into this further.

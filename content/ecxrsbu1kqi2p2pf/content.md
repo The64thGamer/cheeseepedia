@@ -1,0 +1,1 @@
+Summer break is the best! Come have some fun with us! :)

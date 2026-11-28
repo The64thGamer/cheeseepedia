@@ -1,0 +1,1 @@
+No need to worry about missing out on that extra hour, Garrett! Swing by Chuck E. Cheese's this Monday for one free hour of All You Can Play per check with any purchase. You save $20 and can take it easy while your kids play all the games.

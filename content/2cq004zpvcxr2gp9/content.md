@@ -1,0 +1,1 @@
+This summer sure is hot! Download our weather check and come in for some indoor fun! https://t.co/77ckX87Pub

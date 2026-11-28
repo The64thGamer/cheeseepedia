@@ -1,0 +1,1 @@
+These Words of Affirmation make my heart full.

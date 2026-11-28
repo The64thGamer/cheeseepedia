@@ -1,0 +1,1 @@
+Don't let the rainy day get you down, download our weather check and get 10 free tokens! https://t.co/77ckX7Qe5B

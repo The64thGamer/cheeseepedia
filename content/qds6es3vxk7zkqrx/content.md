@@ -1,0 +1,1 @@
+Hi Olivi, we are so sorry to read about this experience with your fries. Could you send us a message about your experience with your contact information so our guest relations team can get in contact with you?

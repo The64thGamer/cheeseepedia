@@ -1,0 +1,1 @@
+Hi, Michael. 500 tickets is the maximum amount that you can earn at one time. Please let us know if you have any further questions!

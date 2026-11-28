@@ -1,0 +1,1 @@
+Wow, what a find, Betty! We'll check with our team to see if these tickets are A-OK to use. Could you send us a DM and let us know which location is nearest to you?

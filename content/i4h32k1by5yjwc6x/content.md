@@ -1,0 +1,1 @@
+We're sorry to hear about this. Could you please send us a DM with the location you visited and your contact information?

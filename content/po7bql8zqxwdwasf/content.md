@@ -1,0 +1,1 @@
+@capitalmom Happy we get to meet you! Look out NYC! #Blogher12 and #CECBlogher are coming to town!

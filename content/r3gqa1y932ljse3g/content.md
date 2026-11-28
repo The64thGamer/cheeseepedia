@@ -1,0 +1,1 @@
+Hey, you have to start somewhere! Looks like she'll be a pro in no time! Thanks for stopping by.

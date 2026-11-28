@@ -1,0 +1,1 @@
+Ends soon! For a limited time, Rewards Members can score $10 off their favorite SCOOBY-DOO digital movies* with any online or in-app carryout or delivery order.

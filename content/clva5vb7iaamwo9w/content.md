@@ -1,0 +1,1 @@
+We understand your concern, maintaining a safe experience is a priority for us, so a 2 drink max is enforced. Thank you for understanding!

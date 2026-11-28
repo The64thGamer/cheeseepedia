@@ -1,0 +1,1 @@
+Best cold open ever.

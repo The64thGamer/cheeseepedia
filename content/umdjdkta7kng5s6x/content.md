@@ -1,0 +1,1 @@
+Nothing like the rush of the ticket blaster!

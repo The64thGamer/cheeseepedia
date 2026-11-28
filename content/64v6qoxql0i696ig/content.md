@@ -1,0 +1,1 @@
+Hi, there. All individuals under the age of 18 are required to be accompanied by an adult upon entering. Thank you for understanding!

@@ -1,0 +1,1 @@
+We're sorry for the inconvenience and we are working to get the coupon site up and running, Jay! In order to access your free pizza, try downloading our loyalty app available on the iTunes Store and the Google Play Store.

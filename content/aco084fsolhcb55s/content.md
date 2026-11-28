@@ -1,0 +1,1 @@
+At this time, we don't deliver. However, you are more than welcome to order your pizza to-go! We hope to see you soon

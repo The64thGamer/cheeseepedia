@@ -1,0 +1,1 @@
+How about an extra hour of games? Swing by your local Chuck E. Cheese's on Monday 11/5 for one free hour of All You Can Play per check with any purchase. A $20 value so your family can have a night of fun!

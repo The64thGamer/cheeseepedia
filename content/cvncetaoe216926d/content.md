@@ -1,0 +1,1 @@
+Happy 1st day of school! Celebrate your Super Student this weekend! https://t.co/8Mi2Uk6hDs

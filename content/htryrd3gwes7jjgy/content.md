@@ -1,0 +1,1 @@
+We regret we didn’t catch this sooner - all the thanks to Marie for noticing. We’re muting the game at all our locations until ICE can delete the taunt.

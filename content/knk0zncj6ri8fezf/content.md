@@ -1,0 +1,1 @@
+Uh oh! Sounds like the kids paying attention to Chuck E. scored big time.

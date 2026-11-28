@@ -1,0 +1,1 @@
+Taught him everything he knows. #TheKidFromCEC

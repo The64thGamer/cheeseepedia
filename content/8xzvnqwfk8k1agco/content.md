@@ -1,0 +1,1 @@
+Good spirits, judging by the pile of tickets.

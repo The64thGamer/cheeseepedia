@@ -1,0 +1,1 @@
+Yes, that is correct. The only event that will be taking place today is Chucktober!

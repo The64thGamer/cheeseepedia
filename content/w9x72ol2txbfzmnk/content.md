@@ -1,0 +1,1 @@
+@CaraBN Hi Cara! The pizza arrives to our kitchens in pre-sealed, bake-in-bag packaging and remains in them until opened at the table!

@@ -1,0 +1,1 @@
+In store or delivery either way you get some delicious pizza

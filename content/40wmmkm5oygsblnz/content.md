@@ -1,0 +1,1 @@
+Weather check! Come cool off with us, we'll lift the kids' moods right away :) https://t.co/77ckX87Pub

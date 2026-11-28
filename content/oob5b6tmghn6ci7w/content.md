@@ -1,0 +1,1 @@
+Hi Ella! Chuck E. Cheese's maintains a long history of offering adult beverages as a complement to our delicious menu options, however, we strictly enforce a two-drink maximum. Thanks for your understanding!

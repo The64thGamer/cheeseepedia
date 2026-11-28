@@ -1,0 +1,1 @@
+Happy Friday! Celebrate your Super Student at Chuck E. Cheese's this weekend! https://t.co/8Mi2Uk6hDs

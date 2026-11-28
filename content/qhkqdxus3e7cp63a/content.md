@@ -1,0 +1,1 @@
+The Rated G Superstar is READY!

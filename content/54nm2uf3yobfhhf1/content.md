@@ -1,0 +1,1 @@
+@tristessatheodd The cape and crown are specifically for party celebrations. Please let us know if we can answer any other questions!

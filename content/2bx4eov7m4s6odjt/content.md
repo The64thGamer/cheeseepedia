@@ -1,0 +1,1 @@
+We love her picture! We have just the surprise for her: https://t.co/8Mi2UknSv0

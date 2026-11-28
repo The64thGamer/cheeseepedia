@@ -1,0 +1,1 @@
+Nope, you and your brother are more than welcome. Our only policy is that anyone under 18 must be accompanied by an adult to enter.

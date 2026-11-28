@@ -1,0 +1,2 @@
+Thank you for bringing this to our attention. We're sorry to hear your Chuck E. Cheese experience wasn't exactly what you expected. 
+Please share your feedback with us at guestrelations@cecentertainment.com so this may be addressed by the proper department.

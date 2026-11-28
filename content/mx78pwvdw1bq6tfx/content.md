@@ -1,0 +1,1 @@
+Hi there, thanks for reaching out. For the safety of our guests, all individuals under the age of 18 must be accompanied by an adult.

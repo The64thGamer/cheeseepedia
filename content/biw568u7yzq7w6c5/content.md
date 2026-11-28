@@ -1,0 +1,1 @@
+Wow, sounds like a never-ending blast!

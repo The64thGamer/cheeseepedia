@@ -1,0 +1,1 @@
+Hi, Rachel. Yes you can.  However, we recommend calling your local store to ensure they have cards in stock before going.

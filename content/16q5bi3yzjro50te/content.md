@@ -1,0 +1,1 @@
+I work well in a group.

@@ -1,0 +1,1 @@
+When you're in the Ticket Blaster and realized you've made it.

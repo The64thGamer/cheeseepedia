@@ -1,0 +1,1 @@
+As long as you're over 18 or accompanied by a parent or guardian, absolutely.

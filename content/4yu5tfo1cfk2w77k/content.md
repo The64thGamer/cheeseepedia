@@ -1,0 +1,1 @@
+Oh no! Could you send us a private message with more information, including your phone number, email address, and the location and date of your visit? We want to make sure you get the tickets you earned.

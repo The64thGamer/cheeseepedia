@@ -1,0 +1,1 @@
+Did the bad kids have fun though?

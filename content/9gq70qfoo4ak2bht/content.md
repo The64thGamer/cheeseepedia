@@ -1,0 +1,1 @@
+We would love to see it all done! Share her costume in our #Chucktober #Sweeps for the chance to win!https://t.co/c4KC38NYub

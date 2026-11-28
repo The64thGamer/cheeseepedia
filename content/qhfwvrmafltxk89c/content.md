@@ -1,0 +1,1 @@
+We hope the takeover was a big win for everyone!

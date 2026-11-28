@@ -1,0 +1,1 @@
+We’d love to come visit Hawaii! Mr. Munch has always wanted to try Hawaiian Pizza straight from the islands.  But sadly, we do not have a location there yet.

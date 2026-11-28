@@ -1,0 +1,1 @@
+It's the only choice that makes sense.

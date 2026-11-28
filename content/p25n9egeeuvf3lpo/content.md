@@ -1,0 +1,1 @@
+Hi there, we apologize for the delay. Were you able to confirm your local store's hours?

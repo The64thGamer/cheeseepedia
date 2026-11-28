@@ -1,0 +1,1 @@
+Hi Katie, thanks for reaching out! We will not be attending BlogHer this year. However, we hope to see you in-store soon

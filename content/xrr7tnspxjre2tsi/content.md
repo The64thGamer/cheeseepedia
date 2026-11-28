@@ -1,0 +1,1 @@
+As long as the contract says "Chuck E. Cheese's," the kids will love it.

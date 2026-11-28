@@ -1,0 +1,1 @@
+We've got just the surprise to get out of the summer heat! Download our weather check here: https://t.co/77ckX87Pub

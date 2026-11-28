@@ -1,0 +1,1 @@
+Never a bad time for good taste.

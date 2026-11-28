@@ -1,0 +1,1 @@
+@Valuesval Hi Valerie! Yes they do! Kids can bring in their report cards for up to 15 tokens as a reward. #AllGamesOneToken

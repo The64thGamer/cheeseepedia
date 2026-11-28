@@ -1,0 +1,1 @@
+Dunno where you heard that - you don't need a kid to get in haha. We just ask that anyone under the age of 18 is accompanied by a parent or guardian who is 18 or older.  #WhereAdultsCanBeKids

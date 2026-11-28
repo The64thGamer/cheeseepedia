@@ -1,0 +1,1 @@
+Hi there, thanks for reaching out. Yes, tickets do not expire. We hope to see you soon!

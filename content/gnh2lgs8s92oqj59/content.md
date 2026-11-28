@@ -1,0 +1,1 @@
+@kevingamas7 Hi, we sure are! All stores are open today with regular hours. See you soon!

@@ -1,0 +1,1 @@
+Hey there, we're sorry to hear you had a disappointing experience visiting us. Could you send a DM with your contact information, the location you visited, and more details on the issue?

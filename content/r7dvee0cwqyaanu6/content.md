@@ -1,0 +1,1 @@
+You can preorder your cake while booking your birthday party, or you can buy one on arrival. We can’t wait to celebrate with you!

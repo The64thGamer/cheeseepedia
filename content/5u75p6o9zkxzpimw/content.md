@@ -1,0 +1,1 @@
+Those specific packages are for kids, but that shouldn't stop you from swinging by with your friends, ordering pizza, and playing games. You can even bring your own cake and decorations.

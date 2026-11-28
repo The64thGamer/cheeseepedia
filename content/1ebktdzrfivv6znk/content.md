@@ -1,0 +1,1 @@
+It's like comparing apples and oranges, or hamburgers and pizza.

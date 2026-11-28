@@ -1,0 +1,1 @@
+It's Treat Yourself Tuesday...do it!!

@@ -1,0 +1,1 @@
+@CouponDivaDes YAY! It's going to be so much fun! :) Make sure you stop by to say hello! #CECBlogHer #BlogHer12

@@ -1,0 +1,1 @@
+Which condiment has the highest sales during the Summer?

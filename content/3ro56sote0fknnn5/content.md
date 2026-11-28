@@ -1,0 +1,1 @@
+Need a way to tire out the kids? We're here for you, Dave. Stop into Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with a purchase. You can let them run wild while you kick back and relax!

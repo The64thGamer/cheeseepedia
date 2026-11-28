@@ -1,0 +1,1 @@
+We've got a distraction for you that will help keep your eyes off the clock, Kurt! Come to Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with a purchase. You won't be worried about the time while you're having a blast with your kids!

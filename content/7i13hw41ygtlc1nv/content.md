@@ -1,0 +1,1 @@
+What a treat! Beat the heat this week with our weather check, and get 10 free tokens during your visit: https://t.co/77ckX7Qe5B

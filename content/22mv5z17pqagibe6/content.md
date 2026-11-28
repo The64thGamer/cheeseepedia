@@ -1,0 +1,1 @@
+Next time, cool off with us! Download our weather check and get 10 free tokens here: https://t.co/77ckX87Pub

@@ -1,0 +1,1 @@
+No need to worry, we'll make sure a technician takes a look at those machines. We want to make sure your hard earned tickets are counted properly!

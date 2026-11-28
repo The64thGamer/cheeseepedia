@@ -1,0 +1,1 @@
+Woohoo! Let's celebrate the weekend with some fun!

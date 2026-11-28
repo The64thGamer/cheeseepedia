@@ -1,0 +1,1 @@
+What’s the diameter of a basketball hoop?

@@ -1,0 +1,1 @@
+@dgackey Hi Dan! He did an awesome job! The spots won't be on YouTube, but he has a big television audience to see him shine!

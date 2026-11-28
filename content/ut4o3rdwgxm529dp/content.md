@@ -1,0 +1,1 @@
+*Offer valid on digital movie purchases. Must be a Chuck E. Cheese Rewards member. In-app or online delivery or carryout order purchase required by 11/03/2024. Movie offer expires 11/17/2024.

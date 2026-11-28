@@ -1,0 +1,1 @@
+Hi there, Alyssa! Yes, we have thought this through ahead of time and we feel ready to handle the extra volume of everyday guests that visit, as well as an addition to the guests we have already planned for.

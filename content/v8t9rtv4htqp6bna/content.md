@@ -1,0 +1,1 @@
+Rainy days can also be fun! Next time you need a weather check, grab one of ours! https://t.co/77ckX87Pub

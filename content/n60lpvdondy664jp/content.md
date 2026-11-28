@@ -1,0 +1,1 @@
+That prize counter teaches life lessons

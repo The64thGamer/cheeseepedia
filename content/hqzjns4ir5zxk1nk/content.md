@@ -1,0 +1,1 @@
+Can we hire this dad to be our newest attraction?

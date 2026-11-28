@@ -1,0 +1,1 @@
+Hi Cindy! We'd love this photo! National Grandparents Day is coming up in September and we'd love to possibly feature this photo and tag you for credit! If you approve, please reply #YesChuckECheese

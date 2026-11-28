@@ -1,0 +1,1 @@
+@ALabMonster Hi there - Sign up for the Chuck E-Club and you'll receive first access to the newest coupons as they become available!

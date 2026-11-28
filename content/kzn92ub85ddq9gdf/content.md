@@ -1,0 +1,1 @@
+We take the pizzas straight from the oven, slice it up, and slide it on to a serving tray, where each piece jostles to be the first one eaten.

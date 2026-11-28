@@ -1,0 +1,1 @@
+That's a certainly a way to go!

@@ -1,0 +1,1 @@
+Hi there, thanks for reaching out! We recommend calling the location you wish to visit in order to confirm if they are open today. Please let us know if you have any further questions that we can assist you with

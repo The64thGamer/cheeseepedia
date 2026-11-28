@@ -1,0 +1,1 @@
+Perfect plans do exist.

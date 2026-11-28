@@ -1,0 +1,1 @@
+Hi Andrea, thank you for bringing this to our attention. Please DM us with the store location, date of visit, and your contact info. Thanks.

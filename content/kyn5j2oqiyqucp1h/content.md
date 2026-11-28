@@ -1,0 +1,1 @@
+We've got an idea for the ultimate summer activity! Bring the kids by Chuck E. Cheese's for awesome games & prizes!

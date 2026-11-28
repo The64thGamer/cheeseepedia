@@ -1,0 +1,1 @@
+Hi, there. All individuals under the age of 18 must be accompanied by an adult. Please let us know if you have any further questions!

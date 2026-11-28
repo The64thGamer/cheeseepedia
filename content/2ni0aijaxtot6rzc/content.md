@@ -1,0 +1,1 @@
+Second date idea: ticket winning contest

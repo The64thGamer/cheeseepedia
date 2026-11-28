@@ -1,0 +1,1 @@
+Hi Mario, great news! As long as those are authentic, they should still be redeemable.

@@ -1,0 +1,1 @@
+Don’t worry, Cole! The band is sticking around. We have only removed them from a handful of locations which are being remodeled. Jam out with us soon!

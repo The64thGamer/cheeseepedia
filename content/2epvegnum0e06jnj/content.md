@@ -1,0 +1,1 @@
+We're sorry to hear about this interaction and would like to have our Guest Relations team look into this. Could you send us a DM with your phone number, email address, and the location you visited?

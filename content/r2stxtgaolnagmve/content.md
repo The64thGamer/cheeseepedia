@@ -1,0 +1,1 @@
+We're here to give those working parents a bit of a break, Ben. Come by Chuck E. Cheese's this Monday for one free hour of All You Can Play per check with any purchase. We're giving you an hour back, and your kids get to play all their favorite games!

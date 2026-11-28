@@ -1,0 +1,1 @@
+Hi, Maggie! Yes, you are more than welcome to order any of our menu items to-go. Please let us know if you have any further questions

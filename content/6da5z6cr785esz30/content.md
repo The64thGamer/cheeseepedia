@@ -1,0 +1,1 @@
+The heat can be exhausting... Download one of our weather checks and come keep it cool! https://t.co/77ckX87Pub

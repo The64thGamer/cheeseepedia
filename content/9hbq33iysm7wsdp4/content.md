@@ -1,0 +1,1 @@
+It's never easy to say goodbye! However, we are always updating our menu with new items. We hope that you can find a new favorite

@@ -1,0 +1,1 @@
+We think both sounds like a good idea!!!! Especially the part about going to Chuck E. Cheese

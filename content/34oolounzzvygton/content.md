@@ -1,0 +1,1 @@
+Your penthouse room is ready.

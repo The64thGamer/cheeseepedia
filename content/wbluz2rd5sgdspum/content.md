@@ -1,0 +1,1 @@
+Turns out, speeding gets you tickets…in a good way.

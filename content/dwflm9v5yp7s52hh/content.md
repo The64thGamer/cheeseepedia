@@ -1,0 +1,1 @@
+Printed, put it in a comically large binder, and slid it under their door. Now we wait!

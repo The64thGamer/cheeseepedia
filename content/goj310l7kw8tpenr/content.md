@@ -1,0 +1,1 @@
+Yes, you are more than welcome to bring your own cake and celebrate with us without a reservation!

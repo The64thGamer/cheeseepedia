@@ -1,0 +1,1 @@
+Hi Steph, we apologize for the confusion at our local store. Could you send us DM and let us know which location you visited, along with your contact info?

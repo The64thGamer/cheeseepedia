@@ -1,0 +1,1 @@
+A great day to get hitched, wouldn’t you say?

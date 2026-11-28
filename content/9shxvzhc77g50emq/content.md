@@ -1,0 +1,1 @@
+Oh no...Our forecast says 100% chance of fun! Grab our weather check and come on in! https://t.co/77ckX87Pub

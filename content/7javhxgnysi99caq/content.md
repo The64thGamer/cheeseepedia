@@ -1,0 +1,1 @@
+Yay summer! We'd love to help you celebrate a sunny day well-spent :)

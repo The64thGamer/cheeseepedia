@@ -1,0 +1,1 @@
+Hi there, Daniel. We're sorry to hear about your experience. We'd like to have our team reach out to you, please send us an DM with your email and/or phone number, and the store you visited.

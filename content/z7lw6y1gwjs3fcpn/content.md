@@ -1,0 +1,1 @@
+And the good fortune keeps coming, Megan, because we're offering one free hour of All You Can Play per check with a purchase when you stop into Chuck E. Cheese's tomorrow 11/5! Bring your family for a night of fun and games.

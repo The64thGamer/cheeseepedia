@@ -1,0 +1,1 @@
+This can be a tough day for parents, so we're here to help! Stop by Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with any purchase. Let the kids run and play while you kick back and relax!

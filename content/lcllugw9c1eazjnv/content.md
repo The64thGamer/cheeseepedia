@@ -1,0 +1,1 @@
+Thanks for the suggestion! We'd like to let our Guest Relations team know about this. Could you message us with your name and email?

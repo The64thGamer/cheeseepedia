@@ -1,0 +1,1 @@
+Summertime fun is right around the corner! We hope to see you soon :)

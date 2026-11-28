@@ -1,0 +1,1 @@
+We 100% support this decision.

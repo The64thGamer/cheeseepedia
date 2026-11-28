@@ -1,0 +1,1 @@
+We want to make sure our stores are safe and fun for everyone, and we're sorry to hear about your experience. Could you DM us with contact info and the location you visited so we can look into this?

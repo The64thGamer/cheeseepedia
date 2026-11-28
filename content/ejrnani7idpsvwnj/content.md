@@ -1,0 +1,1 @@
+Hi There. Thanks for reaching out. If your location uses Play Pass, it will be 20 points. If they still use tokens, then it will be tokens.

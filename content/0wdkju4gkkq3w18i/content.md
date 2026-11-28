@@ -1,0 +1,1 @@
+Hopefully with a high score! If there's an issue with one of our games, however, send us a DM with the location and your contact information and we'll have our team take a look.

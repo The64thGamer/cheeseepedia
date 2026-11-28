@@ -1,0 +1,1 @@
+Rain can be annoying, but don’t let that stop your fun! Swing by for a great time :)

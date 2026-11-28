@@ -1,0 +1,1 @@
+a detective but its a mouse and he's better than good

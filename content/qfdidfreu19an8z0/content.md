@@ -1,0 +1,1 @@
+You got it, Kenzie! The E. stands for Entertainment. If you want to know a bit more about Chuck E. and his friends, you can learn more here: https://t.co/nQLrqiaPRg

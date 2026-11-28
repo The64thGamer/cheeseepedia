@@ -1,0 +1,1 @@
+We’re sorry to hear about this Kevin. Can you please send us a DM with the location of the store you visited and your contact information?

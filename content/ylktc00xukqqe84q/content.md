@@ -1,0 +1,1 @@
+@L8D_Thor Thanks for submitting to #Chucktober #Sweepstakes! To claim your photo, click here: http://t.co/Cx04SHHUP2

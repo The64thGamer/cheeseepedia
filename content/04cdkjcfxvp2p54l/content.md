@@ -1,0 +1,1 @@
+The offer is for one free hour of All You Can Play per check with a purchase, yes. We recommend pairing the hour with a delicious pizza!

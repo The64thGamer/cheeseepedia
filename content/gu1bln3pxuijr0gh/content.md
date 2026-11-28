@@ -1,0 +1,1 @@
+"Ladies and Gentlemen, give it up for my opener- Don Rickles!"

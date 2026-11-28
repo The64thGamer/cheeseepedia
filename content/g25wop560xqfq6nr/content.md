@@ -1,0 +1,1 @@
+You're welcome to come play here! Plus, most of our guests can give you some begging pointers.

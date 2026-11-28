@@ -1,0 +1,1 @@
+Happy first day to your Super Student! Let's make this year great! https://t.co/8Mi2Uk6hDs

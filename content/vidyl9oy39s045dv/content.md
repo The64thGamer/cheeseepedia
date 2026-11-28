@@ -1,0 +1,1 @@
+She told us to send you these heart emojis:

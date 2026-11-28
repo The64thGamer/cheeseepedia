@@ -1,0 +1,1 @@
+Woohoo! Summer break is here! We know just the place for some summertime fun! ;)

@@ -1,0 +1,1 @@
+Share your favorite  #DadHack  for a chance to win a family vacation & fun prizes! https://t.co/0NYME7skSN

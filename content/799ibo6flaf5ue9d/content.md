@@ -1,0 +1,1 @@
+We're sorry to hear about you and your grandson's experience. Could you let us know your phone number, email address, and the date of your visit? We'll have our Guest Relations team take a look.

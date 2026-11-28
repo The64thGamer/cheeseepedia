@@ -1,0 +1,1 @@
+You're an awesome dad! Share your #DadHacks for a chance to win awesome prizes for the whole family! https://t.co/0NYME7skSN

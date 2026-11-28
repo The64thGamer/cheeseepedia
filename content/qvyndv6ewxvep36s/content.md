@@ -1,0 +1,1 @@
+She was kicked out of the band.

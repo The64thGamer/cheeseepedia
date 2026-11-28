@@ -1,0 +1,1 @@
+You never know with the weather, but our forecast says 100% chance of fun! https://t.co/77ckX87Pub

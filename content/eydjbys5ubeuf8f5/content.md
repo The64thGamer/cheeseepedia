@@ -1,0 +1,1 @@
+I think so too! This made my day and its a good reminder in the end we are all marks....and mice.

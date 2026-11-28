@@ -1,0 +1,1 @@
+We want to help make it better, Laurie! If you stop by your local Chuck E. Cheese's this Monday we're offering one free hour of All You Can Play per check with any purchase. We're hoping to give you that hour back while your kids get a night of fun!

@@ -1,0 +1,2 @@
+Hi Kristin, 
+We apologize for your poor experience at one of our locations. The contact information you provided us has been shared with our customer care team. You may also share your feedback with them directly at: guestrelations@cecentertainment.com

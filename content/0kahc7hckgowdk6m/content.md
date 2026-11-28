@@ -1,0 +1,1 @@
+Hi Alan, we made a few changes this year to best serve our communities and reflect the way passes were used in the past while still sharing this great value with all of our friends. We appreciate your feedback and would like to hear more here. summerfunpass@chuckecheese.com.

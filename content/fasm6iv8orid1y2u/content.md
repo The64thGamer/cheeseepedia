@@ -1,0 +1,1 @@
+Hi, there! Yes, all of our locations will be open from 11AM-9PM on Sunday. We hope to see you soon

@@ -1,0 +1,1 @@
+Everything’s okay!  Chuck E. is heading back to his dressing room after a great Chuck E. Live! show with the help of our friendly security team. Safety first and fun always!

@@ -1,0 +1,1 @@
+Playing in the rain can be fun, but stay dry indoors with us! Download our weather check here: https://t.co/77ckX87Pub

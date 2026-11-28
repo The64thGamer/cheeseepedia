@@ -1,0 +1,1 @@
+Sounds like a great way to spend a Friday!

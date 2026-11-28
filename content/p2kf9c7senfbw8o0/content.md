@@ -1,0 +1,1 @@
+Hi, there. You are not required to be accompanied by a child in order to enter. Please let us know if you have any further questions!

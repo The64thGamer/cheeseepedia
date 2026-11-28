@@ -1,0 +1,1 @@
+Rain or shine, we're always having a good time! Bring them over :)

@@ -1,0 +1,1 @@
+Come spend a cool #GirlsDay with us! Download our weather check and get 10 free tokens!

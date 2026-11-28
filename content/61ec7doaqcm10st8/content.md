@@ -1,0 +1,1 @@
+Parents may not get to sleep in, but we've got something to help them out, Amanda! Come by your local Chuck E. Cheese's on Monday 11/5 for one free hour of All You Can Play per check with any purchase. You get your hour back while the kids play their favorite games!

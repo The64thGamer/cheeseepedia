@@ -1,0 +1,1 @@
+@Ess_Ay_Cee Thanks for submitting to #Chucktober #Sweepstakes! To claim your photo, click here: http://t.co/bfBLjYSh2f

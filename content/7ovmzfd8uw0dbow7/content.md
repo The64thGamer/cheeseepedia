@@ -1,0 +1,1 @@
+With over $27 Million in prizes, including gaming consoles, how could you not come to Chuck E. Cheese’s for Rip It, Win it, Play It? Every cup is a winner. https://t.co/3B11GUO2VD

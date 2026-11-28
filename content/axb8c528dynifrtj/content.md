@@ -1,0 +1,1 @@
+He don't need a phone to play that selfie game.

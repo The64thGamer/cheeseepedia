@@ -1,0 +1,1 @@
+Confirming receipt! Forgot to ask, did you want a booth or table?

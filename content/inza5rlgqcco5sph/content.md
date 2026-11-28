@@ -1,0 +1,1 @@
+We’re with Marie on this one. We’ve asked ICE to remove the comment, and until then the sound is being turned off on the game at all our stores.

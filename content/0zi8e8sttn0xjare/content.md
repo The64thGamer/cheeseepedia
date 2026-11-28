@@ -1,0 +1,1 @@
+Word of the day: Oomph!

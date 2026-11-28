@@ -1,0 +1,1 @@
+*has joined the group*

@@ -1,0 +1,1 @@
+That's when you know they're good chips!

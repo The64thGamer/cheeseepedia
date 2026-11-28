@@ -1,0 +1,1 @@
+Picture Puzzle #3! Reply below with your guess. (Hint: )

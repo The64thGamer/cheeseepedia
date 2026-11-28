@@ -1,0 +1,1 @@
+Parents may not get to experience an extra hour of sleep, but we're on their side. We're offering one free hour of All You Can Play per check with any purchase when you stop into your local Chuck E. Cheese's on Monday 11/5. Adults can chill out while the kids play all the games!

@@ -1,0 +1,1 @@
+That's no problem at all. If the location does not take tokens, they can put them onto a Play Pass card.

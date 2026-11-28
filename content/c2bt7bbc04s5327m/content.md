@@ -1,0 +1,1 @@
+We know how your child can work off that extra energy! Stop into Chuck E. Cheese's tomorrow 11/5 for one free hour of All You Can Play per check with a purchase. Let him run wild while you get to kick back and take a break!

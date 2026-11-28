@@ -1,0 +1,1 @@
+If your kids are still full of energy tonight, Molly, we're here to help! Come by Chuck E. Cheese's today for one free hour of All You Can Play per check with a purchase. Your kids get a chance to run wild while you can kick back and relax.

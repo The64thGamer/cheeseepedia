@@ -1,0 +1,1 @@
+Congrats! This sounds like a reason to celebrate, and what better way than stopping by Chuck E. Cheese's today for one free hour of All You Can Play per check with a purchase. It's a night of fun for the whole family!

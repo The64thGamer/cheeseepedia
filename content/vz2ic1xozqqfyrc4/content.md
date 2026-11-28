@@ -1,0 +1,1 @@
+Charles Entertainment Cheese and his band slap a "Play Like A Champion Today" sign before taking the stage.

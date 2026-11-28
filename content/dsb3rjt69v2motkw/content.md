@@ -1,0 +1,1 @@
+@rhuss85, Thanks for submitting to #DoTheChuckE! To claim your video, click here: http://t.co/ElmB78dtOM

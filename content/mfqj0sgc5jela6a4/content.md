@@ -1,0 +1,1 @@
+So cute! We'd love to throw him a royal celebration! https://t.co/gVZYM6SLFs

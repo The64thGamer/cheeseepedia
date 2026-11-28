@@ -1,0 +1,1 @@
+Oh no! We want to make sure all out ticket munchers are ready to handle all the tickets you win. Could you send us a DM and let us know which location you visited so we can have our team take a look at the machine?

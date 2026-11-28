@@ -1,0 +1,1 @@
+Kids just want to have fun and with the Summer of Fun pass they can have fun EVERY WEEK! Check it out here

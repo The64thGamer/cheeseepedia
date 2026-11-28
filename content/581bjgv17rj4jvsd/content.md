@@ -1,0 +1,1 @@
+Hi, kids under 18 must be accompanied by an adult.

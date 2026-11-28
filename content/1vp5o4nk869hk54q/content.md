@@ -1,0 +1,1 @@
+Thanks for your patience, Jessica. The Miami and Broward locations are closed for today. We apologize for any inconveniences.

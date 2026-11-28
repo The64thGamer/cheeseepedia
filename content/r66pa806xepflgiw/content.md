@@ -1,0 +1,1 @@
+It sure is hot out! Grab our weather check and cool off with us! https://t.co/77ckX87Pub

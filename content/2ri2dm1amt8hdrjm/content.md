@@ -1,0 +1,1 @@
+That's right! Come try out new salad buffet!

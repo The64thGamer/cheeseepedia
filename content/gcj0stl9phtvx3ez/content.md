@@ -1,0 +1,1 @@
+@mvemother You bet! We're bringing some old favorites and a few surprises to #Blogher12! Stay tuned for more details. #CECBlogHer

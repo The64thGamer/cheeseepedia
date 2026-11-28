@@ -1,0 +1,1 @@
+Hi, Brittany! We understand your concerns, however, we feel prepared to handle the extra volume of everyday guests that visit in addition to the guests we have already planned for.

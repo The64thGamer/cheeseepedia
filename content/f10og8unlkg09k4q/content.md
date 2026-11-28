@@ -1,0 +1,1 @@
+If only there was a Nobel Prize for Fun.

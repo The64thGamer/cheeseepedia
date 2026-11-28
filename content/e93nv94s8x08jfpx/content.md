@@ -1,0 +1,1 @@
+Great question, Aswini! This offer is good with any check that includes a purchase of any item.

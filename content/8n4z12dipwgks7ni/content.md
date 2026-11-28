@@ -1,0 +1,1 @@
+Hi Sunny, we're sorry to hear about your experience visiting us. We'd like to have our Guest Relations team look into this. Could you send a DM with your phone number and email info, and more details on the issue?

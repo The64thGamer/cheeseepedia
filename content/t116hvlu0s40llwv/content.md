@@ -1,0 +1,1 @@
+We want kids to have fun, but we're not leaving adults to sit around. We've got alcoholic drinks for adults (21+) -- just know there's a two drink limit.

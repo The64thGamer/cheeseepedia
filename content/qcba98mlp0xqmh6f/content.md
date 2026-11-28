@@ -1,0 +1,1 @@
+@kimmabuns Thanks for submitting to #Chucktober #Sweepstakes! To claim your photo, click here: http://t.co/Mam4B6B5hm

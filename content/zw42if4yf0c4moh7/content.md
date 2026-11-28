@@ -1,0 +1,1 @@
+It's good to have fun every once in a while! We hope he catches up on his schoolwork!

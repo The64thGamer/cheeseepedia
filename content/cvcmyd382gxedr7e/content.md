@@ -1,0 +1,1 @@
+Yes, we are hosting this event! However, at this time, the program is only available at our New England locations.

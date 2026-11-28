@@ -1,0 +1,1 @@
+We can't think of a better plan for the day.

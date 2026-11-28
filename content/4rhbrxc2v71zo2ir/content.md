@@ -1,0 +1,1 @@
+Sometimes when we slide our pizzas from the hot pan to the cool serving tray, some slices stick a bit. But no worries, a misaligned pizza is still a delicious pizza.

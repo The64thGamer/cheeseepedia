@@ -1,0 +1,1 @@
+Fun has no age limit at Chuck E. Cheese's! We're glad you enjoyed your visit

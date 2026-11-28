@@ -1,0 +1,1 @@
+Hi Richard, thank you for reaching out. We will follow up with our Guest Relations Team on your behalf.

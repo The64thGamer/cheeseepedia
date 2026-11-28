@@ -1,0 +1,1 @@
+Hi Daniel, we're sorry to hear about your disappointing interaction with our staff. We'd like to have our Guest Relations team take a look and see if there's anything that can be done. Could you send us a private message with your email address and phone number?

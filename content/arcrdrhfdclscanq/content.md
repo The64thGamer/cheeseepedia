@@ -1,0 +1,1 @@
+We got you. We do have beer and wine, and many locations have free wifi as well.

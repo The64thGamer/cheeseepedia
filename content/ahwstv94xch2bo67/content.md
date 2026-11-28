@@ -1,0 +1,1 @@
+So people from all over the world come to see our photo booth actually and to take a pic lol usually there's a line like out the door for it haha one time it was below zero outside and the people stayed in line anyway to get a pic and we're chanting my name haha so random ;)

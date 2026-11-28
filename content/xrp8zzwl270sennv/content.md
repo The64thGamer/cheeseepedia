@@ -1,0 +1,1 @@
+You have a fine understanding of how Twitter works.

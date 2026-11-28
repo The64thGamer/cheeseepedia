@@ -1,0 +1,1 @@
+Hi there! Yes, our locations will be open from 11am-9pm today. We are looking forward to seeing you soon

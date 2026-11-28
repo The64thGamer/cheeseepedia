@@ -1,0 +1,1 @@
+There's one thing awesome about Daylight Savings, Justin. We're offering one free hour of All You Can Play per check with any purchase when you come in to Chuck E. Cheese's this Monday, 11/5. You get a night of family fun, and a break while the kids play an hour of games!

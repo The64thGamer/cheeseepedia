@@ -1,0 +1,1 @@
+We will have your #AllYouCanPlay Pass ready for you today at @ChuckeCheeses! DM us with your nearest CEC location!  #PayYourAge

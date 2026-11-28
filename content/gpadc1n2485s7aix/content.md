@@ -1,0 +1,1 @@
+Click below to order in-app (sign into your Rewards account before checking out), then check your email for the digital movie offer link.

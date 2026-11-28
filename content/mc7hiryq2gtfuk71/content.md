@@ -1,0 +1,1 @@
+We're sorry to hear about the disappointing visit, Edgar. Could you send us a DM with your contact info? We'll send it along to our Guest Relations team and have them take a look.

@@ -1,0 +1,1 @@
+Funny you should mention this. Keep an eye on our Tweets for an Animal Crossing update soon!

@@ -1,0 +1,1 @@
+Kimberly, while we appreciate your weekly visits, you gotta pull back on the whole flexing/roaring routine after each high-score. It's upsetting the kids.

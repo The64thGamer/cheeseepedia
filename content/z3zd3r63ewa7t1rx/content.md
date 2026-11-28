@@ -1,0 +1,1 @@
+Hi there, thank you for bringing this to our attention, we apologize for the inconvenience this may have caused you. As an alternative to our website option, Play Pass balances can also be viewed in-store. We look forward to seeing you soon!

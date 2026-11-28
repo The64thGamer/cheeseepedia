@@ -1,0 +1,1 @@
+@SD_DealsnSteals We loved meeting you! We'll be posting lots of updates and pics! Thanks, we think it's pretty cool too! #BlogHer12

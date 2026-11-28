@@ -1,0 +1,1 @@
+Our only restriction is that kids under 18 must be accompanied by an adult, but adults are always welcome to come be a kid a heart and play our games.

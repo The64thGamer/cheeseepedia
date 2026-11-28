@@ -1,0 +1,1 @@
+Aw, how lucky is Scarlet! Win her prizes by entering our sweepstakes here: https://t.co/54txmRsG5Q

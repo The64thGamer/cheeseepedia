@@ -1,0 +1,1 @@
+Oof, so sorry that games weren't working. When a game is on the fritz we try to fix 'em ASAP. Could you message us with your name, phone number, email, store location, and visit date please? We want to make sure it's working the next time you come in.

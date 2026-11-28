@@ -1,0 +1,1 @@
+We don't have any current announcements regarding this, but we'll let our team know the store in Lexington could use a face lift.

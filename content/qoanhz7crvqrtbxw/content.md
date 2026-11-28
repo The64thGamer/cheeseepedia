@@ -1,0 +1,1 @@
+Not a clown, but an entertainer. It's in his name.

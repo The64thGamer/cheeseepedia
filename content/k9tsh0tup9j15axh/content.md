@@ -1,0 +1,1 @@
+@c2momof2, Thanks for submitting to #DoTheChuckE! To claim your video, click here: http://t.co/3qrhzg58by

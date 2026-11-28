@@ -1,0 +1,1 @@
+Heck yeah! We want both adults and kids to enjoy the trip to. Cheese's. We've been serving alcohol to adults over 21 for years to go with our awesome meals, but we make sure the two-drink maximum is strictly enforced.

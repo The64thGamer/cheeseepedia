@@ -1,0 +1,1 @@
+Hi Gauri, we're so sorry to hear about your visit to our store. We'd like to notify our Guest Relations team. Could you send us a DM with your phone number, email address, and the city of the location you visited?

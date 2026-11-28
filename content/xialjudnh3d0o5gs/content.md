@@ -1,0 +1,1 @@
+Does the winner get a trophy?

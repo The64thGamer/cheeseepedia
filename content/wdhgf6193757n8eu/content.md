@@ -1,0 +1,1 @@
+Hi Jacinda, our corporate locations do offer a discount for military families. We apologize if there's been any confusion at one of our locations, and we'd be happy to look into this for you. Could you send us a DM with the location you visited and your contact info?

@@ -1,0 +1,1 @@
+Sadly, we can't accept this masterpiece. You should add it to your portfolio though! This is full-ride-to-art-school worthy.

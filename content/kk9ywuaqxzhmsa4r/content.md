@@ -1,0 +1,1 @@
+@PinkyandDempsey Weve communicated to all our stores recently that they should accept digital coupons, so they should now be accepting them.

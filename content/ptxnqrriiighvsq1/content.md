@@ -1,0 +1,1 @@
+Oh no, we're bummed to hear about your long wait. Shoot us a DM with your phone number, email address, and the location you visited. We'll see what we can do to make it up to you.

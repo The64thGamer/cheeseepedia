@@ -1,0 +1,1 @@
+Another upside - we're offering a free hour of All You Can Play on Monday 11/5 to celebrate the extra hour! Just stop by Chuck E. Cheese's to get one hour-long pass per check with any purchase. Parents can get that hour of relaxation while kids get an exciting hour of games!

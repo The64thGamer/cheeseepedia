@@ -1,0 +1,1 @@
+Hi, there. With our apps, you are able to win up to 500 tickets at a time. Please let us know if you have any further questions!

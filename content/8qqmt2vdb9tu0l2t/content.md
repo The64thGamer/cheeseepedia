@@ -1,0 +1,1 @@
+Hi, Kris. We’re always introducing new pizzas to our menu. We will pass along your  suggestion to the appropriate team

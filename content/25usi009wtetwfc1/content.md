@@ -1,0 +1,1 @@
+We're just as excited as you to introduce our new look to our stores, but at this time we don't have any announcements to be made for the Florence location.

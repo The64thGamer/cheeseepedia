@@ -1,0 +1,1 @@
+The claims made about Chuck E. Cheese’s and our pizza are unequivocally false. No conspiracies here – our pizzas are made to order and we prepare our dough fresh in restaurant, which means that they’re not always perfectly uniform in shape, but always delicious.

@@ -1,0 +1,1 @@
+You know we serve beer and wine now, right? Grab your first two here before you hit the town! Cheers, brotha.

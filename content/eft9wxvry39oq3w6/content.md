@@ -1,0 +1,1 @@
+Hi there, thanks for reaching out. No, tickets do not have an expiration date. We hope to see you soon!

@@ -1,0 +1,1 @@
+@AGirlMustShop Of course! We've also got chairs ;) #blogher12 #CECBlogher

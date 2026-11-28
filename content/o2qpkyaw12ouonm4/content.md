@@ -1,0 +1,1 @@
+Too cute, but no need to stay in the heat! Grab our weather check for 100% chance of fun! https://t.co/77ckX87Pub

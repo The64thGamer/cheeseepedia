@@ -1,0 +1,1 @@
+We want to help you get an hour to relax, Bonnie! Stop into Chuck E. Cheese's this Monday for one free hour of All You Can Play per check with any purchase. Your kids get an hour of games and you get to kick back!

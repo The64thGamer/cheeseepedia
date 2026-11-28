@@ -1,0 +1,1 @@
+Awesome pic! Share your favorite #DadHacks by entering our #sweepstakes for a chance to win great prizes! https://t.co/0NYME7skSN

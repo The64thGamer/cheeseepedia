@@ -1,0 +1,1 @@
+Awesome pics!  Would it be alright with you if we shared these on our social media pages when we get closer to Father's Day?

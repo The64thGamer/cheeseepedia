@@ -1,0 +1,1 @@
+Thank you for letting us know about this incident. We hope you and your child were able to find each other quickly and that everyone is safe. We'd like to look into this in more detail. Could you message us with your name, number, email, store location, and visit date, please?

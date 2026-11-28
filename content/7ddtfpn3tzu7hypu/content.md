@@ -1,0 +1,1 @@
+Pro-Tip: Tell the front register cast member you have a Fun Pass and provide them your phone number. They will be able to locate the pass in the system!

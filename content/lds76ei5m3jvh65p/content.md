@@ -1,0 +1,1 @@
+We've got another way for you to get that hour back, J. Come into your nearest Chuck E. Cheese's on Monday 11/5 for one free hour of All You Can Play per check with any purchase. You get to sit back and relax while your kids get a fun night of games!
